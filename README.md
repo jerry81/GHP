@@ -39,6 +39,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Articles 
   [2018](yearindex.md)
   
-  [January 2018](jan_2018.md) 
-  
-  [February 2018](feb_2018.md)
