@@ -11,3 +11,6 @@
 [April](apr_2019.md)
 
 [May](may_2019.md)
+
+[June](june_2019.md)
+
