@@ -12,5 +12,5 @@
 
 [May](may_2019.md)
 
-[June](june_2019.md)
+[June](jun_2019.md)
 
