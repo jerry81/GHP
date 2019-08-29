@@ -14,3 +14,4 @@
 
 [June](jun_2019.md)
 
+[July](jul_2019.md)
