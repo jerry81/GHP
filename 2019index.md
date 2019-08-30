@@ -10,9 +10,9 @@
 
 ### April
 
-&nbsp;&nbsp;-[General news](apr_2019.md)
+&nbsp;&nbsp;-&nbsp;[General news](apr_2019.md)
 
-&nbsp;&nbsp;-[Frontend news](frontend_apr.md)
+&nbsp;&nbsp;-&nbsp;[Frontend news](frontend_apr.md)
 
 [May](may_2019.md)
 
