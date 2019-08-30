@@ -8,7 +8,11 @@
 
 [March](mar_2019.md)
 
-[April](apr_2019.md)
+### April
+
+[General news](apr_2019.md)
+
+[Frontend news](frontend_apr.md)
 
 [May](may_2019.md)
 
