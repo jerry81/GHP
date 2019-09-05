@@ -14,7 +14,11 @@
 
 &nbsp;&nbsp;-&nbsp;[Frontend news](frontend_apr.md)
 
-[May](may_2019.md)
+### May
+
+&nbsp;&nbsp;-&nbsp;[General News](may_2019.md)
+
+&nbsp;&nbsp;-&nbsp;[Frontend news](frontend_apr.md)
 
 [June](jun_2019.md)
 
