@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;-&nbsp;[General News](may_2019.md)
 
-&nbsp;&nbsp;-&nbsp;[Frontend news](frontend_apr.md)
+&nbsp;&nbsp;-&nbsp;[Frontend news](frontend_may.md)
 
 [June](jun_2019.md)
 
