@@ -20,7 +20,11 @@
 
 &nbsp;&nbsp;-&nbsp;[Frontend news](frontend_may.md)
 
-[June](jun_2019.md)
+### June
+
+&nbsp;&nbsp;-&nbsp;[General News](jun_2019.md)
+
+&nbsp;&nbsp;-&nbsp;[Frontend News](frontend_jun.md)
 
 [July](jul_2019.md)
 
