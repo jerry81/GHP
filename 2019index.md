@@ -35,3 +35,5 @@
 
 [August](aug_2019.md)
 
+[September](sp_2019.md)
+
