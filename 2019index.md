@@ -39,3 +39,6 @@
 
 [October](oct_2019.md)
 
+[November](nov2019.md)
+
+
