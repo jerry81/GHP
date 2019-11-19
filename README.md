@@ -8,6 +8,9 @@
   
   [Datadog Tutorial](/tech/dd.md)
   
+  [Kubernetes Tutorial](/tech/k8s.md)
+  
+  
 ### Other
   
   [Humor](jokes.md)
