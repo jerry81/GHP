@@ -16,3 +16,10 @@ to create secret, first have the secret in a file.
 
 echo -n 'admin' > ./username.txt
 echo -n '1f2d1e2e67df' > ./password.txt
+
+## Controllers
+
+daemonset - one pod per node, used to monitor each node 
+
+deployment: declarative updates for pods and replicasets 
+
