@@ -41,4 +41,8 @@ logback - successor to log4j
 hikaricp - jdbc connection pool - means connections are reused
 
 infrastructure list to check if monitoring is enabled 
+we have 6 hosts there, upon inspecting, we can see a default dashboard 
+
+3 dd agents per kubernetes cluster (s & p)
+
 
