@@ -37,7 +37,10 @@ custom integrations done through datadog API
 
 for kubernetes integration, container integration is recommended.  the agent runs inside a pod. cannot monitor starting phase of cluster 
 
-rights need to be given to the datadog agent running on pod
+1.  rights need to be given to the datadog agent running on pod
+can be done by using kubectrl create then adding ACL files on github
+
+2.  manifest file created 
 
 
 ## Monitors
@@ -66,4 +69,8 @@ RX: receive
 helm: package manager for k8s 
 
 RBAC: role based access control 
+
+## Misc Learning
+
+echo -n <non-base64-key> | base64 
 
