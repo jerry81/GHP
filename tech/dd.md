@@ -35,6 +35,11 @@ can integrate with prometheus and openmetrics
 
 custom integrations done through datadog API
 
+for kubernetes integration, container integration is recommended.  the agent runs inside a pod. cannot monitor starting phase of cluster 
+
+rights need to be given to the datadog agent running on pod
+
+
 ## Monitors
 
 all machines show up in Infrastructure page 
@@ -48,4 +53,17 @@ we have 6 hosts there, upon inspecting, we can see a default dashboard
 3 dd agents per kubernetes cluster (s & p)
 
 containers tab lists all containers
+
+## Vocabulary 
+flannel:  network fabric often used with kubernetes 
+
+rss memory: resident set size memory 
+
+TX: transmit 
+
+RX: receive 
+
+helm: package manager for k8s 
+
+RBAC: role based access control 
 
