@@ -1,3 +1,5 @@
+[Go Home](README.md)
+
 ## Agent
 
 datadog agent:  lightweight sw installed on host
@@ -45,4 +47,5 @@ we have 6 hosts there, upon inspecting, we can see a default dashboard
 
 3 dd agents per kubernetes cluster (s & p)
 
+containers tab lists all containers
 
