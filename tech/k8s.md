@@ -23,3 +23,9 @@ daemonset - one pod per node, used to monitor each node
 
 deployment: declarative updates for pods and replicasets 
 
+## Vocabulary
+
+pod - smallest deployable unit 
+
+node - working machine/vm
+
