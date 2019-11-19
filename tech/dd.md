@@ -41,7 +41,11 @@ for kubernetes integration, container integration is recommended.  the agent run
 can be done by using kubectrl create then adding ACL files on github
 
 2.  manifest file created 
+run kubectrl create <path to manifest file>
+  
+3.  verify running with kubectl get daemonset
 
+4.  enable log collection:  dd_logs_enabled
 
 ## Monitors
 
