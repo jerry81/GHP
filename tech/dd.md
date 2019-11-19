@@ -47,6 +47,17 @@ run kubectrl create <path to manifest file>
 
 4.  enable log collection:  dd_logs_enabled
 
+## API
+
+access dd programatically through the api 
+rest api
+
+API key used for authentication
+apis to 
+create dashboards
+slack integration
+send logs thru http
+
 ## Monitors
 
 all machines show up in Infrastructure page 
