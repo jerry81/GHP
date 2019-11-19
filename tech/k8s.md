@@ -5,6 +5,9 @@
 kubectl create -f 
 creates file (json or yaml)
 
+kubectl config view 
+shows users: - "name"
+
 
 ## Kubernetes Secrets
 place to store and manage sensitive info such as passwords or tokens 
