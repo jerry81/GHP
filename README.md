@@ -4,7 +4,7 @@
   [2019](2019index.md)
 
 ### Tech
-  [AliCloud Learning](ali.md)
+  [AliCloud Learning](/tech/ali.md)
   
   [Datadog Tutorial](dd.md)
   
