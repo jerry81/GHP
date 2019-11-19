@@ -6,7 +6,7 @@
 ### Tech
   [AliCloud Learning](/tech/ali.md)
   
-  [Datadog Tutorial](dd.md)
+  [Datadog Tutorial](/tech/dd.md)
   
 ### Other
   
