@@ -8,6 +8,17 @@ creates file (json or yaml)
 kubectl config view 
 shows users: - "name"
 
+logs -f <pod id> 
+  streams logs from pod to terminal
+  
+run 
+  spawns new container 
+
+exec <pod id> -it -- bash 
+  (why a naked --)? 
+interactive shell in pod
+
+example kubectl exec frame-recommendation-6cb557b789-bgb8x -it -- bash
 
 ## Kubernetes Secrets
 place to store and manage sensitive info such as passwords or tokens 
