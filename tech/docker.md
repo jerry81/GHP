@@ -11,7 +11,7 @@ like a batch file, all the commands you would run in sequence on command line (d
 Warning: Do not use your root directory, /,
 as the PATH as it causes the build to transfer the entire contents of your hard drive to the Docker daemon.
 
-FROM <name of image> 
+FROM <name of image>:<tag>
 
 WORKDIR <path>
 (is like cd)
