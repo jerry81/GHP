@@ -34,6 +34,11 @@ daemonset - one pod per node, used to monitor each node
 
 deployment: declarative updates for pods and replicasets 
 
+## Logging 
+
+"kubectl logs" is actually getting the collected logs from std.out and std.error that are stored in memory (not file) as a buffer.
+This buffer can then be read by datadog
+
 ## Vocabulary
 
 pod - smallest deployable unit 
