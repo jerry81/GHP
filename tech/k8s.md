@@ -15,7 +15,7 @@ run
   spawns new container 
 
 exec <pod id> -it -- bash 
-  (why a naked --)? 
+  (why an orphaned --)? 
 interactive shell in pod
 
 example kubectl exec frame-recommendation-6cb557b789-bgb8x -it -- bash
