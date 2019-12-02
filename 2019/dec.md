@@ -1,3 +1,5 @@
+[Back to 2019](../2019index.md)
+
 12/2 tech 
 
 12/2 biz 
