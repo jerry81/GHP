@@ -5,6 +5,10 @@
 12/2 biz 
 
 12/2 politics
+CN tech groups writing UN facial recog standards 
+
+5000 us flights delayed on biggest travel day 
+Thanksgiving weekend sunday 
 
 12/1 tech
 Xinjiang precrime ai 
