@@ -1,8 +1,27 @@
 [Back to 2019](../2019index.md)
 
-12/2 tech 
+12/3 tech 
+LAPD: batman -like device that tethers to suspects' bodies
 
-12/2 biz 
+12/3 biz 
+larry page steps down CEO of alphabet, sergey brin no longer president
+
+huawei can make smartphones without american chips 
+
+
+
+12/3 politics 
+irishman wins best film - national board of review 
+
+kamala out of 2020 
+
+NYC no longer top destination - asian is in, usa out 
+
+macron has powerful handshakes 
+
+fed adds another 99B to markets 
+
+CN schoolchildren smartest in world?
 
 12/2 politics
 CN tech groups writing UN facial recog standards 
