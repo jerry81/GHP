@@ -1,6 +1,16 @@
 [Back to 2019](../2019index.md)
 
 12/8 tech 
+hyperscale data scenters: thousands of servers 
+
+amazon working on home robot that asks questions when confused 
+
+energy potential in places where freshwater meets freshwater 
+
+scientists' brains in antarctica shrank a little 
+
+by 2021, 1B security cams mostly in china 
+
 plants found to "scream" when stressed
 
 jan 1 2020 python 2 support ends 
@@ -16,8 +26,32 @@ W3C recommends using webassembly for speed and efficiency
 140k people died from measels last year 
 mostly children
 
+us may have killed a syrian terrorist with a knife warhead
+precision strike
+
+great firewall
+great cannon: ddos attacks on hk forum
+
+most copied stack overflow snippet: about converting bytes to readable format 
+
+spacex sends dragon spacecraft to ISS
+
+fastest internet in US installed in KT
 
 12/8 biz 
+pablo escobar's brother launches smartphone 
+escobar fold 
+
+goog fiber 1000 Gbps for 70/month
+fiber to premises 
+
+tiktok parent company sued for collecting data on kids 
+bytedance 
+
+huawei legal battle against us ban 
+
+restuarants that have no diners and no waiters 
+
 netflix invests 420M on indian content 
 
 GM and LG(Korean) team up north ohio electric car battery project 
@@ -38,6 +72,10 @@ battery prices dropping
 VW factories constantly raided: diesel scandal 
 
 12/8 politics
+man gets prison for crypto talk in n. korea 
+
+liu cixin three body a hit in america 
+
 Bernie 150B plan to expand high speed internet 
 
 FTC finds cambridge-analytica guilty of deception 
@@ -77,6 +115,10 @@ animal rights activist viciously beat in pizza shop
 brother nature
 
 russian spy ship may be messing with undersea internet cables
+
+fukushima to begin removal of melted fuel in 2021 
+
+portland to vancouver high speed rail?
 
 12/3 tech 
 26B spam calls received this year
