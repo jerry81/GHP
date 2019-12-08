@@ -1,13 +1,54 @@
 [Back to 2019](../2019index.md)
 
 12/8 tech 
+plants found to "scream" when stressed
+
 jan 1 2020 python 2 support ends 
 
 chronic inflammation epidemic
 
+GPE as battery: "storing" energy on mountains
+
+deepfake evolution: total control over another woman's bodies 
+
+W3C recommends using webassembly for speed and efficiency 
+
+140k people died from measels last year 
+mostly children
+
+
 12/8 biz 
+netflix invests 420M on indian content 
+
+GM and LG(Korean) team up north ohio electric car battery project 
+2.3 B 
+
+AMZN to help NFL to diagnose concussions w/ AI
+
+magic leap, VR startup 
+raised 2.5B 
+sold just 6000 units of 2,300 headset 
+way below goal of 1M units 
+backed by google and alibaba among others 
+
+apple to use carbon-free alumnium for iphones 
+
+battery prices dropping
+
+VW factories constantly raided: diesel scandal 
 
 12/8 politics
+Bernie 150B plan to expand high speed internet 
+
+FTC finds cambridge-analytica guilty of deception 
+
+trump mandatory face scans plan dropped
+
+samoa pushes measles vaccines, 
+arrests anti-vaxxer 
+
+US may ban selling surveillance cams to china 
+
 friday naval base shooting pensacola 
 saudis blamed 
 
@@ -28,11 +69,14 @@ french strikes continuing
 
 musk wins case vs british diver 
 on social defamation
+190M was at stake
 
 flu season arrived early
 
 animal rights activist viciously beat in pizza shop 
 brother nature
+
+russian spy ship may be messing with undersea internet cables
 
 12/3 tech 
 26B spam calls received this year
