@@ -1,5 +1,39 @@
 [Back to 2019](../2019index.md)
 
+12/8 tech 
+jan 1 2020 python 2 support ends 
+
+chronic inflammation epidemic
+
+12/8 biz 
+
+12/8 politics
+friday naval base shooting pensacola 
+saudis blamed 
+
+cowell vs america's got talent investigation 
+toxic work environment
+
+n korea refuses denuclearization 
+
+banana duct taped to wall sells for 120K
+
+4T pumped into america market
+
+CA fires and droughts
+1B plan to house homeless failing
+
+french strikes continuing
+800,000 people
+
+musk wins case vs british diver 
+on social defamation
+
+flu season arrived early
+
+animal rights activist viciously beat in pizza shop 
+brother nature
+
 12/3 tech 
 26B spam calls received this year
 
