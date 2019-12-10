@@ -1,6 +1,8 @@
 [Back to 2019](../2019index.md)
 
 12/10 tech 
+1M to undergo gene therapy that makes you 20 years younger  
+
 oculus quest built in hand tracking 
 
 12/10 biz 
