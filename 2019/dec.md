@@ -1,5 +1,29 @@
 [Back to 2019](../2019index.md)
 
+12/10 tech 
+oculus quest built in hand tracking 
+
+12/10 biz 
+college students starting to fill factories 
+
+silicon Valley startup mindmed psychedelic medications 
+
+apple to speak at CES 
+first time in decades
+
+aapl cracked down on tracking ads  
+
+Disney passes 10B box office
+single year 
+
+12/10 politics
+2 charges against Trump 
+abuse of power and obstruction of justice
+ 
+British election coming too 
+
+Florida and Hawaii military base shootings 
+
 12/8 tech 
 hyperscale data scenters: thousands of servers 
 
