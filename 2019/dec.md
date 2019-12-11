@@ -1,5 +1,16 @@
 [Back to 2019](../2019index.md)
 
+12/11 tech 
+
+12/11 biz 
+
+12/11 politics
+UK vote down to wire 
+
+jersey City standoff 
+2 gunmen one cop three civs dead 
+ 
+
 12/10 tech 
 1M to undergo gene therapy that makes you 20 years younger  
 
