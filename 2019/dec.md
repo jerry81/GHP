@@ -1,18 +1,34 @@
 [Back to 2019](../2019index.md)
 
 12/12 tech 
+ultrasound procedure to destroy prostate cancers 
 
 12/12 biz 
+tim cook says monopolies aren't bad 
+
+FB, GOOG not in 10 best places to work list 
 
 12/12 politics 
 jared kushner still in charge of mexican wall
 
+trump wins pennsylvania again 
+
+boris johnson winning the "brexit election"
+conservitives
+ahead of conservatives
+weariness is the general feeling
+election fueled by brexit 
+labour pro eu 
+shared by centrist liberal democrats 
+scottish and welsh nationalist and 
+greens 
+BJ shown picture of 4 yo boy lying on hospital floor
+he pocketed the photo 
 12/11 politics
 UK vote down to wire 
 
 jersey City standoff 
 2 gunmen one cop three civs dead 
- 
 
 12/10 tech 
 1M to undergo gene therapy that makes you 20 years younger  
