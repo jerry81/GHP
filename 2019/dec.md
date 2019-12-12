@@ -1,8 +1,11 @@
 [Back to 2019](../2019index.md)
 
-12/11 tech 
+12/12 tech 
 
-12/11 biz 
+12/12 biz 
+
+12/12 politics 
+jared kushner still in charge of mexican wall
 
 12/11 politics
 UK vote down to wire 
