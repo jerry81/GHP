@@ -1,4 +1,36 @@
 [Back to 2019](../2019index.md)
+12/13 tech 
+
+12/13 biz
+Netflix was poaching fox employees 
+
+Verizon lays off aol Yahoo emps 
+
+Larry Page working on flu vaccine 
+
+7.7 B funding went to autonomous vehicles 
+
+nginx Moscow office raided
+
+spin e scooter startup unionizes 
+
+ms icon design overhaul 
+ 
+galaxy fold sells 1m units $2000 each 
+
+12/13 politics 
+china to make domestic os 
+
+science papers have unprofessional review epidemic 
+
+988 new emergency phone code 
+suicide hotline 
+
+Boris Johnson wins 
+
+musk sends marijuana to iss astronaut
+
+magic mushrooms pass another hurdle 
 
 12/12 tech 
 ultrasound procedure to destroy prostate cancers 
