@@ -6,7 +6,12 @@ galaxies missing dark matter
 
 should emotion reading tech be banned?
 
+turkey: military drones armed with machine guns
+
+
 12/14 biz 
+google ai chief: jeff dean: multitask learning trends
+
 FB payroll info stolen
 
 billboard charts to take youtube plays into account 
