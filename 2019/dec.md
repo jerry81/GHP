@@ -8,8 +8,14 @@ should emotion reading tech be banned?
 
 turkey: military drones armed with machine guns
 
+goog maps surpasses 10 million miles
 
+mars winds mapped
+
+countries adopting crypto will revolutionize blockchain
 12/14 biz 
+cycle superhighway in london
+
 google ai chief: jeff dean: multitask learning trends
 
 FB payroll info stolen
