@@ -1,4 +1,23 @@
 [Back to 2019](../2019index.md)
+12/14 tech 
+north pole is shifting for the first time
+
+galaxies missing dark matter
+
+should emotion reading tech be banned?
+
+12/14 biz 
+
+12/14 politics
+trump backs off a lot on trade war 
+
+fed to punmp 500B into market 
+
+too much entertainment = stressful 
+
+brasil bolsanaro: "god made me prez"
+
+half of americans will live off grid to keep data safe
 12/13 tech 
 
 12/13 biz
