@@ -13,7 +13,21 @@ goog maps surpasses 10 million miles
 mars winds mapped
 
 countries adopting crypto will revolutionize blockchain
+
+math: collatz conjecture is the simplest unsolved problem in math 
+
+australian bushfires account for half of co2 emissions 
+
+new zealand volcano eruption 
+borrows skin from US for burn victims 
+
+crows may be very intelligent 
+
 12/14 biz 
+most americans buying sub-1000 phones 
+
+xbox series x holiday 2020 
+
 cycle superhighway in london
 
 google ai chief: jeff dean: multitask learning trends
