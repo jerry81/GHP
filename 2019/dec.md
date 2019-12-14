@@ -7,8 +7,15 @@ galaxies missing dark matter
 should emotion reading tech be banned?
 
 12/14 biz 
+FB payroll info stolen
+
+billboard charts to take youtube plays into account 
 
 12/14 politics
+new orleans cyberattack. city shuts down computers
+
+india shuts down internet due to protests
+
 trump backs off a lot on trade war 
 
 fed to punmp 500B into market 
