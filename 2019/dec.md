@@ -1,4 +1,32 @@
 [Back to 2019](../2019index.md)
+12/15 tech 
+heat can be transferred across space 
+
+12/15 biz 
+30m raspberry Pi sold 
+
+wells Fargo employee steals bank cash posts on IG 
+
+12/15 politics
+more ubi experiments 
+
+3 Dutch women seduced and killed Nazis 
+
+French transport strike 
+ 
+after Xinjiang prison media leaks 
+china tightens info control 
+
+bombshell film abt fox News me too incident 
+
+Richard Jewell about 1996 Olympics bombing
+
+70k anchor babies a year 
+baby born to foreigners legally 
+ 
+Oprah makes me too documentary
+Russel Simmons and fifty cent mad 
+
 12/14 tech 
 north pole is shifting for the first time
 
