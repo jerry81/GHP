@@ -2,6 +2,8 @@
 12/15 tech 
 heat can be transferred across space 
 
+masks fool facial recognition 
+
 12/15 biz 
 30m raspberry Pi sold 
 
