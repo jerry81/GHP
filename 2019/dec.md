@@ -1,4 +1,35 @@
 [Back to 2019](../2019index.md)
+
+12/16 tech 
+web assembly becomes a standard reaches 1.0
+
+chrome 79 broke some apps, google halts rollout 
+
+12/16 biz 
+boeing may suspend 737 max production
+
+12/16 politics 
+FBI busts pirate site 
+
+USA secretly expels chinese diplomats 
+
+biden and bernie in lead
+
+obama: women better leaders than men
+
+india: citizen unrest
+
+US-N Korea negotiations
+
+local: jaguar land rover sued for false advertisement 
+along with shunfeng and hitachi
+
+songjiang bridge oldest in shanghai to reopen 
+
+real estate surges again
+
+stocks doing well after the us/china agreement
+
 12/15 tech 
 heat can be transferred across space 
 
