@@ -1,10 +1,30 @@
 [Back to 2019](../2019index.md)
+
 12/21 tech 
+ibm battery breakthrough - claim 
+can use minerals from seawater 
+avoid using cobalt, manganese, and nickel 
+heavy metals 
+
+CDC confirms vitamin e acetate main culprit in vaping 
+injuries 
+
+standard model of particle physics broken
+with discovery of new boson 
+
+VW id3 has massive software problems 
 
 12/21 biz 
+new biz : space junk cleanup 
+but who will pay? 
+
 jake and Logan Paul both involved in boxing matches 
 
+wawa data breach 
+
 12/21 politics 
+Massachusetts town bans facial recognition 
+
 law set fire to LGBT flag 
 16 years 
 Adolfo Martinez, 30, of Ames, was found guilty last month of third-degree arson in violation of individual rights — hate crime, third-degree harassment, and reckless use of fire as a habitual offender. 
