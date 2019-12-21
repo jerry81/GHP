@@ -5,8 +5,14 @@
 jake and Logan Paul both involved in boxing matches 
 
 12/21 politics 
+law set fire to LGBT flag 
+16 years 
+Adolfo Martinez, 30, of Ames, was found guilty last month of third-degree arson in violation of individual rights — hate crime, third-degree harassment, and reckless use of fire as a habitual offender. 
+
 los Angeles crowdfunded 3B homeless project 
 communal TV's underground tunnels 
+will be a microcosm city 
+need to be qualified to live there 
 
 star Wars doesn't do well in CN
 there will be made for China star Wars novel 
