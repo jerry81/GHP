@@ -1,4 +1,20 @@
 [Back to 2019](../2019index.md)
+12/21 tech 
+
+12/21 biz 
+jake and Logan Paul both involved in boxing matches 
+
+12/21 politics 
+los Angeles crowdfunded 3B homeless project 
+communal TV's underground tunnels 
+
+star Wars doesn't do well in CN
+there will be made for China star Wars novel 
+
+evangelical Christian group wants Trump out due to 
+blackened moral record 
+
+2010 decade that tech turned dystopian 
 
 12/16 tech 
 web assembly becomes a standard reaches 1.0
