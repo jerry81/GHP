@@ -1,6 +1,8 @@
 [Back to 2019](../2019index.md)
 
 12/21 tech 
+fb also building os to avoid relying on Android 
+
 AAPL has satellite teams 
 beam data to phones 
 
