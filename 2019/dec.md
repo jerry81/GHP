@@ -1,5 +1,20 @@
 [Back to 2019](../2019index.md)
 
+12/22 tech 
+teledildonics is actually a thing 
+
+12/22 biz 
+Netflix Messiah about Syrian Islamic State 
+
+china overtakes Japan economy 
+
+12/22 politics 
+best decade in human history 
+economic equality 
+less stuff and space used 
+
+socialism no longer popular in EU 
+
 12/21 tech 
 fb also building os to avoid relying on Android 
 
