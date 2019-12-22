@@ -1,6 +1,44 @@
 [Back to 2019](../2019index.md)
 
 12/21 tech 
+AAPL has satellite teams 
+beam data to phones 
+
+Amazon and space x also trying 
+
+first ever Ebola vaccine 
+
+doh DNA over https like VPN? 
+
+magnetic North Pole moving quickly  
+
+12/21 biz 
+top ten podcasts 
+1. The Joe Rogan Experience.
+2. This American Life.
+3. Stuff You Should Know.
+4. Serial.
+5. The Daily.
+6. Reply All.
+7. Waveform: The MKBHD Podcast.
+8. Dan Carlin's Hardcore History.
+9. Radiolab.
+10. Invisible.
+
+avn awards now shows sex robots 
+
+Boeing space mission failure caps off a terrible year 
+
+12/21 politics
+new military branch: space force 
+
+n Korea has long range launchers 
+ 
+Netflix special on Aaron Hernandez 
+
+Steph Curry nudes 
+
+12/21 tech 
 ibm battery breakthrough - claim 
 can use minerals from seawater 
 avoid using cobalt, manganese, and nickel 
