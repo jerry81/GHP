@@ -1,6 +1,8 @@
 [Back to 2019](../2019index.md)
 
 12/22 tech 
+solar wind: material outflow from star 
+
 teledildonics is actually a thing 
 
 12/22 biz 
