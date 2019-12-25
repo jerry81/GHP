@@ -1,5 +1,28 @@
 [Back to 2019](../2019index.md)
 
+12/25 tech 
+MIT non contact ultrasound
+
+vegetative patients actually 
+aware of everything
+
+data stored in synthetic dna
+
+12/25 biz 
+Walmart, Amazon, Costco and Target 
+super Saturday 34B sales 
+
+NBA ratings down 
+
+12/25 politics 
+NY and ca net neutrality laws 
+freer and more open internet 
+
+coyote in Central Park 
+
+will Trump get a missle test from n Korea 
+for Xmas
+
 12/22 tech 
 solar wind: material outflow from star 
 
