@@ -16,5 +16,7 @@
 ### Other
   
   [Humor](jokes.md)
+
+  [History](/history/1917.md)
   
   
