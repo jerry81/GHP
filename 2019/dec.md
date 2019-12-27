@@ -1,4 +1,37 @@
 [Back to 2019](../2019index.md)
+12/27 t 
+Baidu wins best language recognition
+uses architecture called ERNIE
+
+new tech trend 88% look at phone 
+while watching Tv 
+
+the state of js 2019
+
+12/27 b 
+Huawei 75B support from chink government 
+750亿usd
+
+AMZN stock up 24.4%
+accused of sacrificing safety for
+ speed in deliveries 
+ring has security woes 
+good reviews revoked 
+
+Tesla battery patent 
+
+12/27 p 
+day in history 
+04 tsunami in Thailand 
+230k died 
+
+Iran China Russia naval drills 
+Iran has supreme leader and president 
+
+many Americans retiring in Vietnam 
+cheap healthcare
+
+Chinese murderer hanged in Japan 
 
 12/25 tech 
 MIT non contact ultrasound
