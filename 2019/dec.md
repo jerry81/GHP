@@ -1,4 +1,5 @@
 [Back to 2019](../2019index.md)
+
 12/27 t 
 Baidu wins best language recognition
 uses architecture called ERNIE
