@@ -1,4 +1,28 @@
 [Back to 2019](../2019index.md)
+12/30 tech 
+cnbc: Foss has taken over the world 
+
+AMZN scan veins in hand 
+
+new Russian missile 27 times faster than sound 
+
+12/30 biz
+eBook market share at 20% 
+
+zuck wealth up 27B this year  
+
+12/30 politics 
+internet blackout in Kashmir 
+
+Texas church shooting
+kills two then two shoot him 
+ 
+nyc synagogue 
+machete attack 
+
+mayor pete: decriminalize all drugs 
+
+macron still under pressure from French protests 
 
 12/27 t 
 Baidu wins best language recognition
