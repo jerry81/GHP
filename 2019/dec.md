@@ -1,4 +1,28 @@
 [Back to 2019](../2019index.md)
+
+12/31 t 
+Tuvalu island makes a huge profit from 
+licensing out .tv domain 
+
+gene therapy scientist 3 years prison 
+
+12/31 b 
+investors: profits over discounts 
+
+Huawei allowed to work 5g in India 
+
+pr disasters 
+Ethiopian airlines silent for week after crash 
+peloton sexist advertising - says disappointed in reaction 
+Richard Branson launching centre for entrepreneurship 
+ in Africa takes pic with all white ppl 
+hallmark pulls and reinstates lesbian brides ad 
+sallie Mae execs fly to Hawaii to celebrate record amt of student loans 
+
+12/31 p 
+Russia hypersonic nuke 
+Putin in power 20 years 
+
 12/30 tech 
 cnbc: Foss has taken over the world 
 
