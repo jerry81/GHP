@@ -42,3 +42,9 @@ Then the teacher asked April a third question.
 And again, Johnny jabbed her with the pin.
 This time April jumped up and shouted, "IF YOU STICK THAT F*****G THING IN ME ONE MORE TIME, I'LL BREAK IT IN HALF AND STICK IT UP YOUR ARSE!"
 The Teacher fainted.
+
+there once was a guy named Dave 
+who dug up a whore from a grave 
+she was moldy and shitty
+and only had one titty 
+but look at the money he saved
