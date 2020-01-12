@@ -1,3 +1,19 @@
+1/12
+firefox catches up to chrome in performance
+one of the only non-chromium based browsers left
+fight the monopoly 
+
+AMZN emps sacked for leaking customer data 
+
+C is the top trending language in 2019 due to rise in IOT and small systems
+
+trump tweets in farsi 
+"to brave people of iran, i stand with you"
+
+ukraine wants revenge 
+
+porn causing sexual insecurity in men
+
 1/11
 iran shot down plane by mistake 
 
