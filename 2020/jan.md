@@ -35,3 +35,48 @@ marijuana breathalyzer
 
 impersonation banned on reddit 
 
+1/10
+air filters help mental performance
+
+pilot less air taxi from ehang
+
+Intel discrete graphics card 
+
+meg Whitman of eBay and HP shows quibi at CES
+
+1/9 tech 
+cancer rates in USA dropped sharply 
+Breakthrough treatments for lung cancer and melanoma have driven down cancer mortality overall -- and from 2016 to 2017
+
+ai generated humans in ads to appear more diverse 
+
+web assembly used mostly malicious putposes
+
+1/9 biz 
+video game dev union 
+
+1/9 political
+
+1/2 tech 
+Alzheimer's vaccine 
+
+robot makes pizza at CES 2019 
+300 pizzas per hr 
+marscat and tombot robotic cat and dog 
+
+1/2 biz 
+Huawei revenue 2019 122 B 
+
+Uber and Airbnb the killer apps of the decade 
+
+Mukesh akambi Asia's richest man 
+
+china 139 cities over one million ppl 
+USA second with 40 
+
+mobike lost 200k bikes in 2019 
+
+1/2 politics
+fireworks a German tradition
+
+pro Iran militants storm and seige us Embassy in Baghdad 
