@@ -12,6 +12,12 @@ a world without work by economist suss kind
 
 SQL high in demand as a skill
 
+y2k20 bug a result of sloppy patch for y2k bug 
+
+Iran protesters demanding Khamenei quit 
+supreme leader of Iran 
+anger over airport incident 
+
 1/12
 firefox catches up to chrome in performance
 one of the only non-chromium based browsers left
