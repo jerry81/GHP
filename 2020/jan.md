@@ -1,3 +1,17 @@
+1-13
+Aussie wildfires huge emissions 
+
+airpods made AAPL stock rise 86%
+AP projected to make 15 b in 2020
+
+few years later, Equifax stock up again 
+
+big companies moving from AWS to azure 
+
+a world without work by economist suss kind 
+
+SQL high in demand as a skill
+
 1/12
 firefox catches up to chrome in performance
 one of the only non-chromium based browsers left
