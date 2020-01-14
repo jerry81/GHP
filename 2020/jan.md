@@ -1,3 +1,20 @@
+1-14
+Murdoch launches the sun USA 
+
+ag bill Barr Trump's ally 
+
+Bezos 690K to oz 
+
+ai hiring bots in s Korea 
+
+visa buys plaid financial services startup 
+
+barr to AAPL unlock Pensacola iPhones 
+
+ms edge switches to chromium based 
+
+music copyrights stifling new hits 
+
 1-13
 Aussie wildfires huge emissions 
 
