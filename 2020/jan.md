@@ -1,3 +1,21 @@
+1-16
+AMZN 1 b investment in India 
+
+Italian court rules phones cause head tumors 
+no scientific evidence 
+
+2004 uss Nimitz UFO encounter 
+
+Mozilla lays off 70 waits for new feat to generate revenue 
+
+twitch live sports piracy 
+
+7 dem impeachment managers chosen 
+
+pot smokers dangerous even when sober 
+
+Russian government resigns 
+
 1-14
 Murdoch launches the sun USA 
 
