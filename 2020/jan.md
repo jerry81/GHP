@@ -1,3 +1,37 @@
+1-19 
+boring company lv tunnel almost complete 
+
+lead aprons during xrays may not actually work 
+
+living self reproducing bricks 
+
+Xiaomi launches spin off company poco 
+
+Disney to drop fox name 
+
+alphabet hits 1T 
+apple first 
+ms then AMZN 
+
+Corrie Barry best buy CEO affair with another exec 
+
+NBC peacock : ad injection scam 
+
+red hat own version of docker 
+podman 
+
+spacex to purposely explode falcon 9 in safety test 
+
+sha1 exploit found 
+
+Trump impeachment trial shades of Clinton 
+
+Meghan and Harry drop Royal titles 
+
+funny: space force camo design 
+
+will be an Epstein documentary 
+
 1-16
 AMZN 1 b investment in India 
 
@@ -12,7 +46,7 @@ twitch live sports piracy
 
 7 dem impeachment managers chosen 
 
-pot smokers dangerous even when sober 
+driving pot smokers dangerous even when sober 
 
 Russian government resigns 
 
