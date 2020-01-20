@@ -1,3 +1,10 @@
+1/20 
+jet brains mono typeface 
+
+teslas accelerate on their own 
+
+fb no ads in WhatsApp for now 
+
 1-19 
 boring company lv tunnel almost complete 
 
