@@ -1,3 +1,14 @@
+1/21
+man named sexy vegan posts vid of dog 
+licking butt 
+
+new camera one trillion frames per second 
+capture motion of light 
+
+hospitals give medical data to tech giants 
+
+wuhan corona virus 
+
 1/20 
 jet brains mono typeface 
 
