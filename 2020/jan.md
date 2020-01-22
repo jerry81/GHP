@@ -1,5 +1,17 @@
 [Go back](2020index.md)
 
+1/22
+virus found in washington state
+
+boeing stops 737 production 
+
+bezos phone hacked by saudi prince
+
+tim cook: AR is next big thing 
+
+glenn greenwaled charged in brazil 
+exposing cell phone messages of prosecuters and anti-corruption task force 
+
 1/21
 man named sexy vegan posts vid of dog 
 licking butt 
