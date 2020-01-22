@@ -3,6 +3,8 @@
   
   [2019](2019index.md)
 
+  [2020](2020index.md)
+  
 ### Tech
   [AliCloud Learning](/tech/ali.md)
   
