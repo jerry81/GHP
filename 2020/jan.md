@@ -1,4 +1,20 @@
 [Go back](2020index.md)
+1/27
+kobe 
+
+baghdad - 3 rockets hit us embassy 
+
+locusts in africa 
+
+hillary documentary 
+
+gun law: states want to stop blueprints for 3d printed guns 
+
+elizabeth holmes of theranos stops paying her lawyers, now representing herself 
+
+doomsday clock moves closer to midnight due to nuke war threat and no action on climate change 
+
+
 
 1/22
 virus found in washington state
