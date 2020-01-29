@@ -1,6 +1,8 @@
 [Go back](2020index.md)
 
 1/29
+satellites can travel at 32k mph
+
 appl fiscal report very good 
 iphones sell better than expected 
 stock up 
