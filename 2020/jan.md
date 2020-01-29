@@ -1,5 +1,13 @@
 [Go back](2020index.md)
 1/27
+us central banks looking into digital currency 
+cash backed stablecoin 
+
+6ghz wifi opens up more bandwidth than current 2.4 ghz 
+
+elon musk 1M people to mars by 2050 
+but radiation is a big obstacle due to weak magnetic field
+
 kobe 
 
 baghdad - 3 rockets hit us embassy 
