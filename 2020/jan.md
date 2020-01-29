@@ -15,6 +15,10 @@ trump peace plan delights israelis, enrages palestenians
 
 netanhayu bribery charges 
 
+sanders has a chance to win 
+
+
+
 1/27
 us central banks looking into digital currency 
 cash backed stablecoin 
