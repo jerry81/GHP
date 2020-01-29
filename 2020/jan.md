@@ -1,4 +1,15 @@
 [Go back](2020index.md)
+1/29
+appl fiscal report very good 
+iphones sell better than expected 
+stock up 
+
+netflix layoffs 
+
+caribbean quake 
+
+
+
 1/27
 us central banks looking into digital currency 
 cash backed stablecoin 
