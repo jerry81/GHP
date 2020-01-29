@@ -1,4 +1,5 @@
 [Go back](2020index.md)
+
 1/29
 appl fiscal report very good 
 iphones sell better than expected 
@@ -8,7 +9,11 @@ netflix layoffs
 
 caribbean quake 
 
+china air traffic way down 
 
+trump peace plan delights israelis, enrages palestenians 
+
+netanhayu bribery charges 
 
 1/27
 us central banks looking into digital currency 
