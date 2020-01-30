@@ -20,6 +20,11 @@ interactive shell in pod
 
 example kubectl exec frame-recommendation-6cb557b789-bgb8x -it -- bash
 
+kubectl describe node <node name> 
+gives node status details 
+  addresses
+  condition
+
 ## Kubernetes Secrets
 place to store and manage sensitive info such as passwords or tokens 
 
