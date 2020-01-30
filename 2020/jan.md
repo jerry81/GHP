@@ -41,6 +41,12 @@ amazon mechanical turk like craigslist
 goog paid over 21M to security researches for bug bounties 
 6.5M in 2019 
 
+antarctican glacier in danger of melting 
+
+current "model“ for disposing of nuclear waste is not ideal 
+
+us colleges want to install location tracking apps on devices 
+
 1/29
 satellites can travel at 32k mph
 
