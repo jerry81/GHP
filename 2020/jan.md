@@ -60,7 +60,9 @@ netanhayu bribery charges
 
 sanders has a chance to win 
 
+thunderbird is mozilla's email client 
 
+german newspaper accuses huwawei of collaborating with chinese gov 
 
 1/27
 us central banks looking into digital currency 
