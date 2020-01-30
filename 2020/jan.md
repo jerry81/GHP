@@ -47,6 +47,29 @@ current "model“ for disposing of nuclear waste is not ideal
 
 us colleges want to install location tracking apps on devices 
 
+google translate: real time translation 
+
+wawa breach: 30 Million payment cards 
+
+airpods popular among kids 
+
+atari video game hotels across usa 
+
+scotland 100% renewable this year 
+
+huawei allowed access to 5g networks in UK, defying americans
+
+cellular technology:  "nanocontainers" implanted in cells, allowing drugs to directly enter cell nucleus 
+biomed breaktrhu in university of basel, switzerland 
+
+albatrosses flock towards fishing boats 
+
+GM 2.2B investment in electric vehicle factory 
+creating 2200 jobs 
+detroit 
+
+357 amzn employees defy company policy (climate)
+
 1/29
 satellites can travel at 32k mph
 
