@@ -1,5 +1,46 @@
 [Go back](2020index.md)
 
+1/30
+bernie wins iowa 
+
+trump defense, trading military aid for political aid is not grounds for impeachment 
+
+MS record sales 
+cloud doing well
+
+kansas city and patrick mahomes vs 49ers in superbowl
+one of the only black qbs 
+
+chinese getting stigmatized in other countries due to virus 
+
+lab-grown heart muscles used in transplant 
+
+FB 550M facial recognition settlement 
+
+highest res photo of sun ever taken 
+
+UPS using Arrival electric trucks 
+in US, Eu
+
+SpaceX 60 more starlink sattelites 
+aims to provide internet coverage 
+
+default passwords in IOT devices banned in UK
+
+AAPL vs putin: russia new law enforces gov apps on all phones 
+
+UN was hacked 
+
+GOOG about to take on slack with new communication app 
+combines hangout, drive, and gmail
+
+appl had best quarter ever in india, second largest cell market 
+
+amazon mechanical turk like craigslist 
+
+goog paid over 21M to security researches for bug bounties 
+6.5M in 2019 
+
 1/29
 satellites can travel at 32k mph
 
