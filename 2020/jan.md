@@ -1,5 +1,32 @@
 [Go back](2020index.md)
 
+1/31
+bloomberg spent 100m on ads attacking trump 
+
+trump impeachment trial nearing end 
+
+superbowl terrorist threats 
+
+jewish family kicked off flight for extreme body odor 
+sues for discrimination 
+
+farm bankruptcies up 30%
+
+ibm new indian ceo replaces the female one 
+
+FB stock drops 6%
+
+aapl proposes standardized SMS 
+
+market st. sf now closed to traffic 
+
+appl removed 800+ apps from china 
+
+almost half of americans didn't go out for fun in 2018
+
+insurance rates rising because cars are getting safer
+because actual crashes are costing more 
+
 1/30
 bernie wins iowa 
 
