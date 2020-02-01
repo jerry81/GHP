@@ -1,6 +1,11 @@
 [Back to 2020](2020index.md)
 
 2/1 
+delta and american airlines stopped flights to and from china 
+united ,cathay pacific 
+
+F35 guns cannot shoot straight 
+
 usa declares health emergency 
 
 stocks down due to virus 
