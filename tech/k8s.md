@@ -70,6 +70,24 @@ PLEG - pod lifecycle event generator - automatically starts and restarts contain
 
 kubelet - non-master process that communicates with master 
 
+apiserver - part of the master process 
+
 kube-proxy - non-master process that handles networking on the node 
+
+## Nodes 
+
+nodes not a kubernetes construct, but rather of the cloud provider 
+kubertnetes creates an object that represents the node 
+
+## apiserver aka master 
+
+listens at port 443
+should require authorization 
+
+2 ways to communicate with clusters:  
+to kubelet 
+to node, pod, or service through proxy 
+
+second way not secure 
 
 
