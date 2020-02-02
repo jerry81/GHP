@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+2/2 
+Case of cov found in massacheusetts 
+
+china enforced quarantine by drone 
+threaten to kill pets
+
+superbowl: women owners on both sides 
+
+soros accuses trump and zuck to have special relationship 
+helped him get elected 
+
+african locusts plague 
+
+venezuela capital booming - end of revolution?
+
+michael moore criticises bloomberg (running because he's rich)
+
+angela white meryl streep of porn 
+
+palestenian leader abbas threatens to cut ties with usa, israel 
+
+cringely prediction: ibm disappears into red hat 
+
+vegan diets lacking in "brain nutrients" 
+
+st. louis and atlanta gaining tech jobs 
+
+
+
 2/1 
 delta and american airlines stopped flights to and from china 
 united ,cathay pacific 
