@@ -1,5 +1,10 @@
 [Back to 2020](2020index.md)
 
+2/3 
+nurses threaten to strike in HK if borders aren't shut 
+
+
+
 2/2 
 Case of cov found in massacheusetts 
 
