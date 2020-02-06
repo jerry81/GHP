@@ -1,6 +1,23 @@
 [Back to 2020](2020index.md)
 
 2/6
+blue collar tesla factory workers take 2:30 AM shuttle from salidas and arrive in fremont at 4:00 AM
+
+mathematicians model turbulence 
+
+squid brians actually quite complex 
+
+goog pays android developers about half of what apple has 
+despite there being more android users in the world 
+
+chip industry worst year since dot com bust 
+
+robotic bartenders in japan
+
+keyan companies that do homework for westerners
+
+wikileaks vault 7 - 
+
 trump acquitted 
 
 kirk douglas dead at 103
