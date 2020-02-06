@@ -1,9 +1,37 @@
 [Back to 2020](2020index.md)
 
+2/6
+trump acquitted 
+
+kirk douglas dead at 103
+
+leak: actual deaths from CoV at 24K 
+passes to children 
+nyc woman wearing mask attacked "diseased bitch"
+
+US infected cases at 12 
+
+tesla stock way down 
+
+android AV1 codec improves compression by 20% over VP9 
+netflix starts using it 
+
+more than 1000 scientists make breakthrus in cancer research 
+
+surveillance system detecting welfare fraud ruled by dutch court to violate human rights 
+
+uber SDV allowed back on Cali roads 
+
+web shell is a malicious program installed on a server 
+
+CoV will not disappear like SARS
+
+CEO of linked in to step down 
+
+
+
 2/3 
 nurses threaten to strike in HK if borders aren't shut 
-
-
 
 2/2 
 Case of cov found in massacheusetts 
