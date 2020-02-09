@@ -1,6 +1,50 @@
 [Back to 2020](2020index.md)
 
 2/9 
+
+chris matthews explodes on socialism 
+
+anti-solar panel: thermoradiative cell captures heat flowing into space 
+
+birds of prey not doing well at box office 
+rated r 
+directed by chinese lady 
+fairly good reviews 
+
+google superbowl ad called evil 
+
+gilead - promising coronavirus drug 
+
+every website tracks exactly how your mouse moves 
+
+ransomware targets industrial control systems 
+
+muon collider MICE 
+
+Clearview AI wants to sell to authoritarian regimes 
+
+process converts CO2 into concrete 
+
+luxemborg to offer free public transport 
+
+france fines appl 27.4 M for slowing iphone software 
+
+big tech opponent bernie ironically raises most funds from big tech employees 
+
+first gene-editing clinical trial to target cancer approved 
+
+most hydrogen harvested from natural gas or electrolyzing water (expensive)
+
+apple independent repair program (vicdtory for right-to-repair) very skewed legal terms 
+
+google maps for mobile redesign 
+
+GWC global wireless conference in barcelona prohibits handshakes 
+
+appl watch outsold swiss watch industry 
+
+GDSA global developer service alliance to take on the google play store 
+
 thai soldier kills 21 in mall 
 streamed on fb 
 31 hurt 
@@ -16,7 +60,12 @@ plant on desk to reduce workspace stress
 
 filipino president duerte scrap us military pact 
 
+cancer can be detected earlier than previously thought 
+
+
+
 2/6
+
 blue collar tesla factory workers take 2:30 AM shuttle from salidas and arrive in fremont at 4:00 AM
 
 mathematicians model turbulence 
@@ -64,9 +113,11 @@ CEO of linked in to step down
 
 
 2/3 
+
 nurses threaten to strike in HK if borders aren't shut 
 
 2/2 
+
 Case of cov found in massacheusetts 
 
 china enforced quarantine by drone 
