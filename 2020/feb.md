@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md)
 
+2/9 
+thai soldier kills 21 in mall 
+streamed on fb 
+31 hurt 
+angry about financial dispute 
+guns legal in thailand 
+
+taliban: we killed 6 us soldiers in afghanistan 
+
+gayle king asks question about kobe's sexual assuault case 
+snoop dog threatens her on twitter 
+
+plant on desk to reduce workspace stress 
+
+filipino president duerte scrap us military pact 
+
 2/6
 blue collar tesla factory workers take 2:30 AM shuttle from salidas and arrive in fremont at 4:00 AM
 
