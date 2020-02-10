@@ -2,6 +2,16 @@
 
 2/10
 
+voyager 2, 11.5 billion miles away from earth, is back online 
+remote engineering - takes 34 hours roundtrip for a message to be transferred 
+
+govt decisions now automated by AI 
+
+google engineering its own lunch lines 
+
+dev history: C rose up with the unix system 
+took over basic 
+
 politics dominates oscars 
 
 brad pitt best supporting actor 
