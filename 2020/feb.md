@@ -1,5 +1,20 @@
 [Back to 2020](2020index.md)
 
+2/10
+
+politics dominates oscars 
+
+brad pitt best supporting actor 
+joaquim phoenix best actor 
+
+millions left wuhan before the city quarantine 
+
+ISS hotel by NASA 
+
+ireland used as corrupt tax loophole 
+
+russia tries to blame usa for coronavirus 
+
 2/9 
 
 chris matthews explodes on socialism 
