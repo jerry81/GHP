@@ -1,6 +1,35 @@
 [Back to 2020](2020index.md)
 
 2/12 
+
+Nikola motors releases truck 
+uses fuel cells 
+
+tmobile sprint merger gets approval 
+
+windows 10x designed for dual screen devices 
+
+Firefox 73 - default zoom 
+
+US officials: huawei can covertly access mobile networks 
+
+samsung unveils galaxy z flip 
+galaxy s20 
+
+ftc reviewing past mergers by fb 
+
+free coding bootcamps are actulaly expensive 
+
+swiss company crypto AG highly depended on for encryption services 
+
+implant for blind people directly jacks into brain 
+
+may: first crewed space x flight 
+
+semi transparent solar cells applicatoins to greenhouses 
+
+
+
 sanders in lead followed by mayor pete 
 in new hampshire 
 yang is out 
