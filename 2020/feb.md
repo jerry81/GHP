@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+2/12 
+sanders in lead followed by mayor pete 
+in new hampshire 
+yang is out 
+
+USA household debt at all time high 
+
+cory feldman to name hollywood sex predators 
+
+caulkin exonerates michael jackson 
+
+parasite gets best picture, director 
+
+dwayne wade 12 year old kid is trans 
+boy to girl 
+
+psychadelic companies about to go public 
+mind medicine inc 
+
+autopilot add ons hitting the market... 1000 usd 
+
+appl pay growing 
+10% all transactions 
+
+KDE plasma desktop released
+
 2/10
 
 voyager 2, 11.5 billion miles away from earth, is back online 
