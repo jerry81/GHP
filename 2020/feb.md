@@ -1,5 +1,12 @@
 [Back to 2020](2020index.md)
 
+2/13 
+
+bezos buys geffen estate for 165 Milly 
+los angeles area 
+
+1 in 3 americans run out of money before payday 
+
 2/12 
 
 Nikola motors releases truck 
