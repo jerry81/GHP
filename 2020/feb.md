@@ -1,5 +1,59 @@
 [Back to 2020](2020index.md)
 
+2/14
+
+economic fallout from virus increasing 
+supply shortages 
+factories reopened feb 10
+some companies later 
+as late as april 
+14Trillion economy 
+
+disinfectant tunnel sprals industrial workers 
+
+spacex to launch 60 satellites in one day 
+
+china: undercover "spy robots" blend into population
+
+australian wildfires contained
+
+netflix loses case over bandersnatch 
+
+facebook dating launch blocked in EU 
+
+qualcomm antitrust case 
+
+robot analists make better financial investments than human experts 
+
+amazon vs pentagon suit: judge temporarily block contract 
+
+US vs hwawei: racketeering
+(aka fraud)
+
+andrew yang snubbed by mainstream media in coverage 
+
+macs have more malware than windows now 
+
+satellite constellations affecting natural constellations 
+
+people born blind mysteriously protected from schizhophrenia 
+
+ Fair Food Delivery Act forces delivery apps to release customer data 
+ 
+ corona virus official name COVID-19
+ 
+ trump: fed workforce too reliant on college degrees 
+ 
+ whatsapp 2B users 
+ 
+ MWC mobile world conference hanging by thread as most telecoms back out 
+ 
+ .com domain price to rise 
+ 
+ nasa 2024 moon landing will cost 35B
+ 
+ 
+
 2/13 
 
 bezos buys geffen estate for 165 Milly 
