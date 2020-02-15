@@ -1,5 +1,47 @@
 [Back to 2020](2020index.md)
 
+2/15 
+
+bible predictions: locusts & disease 
+
+5000 new covid19 cases 
+
+CDC: this could last till next year 
+
+some pandemic modelers predict over 4m cases 
+
+bernie: carville is a political hack
+james carville: at least i'm not communist 
+
+9 plans locked down at heathrow 
+
+witchcraft on rise
+
+musk on track to be world's richest 
+
+speilberg son to debut film 
+
+exercise makes people happier than money 
+
+human organ buying service ads popping up on twitter 
+
+3d printing: 2d horizontal layer by layer 
+slow 
+new concept: developed by Switzerland 
+rotational printing 
+
+iphone 11 pro radio frequency exposure exceeds limit 
+
+youtube paid music industry over 3B last year 
+
+people most depressed in February according to .... spotify 
+
+sony: playstation 5 pricing crisis: costly parts 
+
+Bitcoin mixing service:  disguise origin of bitcoin transactions 
+
+
+
 2/14
 
 economic fallout from virus increasing 
