@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+2/16
+
+bloomberg running mate is hillary 
+
+hk rally against planned quarantine centers 
+
+69K got CVid19
+
+police give amzn ring thumbs down for law enforcement 
+
+free coding bootcamps have income sharing schemes 
+
+china quarantines cash...
+
+sonic movie strong opening 
+
+huawei silicon valley outpost alledgedly steals tech secrets from cisco 
+
+spacex gets top nasa talent 
+
+linux is y2k38 ready 
+
+bill gates falsely reported to have commissioned a hydrogen powered yacht 
+
+
+
 2/15 
 
 bible predictions: locusts & disease 
