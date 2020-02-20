@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+2/19 
+
+barr mad at trump for all his tweets 
+
+snake venom to cure cancer?
+
+singles night makes a comeback.  tinder fatigue?
+
+ISIS since 2014 - soldier count has doubled 
+
+spacex to launch humans to space 
+
+netanhayu corruption trial set to begin in march 
+
+700 lb black bear shot in NJ 
+
+sleep trackers ironically causing insomnia 
+
 2/16
 
 bloomberg running mate is hillary 
