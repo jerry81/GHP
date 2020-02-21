@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+2/21 
+
+blue apron stock cratering 
+2B disaster 
+american HeMa 
+
+Gretel startup: "GitHub for data"
+
+morgan stanley buys e-trade 13B 
+
+france shuts down 43 year old nuke reactor 
+france 56 reactors, usa 91 
+world top 2 
+
+tesla model 3 a top pick in consumer reports 
+
+machine learning analyzes current molecules that kill bacteria 
+ai generated antibiotics
+halicin - named after hal 
+
+roger stone gets 40 months in prison 
+
+german shooting 9 killed in frankfurt 
+nazi terrorist 
+commits suicide next to mother 
+
+lesbian couple face death penalty in saudi arabia
+
 2/19 
 
 barr mad at trump for all his tweets 
