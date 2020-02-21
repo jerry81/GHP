@@ -2,6 +2,26 @@
 
 2/21 
 
+android 11 dev preview 
+
+cryogenic computing - runs at cold temperatures 
+intel horse ridge 
+
+A cable of 80 meters is hanging from the top of two poles that are both 50 meters off the ground. What is the distance between the two poles (to one decimal point) if the center cable is (a) 20 meters off the ground and (b) 10 meters off the ground?
+
+
+security researches tricked tesla to go 85 in 35 mph zone black tape on speed limit sign 
+
+russians vandalizing georgian websites 
+
+chemo could be made unviable due to superbugs 
+
+emissions down 25% due to coronavirus 
+
+trump backs larry ellison in fight against google 
+
+ms invest 1.1 b in mexico next 5 years 
+
 blue apron stock cratering 
 2B disaster 
 american HeMa 
