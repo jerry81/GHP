@@ -17,7 +17,7 @@
   
 ### Other
   
-  [TED Talks] (/TED/index.md)
+  [TED Talks](/TED/index.md)
   
   [Humor](jokes.md)
 
