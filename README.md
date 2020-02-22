@@ -17,6 +17,8 @@
   
 ### Other
   
+  [TED Talks] (/TED/index.md)
+  
   [Humor](jokes.md)
 
   [History](/history/1917.md)
