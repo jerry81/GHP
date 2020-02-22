@@ -1,5 +1,42 @@
 [Back to 2020](2020index.md)
 
+2/22
+
+flying cell phone network antannae: google loon 
+
+chrome deploys new deeplinking feature 
+scrollToText fragment api 
+highlights and scrolls to 
+
+bernie: trump would chew (bloomberg) up and spit him out 
+
+russia trying to help bernie campaign 
+
+anabella sciorra - gloria trillo in sopranos involved in harvey weinstein trial 
+
+bollywood first film with gay actor as lead 
+
+russian who took "zombie drug" spice saws off own leg 
+spice similar to weed sprayed with synthetic chemicals 
+
+skies turn black from locust swarms 
+described as "apocalyptic" 
+
+NJ: white supremacist terror level raised to high 
+
+nuclear: hydrogen-boron tech breakthrough for fusion 
+startup company HB11
+
+more bosses giving 4 day workweek a try
+new zealand
+russia 
+and usa 
+e.g. shake shack 4 day 10 hr workdays 
+some moving to 32 hr work week - no cut in pay 
+
+ru prime minister dimitri medelev 
+putin president 
+
 2/21 
 
 android 11 dev preview 
