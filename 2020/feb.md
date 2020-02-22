@@ -45,7 +45,7 @@ cryogenic computing - runs at cold temperatures
 intel horse ridge 
 
 A cable of 80 meters is hanging from the top of two poles that are both 50 meters off the ground. What is the distance between the two poles (to one decimal point) if the center cable is (a) 20 meters off the ground and (b) 10 meters off the ground?
-
+catenary: math problem involving hanging cable
 
 security researches tricked tesla to go 85 in 35 mph zone black tape on speed limit sign 
 
