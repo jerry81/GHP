@@ -1,5 +1,5 @@
-[Go Back] (../README.md)
+[Go Back](../README.md)
 
 ## TED Talks
 
-[Consciousness] (consciousness.md)
+[Consciousness](consciousness.md)
