@@ -1,4 +1,4 @@
-[Go back](../index.md)
+[Go back](index.md)
 
 your brain hallucinates your concious reality 
 
