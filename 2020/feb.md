@@ -1,5 +1,13 @@
 [Back to 2020](2020index.md)
 
+2/24
+
+italy, iran increase in virus cases 
+
+bernie movement growing 
+
+
+
 2/22
 
 flying cell phone network antannae: google loon 
