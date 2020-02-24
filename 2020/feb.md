@@ -2,9 +2,26 @@
 
 2/24
 
-italy, iran increase in virus cases 
+italy, iran, korea increase in virus cases 
 
 bernie movement growing 
+
+tiktok jump prank very dangerous 
+
+cali bill: 1000/month UBI 
+
+call of duty battle royale mode leaks 
+
+mike hughes dies (flat earther daredevil) in homemade rocket crash 
+
+fizzbuzz - a famous coding interview question 
+
+apis putting financial data at risk 
+
+drug manufacturer raises price of drug  97,500% 
+from $40 to $39K
+
+first extragalactic oxygen sighting made 
 
 
 
