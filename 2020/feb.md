@@ -1,5 +1,79 @@
 [Back to 2020](2020index.md)
 
+2/27 
+
+northern cali first case of unknown origin 
+
+saudis suspend all religious pilgrimages 
+
+brazil first case 
+
+1 in 5 europeans - jewish cabal runs world 
+
+realdoll sex doll company - realistic robots 
+
+miller coors fired employee kills 7 
+milwalkee wisconsin 
+
+housing crisis grows, rv living a consequence 
+
+first woman to pass special forces training and join green berets 
+
+reddit group wall street bets - maniuplating the stock market by buying early in morning to drive up prices
+
+starbucks embrace fake meat 
+
+trump put pence in charge of response to cov 
+
+panasonic solar cell partnership with tesla about to end 
+
+court: youtube is private forum and therefore not subject to first amendment 
+
+amzn to sellers: don't gouge users on face masks 
+
+kashmir economy and infrastructure in trouble 
+digital blackout by india 
+
+aapl doesn't let villains use its products on screen 
+
+goog to spend 10B on offices and data centers this year 
+
+salmon parasite doesn't need oxygen to survive - first animal not needing oxygen 
+
+juul - age-locked e-cigarrette 
+
+disney ceo bob iger steps down 
+voluntarily 
+
+singaporean sales conference organized by uk based company spread coronavirus around the world 
+41 year old malaysian participant 
+
+naendra modi indian prime minister 
+recently anti modi protests 
+disney blocks john oliver comments due to owning holstar india's video streaming service 
+
+2 musicians generate melodies and release to public in attempt to stop musicans from getting sued - which stifles creativity 
+
+japan telecommuting and staggered shifts 
+
+some people actually have 20 hr biological clock 
+
+amzn cashierless supermarket - whole foods next?
+
+tsa ban employees from using tiktok - security concerns 
+
+wuhan man who went to vacation in san fran gets tracked down on wechat - wechat coerced 4 friends to pressure him to return 
+
+goog cloud ceo rips oracle cloud 
+
+appl to release first ARM non/intel processor Mac 
+
+many economies on brink of recession 
+
+landlord accidentally throws drug dealer's 58M bitcoin codes out 
+
+
+
 2/24
 
 italy, iran, korea increase in virus cases 
