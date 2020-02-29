@@ -1,5 +1,51 @@
 [Back to 2020](2020index.md)
 
+2/29
+coronavirus fears escalating 
+gates issues warning 
+it's not that bad says diamond princess infected
+
+toilet paper costco run in hawaii 
+
+stock market worst week since financial crisis (2008)
+
+444B lost by world's richest 
+
+mexico first cases 
+
+tiktok abortion video causes outrage b/c she is giggling
+
+cortana focus on business users again 
+as opposed to consumers 
+
+amzn worker tracking tech causes walkouts and strikes 
+
+MS and IBM most AI patents 
+sign ethical ai deal with vatican 
+
+senate bans huawei equipment 
+
+bernie very expensive climate change plan 
+
+GTA online addes f1 racing 
+biggest moneymaker 
+
+pakistan censors 
+
+linked in will add snapchat like stories 
+
+uber exists india's food delivery network
+amzn prepares to enter 
+
+f8 (facebook) conference cancelled due to covid19
+
+walmart+ to compete with amazon prime 
+
+reddit ceo calls tiktok parasitic - spyware filled 
+
+electric "nose" - smell breath to detect cancer 
+
+
 2/27 
 
 northern cali first case of unknown origin 
