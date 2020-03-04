@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+3/4 
+Honeywell builds quantum computer 
+
+tornados in TN 
+
+monkeys in bars forced to serve beers 
+
+iran frees 54k prisoners to combat 
+
+pope tested negative 
+
+deathtoll in america 9 for covid19
+
+death rate of Covid19 upped by WHO to 3.4% 
+
+cisco: avoid cv, stay at home, use webex 
+
+goog cancels i/o conference 
+
+Si Valley: anyone but sanders 
+
+FB robots patrol data centers 
+
+twitter advicses 5000 global emps to work from home 
+
+WHO: china agressive measures reversed course of CV outbreak 
+
+
+
 3/3 
 
 chris matthews quits msnbc hardball 
