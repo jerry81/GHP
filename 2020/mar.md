@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+3/5
+pet owners fear dogs have cov want them put down 
+vet refuses 
+
+80-core arm 64bit server 
+
+CRISPR injected in live person 
+
+Twitter testing fleets.  fleeting tweets 
+
+India lifts ban on crypto trading 
+
+Trump blames Obama for lack of CV testing kits
+
+Biden pulls ahead again  
+
+third hand smoke - smoke that sticks on clothes 
+
 3/4 
 Honeywell builds quantum computer 
 
