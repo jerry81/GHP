@@ -1,5 +1,29 @@
 [Back to 2020](2020index.md)
 
+3/6
+southwest CEO: travel has 9/11 like feel 
+
+ultra miami cancelled 
+
+singapore: lying about where you have been gives 6 months of jail
+
+blood plasma from recovered can help treat 
+
+tech theft employee at uber declares bankruptcy 
+
+people kept working and became healthier on Universal basic income 
+
+iran cuts internet due to CV outbreak 
+blocks persian version of wikipedia 
+
+CoVid spreads to venice california 
+
+east africa preparing for second wave of locusts 
+
+facial recog on police body cameras 
+
+smartphone supplies running out due to suspended chinese factories 
+
 3/5
 pet owners fear dogs have cov want them put down 
 vet refuses 
