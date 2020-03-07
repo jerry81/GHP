@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+3/7
+evidence of life on mars found 
+
+interest rates almost at 0 in america 
+
+predictions 15M dead 2.4T hit to gdp 
+
+robots assisting in fighting virus, testing, preparing meals, spraying disinfectant 
+
+virus arrives in vegas 
+gamblers unfazed 
+
+trump names new COS: mark meadows 
+
+musk plan to colonize mars: build starship every 72 hrs 
+
+MS: 99% of breached accounts do not use MFA 
+
+SXSW cancelled in austin 
+
+ebay bans masks, hand sanitizer to crack down on price gouging 
+
+worldwide Covid19 count over 100K 
+
+Yang launches non-profit aimed at promoting UBI 
+
 3/6
 southwest CEO: travel has 9/11 like feel 
 
