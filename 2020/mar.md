@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+3/9
+social distancing term to describe anti virus efforts 
+
+cannot open article "bj portrays xjp as CV hero"
+
+I backpack kickstarter raised 500k 
+turns out to be scam, FTC goes after him 
+
+AMZN works with Chan Zuckerberg to cure common cold 
+
+new approach temporarily disabled a protein in out cells 
+
+bill Gates promises home testing kits for cov 
+
+criminals continue to post evidence on social 
+drug dealer posts fb videos of drug runs 
+
+early onset Alzheimer's increasing 
+
+forge by fsf code repository 
+
+benzene 
+opto electronics 
+
+70% americans want to get rid of DST
+
+
+
 3/7
 evidence of life on mars found 
 
