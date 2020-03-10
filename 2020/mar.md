@@ -1,6 +1,24 @@
 [Back to 2020](2020index.md)
 
 3/10
+us stock MKT circuit breaker triggers first since 1989
+
+Italy countrywide quarantine 
+
+Weinstein on rikers
+
+Honda stops selling EV in USA 
+
+target opens the game room concept store for gaming 
+
+patient zero in Seattle had Ebola style lockdown 
+
+Stanford switches to online courses 
+
+many switch to duckduckgo
+
+dingtalk rating plummets due to ratings from kids 
+im only five years old myself please don't kill me 
 
 
 3/9
