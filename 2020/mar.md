@@ -1,5 +1,8 @@
 [Back to 2020](2020index.md)
 
+3/10
+
+
 3/9
 social distancing term to describe anti virus efforts 
 
@@ -25,6 +28,7 @@ benzene
 opto electronics 
 
 70% americans want to get rid of DST
+
 
 
 
