@@ -14,6 +14,8 @@
   
   [Docker Learning](/tech/docker.md)
   
+  [Slack Learning](/tech/Slack.md)
+  
   
 ### Other
   
