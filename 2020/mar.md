@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+3/11
+secret Service mission protect president from virus 
+
+Smurf rally in France 
+3500
+
+musk starting latency will be fast enough for competitive gaming 
+
+Tesla one millionth car 
+
+google tells all North America staff wfh 
+
+VMware embraces k8s 
+
+people using tinder to match with ppl in Wuhan to ask about covid 
+
+AMZN selling just walk out store tech to other companies
+
+epic games supports Nvidia geforce now
+cloud streaming gaming
+
+MIT moves all classes online 
+
 3/10
 us stock MKT circuit breaker triggers first since 1989
 
