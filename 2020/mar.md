@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+3/12
+germany merkel: 70% will be infected
+
+tom hanks and rudy gobert infected
+
+weinstein gets 23 years 
+rape accusers filled two rows in courthouse 
+
+america debates closing movie theatres 
+
+trump suspends eu -> us flights 
+
+musk's aus battery farm is undeniable success
+
+goog encourages more regions to wfh 
+
+covid now a pandemic says WHO 
+
+e3 2020 cancelled 
+
+2 people cured of HIV 
+stem cell transplant 
+
+
+
 3/11
 secret Service mission protect president from virus 
 
