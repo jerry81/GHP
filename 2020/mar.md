@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+3/13
+patients contagious 37 days 
+
+CDC only tested 72 Americans last week 
+
+American Airlines pilot tests positive 
+
+150M Americans could get infected 
+
+2020 first virtual election? 
+
+Chelsea Manning who got 7 yrs for handing army docs to Assange tries to hang herself 
+
+peak of covid has passed says China 
+
+Bitcoin down 30% to 5000 
+
 3/12
 germany merkel: 70% will be infected
 
