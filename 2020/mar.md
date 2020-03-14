@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+3/14
+trump "i dont take responsibility at all" for covid 
+
+stocks rally back 
+
+gates leaves ms board 
+
+trump declares state of emergency 
+
+greece first woman president 
+
+hand sanitizer allowance on flights increased 
+
+teleconference app demand surges 
+
+WHO: EU is epicenter of virus 
+
+GOOG: website for covid testing 
+
+isps give amnesty this month for unpaid internet bills 
+
+italian kids flood fortnite 
+
+AAPL moves conference online 
+as does MS's developer conference 
+
+
+
 3/13
 patients contagious 37 days 
 
