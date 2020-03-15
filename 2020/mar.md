@@ -1,4 +1,34 @@
 [Back to 2020](2020index.md)
+3/15 
+Trump negative for covid 19 
+
+aapl closes all stores outside of china 
+
+quarantined italians singing from windows to boost morale
+
+mexico may close border to USA 
+
+mclaren elva - no windshield windows or roof 
+manipulates airflow 
+1.68M usd 
+
+high demand for AR/VR programmers, python most popular 
+
+roche has faster covid19 test, quickly approved 
+
+sim hack - steal phone number 
+
+citi bike, nyc bike share program 
+biking in nyc up 
+
+whisper app, supposedly the "safest" app to share secrets gets exposed 
+
+koenigsegg 2L no camshaft engine makes 600 HP 
+
+sudan is rebuilding its electricity grid 
+
+trump eliminiates interest on student loads as response to covid19 
+
 
 3/14
 trump "i dont take responsibility at all" for covid 
