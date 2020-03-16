@@ -1,4 +1,14 @@
 [Back to 2020](2020index.md)
+3/16
+360 Italians dead in one day 
+
+Hoboken introduces curfew 
+
+vehicle to grid car batteries 
+
+SQL invented by IBM 
+
+
 3/15 
 Trump negative for covid 19 
 
