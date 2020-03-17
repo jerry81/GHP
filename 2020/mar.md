@@ -1,4 +1,27 @@
 [Back to 2020](2020index.md)
+
+3/17
+police- stop calling about toilet paper 
+
+kid rock Nashville bar refuses to close 
+unconstitutional
+
+casinos want bailout 
+
+Dow drops 3000 pts 
+
+Tesla starts selling model y 
+
+Canada closes borders 
+
+GitHub acquires npm 
+
+vaccine trials 
+
+s&p 15 min trading halt mechanism 
+
+MKT street car ban working well in SF 
+
 3/16
 360 Italians dead in one day 
 
