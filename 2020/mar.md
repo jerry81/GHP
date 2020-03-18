@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md)
 
+3/18
+
+china bans nyt WSJ and wash post reporters 
+
+Tiktok filters out ugly ppl
+
+remarkable paper tablet feels papery
+
+people making DIY ventilators
+
+India avalanche of cases 
+
+eu borders closed 30 days 
+
+glass is liquid that cannot move 
+
+fb 1000 bonus all emps
+
+amzn to hire additional 100k during shutdown 
+
+
+
 3/17
 police- stop calling about toilet paper 
 
