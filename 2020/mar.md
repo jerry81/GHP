@@ -1,5 +1,25 @@
 [Back to 2020](2020index.md)
 
+3/19
+no layoffs reduced rent in Italy 
+
+stocks back to pre Trump levels 
+
+ibuprofen worsens symptoms 
+
+cancer and heart surgeries delayed 
+
+salt Lake City quake 
+
+Detroit car factories two week shutdown 
+but not Tesla 
+
+NYC convert hotels into hospitals 
+
+sonic passes Pikachu highest ever grossing video game movie 
+
+all fifty states report cvid cases 
+
 3/18
 
 china bans nyt WSJ and wash post reporters 
