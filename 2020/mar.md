@@ -1,5 +1,32 @@
 [Back to 2020](2020index.md)
 
+3/20
+American spring breakers still active 
+
+Netflix asked to slow streaming 
+
+1.5 jobless next week? 
+
+digestive problems is a symptom
+
+David ho of aids research fame on the covid team 
+
+Italy death toll takes China 
+
+Razer starts making masks 
+
+irish startup 3d prints ventilators 
+
+smelling ai sensor based on human olfactory system 
+
+malaria treatments showing some promise 
+
+twitter censoring tweets that could help virus spread 
+
+ps5 specs released - very speedy ssd 
+
+
+
 3/19
 no layoffs reduced rent in Italy 
 
