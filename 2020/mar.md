@@ -1,6 +1,18 @@
 [Back to 2020](2020index.md)
 
 3/22
+car play worse than drunk driving 
+
+ant levandowsky pleads guilty for stealing waymo secrets and giving to uber 
+
+100% workforce reduction non-essential 
+
+search f0or vaccine global competition 
+1000 chinese scientists, mililtarized 
+
+big rigs from diesel to electric motors 
+
+
 trump may take bailout cash to save his own hotels 
 
 over 50 nypd officers infected 
