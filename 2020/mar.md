@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+3/22
+trump may take bailout cash to save his own hotels 
+
+over 50 nypd officers infected 
+
+nyc hospitals under pressure 
+
+spain: robots test 80 K patients a day 
+
+spring break finally over 
+
+disney in trouble?
+
+yellowstone "pulsing"
+
+appl donates millions of face masks
+
+chrome extension netflix party adds chat panes to movies 
+
+tesla and spacex making ventilators 
+
+russia bans crypto 
+
+oracle announces java 14 
+
+doom eternal DRM goof 
+
+melting greenland causes water to raise 2.2mm in a month 
+
+
+
 3/20
 American spring breakers still active 
 
