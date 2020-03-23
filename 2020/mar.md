@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+3/23
+Rand Paul Weinstein test positive
+
+Merkel quarantine 
+doctor tested positive 
+
+
+
+child abuse cases up
+
+white supremacists encourage spreading to cops and Jews 
+
+Amazon offers stream movies in theatre 
+
+video game simultaneous user records 
+
+
+
 3/22
 car play worse than drunk driving 
 
