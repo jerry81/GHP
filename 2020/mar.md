@@ -9,15 +9,29 @@ more racist attacks in USA
 
 Venezuela prohibit layoffs and suspend credit collection
 
+half of all news is about coronavirus 
 
+cyberattacks spiking against WHO 
+
+current situation proves robots are far from taking over 
+
+hospitals turning to 3d printing 
+
+UK strick lockdown 
+
+traffic and pollution way down 
+
+pro drivers now playing video games 
+
+FB donates masks and gloves 
+
+McDs closes all restauarants in UK
 
 3/23
 Rand Paul Weinstein test positive
 
 Merkel quarantine 
 doctor tested positive 
-
-
 
 child abuse cases up
 
