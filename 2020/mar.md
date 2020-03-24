@@ -1,5 +1,16 @@
 [Back to 2020](2020index.md)
 
+3/24
+100 plus deaths in USA 
+
+spring breakers begin testing positive
+
+more racist attacks in USA 
+
+Venezuela prohibit layoffs and suspend credit collection
+
+
+
 3/23
 Rand Paul Weinstein test positive
 
