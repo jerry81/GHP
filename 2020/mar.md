@@ -1,5 +1,50 @@
 [Back to 2020](2020index.md)
 
+3/25
+countries to hoard food 
+khasakstan stops wheat exports 
+U.S. dollar is surging against a host of
+ emerging-market currencies. That reduces
+ purchasing power for countries that ship in 
+commodities, which are usually priced in 
+greenbacks.
+also ru and Serbia 
+
+NYPD over 200 cases 
+
+stocks up again 
+due to nearing 2trillion injection 
+
+S&P 500, which is much more important
+ to most 401(k) accounts,
+ rose 209.93, or 9.4%
+UK needs 250K volunteers
+
+Rio gangs call curfews in favelas 
+
+Goldman recommends buying gold 
+
+wsj: marines shifting from middle east, prepping
+to battle China 
+
+selfless acts:
+3M 500K respiratory to NYC 
+distilleries switch to hand sanitizer
+Dan Gilbert offers the free rent 
+
+overlooked 
+corona virus patients die alone 
+nurse asked what worries her most
+ - that patients die alonr
+
+ms starts throttling ms office 365 services 
+
+Amazon India proritizing products 
+
+SF biz declining cash payments 
+
+
+
 3/24
 100 plus deaths in USA 
 
