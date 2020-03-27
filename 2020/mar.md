@@ -1,6 +1,15 @@
 [Back to 2020](2020index.md)
 
 3/27 
+
+cruise companies pay no income tax?  
+
+infected relatives say goodbye thru videocon 
+
+
+
+graphene absorbs Suns energy 90% efficiently
+
 china bans foreign entry 
 
 fed may get airlines stakes in exchange for cash 
