@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+3/27 
+china bans foreign entry 
+
+fed may get airlines stakes in exchange for cash 
+
+NBC CEO gets covid 
+
+USA leads world in cases 
+
+stocks rally again 
+
+USA space force launches satellite 
+anti jamming 
+
+internet slowing 
+
+powered ankle exoskeleton makes running easier 
+
+tesla to make ventilators at NYC facility 
+
+air BNB offers free housing for healthcare workers 
+
+two zoom stocks getting confused 
+
+
 3/25
 countries to hoard food 
 khasakstan stops wheat exports 
