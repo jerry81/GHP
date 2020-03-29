@@ -1,12 +1,43 @@
 [Back to 2020](2020index.md)
 
+3/29
+
+us death toll doubles in 2 days 
+
+trump backs off quarantine 
+
+momentum shifting to biden 
+
+cat gets cv 
+
+nyc 50k cases
+
+woman can detect parkinsons with smell 
+
+IT dying because of the cloud 
+
+dark matter holding galaxies together?
+
+for 750k a submarine can take you to challenger deep 
+7mi below earth surface
+
+google not participating in april fools this year 
+
+recovered patients testing positive again
+
+bosses buying surveilance software 
+
+goog donates 800M to fight cv 
+
+5G phones consume about 20% more power than 4g 
+
+
+
 3/27 
 
 cruise companies pay no income tax?  
 
 infected relatives say goodbye thru videocon 
-
-
 
 graphene absorbs Suns energy 90% efficiently
 
