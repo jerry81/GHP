@@ -1,5 +1,16 @@
 [Back to 2020](2020index.md)
 
+3/30
+fauci predicts 100-200k dead 
+
+Cuomo approval up 
+handling of covid 
+
+us space fence operational 
+radar system 
+
+
+
 3/29
 
 us death toll doubles in 2 days 
