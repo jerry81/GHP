@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+3/31
+trash industry prepares for infectious waste 
+
+las vegas 500 homeless sleep in a lot when vagrant infected 
+
+amazon worker leads strike vs virus, gets fired 
+
+DC mayor: 90 days in jail for leaving home 
+
+history: 1918 - spanish flu infects american soldier, 500M (1/3 of world pop) infected 
+50M died 
+AKA h1n1 
+started with birds 
+
+italy fears riots in south 
+lockdown extended from 4/3 to 4/15 at least 
+
+MS cloud services usage up 775%
+
+FDA approves the malaria drug for use on covid 
+
+2019: 60GW of wind power installed 
+
+GE factory workers demand to make ventillators 
+(jet engine factory)
+
+trump goal: keep death count at 100K 
+
+
+
 3/30
 fauci predicts 100-200k dead 
 
