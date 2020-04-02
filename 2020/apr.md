@@ -39,6 +39,7 @@ NBA Playoffs maybe in Vegas
 fauci getting death threats 
 
 4/1
+
 loss of smell and taste a major symptom 
 correlation : diabetes lung and heart disease 
 
