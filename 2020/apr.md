@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+4/3
+
+Chris Cuomo CNN anchor gets covid 
+
+1000 fine in TX for not masking 
+
+EU danger of breaking up 
+
+NYC legalizes electric bike and scooter 
+
+record 6.6M Americans filed for unemployment in a week
+
+blood test detects 50 types of cancer 
+
+1M cases 
+
+zoom bombing now a thing 
+
+AMZN stops sales of masks to public start offer to hospitals 
+
+spacex bans zoom
+
+youtube shorts to compete with tiktok 
+
+
+
 4/2
 
 mit 500usd ventillator design 
