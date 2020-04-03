@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+4/4
+5g conspiracies 
+people burn down 5g masts
+started by celebs claiming africa doesn't have virus 
+engineers threatened 
+
+trump refuses mask 
+cdc recommends 
+
+softbank cancels 1B wework rescue package 
+
+potential vaccine in works
+
+ai turns brain activity into text
+
+covid patients must wear ankle monitors 
+
+cats can infect e/o 
+
+
+
 4/3
 
 Chris Cuomo CNN anchor gets covid 
