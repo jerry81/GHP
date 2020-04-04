@@ -19,6 +19,12 @@ covid patients must wear ankle monitors
 
 cats can infect e/o 
 
+pink tests positive 
+
+physical forces can cause genomes to change 
+
+amazon Prime Day delayed 
+
 
 
 4/3
