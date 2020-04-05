@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+4/5
+china still 30 something new cases
+fear second wave 
+
+italy first drop in critical patients 
+
+30-40 year olds increasingly becoming critical cases 
+
+eclipse releases open source alternative to vs code 
+
+apple webcam security flaws 
+
+zoom enables waiting rooms by default to prevent zoom bombing 
+
+gov recommends upgrading chrome 80 right now due to security concerns 
+
+
 4/4
 5g conspiracies 
 people burn down 5g masts
