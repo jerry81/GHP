@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+4/6
+johnson hospitalized 
+
+Lousiana church services push on 
+
+small rural towns become hotspots 
+
+spacex doing well despite pandemic 
+
+unemployment 12-13%
+
+appl begins making millions of face shields 
+
+unqork CEO: whatever you can code in java we can do 200x faster 
+
+edge overtakes firefox in popularity 
+
+stanford to start large scale antibody testing 
+
+taiwan handled cv well bc it had experience during SARs 
+
 4/5
 china still 30 something new cases
 fear second wave 
