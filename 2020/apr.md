@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+4/7 
+miles long line for food bank florida
+
+McDonald's employee walkouts 
+
+Philippines man shot for not wearing mask 
+
+Nvidia contributing ai to fight covid 
+
+schools banning zoom switching to teams 
+
+bill Gates donates billions in covid vaccine 
+
+goog killing off mosquitoes using infected male mosquitoes 
+
+
+
 4/6
 johnson hospitalized 
 
