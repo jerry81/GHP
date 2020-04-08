@@ -1,5 +1,10 @@
 [Back to 2020](2020index.md)
 
+4/8
+fake news? coronavirus victims burned alive 
+
+
+
 4/7 
 miles long line for food bank florida
 
