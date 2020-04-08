@@ -3,6 +3,27 @@
 4/8
 fake news? coronavirus victims burned alive 
 
+AAPL IS&T department a total mess
+
+wework sues softbank 
+
+trump may withhold money from WHO 
+
+bezos donates 100M to food banks 
+zucks 25M 
+
+oil companies screwed, but wind and solar doing well
+
+global patent race - china overtakes usa for #1 position 
+
+uTorrent most used bt client by far 
+
+FB releases data about cv symptoms to researchers 
+
+Great barrier reef continues to get bleached 
+
+virus spreads to more than 50 amazon warehouses 
+
 
 
 4/7 
