@@ -16,6 +16,8 @@
   
   [Slack Learning](/tech/Slack.md)
   
+  [Wechat miniprograms](/tech/miniprogram.md)
+  
   
 ### Other
   
