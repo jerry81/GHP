@@ -39,4 +39,28 @@ display flex supported
 
 "json database"
 
-
+step 1: registration 
+must be able to read chinese 
+need a chinese person 
+need certification to publish 
+add developers 
+management dashboard publishes 
+wechat ide - preview and simulate app 
+preview on phone 
+master wechat IDE with tutorial 
+pages folder folders with js, json, wmxl, wxcss files 
+step 2.  structure of quickstart
+app.json - settings (like router)
+  - pages - like router 
+  - window - 
+  - tabBar if you want to add tabs 
+    - list - controls the tabs info and ordering
+app.wxss stylesheet 
+app.js 
+3.  lifecycle: 
+  onlaunch 
+  onLoad 
+  onShow 
+  onUnload, onReady, onHide 
+  
+can use console log anywhere 
