@@ -1,3 +1,5 @@
+[Go Home](../README.md)
+
 1 email address per app id 
 
 <view> similar to <div>
