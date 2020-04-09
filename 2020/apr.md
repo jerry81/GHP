@@ -1,5 +1,29 @@
 [Back to 2020](2020index.md)
 
+4/9
+grocery stores turning to robots 
+
+wave of evictions coming 
+
+Walmart employee dies 
+gets hit with wrongful death suit 
+
+feds want infected database 
+
+Ivanka to lead small business recovery efforts
+
+Linda Tripp Clinton whistleblower dead 
+
+Bernie out 
+
+Google bans zoom 
+
+big tech summer internships will be digital 
+
+cfos looking to keep wfh permanent post covid
+
+
+
 4/8
 fake news? coronavirus victims burned alive 
 
