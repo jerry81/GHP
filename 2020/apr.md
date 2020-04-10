@@ -1,5 +1,17 @@
 [Back to 2020](2020index.md)
 
+4/10
+799 dead in NYC 
+
+second naval carrier affected 
+
+most ny cases from EU
+
+giant Asian Hornets to invade USA 
+
+on an Indonesian ferry when it was said someone had covid 
+passengers grabbed life vests jumped off and swam to shore 
+
 4/9
 grocery stores turning to robots 
 
