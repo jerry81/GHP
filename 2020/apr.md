@@ -1,6 +1,18 @@
 [Back to 2020](2020index.md)
 
 4/10
+appl developing app clips
+preview wout installing 
+
+soil gets distinctive smell from bacteria 
+
+us considering banning china Telecom
+
+Braille Android keyboard 
+six Braille dots 
+
+fleece ware - fraud apps
+
 799 dead in NYC 
 
 second naval carrier affected 
