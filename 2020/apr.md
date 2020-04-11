@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+4/11 
+covid cases double in a week 
+
+second wave in summer?
+
+LA shut through may 
+
+beverly hills orders face masks to be worn in public 
+
+truckers struggling to find rest stops 
+
+1 in 10 on teddy roosevelt test positive 
+
+2021 olympics not guaranteed 
+
+drones take italians temp with sensors 
+
+smart toilet detect "analprint" and detect diseases 
+
+snowden warning: govs using covid to build "architecture of oppression" 
+
+covid deaths cross 100k 
+
+people opensourcing their patents to fight covid 
+
+IMF says covid is worst crisis since 1930s great depression 
+
+
+
 4/10
 appl developing app clips
 preview wout installing 
