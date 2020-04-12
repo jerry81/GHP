@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+4/12
+new covid symptom 
+strange buzzing throughout body 
+
+nyt article: behind Trump's failure containing covid 
+
+food banks stressed 
+
+America has 20% (most) covid deaths in world 
+
+NE America air pollution down 30%
+
+man falls in love with chatbot he chatted with for 8 months 
+
+
+RadioShack CEO is now a MD
+
+6 months away from covid vaccine?  
+
+right brain used for unfamiliar situations 
+left for familiar 
+
+german town 14% now infected and immune 
+blood tests show
+
+COBOL engineers in demand to save unemployment systems 
+
+burning man moved online 
+
 4/11 
 covid cases double in a week 
 
