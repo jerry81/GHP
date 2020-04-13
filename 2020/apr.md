@@ -1,5 +1,42 @@
 [Back to 2020](2020index.md)
 
+4/13
+total 30 cell tower attacks 
+
+
+
+racing team exploits virus to drive across country in 27 hrs 
+avg 103mph
+
+fauci: lives could have been saved if shutdown earlier 
+
+USA gave 3.7M to the Wuhan lab 
+experimented on bats 
+
+Trump skips daily covid press conference 
+
+iger fighting for Disney life 
+
+Newsom approval at 80%
+
+uss Theodore Roosevelt 10% infected 
+
+biden to choose running mate 
+sex assault accusation 
+
+no clear evidence for the malaria med working
+
+Pope now suggests ubi 
+
+red hat now under IBM
+
+qt 
+Foss ui widget toolkit 
+
+vint cert amazed internet holding up 
+
+
+ 
 4/12
 new covid symptom 
 strange buzzing throughout body 
