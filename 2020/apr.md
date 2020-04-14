@@ -1,9 +1,39 @@
 [Back to 2020](2020index.md)
 
+4/14
+
+teddy Roosevelt sailor dies 
+
+rodentoligist: rats starving due to lockdown 
+
+Africans in Guangzhou evicted and refused lodging 
+
+WHO covid 10x more deadly than swine flu 
+
+6GHz Wi-Fi boost speeds 
+
+spacex Lockheed docs released after contractor refuses to pay ransomware 
+
+wisconsin Foxconn buildings still empty 
+
+70 covid vaccines in development 
+3 in human trials 
+
+despite more traffic YouTubers paid less per ads from companies 
+
+AMZN needs to throttle online groceries customers 
+will hire 75k more 
+
+next iPhone to be similarly designed as iPad
+
+musk: 1M robo taxis by EOY 
+
+book: abolish silicon Valley 
+free tech from capitalism 
+
 4/13
+
 total 30 cell tower attacks 
-
-
 
 racing team exploits virus to drive across country in 27 hrs 
 avg 103mph
@@ -34,7 +64,6 @@ qt
 Foss ui widget toolkit 
 
 vint cert amazed internet holding up 
-
 
  
 4/12
