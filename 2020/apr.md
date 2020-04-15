@@ -1,5 +1,52 @@
 [Back to 2020](2020index.md)
 
+4/15
+CDC and fema plan for reopen 
+
+protests vs stay at home 
+
+social distancing until 2022?
+
+600 sailors on Teddy Roosevelt infected 
+
+new strain? 
+
+NYC over 10k dead 
+
+foot sores a sign 
+
+another USA covid death record 
+no peak 
+
+musk ventilators not delivered yet 
+
+SF underground nightclub shit down by popo
+
+fed giving out covid aid to corporations
+
+Dow great week but unemployment high 
+
+india world's biggest lockdown 
+
+trump halts funding WHO 
+gives airlines 25B bailout 
+
+github makes features free 
+
+500k zoom accounts sold on hacker forums 
+
+cisco 2.5B financing program for partners and customers 
+
+Disney furloughs 43k workers 
+
+vc firms still raise 21B in last quarter 
+
+softbank may be down 16.7 B 
+
+potential nasal vaccine for Alzheimer's
+
+
+
 4/14
 
 teddy Roosevelt sailor dies 
