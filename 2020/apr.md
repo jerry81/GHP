@@ -1,5 +1,50 @@
 [Back to 2020](2020index.md)
 
+4/16
+Michigan protesters against stay at home
+
+Ford buzzing wristbands to keep workers apart 
+
+1 in 7 new Yorkers have covid 
+
+trump: peak has passed 
+yet another death record 
+
+after the dog origin report dog abuses up 
+
+avg American 8 hrs of streaming per day 
+
+one poker night between 8 players infected all 
+
+cnn : skeleton staff 
+
+kellyanne Conway scientifically illiterate rant: 
+this is covid 19 not covid 1 
+
+6trillion spent on covid in USA 
+
+France peaks 
+
+Germany to begin loosening lockdown
+
+GM ventilators ready
+
+new Intel NUC 9
+
+frontier internet files for bankruptcy
+
+banks overloaded as many cashing stimulus checks 
+1200 payout 
+
+jedi contract went to MSFT 
+Trump intervention? 
+
+20 UK phone masts attacked over Easter 
+
+label required for games with loot boxes 
+
+states want to remove gun 3d print blueprints
+
 4/15
 CDC and fema plan for reopen 
 
