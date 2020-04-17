@@ -1,5 +1,9 @@
 [Back to 2020](2020index.md)
 
+4/17
+22 M unemployed 
+30k dead in USA
+
 4/16
 Michigan protesters against stay at home
 
