@@ -4,6 +4,36 @@
 22 M unemployed 
 30k dead in USA
 
+quarantine shaming 
+
+Trump plans reopen next month 
+
+aus maybe keep lockdown for one year 
+
+LV casinos reopen 
+
+blood test before flights?  
+
+brave new world 
+society where monogamy banned 
+
+minecraft huge visual update: ray tracing 
+
+appl next headphones modular w interchangeable parts 
+
+Amazon trying to get users to buy less 
+
+Sony planning less ps5 units this year 
+
+appl to change how macs charge 
+to improve battery health 
+
+eu looking into AAPL and goog tracking tech 
+
+UN drops tencent as teleconference carrier 
+
+
+
 4/16
 Michigan protesters against stay at home
 
