@@ -1,6 +1,11 @@
 [Back to 2020](2020index.md)
 
 4/18
+wind passes coal 
+
+AAPL music web exits beta 
+
+
 dogs could train to diagnose 
 750 an hr 
 
