@@ -4,8 +4,11 @@
 dogs could train to diagnose 
 750 an hr 
 
+nation running out of frozen pizza 
 
+TX eases restrictions
 
+NBA reopen wout fans 
 
 4/17
 22 M unemployed 
