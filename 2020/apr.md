@@ -1,5 +1,12 @@
 [Back to 2020](2020index.md)
 
+4/18
+dogs could train to diagnose 
+750 an hr 
+
+
+
+
 4/17
 22 M unemployed 
 30k dead in USA
