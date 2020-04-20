@@ -1,5 +1,40 @@
 [Back to 2020](2020index.md)
 
+4/20
+
+Nova Scotia shooting 
+13 dead ongoing 
+
+in controlled studies malaria drugs don't help 
+
+short selling highest in years 
+
+study shows covid survives high temps 
+
+African Americans more vulnerable 
+
+Spain lockdown extended 
+total deaths over 20k
+
+silicon Valley uniting against covid: aapl goog team up on tracking app 
+fb and Salesforce masks 
+Bezos 100m 
+Dorsey 1B 
+
+origin conspiracies target bill Gates 
+
+o rielly free eBook prototype to product 
+
+air force: flying cars by 2023 
+
+tor project lays off 37% of staff 
+
+will surveillance scale back after pandemic? 
+
+dinosaurs DNA possibly found 
+
+Americans scared of public transit turn to bikes 
+
 4/18
 wind passes coal 
 
