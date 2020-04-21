@@ -1,5 +1,41 @@
 [Back to 2020](2020index.md)
 
+4/21
+fauci: need to triple testing 
+
+nurses protesting at white House 
+
+AMZN workers plan nationwide protest 
+
+states running out of unemployment cash 
+
+Branson wants bailout 
+
+bolsonaro coughing 
+
+hawaaians: tourists stay out!
+
+djokovic antivac? 
+
+Israel gantz and Netanyahu team up for emergency gov 
+
+italy over the peak?  
+
+arod and JLo engaged 
+may buy Mets 
+
+FB gaming app launches 
+
+NY allows marriage over videoconferencing
+
+xcode for iPad 
+
+china testing digital currency 
+
+fb profiles sold on dark web 
+
+
+
 4/20
 
 Nova Scotia shooting 
