@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+4/22
+more deaths in month of covid than in year of flu 
+
+states sue CCP 
+
+er docs facing pay cuts 
+
+30 different strains 
+
+oil lowest in history 
+
+Netflix 16M new subscribers
+
+Ellen DeGeneres bad personality
+
+Michael Moore new film 
+planet of the humans 
+
+kim Jong un health issues 
+
+trump suspends immigration for 60 days 
+
+telecom claims net working during pandemic bc net neutrality was killed 
+
+whole foods tracking unionization likelihood with app 
+
+Alibaba invest 28B in cloud services 
+covid demand 
+
 4/21
 fauci: need to triple testing 
 
