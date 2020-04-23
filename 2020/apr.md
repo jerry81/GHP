@@ -1,5 +1,40 @@
 [Back to 2020](2020index.md)
 
+4/23
+USA top vaccine doc ousted bc he opposed malaria vaccine 
+
+Vegas opens 
+calls itself control group 
+
+Kim yo Jong next in line 
+金与正
+
+woman self isolates in Antarctica 
+with 5 other men in research team 
+
+nurses protesting against lockdown protesters 
+
+amazon price gouging? 
+
+in person court trials to move online?  
+
+researchers: use invasive ventilation sparingly 
+
+900k customers leave at&t TV 
+
+milan plans reduced car usage 
+
+spacex another 60 starlink satellites 
+
+magic leap which has raised 2 B lays off 1000 and 
+drops 2C 
+
+UK testing blood transfusion as treatment 
+
+maven GM car share service shutting down 
+
+
+
 4/22
 more deaths in month of covid than in year of flu 
 
