@@ -1,5 +1,37 @@
 [Back to 2020](2020index.md)
 
+4/24
+great depression level unemployment
+
+packed plane to NYC with no masks 
+
+lockdown making relationships worse 
+
+Richard Gere baby at 70
+
+Instacart online groceries expanding quickly 
+
+starlink public beta in 6 months 
+
+quantum comms between submarines?  
+
+boston dynamics of crazy robot dog fame 
+sends robots to help hospitals 
+
+goog slashes marketing budget 
+freeze hiring 
+
+insect numbers down 25%
+
+cs:go and tf2 code leaks online 
+security concerns 
+
+zoom users at 300M rising quickly despite privacy woes 
+
+us accuses Chinese agents of sowing seeds of covid panic to increase sedition 
+
+iss to experiment in quantum lasers 
+
 4/23
 USA top vaccine doc ousted bc he opposed malaria vaccine 
 
