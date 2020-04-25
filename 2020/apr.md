@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+4/25
+51K us deaths
+
+cali heat wave driving people to beach 
+
+trump disinfectant injection press conference snafu 
+
+fda issues warnings of chloroquine and hydroch 
+
+at&t ceo to step down 
+
+mag: president is unwell 
+
+many beleive vaccine exists but is being withheld 
+
+160K nintendo accounts hacked 
+
+AMZN WFH workers asked to return to work
+
+AAPL GOOG pledge to end tracker app when covid ends 
+
+double space after period is now considered an error in ms word 
+
+goog flutter 2M devs 
+
+vaccine trials in oxford 
+
+
+
 4/24
 great depression level unemployment
 
