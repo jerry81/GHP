@@ -1,5 +1,41 @@
 [Back to 2020](2020index.md)
 
+4/26
+Michigan lawmaker wears confederate flag mask 
+
+lifeguards no mouth to mouth 
+
+Californians flock to beach 
+
+no evidence recovering gives immunity 
+WHO
+
+rolling Stones virus anthem 
+
+Belgium highest death rate in world 
+relaxes lockdown 
+
+michael Moore planet of the humans to be free 
+
+spike in poison control center calls 
+since Trump's comments 
+
+ad firms want to use deepfake tech 
+
+fb messenger rooms 
+teleconference app 
+
+intel CEO Bob swan: in crisis bad companies die 
+good companies grow 
+
+israel stops phone tracking 
+
+trump orders shipping prices raised 
+
+bezos owns anti trump Washington Post 
+so trump and bezos at odds 
+
+
 4/25
 51K us deaths
 
