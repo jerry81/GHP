@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+4/27
+Hawaii stay at home until 5/31
+
+covid takes 13 years off life?  
+
+stay at home ends in some states 
+
+Germany begins phone tracking 
+
+Branson wants to sell virgin Atlantic 
+
+Ecuador hit hard 
+
+space force first weapon: satellite jammer 
+
+amd beats intel in performance
+
+dyson spends 25M on ventilator
+
+firefox bug bounty at 10K 
+
+tesla autopilot upgrade: traffic lights and stop signs 
+
+
+
 4/26
 Michigan lawmaker wears confederate flag mask 
 
