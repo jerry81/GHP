@@ -1,5 +1,37 @@
 [Back to 2020](2020index.md)
 
+4/28
+a leader of anti lockdown protests gets covid 
+
+second Navy ship outbreak 
+
+1 in 4 in NYC positive for antibodies 
+
+election in November 
+
+Trump covid briefings
+45 min congrats self 
+2 hrs attacks 
+4 mins condolences 
+
+Michelle Obama Netflix movie 
+
+carnival cruises bailed out 
+
+la cases doubled in week
+
+nyc closing some roads to create recreational space 
+
+aapl delays 2020 iphone production
+
+oxford in lead for covid vaccine 
+
+gates Foundation to focus on covid 
+
+349B payment protection program
+
+Germany right to WFH 
+
 4/27
 Hawaii stay at home until 5/31
 
