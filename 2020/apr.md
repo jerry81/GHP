@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+4/29
+doc pushes vitamin treatment 
+convicted of fraud 
+
+pence mask less at Mayo Clinic 
+
+AMZN target Walmart FedEx to strike 
+
+Chinese restaurant in VA vandalized.  
+locals come out to support 
+
+GitHub used to store censored covid articles 
+owners arrested 
+
+zoom owned by Eric yuan 
+chooses Oracle cloud 
+
+nso group 
+Israeli provides surveillance and hacking 
+worker used surveillance to pursue love interest
+
+
+
 4/28
 a leader of anti lockdown protests gets covid 
 
