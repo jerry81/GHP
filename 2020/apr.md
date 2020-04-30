@@ -1,5 +1,40 @@
 [Back to 2020](2020index.md)
 
+4/30
+60k deaths in us 
+
+federal prison outbreak 
+
+I am not fucking losing to Joe Biden 
+
+fatal car crashes actually have increased 
+
+musk against stay at home 
+
+4 sec workout? 
+
+Lyft and Uber layoffs 
+
+goog shoelace shut down 
+social networking 
+
+us gdp shrinking at 4.8% start of recession? 
+
+3B people using fb ig WhatsApp or messenger 
+
+some school district to end year early 
+say remote too tough 
+
+thinkpads will have Linux pre installed 
+
+tech law: ai cannot be inventor 
+
+chinese scientists: virus likely to come back every year 
+
+google meet to release and compete with zoom 
+
+
+
 4/29
 doc pushes vitamin treatment 
 convicted of fraud 
