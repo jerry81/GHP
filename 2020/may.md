@@ -1,3 +1,10 @@
+5/4
+developers like to contribute to open source 
+
+pandemic shows big tech dominating economy 
+
+
+
 5/3 
 Elon musk weird tweets 
 
