@@ -1,9 +1,30 @@
+5/5
+beef shortage in USA 
+
+store clerk killed over mask 
+
+collective rage predicted by journalist
+
+Ferrari worth more than Ford 
+
+china nuclear stealth bomber 
+
+licking sprees a thing 
+
+Amazon VP quits cites 
+chickenshit whistleblower firings 
+
+new network roles invented by Cisco 
+
+appl obsoletes butterfly keyboard 
+new Mac uses magic keyboard 
+
+college students demand refunds for shitty online classes 
+
 5/4
 developers like to contribute to open source 
 
 pandemic shows big tech dominating economy 
-
-
 
 5/3 
 Elon musk weird tweets 
