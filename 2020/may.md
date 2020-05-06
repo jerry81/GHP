@@ -1,3 +1,31 @@
+5/6
+shopper uses kkk hood as face covering 
+San Diego vons supermarket 
+
+Airbnb layoffs 
+quarter of workforce 
+
+for extra cost airline can guarantee middle seat next to you empty 
+
+kernel neuroscience startup wants to make mind reading helmets 
+
+covid lingering on some patients for 40 days 
+scientists puzzled 
+
+artificial leaf concept 
+turn sunlight to fuel 
+
+apple sues corellium 
+iPhone virtualization 
+
+new oculus quest headset 
+
+uk highest death toll in EU 
+
+new covid strain even more contagious 
+
+wework sues softbank
+
 5/5
 beef shortage in USA 
 
