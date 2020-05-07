@@ -1,3 +1,17 @@
+[2020index.md](Back to 2020)
+
+5/7
+infection parties in Walla Walla 
+Washington State 
+
+scientists disable obesity gene 
+
+green Beret captured by Maduro 
+
+ERs strangely empty 
+
+black mirror writer says we already in dystopian 
+
 5/6
 cruise and musk to collab on movie in space 
 
