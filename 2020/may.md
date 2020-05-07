@@ -1,6 +1,30 @@
 [2020index.md](Back to 2020)
 
 5/7
+cam4 exposes 10B records 
+
+microprose back! 
+
+Uber lays off 3700
+
+black hole only 1000 light years away from earth 
+
+GitHub code spaces 
+code in browser 
+
+fb uses 1.5M Reddit posts to train chatbot 
+
+Samsung corruption
+
+Samsung grew quickly due to no union policy 
+
+Walmart 2 hr grocery delivery 
+
+Pakistani mobile data leaked 
+
+two officers tackle lady dressed as stormtrooper 
+outside star Wars shop 
+
 infection parties in Walla Walla 
 Washington State 
 
