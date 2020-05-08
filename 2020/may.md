@@ -1,4 +1,43 @@
-[2020index.md](Back to 2020)
+[Back to 2020](2020index.md)
+
+5/8
+33M total layoffs 
+
+travel from NYC seeded outbreaks
+
+video of 2 whites chasing and killing black emerges 
+
+fauci sexual assault? 
+
+Michael Flynn security advisor withdraws 
+guilty plea for treason and walks 
+
+ink scape finally releases 1.0
+
+Amazon: sick leave doesn't apply to warehouse 
+
+cloudflare CEO now a billionaire 
+
+MS GitHub hacked 500G stolen
+
+goog lens copy and paste handwritten notes to computer 
+
+goog toronto Hi tech lab cancelled 
+
+Neiman Marcus bankruptcy
+
+twitch talk shows and dating 
+
+zoom acquires keybase 
+encryption company 
+
+MBP stage lighting issue gets AAPL sued 
+
+herpes Alzheimer's link found 
+
+volvo all in on autonomous driving 
+
+
 
 5/7
 cam4 exposes 10B records 
