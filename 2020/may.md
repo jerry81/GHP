@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+5/9 
+100M not in labor force, record high 
+
+dems proposal: 2000 handout every month 
+
+the lynchers in Georgia found guilty
+
+white House infections 
+
+UFC is on this weekend 
+
+two captured American soldiers in Venezuela charged with terrorism 
+
+american soil increasingly foreign owned 
+
+Uber lost 2.9B drops bike and scooter biz 
+
+mask with valve doesn't filter exhale 
+
+goog fb let workers wfh rest of year 
+
+goog go getting popular 
+
+covid found in semen 
+
 5/8
 33M total layoffs 
 
