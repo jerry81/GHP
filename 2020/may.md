@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+5/10
+mandatory Tesla factory shutdown 
+musk threatens to pull out of CA 
+
+stocks rallying even though economy tanking 
+
+x37b spaceship microwave beam powers drones 
+
+Brazil 10k deaths 
+
+3d printed n95 mask 
+
+working from home actually adding an hr of work 
+
+GPS faces interference from 5G 
+
+DEF CON vegas hacker convention called off 
+
+goog consolidates all communication apps 
+into single team 
+
 5/9 
 100M not in labor force, record high 
 
