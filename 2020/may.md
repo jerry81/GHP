@@ -1,5 +1,56 @@
 [Back to 2020](2020index.md)
 
+5/11
+covid infects more men
+
+pence self isolates
+
+car comeback spurs oil recovery
+
+shopping in swastika masks 
+
+china to us
+ As Lincoln said, 
+you can fool some of the people
+ all the time and fool all the people
+ some of the time, but you cannot
+ fool all the people all the time
+
+ai needs new semiconductors
+
+cpu -> gpu -> ?? 
+
+USA urging twn semiconductor to build USA factory
+
+dozens more 5g attacks 
+
+tesla sues to reopen plant 
+
+cinnamon rated best Linux desktop
+
+americans killing all bees bc of murder hornet hype 
+
+43% want to continue wfh 
+
+python uses 59% said they used Python
+ for data analysis, "followed by web
+ development at 51%, and machine 
+learning at 40%," reports ZDNet: 
+Other major applications of Python
+ include DevOps and
+ system administration (39%), 
+programming web tools like crawlers (37%),
+ software testing (31%), education (26%),
+ software prototyping (25%), 
+network programming (21%),
+ desktop development (18%), 
+computer graphics (14%), 
+embedded system development (8%),
+ game development (7%) 
+and mobile development (6%).
+
+
+
 5/10
 mandatory Tesla factory shutdown 
 musk threatens to pull out of CA 
