@@ -1,5 +1,42 @@
 [Back to 2020](2020index.md)
 
+5/12
+nih: multiple vaccines needed
+
+Trump tells Asian reporter ask China 
+
+80k us deaths
+
+masks required in white House 
+
+book of revelations
+
+kamala VP? 
+
+stocks up 2500%
+
+Uber fires 3500 in 3 min zoom call
+
+slack strip location data from photos 
+
+elon musk restarts factory defying orders 
+
+bitcoin mining reward halved again 3rd in history 
+
+byd and Foxconn quickly and effectively switched to mask production 
+
+Feynman: nature isn't classical it is quantum mechanical
+
+people making money on animal Crossing 
+
+semiconductors manufacturing moving back to USA 
+
+AMZN may buy AMC
+
+bitcoin tumbles to 8600
+
+
+
 5/11
 covid infects more men
 
