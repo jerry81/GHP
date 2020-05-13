@@ -1,5 +1,40 @@
 [Back to 2020](2020index.md)
 
+5/13
+LA shut till Aug
+
+no school in fall? 
+
+wfh more productive
+
+Twitter workers can wfh foreva
+
+Mexico violence up
+
+Americans renouncing citizenship
+
+fb mods developed PTSD and win lawsuit 
+
+quibi streaming startup which raised 1.8B 
+blames rough start on covid 
+
+goog play music to shut down 
+transfer to YouTube music 
+
+aoe2 rerelease very popular 
+
+telegram abandons block chain 
+
+amzn UV equipped robot that kills covid 
+
+ransomware hits ATM company 
+Diebold Nixdorf 
+
+the office played out over slack 
+
+AMCs stock way up bc of AMZN acquisition rumors 
+
+
 5/12
 nih: multiple vaccines needed
 
