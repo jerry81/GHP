@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+5/14
+TX becomes hotspot
+
+Sept UN meeting likely to be cancelled
+
+American Airlines stock at new low 
+
+restaurants put mannequins to enforce distancing 
+
+chile total lockdown 
+
+Kickstarter workforce down 40%
+
+white supremacist website doxxes interracial couples 
+
+chrome tab groups 
+
+alienware area 51 m project failed 
+modular laptop 
+
+Amazon bonus pay for front line workers
+
+unreal Engine 5 even more polygons new lighting 
+
+chinese hackers targeting virus research? 
+
+trump supports musk on Tesla reopening 
+
 5/13
 LA shut till Aug
 
