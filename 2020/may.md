@@ -1,5 +1,45 @@
 [Back to 2020](2020index.md)
 
+5/15
+38M jobless 
+
+more Biden gaffes 
+
+homeschool after pandemic 
+
+zoom porn bomb during church service
+
+6th AMZN death 
+
+isolation in haunted house? 
+
+Bezos first trillionaire 
+by 2026 
+Twitter outrage 
+
+legal workaround for huawei: update existing models can keep goog services 
+
+new Tesla battery will bring price down to equal gas 
+new terafactories 30x bigger than gigs factory in NV 
+
+autocompleters help coders write 25% less code 
+
+TSMC to build factory in AZ 
+
+nvidia ampere ai chip 
+
+renewables eclipse coal in USA 
+
+fb 1B internet cable to Africa 
+undersea cable resurgence 
+
+jp Morgan begins servicing crypto 
+
+pixel 4 failure causes camera lead to quit 
+
+airpods studio 
+
+
 5/14
 TX becomes hotspot
 
