@@ -1,5 +1,32 @@
 [Back to 2020](2020index.md)
 
+5/16
+more funds: 3 trillion
+
+armed robberies on rise, criminals taking advantage of mask mandate 
+
+glass walls around casino tables 
+
+samsung galaxy uses quantumn tech 
+
+tesla terafactory will open in austin tx 
+
+16% drop in retail (record for april)
+
+second wave in china, korea
+
+driverless cars were supposed to go mainstream this year 
+
+china prepares to boycott apple, qualcomm, boeing, and cisco in retaliation for huawei 
+
+7 amazon deaths 
+
+video game sales set record in quarter 
+
+us blocks huawei shipments 
+
+
+
 5/15
 38M jobless 
 
