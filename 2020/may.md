@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+5/17
+la building explosion
+
+arbery case plot twist: killer cooperated with police 
+
+MLB set to return
+
+goog more antitrust cases 
+
+pentagon: USA would lose to China in Pacific 
+
+Germans protesting lockdown 
+
+more college students want refunds 
+
+nasa may work on warp drive aka moving thru folded space 
+
+science fiction may build resiliency in consumers 
+
+
+
 5/16
 more funds: 3 trillion
 
