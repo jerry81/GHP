@@ -1,5 +1,18 @@
 [Back to 2020](2020index.md)
 
+5/18
+FL drivein music festival
+
+eu predicts second wave in winter 
+
+Warren Buffett screwing up 
+
+avg adult 34 yrs in front of screen 
+
+boring company builds second Vegas tunnel 
+
+more Russian interference in election 
+
 5/17
 la building explosion
 
