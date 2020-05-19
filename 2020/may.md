@@ -1,5 +1,44 @@
 [Back to 2020](2020index.md)
 
+5/19
+Dow up 911 bc of vaccination hope
+
+90k covid deaths 
+
+Trump taking hydroxychloroquine 
+
+Trump to judge: Russia inquiry was Obama plot
+
+Brazil hospitals overwhelmed 
+
+door dash lost 450M last year 
+softbank backed 
+
+sudoku as spectator sport? 
+
+disney leader to become tiktok ceo
+
+crypto wallets can be hacked 
+
+square also allows permanent wfh 
+
+china pumps 2.2B into chip maker 
+
+100 countries want thorough investigation into covid handling 
+
+softbank loses 17.7B on Uber wework 
+
+minecraft play up 
+
+3000 more Uber layoffs 
+
+FedEx vs AMZN FedEx teams up with MSFT 
+
+protest at Tesla calls to arrest Elon 
+
+AAPL stores reopen this week 
+
+
 5/18
 FL drivein music festival
 
