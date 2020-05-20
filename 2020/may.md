@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+5/20
+Canada Mexico borders closed 
+
+new outbreak in churches 
+
+Joe Rogan 100M deal with Spotify 
+
+wpm windows package manager 
+
+AMZN to buy bankrupt JC penny
+
+carbon emissions down 17%
+
+German intelligence no longer allowed to spy on global internet 
+
+tab groups to chrome 83 
+
+sd card speed boost coming sd 8.0
+
+zuck warns against Chinese internet controls example 
+
+nadella: wfh damaging for mental health
+
+africans purged from China 
+black Panther retaliates against Chinese restaurant
+
+peter Navarro: chinese sent around world to seed virus 
+
 5/19
 Dow up 911 bc of vaccination hope
 
