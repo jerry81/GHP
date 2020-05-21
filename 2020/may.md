@@ -1,5 +1,42 @@
 [Back to 2020](2020index.md)
 
+5/21
+sharp rise in home buying 
+
+Ford factory worker tests positive, shuts down 
+
+Tyson Texas factory workers infected
+
+3m 1B covid contract with gov 
+
+fb stock all time high 
+
+Paris riot police come out 
+
+Spain unrest 
+
+Intel comet lake : last 14nm chip 
+
+coinbase wfh first 
+
+two dams in MI breached 
+
+Senate Bill would remove Chinese companies from stock MKT 
+
+india Bangladesh cyclone 
+
+apple may stop bundling headphones w iPhone 
+
+appl whistleblower complained abt Emps listening to siri conversations
+
+recovered covid patients not infectious
+
+nasa human spaceflight chief resigns just before manned spacex launch 
+no humans launched for 9 days 
+
+ifixit launches huge database 
+for ventilators and other medical supplies 
+
 5/20
 Canada Mexico borders closed 
 
