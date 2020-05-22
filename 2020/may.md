@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md)
 
+5/22
+china plan to take over HK
+
+GDPR general data protection regulations
+
+aapl smart glasses 499usd 
+
+fb tens of thousands of jobs to be remote 
+Shopify too 
+
+aapl and goog roll out covid tracking app 
+
+white lines Netflix show abt Ibiza 
+
+ibiza parties have nude dwarves and coke 
+
 5/21
 sharp rise in home buying 
 
