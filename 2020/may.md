@@ -1,5 +1,16 @@
 [Back to 2020](2020index.md)
 
+5/23
+America reopening this summer
+
+take longer breaths and breathe thru nose 
+
+spacex manned launch to iss 
+
+Nvidia ai recreates pacman from video 
+
+
+
 5/22
 china plan to take over HK
 
