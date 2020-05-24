@@ -1,4 +1,23 @@
 [Back to 2020](2020index.md)
+5/24
+la is now hotspot 
+
+deaths almost 100k
+
+Trump nuke testing 
+
+spike Lee movie abt black Vietnam vets 
+
+Sweden highest eu death rate 
+ignored lockdown 
+
+plant based meat alternative demand up 
+
+us invests in new AstraZeneca vaccine 
+
+UC system stops using Sat test 
+
+heic smaller than other image formats 
 
 5/23
 America reopening this summer
@@ -8,6 +27,8 @@ take longer breaths and breathe thru nose
 spacex manned launch to iss 
 
 Nvidia ai recreates pacman from video 
+
+ibm cuts jobs 
 
 
 
