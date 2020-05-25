@@ -1,4 +1,31 @@
 [Back to 2020](2020index.md)
+
+5/25
+NBA in talks to resume season
+
+fisherman wharf fire 
+
+china brink of cold War w USA 
+
+HK protests met w tear gas
+
+bolsonario to be impeached? 
+
+UK may drop Huawei from 5g networks 
+
+startup coder: cloud based ide 
+
+Wikipedia toxic editing battles 
+
+c and c++ insecure due to memory exploits 
+
+medmen pot startup falls 
+political scandal legal troubles 
+fraud 
+unicorn startup valued at 1B plus 
+reckless spending 
+CEO has already resigned 
+
 5/24
 la is now hotspot 
 
