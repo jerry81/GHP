@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+5/26
+anxiety and insomnia meds up
+
+France transgender mayor 
+
+Trump much more ad spending than Biden 
+
+parrot to testify in court 
+
+ms teams launches 
+
+NASA space x launch is a go 
+
+Japan controlled spread without stay at home
+
+
+
 5/25
 NBA in talks to resume season
 
