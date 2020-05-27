@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+5/27
+covid data cover up 
+
+Hollywood hills house parties out of control
+
+black man killed by cop kneeling on neck
+
+Swiss brothel bans sex positions
+
+Dr birx covid task force shocked by parties
+
+goog to reopen offices 6/6
+
+looking glass holographic display 
+
+India contact tracing app goes live 
+
+slack complains MS trying to kill them 
+
+gta6 in 2023?
+
+teams promised to be bigger than windows 
+
+youtube deleted comments against ccp, claimed it was an accident 
+
+
 5/26
 anxiety and insomnia meds up
 
