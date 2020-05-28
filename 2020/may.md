@@ -1,5 +1,37 @@
 [Back to 2020](2020index.md)
 
+5/28
+100k dead in merica
+
+spacex launch postponed to Saturday
+
+Simon Cowell indoor smoking habit 
+
+Dow at 25k
+
+George Floyd protests 
+
+HK protests build riot police flood in 
+
+fauci speaks against hydrochlroquine
+
+AMZN to buy self driving zoox
+
+fuzzing tools send large amts of random data 
+
+hwawei cfo may be extradited to USA 
+
+Boeing 12k jobs cut 
+
+amzn runs propaganda on local news 
+
+twitter fact checks Trump tweets 
+Trump threatens shutting down Twitter 
+
+hbo max streaming to use human curation vs Netflix automated 
+
+aggressive rats look for new food sources 
+
 5/27
 covid data cover up 
 
