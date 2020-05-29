@@ -1,5 +1,25 @@
 [Back to 2020](2020index.md)
 
+5/29
+Trump tweet video: only good Democrat is a dead Democrat 
+
+Minneapolis looting at target 
+
+anti 5g device is actually just a USB memory stick 
+
+raspberry Pi 8 g of ram 
+
+china officially says market and lab not origins of virus 
+
+typescript beloved in 2019
+
+zuck thinks social media should not fact check politics 
+
+study shows gut bacteria can control brain activity
+
+couple posts Avengers themed orgy as joke gets 
+inquiries , decides to really host it 
+
 5/28
 100k dead in merica
 
