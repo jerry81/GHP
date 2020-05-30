@@ -1,5 +1,18 @@
 [Back to 2020](2020index.md)
 
+5/30
+MN 3Rd precinct burned down 
+
+Trump will use military 
+
+CNN vandalized 
+
+officer charged with 3Rd degree murder
+
+Trump terminates relations with who today 
+
+biotech startup wants to take samples of genetic outliers 
+
 5/29
 Trump tweet video: only good Democrat is a dead Democrat 
 
