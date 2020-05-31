@@ -1,5 +1,12 @@
 [Back to 2020](2020index.md)
 
+5/31
+spacex liftoff 
+
+8 AMZN workers died of covid 
+
+
+
 5/30
 MN 3Rd precinct burned down 
 
