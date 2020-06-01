@@ -1,11 +1,24 @@
 [Back to 2020](2020index.md)
 
+6/1
+SF curfew extended indefinitely 
+
+white cop on suicide watch 
+
+cash the new typhoid mary
+
+Walmart anti theft AI buggy 
+
+food delivery apps losing money even w pandemic 
+
+Dutch Chinese restaurant tries two robot waiters 
+
+way more self driving minivans target cargo deliveries
+
 5/31
 spacex liftoff 
 
 8 AMZN workers died of covid 
-
-
 
 5/30
 MN 3Rd precinct burned down 
