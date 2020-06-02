@@ -1,4 +1,4 @@
-[Back to 2020](../2020index.md)
+[Back to 2020](2020index.md)
 
 6/2
 gun sales up 80% 
