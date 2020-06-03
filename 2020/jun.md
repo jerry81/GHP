@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+6/3
+Trump photo op at church, priests criticize exploitation
+
+military brought to DC
+
+police kneel in front of protesters to show support 
+
+5B lawsuit against goog for data tracking 
+
+Instagram black square posts support blacks 
+
+trump thinks social media has bias against conservatives
+
+who: china stalled on releasing detailed covid patient info 
+
+university online learning systems overwhelmed 
+
+dod tried three times to implement ipv6 
+
+covid loss of taste and smell 
+
+5g huge memory consumption
+fix coming soon 
+
+
+
 6/2
 gun sales up 80% 
 
