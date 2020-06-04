@@ -1,5 +1,29 @@
 [Back to 2020](2020index.md)
 
+6/4
+quibi wants execs to take pay cut 
+
+joker mask rioter sets fire to police car 
+easily identifiable from neck tattoo
+
+4 officers all charged with 3dm
+chauvin upgraded to second up to 25 yrs
+
+markets not caring about surrounding world called nihilistic
+
+canada locks Huawei out 
+
+quant fund thrown off by covid 
+quantitative plus old school stock picking 
+
+trends: facial recognition gold Rush
+
+snapchat refuses to promote Trump content 
+
+delivery drones may take the bus (Stanford project)
+
+
+
 6/3
 Trump photo op at church, priests criticize exploitation
 
