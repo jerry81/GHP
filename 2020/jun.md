@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+6/5
+LAPD budgets slashed 
+
+police quit to join protests 
+
+black trans beating in MN 
+
+usd poised to collapse 
+
+Israel outbreak 
+
+strawberry Moon in June 
+
+July 31 nba season reopening 
+
+musk vs Amazon 
+tweets time to break up AMZN
+
+model 3 best selling car in q1
+
+slack partners with AMZN take on MSFT teams 
+
+60 more starting satellites launched 
+
+CES is on again next year 
+
+self sealing granite for nuke waste storage 
+
+uk to allow 3m HK in 
+
 6/4
 quibi wants execs to take pay cut 
 
