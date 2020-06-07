@@ -1,5 +1,19 @@
 [Back to 2020](2020index.md)
 
+6/6
+mn mayor refuses to defund police 
+
+Buffalo cops shove 75 year old man 
+
+stocks soar everytime black man is killed 
+fox News apologizes 
+
+spacex c++ chromium is and Linux 
+
+Russia Arctic fuel leak 
+
+
+
 6/5
 LAPD budgets slashed 
 
