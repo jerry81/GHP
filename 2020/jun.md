@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md)
 
+6/7
+black face protesters get arrested 
+
+Minneapolis pledge to dismantle PD
+
+bush to stop supporting trump
+Colin Powell and mitt Romney
+
+prince Andrew to be extradited to be questioned abt Epstein 
+
+emotional support llama joins protests 
+
+remote learning called a failure 
+
+bio : flashing lights treatment for Alzheimer's
+
+urban foxes may become domesticated
+
+reusable rockets next step in rocketry 
+
+Iceland eliminated covid 
+
 6/6
 mn mayor refuses to defund police 
 
@@ -11,8 +33,6 @@ fox News apologizes
 spacex c++ chromium is and Linux 
 
 Russia Arctic fuel leak 
-
-
 
 6/5
 LAPD budgets slashed 
