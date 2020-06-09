@@ -1,5 +1,39 @@
 [Back to 2020](2020index.md)
 
+6/8
+600 NYPD yo resign? 
+
+more blacks learning to use guns 
+
+NYC unlocked stocks soar 
+
+Hollywood to use CGI to handle sex scenes 
+
+Kentucky gov : black residents 100% health coverage 
+
+sex island resort w Vegas girls 
+price 4000 usd 
+2 girls unlimited sex can swap
+four day trip
+
+crossfit founder Greg Glassman gets in Twitter trouble 
+floyd19
+
+us Congress dems take a knee 
+
+us eco officially in recession 
+
+brain is like analog computer 
+mit invents memristors which mimic brain synapses 
+
+tiktok used as much as YouTube in some western countries
+
+NZ now covid free 
+
+ai drone vs human pilot dogfight 
+
+
+
 6/7
 black face protesters get arrested 
 
