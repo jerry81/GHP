@@ -1,4 +1,24 @@
 [Back to 2020](2020index.md)
+6/10
+massive protest in Hollywood 
+yg turns to f tha police MV 
+
+bloody pig head left outside pd 
+
+NYC to paint BLM across streets 
+
+CNN ratings surge 
+
+next phase of recession bankruptcies
+dollar crash 
+
+Camden NJ dissolved pd 7 yrs ago and crime in CMD has halved 
+
+police sound cannons can cause permanent hearing loss 
+
+cali reopen movie theaters
+
+
 
 6/8
 600 NYPD yo resign? 
