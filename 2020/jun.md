@@ -18,6 +18,18 @@ police sound cannons can cause permanent hearing loss
 
 cali reopen movie theaters
 
+300k Nintendo accts hacked 
+
+million mile battery from Chinese amperex tech 
+
+Mac moves from Intel to arm chips 
+
+isolation causes neural craving like hunger 
+
+ibm drops out of facial recognition biz 
+
+analyst: appl should acquire duckduckgo 
+pressure Google 
 
 
 6/8
@@ -51,7 +63,6 @@ tiktok used as much as YouTube in some western countries
 NZ now covid free 
 
 ai drone vs human pilot dogfight 
-
 
 
 6/7
