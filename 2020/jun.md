@@ -1,4 +1,20 @@
 [Back to 2020](2020index.md)
+
+6/11
+deficit tops 26 trillion 
+
+spike Lee da five bloods epic nam movie 
+
+Nasdaq sets new high 
+
+Tesla stock at 1000
+
+apple hits 1.5 trillion MKT value 
+
+spherical solar panels 
+
+
+
 6/10
 massive protest in Hollywood 
 yg turns to f tha police MV 
