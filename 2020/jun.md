@@ -4,6 +4,7 @@
 new civil war 
 historical figures under attack
 Columbus Washington Jefferson
+reverence to confederate army seen as offensive 
 
 tv execs pressured to cut sex and fight scenes
 
@@ -11,6 +12,25 @@ Dow down 1800
 
 Tesla to become most valuable car company
 
+medium hugs more effective than tight hugs 
+
+snooze button found in mice brains 
+
+macroscopic world governed by gravity 
+microscopic by quantum mechanics
+
+magic removes racist cards 
+
+ps5 unveiling 
+
+biden to attack fb speech policies 
+
+Bose Einstein condesates created 
+
+youtube and apple bunch of emergency BLM patches 
+
+police wants to buy facial recognition from MSFT 
+MSFT refuses 
 
 
 6/11
