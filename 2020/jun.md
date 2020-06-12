@@ -1,5 +1,18 @@
 [Back to 2020](2020index.md)
 
+6/12
+new civil war 
+historical figures under attack
+Columbus Washington Jefferson
+
+tv execs pressured to cut sex and fight scenes
+
+Dow down 1800
+
+Tesla to become most valuable car company
+
+
+
 6/11
 deficit tops 26 trillion 
 
