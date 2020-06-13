@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+6/13
+returning to work during covid peak 
+
+new spike blamed on Mexico 
+
+Minneapolis votes unanimously to get rid of force 
+
+Trump questioning Lincoln
+
+Brazil second in virus deaths 
+
+170k Chinese propaganda Twitter accts deleted 
+
+zoom chinese government ties 
+
+micro plastics in rain
+
 6/12
 new civil war 
 historical figures under attack
