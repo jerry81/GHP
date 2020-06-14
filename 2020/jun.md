@@ -1,5 +1,15 @@
 [Back to 2020](2020index.md)
 
+6/14
+ATL police shoot black man in back at Wendy's  
+
+dead black man found hanging from tree 
+
+Berlin nite club capital of world 
+
+chemical engineers turn co2 into industrial materials
+
+
 6/13
 returning to work during covid peak 
 
