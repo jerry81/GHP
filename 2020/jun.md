@@ -1,5 +1,17 @@
 [Back to 2020](2020index.md)
 
+6/15
+Hollywood Blvd paints black Lives Matter on street 
+
+Pentagon surplus goes to police 
+
+vr lagging behind futurologist predictions
+
+Lego robot inventor series 
+359usd 
+
+Airbnb discloses host info to NYC 
+
 6/14
 ATL police shoot black man in back at Wendy's  
 
