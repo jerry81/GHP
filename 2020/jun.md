@@ -1,5 +1,19 @@
 [Back to 2020](2020index.md)
 
+6/16
+24hr fitness bankruptcy
+
+AMZN ring to end partnership with law enforcement
+
+china wants Trump to win bc Trump would destroy alliances w other countries 
+relations will get worse no matter who steps up 
+
+chrome 85 to hide full URL 
+
+bezos to testify
+
+dorsey donates 30% of his 5 B to covid 
+
 6/15
 Hollywood Blvd paints black Lives Matter on street 
 
