@@ -1,5 +1,39 @@
 [Back to 2020](2020index.md)
 
+6/17
+man shot at Albuquerque protest 
+
+cops quitting across country 
+
+may retail record surge
+
+Berlin quarantine
+
+Boston dynamics dog price tag 74k 
+
+jk Rowling anti trans statements 
+
+20 Indian troops 35 Chinese troops killed 
+
+T-Mobile outage 
+
+long range model S price cut 
+
+T-Mobile sprint merger layoffs 
+
+bookshop.org thriving 
+
+covid steroid treatment breakthru 
+
+zoom gets heat for denying encryption to free users 
+
+harvard also drops SAT 
+columbia Yale Dartmouth
+
+huawei ban modified to allow discussion of 5g standards 
+
+US internet downtime caused by DDos attack? 
+
 6/16
 24hr fitness bankruptcy
 
