@@ -1,5 +1,40 @@
 [Back to 2020](2020index.md)
 
+6/18
+dogs should socially distance 
+
+aunt Jemima and uncle Ben racial rebranding 
+
+n Korea explodes embassy at pammumjon deploys army 
+
+china brought into wto in 2001
+
+Trump Xi met in Osaka 2019 Jun 29
+
+John Bolton Nat security advisor drops bombshell book 
+
+covid disproportionately affects POC 
+
+second waves around the world 
+
+netflix Reed Hastings 120M to black colleges 
+
+nikola company makes hybrid trucks 
+
+twitter audio tweets 
+
+msft wanted to sell facial recognition to DEA 
+
+zoom agrees to e2e encryption for all users 
+
+uber to start selling software 
+
+survey : americans unhappiest in 50 yrs 
+
+spacex starting looking for beta testers 
+
+36 contactable alien civs 
+
 6/17
 man shot at Albuquerque protest 
 
