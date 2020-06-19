@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md)
 
+6/19
+whites counter w white lives matter 
+
+Warren as vp?
+
+directly 3d print tissue onto humans 
+
+alcoholic monkey kills and injures 
+
+Tesla gig factory outside Austin 
+for cyber trucks 
+
+Baidu leaves ai alliance with USA 
+
+abandoned mines leaking methane 
+
+dilute blood plasma reduce aging in mice 
+
+soap bubbles to pollinate flowers 
+
+
+
 6/18
 dogs should socially distance 
 
