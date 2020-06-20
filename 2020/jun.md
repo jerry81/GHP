@@ -1,5 +1,18 @@
 [Back to 2020](2020index.md)
 
+6/20
+china says second wave is Euro strain 
+
+AAPL re closing stores 
+
+woman tries to neuter dog w dental floss 
+
+India taunting china with pooh 
+
+AAPL keeps rejecting fb gaming app 
+
+
+
 6/19
 whites counter w white lives matter 
 
