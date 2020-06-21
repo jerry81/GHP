@@ -1,5 +1,24 @@
 [Back to 2020](2020index.md)
 
+6/21
+smaller than expected turnout at Trump rally 
+
+Ulysses grant statue torn down 
+owned a slave before civil war 
+
+Francis Scott Key statue also torn down 
+national anthem lyricist 
+
+protests outside Mitch McConnell house 
+
+us government stuck with millions of doses of hydro chloroquine 
+
+robin Hood user 700k debt suicide 
+
+ai predicts Bach chords 
+
+github super linter 
+
 6/20
 china says second wave is Euro strain 
 
@@ -10,7 +29,6 @@ woman tries to neuter dog w dental floss
 India taunting china with pooh 
 
 AAPL keeps rejecting fb gaming app 
-
 
 
 6/19
