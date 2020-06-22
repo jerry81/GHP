@@ -1,5 +1,16 @@
 [Back to 2020](2020index.md)
 
+6/22
+terrible showing to Trump Tulsa rally 
+
+teddy Roosevelt statue removed from museum of Natural History 
+
+freak heatwave in Siberian Arctic 
+
+space startup balloon rides 30 miles high 
+125k per person 
+
+
 6/21
 smaller than expected turnout at Trump rally 
 
