@@ -1,5 +1,18 @@
 [Back to 2020](2020index.md)
 
+6/23
+Bieber sexual assault 
+
+show cracka blacks as owners whites as slaves 
+
+plane flies Confederate flag over NASCAR race 
+
+blue leaks exposed police secrets DDoSecrets 
+
+watchOS 7 ios14 
+
+
+
 6/22
 terrible showing to Trump Tulsa rally 
 
