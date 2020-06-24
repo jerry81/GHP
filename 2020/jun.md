@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+6/24
+eu to ban American travelers 
+
+Ron Jeremy 3 rape charges 
+
+mount Rushmore doomed?  
+
+Trump nice book 
+
+Djokovic positive 
+
+china create rival to GPS 
+
+Trump threatens protesters on Twitter 
+violates policies 
+
+gaming industry (pro players) women have it tough 
+harassment 
+
+can buy Bitcoins as convenience stores 
+
+fastest supercomputer is arm based 
+
+amzn invests 2B in sustainable techs 
+
+apple tv: Asimovs foundation
+
+
+
 6/23
 Bieber sexual assault 
 
@@ -10,8 +39,6 @@ plane flies Confederate flag over NASCAR race
 blue leaks exposed police secrets DDoSecrets 
 
 watchOS 7 ios14 
-
-
 
 6/22
 terrible showing to Trump Tulsa rally 
