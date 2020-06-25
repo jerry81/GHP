@@ -1,5 +1,18 @@
 [Back to 2020](2020index.md)
 
+6/25 
+USA vivid hasn't peaked yet 
+
+military protecting monuments
+
+600B yacht is 200 yards long 
+
+apple left Intel bc of skylake qa 
+
+model S touchscreen failures
+
+fb buys jio stake 
+
 6/24
 eu to ban American travelers 
 
