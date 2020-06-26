@@ -1,7 +1,38 @@
 [Back to 2020](2020index.md)
 
+6/26
+world putting america in quarantine 
+
+white majority declining acording to census 
+
+trump neice mary to publish book 
+
+record number living with parents or grandparents
+
+lincoln statue with kneeling black man targeted
+
+nyc violence out of control 
+
+tourist space walk 
+
+strange events in 2020: locusts, quakes
+
+bill banning gov facial recog use proposed 
+ 
+cdc: 10x more covid cases than actually reported 
+
+cali to use zero emissions trucks 
+
+undersea cables become a debate point in usa vs china 
+
+michael halwey, iot inventor dies 
+
+arctic hottest ever 
+
+
+
 6/25 
-USA vivid hasn't peaked yet 
+USA covid hasn't peaked yet 
 
 military protecting monuments
 
