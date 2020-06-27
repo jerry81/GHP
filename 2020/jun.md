@@ -1,5 +1,20 @@
 [Back to 2020](2020index.md)
 
+6/27
+Biden would require masks 
+
+5% of NBA tests positive
+
+de Blasio plans cuts for police 
+
+Venezuela water shortage 
+
+Saharan dust cloud blowing towards USA 
+
+goog blowing a ten year lead 
+
+appl supports encrypted DNS 
+
 6/26
 world putting america in quarantine 
 
