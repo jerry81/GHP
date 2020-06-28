@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+6/28
+Mississippi may change state flag 
+
+Christians getting defensive 
+
+Mexico City violence 
+
+homeowners consider selling 
+
+kneeling slave by Lincoln statue 
+
+orange County airport to rename from John Wayne airport 
+
+zuck loses 7 B
+ad boycott 
+
+navinder sarao 
+stock spoofer with aspergers doing time 
+
+aws honeycode 
+nocode app builder 
+
+python may get pattern matching 
+
+tiktok spying on iPhone users 
+scandal involving clipboard 
+
+crispr side effects in humans 
+
 6/27
 Biden would require masks 
 
