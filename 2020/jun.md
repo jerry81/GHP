@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md)
 
+6/29
+Airbnb CEO : travel will never be the same 
+
+272 NYPD file for retirement
+
+Shane Dawson controversy
+
+25 year anniversary of Java 
+
+more companies Honda Starbucks coke Hershey's 
+boycotting FB 
+
+Jakarta replaces javax package 
+
+virtual tip for Starbucks emp 70k usd 
+
 6/28
 Mississippi may change state flag 
 
