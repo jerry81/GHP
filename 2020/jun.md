@@ -1,4 +1,26 @@
-[Back to 2020](2020index.md)
+
+
+eric Trump running family business 
+
+worlds most fertile woman has 44 children 
+
+another new virus threat 
+
+shooting at Jacksonville Amazon
+
+nyt pulls out of apple news
+
+amzn 500m bonuses to front lines workers
+
+trump said Mexico sending rapists to states in kickoff rally 
+
+global covid death toll 500m 
+
+safari declines implementing many webapis including NFC 
+Bluetooth 
+magnetometer 
+network 
+device 
 
 6/29
 Airbnb CEO : travel will never be the same 
