@@ -1,4 +1,8 @@
 6/30
+Cirque du Soleil bankrupt 
+
+msft pulls out of fb ads 
+
 Detroit Police run over protester 
 
 eric Trump running family business 
