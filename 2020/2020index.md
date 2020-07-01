@@ -43,3 +43,7 @@ covid vaccine candidate approved
 samsung more affordable fold 
 
 amzn cloud marketing to space firms 
+
+Trump white power tweet remained up 3 hrs bc he was playing golf 
+and aides could not reach him 
+
