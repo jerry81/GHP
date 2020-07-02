@@ -21,7 +21,18 @@ police: facial recognition misidentifies 96%
 
 a star suddenly disappears 
 
+mit pulls down a misogynist and racist AI 
 
+alphabet subsidiary verily 
+health care 
+
+amazon games pilot 
+crucible free fps 
+lackluster launch 
+
+sydney 100% renewable 
+
+aapl 5g iPhone mass production
 
 7/1 
 reopenings roll back 
