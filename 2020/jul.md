@@ -1,6 +1,8 @@
 [Back to 2020](2020index.md)
 
 7/2
+Trump yet to respond to claims that Russia offered bounties on us troops 
+
 drug overdoses up 
 
 bolton book sells 750k copies 
