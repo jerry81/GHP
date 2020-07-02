@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+7/2
+drug overdoses up 
+
+bolton book sells 750k copies 
+
+2nd round of layoffs 
+
+americans renouncing citizenship 
+
+tesla takes over Toyota as number one valuable 
+
+bezos worth 171B 
+
+odds: trump win set to 33%
+
+25% of AAPL stores re close 
+
+police: facial recognition misidentifies 96% 
+
+a star suddenly disappears 
+
+
+
 7/1 
 reopenings roll back 
 
