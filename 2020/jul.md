@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+7/3
+10k new cases in Florida 
+
+epstein madam apprehended 
+
+boeing retires 747
+
+console games grow to 69.99
+
+bmw on demand unlock software based features 
+
+jiomeet to take on zoom 
+
+westworld creators to make fallout on AMZN video 
+
+57B worth of resources not reclaimed from discarded electronics 
+
+aapl and google block Chinese apps India 
+
+duckduckgo blocks in India 
+
 7/2
 Trump yet to respond to claims that Russia offered bounties on us troops 
 
