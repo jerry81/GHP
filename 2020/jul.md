@@ -16,8 +16,17 @@ erica robot actor
 
 tucker Carlson eyes 2024 
 
+germany free of coal and nuclear 
 
+who results from covid vaccine trials 
 
+walmart drive-in theatres
+
+master and slave (tech terms) to be replaced
+
+linus doesn't code anymore 
+
+apple bug: clipboard spying on keypresses 
 
 7/3
 10k new cases in Florida 
