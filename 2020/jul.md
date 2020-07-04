@@ -1,5 +1,24 @@
 [Back to 2020](2020index.md)
 
+7/4
+mexico closes border to americans 
+
+anti cancel a new thing 
+
+thiel even avoiding Trump 
+
+trump may drop out 
+like Lyndon b Johnson
+
+iran Israel fighting 
+
+erica robot actor 
+
+tucker Carlson eyes 2024 
+
+
+
+
 7/3
 10k new cases in Florida 
 
