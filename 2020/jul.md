@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+7/5
+trump jr girlfriend gets it 
+
+Kanye 2030?
+
+Spain quarantines 200k 
+
+tech changes Neuro plasticity 
+
+moderate alcohol use associated with better cognitive function 
+
+educational keys law and tech 
+
+ubisoft culture toxic 
+
+
+
 7/4
 mexico closes border to americans 
 
