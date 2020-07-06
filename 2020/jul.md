@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md)
 
+7/6
+bill Gates conspiracy 
+depopulate the earth 
+
+armed black protesters 
+
+columbus statue in Baltimore 
+
+bezos nudes 
+
+Gettysburg hoax 
+antifa flag burning planned
+armed right wing anti protesters came out to defend 
+
+coronavirus aerosols float in air 
+
 7/5
 trump jr girlfriend gets it 
 
