@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+7/7
+
+more efficient video capture codec 
+h. 266
+
+foreign students must leave usa if classes become online only 
+
+fujitsu permanent WFH
+
+china confirms one case of bubonic 
+
+harvard begin allowing students on campus 
+
+doordash vs Uber eats 
+
+appl china blocks thousands of games updates 
+
+usa 130k covid deaths 
+
+covid gives kids brain damage 
+
+israel blamed for Iran nuke plant explosion
+
+morricone dead 
+
 7/6
 bill Gates conspiracy 
 depopulate the earth 
