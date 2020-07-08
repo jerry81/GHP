@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+7/8
+another us peak for new cases 
+
+porn stars accused of sexual abuse 
+
+human sized giant bat 
+
+merkel approval up again 
+
+new law gets hk protesters stabbed for DNA 
+twn next? 
+
+amber Heard vs Johnny Depp 
+
+zuck meeting with boycotters disappointing 
+
+usa begins formally withdrawing from WHO 
+
+tiktok ban considered 
+
+magic leap called "troubled"
+
+alphabet loon in Kenya 
+
+more reasons China wants Trump to win: easy to read
+
 7/7
 
 more efficient video capture codec 
