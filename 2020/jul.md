@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+7/9
+long covid testing waits 
+
+trump rallies identified as possible cause of surges 
+
+phoenix: 118 temps 
+
+investors rushing back to gold 
+
+el chapo joaquin guzman
+Jalisco cartel dealing fentanyl and meth
+
+gfw applied to HK?? 
+
+nvidia passes Intel 
+
+google cloud scrapped in China 
+
+young traders on robinhood losing their shirt 
+
+brain and nerve complications linked to covid
+
+Thunderbolt i/o spec from Intel 
+
+zoom moves into hardware as a service 
+
 7/8
 another us peak for new cases 
 
