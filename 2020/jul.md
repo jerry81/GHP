@@ -1,4 +1,24 @@
 [Back to 2020](2020index.md)
+7/10
+supreme Court prepares for Biden pres 
+
+tesla close to fully autonomous car 
+
+tyson robot butchers 
+
+2 year old skateboard phenom 
+tiny hawk 
+
+aapl arm based CPUs support thunderbolt
+
+dogecoin getting pumped 
+
+UK university complies w china regulations
+
+technique for capturing co2 
+rock dust 
+
+digital far side comic 
 
 7/9
 long covid testing waits 
