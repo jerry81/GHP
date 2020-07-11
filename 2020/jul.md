@@ -1,4 +1,31 @@
 [Back to 2020](2020index.md)
+
+7/11
+ghislane filmed powerful people having sex 
+
+johnny Depp accuses Elon of affair with amber 
+
+neuralink set to be revealed 
+
+broken heart syndrome 
+feels like a heart attack but actually stress induced 
+
+canada bans companies and insurers from using genetic information
+
+foxconn invests 1B in India 
+
+android 10 adopted quickly 
+
+since March 70k techies out of job 
+
+appl at making progress 
+
+jack Dorsey 3m ubi donations 
+
+nissan engineer battery breakthrough 
+
+tiktok may distance itself from China 
+
 7/10
 supreme Court prepares for Biden pres 
 
