@@ -1,5 +1,13 @@
 [Back to 2020](2020index.md)
 
+7/12
+Trump tower 
+protesters vs Maga 
+
+trump wears mask 
+
+tiktok pulls out of HK 
+
 7/11
 ghislane filmed powerful people having sex 
 
