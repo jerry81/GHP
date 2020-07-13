@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+7/13
+another cop caught with knee on neck 
+
+new supersonic plane 
+
+east Europe surge 
+
+musk stocks increased 7B in one day 
+
+dc voting to legalize shrooms 
+
+trump attempting to help Roger Stone 
+
+wsj recommends against chrome 
+
+possible covid plasma shot 
+
 7/12
 Trump tower 
 protesters vs Maga 
