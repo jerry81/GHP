@@ -1,5 +1,41 @@
 [Back to 2020](2020index.md)
 
+7/14
+us threatens to restrict we chat 
+
+remote driving that feels realistic
+
+watch dogs 2 
+
+us emissions down 8% 
+utilities cleaner 
+
+social distancing as a math problem: 
+non overlapping circles 
+
+msft and google collab on pwas 
+msft pwa builder
+google bubblewrap
+
+AAPL 400m to affordable housing 
+
+netflix spends 17b on new content 
+
+goog invests 17B in India 
+
+ais and humans collab on art 
+
+Cali locks down again 
+
+covid causes heart dmg? 
+original hope summer heat kills it 
+
+fire on us Navy ship 
+
+Depp lost 650M 
+
+brave new world show 
+
 7/13
 another cop caught with knee on neck 
 
