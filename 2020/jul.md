@@ -1,5 +1,39 @@
 [Back to 2020](2020index.md)
 
+7/15
+miami covid capital
+
+Hawaii still not open to tourist
+
+anti masker movement
+
+ruth Bader Ginsburg hospitalized
+
+robot cooks in demand 
+
+india bareface fines 
+
+mary Trump wants Donald to resign
+
+teleabortions may be lawful 
+
+new Ford Bronco 
+
+baby covid infection in womb 
+
+goog steers video searches to YouTube
+
+law forcing foreign students to leave rescinded
+
+china sanction Lockheed Martin sales to Taiwan 
+
+Biden 2 trillion climate plan 
+
+Amazon dash cart 
+go store on wheels 
+
+
+
 7/14
 us threatens to restrict we chat 
 
