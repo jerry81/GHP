@@ -1,6 +1,16 @@
 [Back to 2020](2020index.md)
 
 7/15
+Porsche 3d printed pistons 
+
+uk bans Huawei from 5 g
+
+cali due for big eq
+
+noise cancelling w window open 
+
+brickmaking harmful to environment
+
 miami covid capital
 
 Hawaii still not open to tourist
