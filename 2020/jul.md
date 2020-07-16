@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+7/16
+miami outbreak 
+
+trump approval down to 36
+
+pure oxygen therapy to reverse aging? 
+
+Twitter hacked 
+
+saudi tech CEO hacked to pieces
+
+goog experimenting with e tattoos and holo glasses 
+
+smokers quitting in large numbers 
+
+aapl wins Eu tax battle 
+
+goog invests 4.5B in jio
+
+visa restrictions on Huawei emps 
+retaliation for HK
+
+huawei sues Verizon for patent infringement
+
+6G by 2028
+
+cars spew micro plastics 
+
+gmail adds video calls and chat 
+
 7/15
 Porsche 3d printed pistons 
 
