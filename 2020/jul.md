@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+7/17
+tx covid troubles 
+
+tyoe a blood more susceptible
+
+politicians disappearing covid data 
+shift from CDC
+
+twitter hack came from inside 
+
+web otp api 
+one time passwords 
+in chrome 84 
+
+ddr5 mem spec 
+
+verizon 5g network actually tiny 
+
 7/16
 miami outbreak 
 
