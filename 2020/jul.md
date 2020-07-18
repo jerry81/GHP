@@ -1,4 +1,25 @@
 [Back to 2020](2020index.md)
+7/18
+covid antibodies "fading fast"
+body does not retain antibodies permanently
+
+portland mayor wants trump to remove anti-protest military troops from city
+
+saudi tech ceo may have been killed by own employees
+
+wsj: sunscreen chemicals accumulate in body 
+
+hybrid solar converter heat + sunlight 85% efficiency
+
+spy thriller from russo brothers (most expensive netflix production ever) 200M
+
+23 min outage cloudflare 
+knocked out a lot of the internet 
+
+skorea aspires to be net-zero society (environmental) 
+60+B investment 
+
+most nyc cases traced to europe 
 
 7/17
 tx covid troubles 
