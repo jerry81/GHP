@@ -1,4 +1,20 @@
 [Back to 2020](2020index.md)
+
+7/19
+warren frontrunner for vp 
+
+sabre world's largest travel data holder 
+surveillance 
+
+stockton basic income experiment extended 
+california
+
+john mcafee bet that bitcoin would reach 500M
+would eat his own shit
+
+white castle tests burger flipping robot 
+
+
 7/18
 covid antibodies "fading fast"
 body does not retain antibodies permanently
