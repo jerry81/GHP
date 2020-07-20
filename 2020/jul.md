@@ -1,5 +1,25 @@
 [Back to 2020](2020index.md)
 
+7/20
+LA may re close again 
+
+new sports bet: athlete heart rate 
+
+solar + battery in single device 
+efficiency
+
+uae launches spacecraft to Mars from Japan 
+
+china Russia USA may compete for Arctic 
+
+disney joins fb boycott 
+
+lyft selling masks to drivers
+drivers mad want them free 
+
+whiteboard coding tests actually testing for 
+social anxiety 
+
 7/19
 warren frontrunner for vp 
 
