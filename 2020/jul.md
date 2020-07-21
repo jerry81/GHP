@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+7/21
+lithium can be extracted from groundwater
+
+marc levoy, behind the google pixel camera working on Adobe camera app 
+
+ms owned Minecraft to stop using AMZN cloud 
+
+doomscrolling
+
+11 chinese companies added to human rights violations blacklist 
+
+gpt 3 released 
+
+zuck says no deal with Trump
+
+bezos 13B growth in wealth 
+
+kanye breaking talked Harriet Tubman and divorce and abortion 
+
+heard says Depp threatened to fk her corpse 
+
+george stephanopoulos wife watch porn w kids for educational purposes
+
 7/20
 LA may re close again 
 
