@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+7/22
+couple wins court battle to name son Lucifer 
+
+kids movie time up 500% during pandemic 
+
+hitler: micropenis one testicle and masochist 
+
+tiktok wants to add 10k jobs in USA 
+
+moderna and Oxford trials reveal covid vaccine nasty side effects 
+
+ms teams adds 3p apps integrations 
+
+ukraine president extorted to promote a film to release hostages 
+complies 
+
+linkedin cuts some jobs 
+
+eu in recession 
+750B stimulus 
+
+uber drivers want to see src code
+
+new material cannot be cut 
+
 7/21
 lithium can be extracted from groundwater
 
