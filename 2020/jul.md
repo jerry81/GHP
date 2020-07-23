@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+7/23
+peak hospitalizations
+
+1% californians infected 
+
+baseball starts 
+deemed weird 
+
+all animals same brain connectivity
+
+amzn robot delivery 
+
+NBA bubble sneaking girls in 
+
+gold all time high 
+
+houston Chinese consulate shut down 
+
+next gigafactory Austin TX 
+
+moving away from bay Area 
+layoffs 
+
+Ubisoft anti harassment plan 
+
+15M covid cases in world 
+
+msft escaping antitrust scrutiny 
+accused by slack of monopoly
+
 7/22
 couple wins court battle to name son Lucifer 
 
