@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md)
 
+7/24
+RNC cancelled
+
+russia test anti satellite weapons 
+
+china refuse close Houston consulate 
+
+chongqing giant swing by cliff 
+
+republican called aoc a fucking bitch 
+
+ig blacks more likely to be banned 
+
+3d printed chic nuggets
+
+nvidia may buy ARM
+
+amazn meets with startups about investing then launches competing products 
+
+goog to compete with amazn online shopping 
+goog express now called goog shopping
+
 7/23
 peak hospitalizations
 
