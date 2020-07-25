@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+7/25
+4 days of 1000plus deaths 
+
+hurricanes in Gulf and Hawaii 
+
+medicated chewing gum 
+
+chengdu consulate forced closed 
+
+foreign students banned if classes all online 
+
+Huawei CFO still in Canada 
+USA wants extradite and use as bargaining chip
+
+NBA to use ms teams to bring virtual fans 
+
+1% of people live in unlivable hot zone
+will rise to 19% by 2070 
+
+us to build unhackable quantum internet 
+
+china tianwen Mars rover
+
+eu renewable surpasses fossil fuels 
+
+rivian rival to Tesla accused of poaching emps 
+
+Twitter considering subscription business model as
+ads slump
+
 7/24
 RNC cancelled
 
