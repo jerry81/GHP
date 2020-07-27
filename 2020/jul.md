@@ -1,6 +1,6 @@
 [Back to 2020](2020index.md)
 
-7/26
+7/27
 oprah magazine O to be shut down 
 
 surveys: public losing faith in govt 
@@ -30,6 +30,15 @@ sorting: quicksort and timsort fastest
 merge sort in convo 
 
 iphome 11 assembly in India 
+
+7/26
+riots in seattle
+
+taylor swift and kanye bth have new albums
+
+china may not recognize HK residents with british passports as official docs 
+
+regis philbin dies
 
 7/25
 4 days of 1000plus deaths 
