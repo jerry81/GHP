@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+7/26
+oprah magazine O to be shut down 
+
+surveys: public losing faith in govt 
+
+beijing wants to buy gold mine in Arctic 
+Canada objects 
+
+america wants to build nuke power on moon and Mars 
+
+cpus using light instead of electricity 
+less power consumed more throughput
+
+russian missile test in Arctic 
+
+polar bears extinct by end of century
+
+jupiter Ganymede largest moon in solar system 
+has its own magnetic field 
+
+argument: drones democratize surveillance
+
+bumblebee pop down 93%
+
+cpr revival rate lower than most think 
+
+sorting: quicksort and timsort fastest 
+merge sort in convo 
+
+iphome 11 assembly in India 
+
 7/25
 4 days of 1000plus deaths 
 
