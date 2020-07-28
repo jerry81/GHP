@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+7/28
+Walmart bans Nazi face masks 
+
+goog WFH until next summer 
+
+appl glass 
+
+fighting on Lebanon Israel border 
+
+louis Williams leaves NBA bubble for funeral 
+goes to strip club 
+
+berlin club Berghaine
+
+intel reorgs 
+
+locust swarms in India 
+
+dark web servers in cold War bunker in Germany 
+
+huge Nintendo code leak 
+
+qualcomm quick charge 5 to 50% in 5 mins 
+
+mp3 is now 25 yrs old 
+
+airbus self flying plane takeoff landing and taxi tests complete 
+
 7/27
 oprah magazine O to be shut down 
 
