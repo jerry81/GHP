@@ -1,6 +1,25 @@
 [Back to 2020](2020index.md)
 
 7/29
+us energy oak Ridge Tennessee has fastest supercomputer 
+
+fb wants to be involved in VC funds 
+
+goog undersea cable connect us UK Spain 
+
+all dogs in Shenzhen to be micro chipped 
+UK aus Japan 
+reduce strays
+ 
+CES 2021 to be all digital 
+
+aapl wants cuts of Airbnb and class pass online class 
+tuitions 
+previously offline classes 
+
+Trump Jr slanders Twitter 
+gets squelched 
+
 ford robot dogs 
 
 verdict date for Depp heard tbd 
