@@ -1,5 +1,24 @@
 [Back to 2020](2020index.md)
 
+7/29
+ford robot dogs 
+
+verdict date for Depp heard tbd 
+
+blood test for Alzheimer's
+
+trump plan to regulate social media 
+
+drizly alcohol delivery svc
+
+rite Aid facial recognition 
+
+iter international nuclear fusion project begins 
+
+overhang: have potential already but nobody realizes 
+
+
+
 7/28
 Walmart bans Nazi face masks 
 
