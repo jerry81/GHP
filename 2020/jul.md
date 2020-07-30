@@ -1,5 +1,47 @@
 [Back to 2020](2020index.md)
 
+7/30
+jetblue ultraviolet cleaning robot 
+
+docs overwhelmed 
+
+FL tropical storm about to hit 
+
+george Floyd holograms at sites of confederate statues 
+
+rich fleeing to Singapore 
+
+usa ugly GDP report coming 
+
+fb threatens to clone IG before buying it out 
+
+india new fighter jets 
+
+Congress vs tech big 4
+
+customer get refunded in app , apple doesn't refund 30% cut to vendor
+
+other payment processors at 3%
+
+kevin Mayer says tiktok will reveal algorithms
+
+Zuckerberg admits fb behind AMZN and goog as biggest ad platforms 
+
+india USA and now Japan looking to ban chink apps
+
+samsung may drop Bixby AI 
+
+us treasury Steven Mnuchin to make reco on Tiktok
+
+msft hydrogen fuel cell powered data center 
+
+netflix 160 emmy noms 
+
+body odor microbe identified
+
+eu offshore wind becoming self sustainable
+no longer question of feasibility
+
 7/29
 us energy oak Ridge Tennessee has fastest supercomputer 
 
