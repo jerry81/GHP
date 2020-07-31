@@ -1,5 +1,43 @@
 [Back to 2020](2020index.md)
 
+7/31
+miami ICUs at 156% capacity
+
+trump wanted to delay election 
+
+herman Cain dead 
+
+nba players kneel during anthem 
+
+gdp worst in history
+
+Ellen confirmed a bitch 
+
+amzn fb appl huge growth after hearing 
+
+gig economy vs hustle economy 
+gig Uber Airbnb
+hustle teachable Etsy patreon
+
+goog bids 2.1B for fit bit 
+gets investigated by EU 
+
+social media not a reliable source of news 
+
+alphavet revenue decline 
+first in history 
+to pull back on hiring 
+
+appl halves app store fee for AMZN as part of deal to get AMZN prime in 
+
+huawei passes Samsung for number 1 
+
+700m years ago there were two ice ages 
+
+airbus interplanetary cargo ship 
+
+moderna covid vac promising in animals 
+
 7/30
 jetblue ultraviolet cleaning robot 
 
