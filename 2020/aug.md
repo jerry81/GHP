@@ -1,5 +1,37 @@
 [Back to 2020](2020index.md)
 
+8/2
+spacex craft to leave iss for earth 
+splashdown 
+
+neo-nazis in germany hatching a violent plan 
+
+elen in "free-fall"
+james corden to replace 
+
+berlin protests over virus restrictions 
+
+ilhan omar "on the ropes"
+
+china telecom requires face scan 
+
+python overtakes java in popularity ranking
+
+4 features python is missing:
+a.  multi line lambda functions 
+b.  constants 
+c.  overloaded functions 
+d.  generics
+
+youtube to discontinue "community captions"
+
+new spacecraft made of aerographite, 15000x more lightweight than aluminum 
+could reach another star in 185 years
+
+ARM china reportedly blocking business, going rogue 
+
+new impleentation for binary searches?
+
 8/1
 ghislane constant orgies with underage girls
 
