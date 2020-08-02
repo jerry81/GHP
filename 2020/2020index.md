@@ -18,3 +18,4 @@
 
 [July](jul.md)
 
+[August](aug.md)
