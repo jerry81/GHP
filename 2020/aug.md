@@ -1,5 +1,17 @@
 [Back to 2020](2020index.md)
 
+8/3
+more than 700k interested in starlink trials
+
+chrome and edge rise in popularity
+
+tesla open to licensing it's tech and equipment 
+
+ACLU objects to tiktok ban 
+
+protests in Israel 
+calling for Netanyahu to resign 
+
 8/2
 spacex craft to leave iss for earth 
 splashdown 
