@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+8/4
+dollar slide
+
+spain new infections hitting younger pop
+
+covid sniffing dogs at airport 
+
+temper expectations for vaccine 
+
+electronic tags in sg enforce quarantine 
+
+teachers protesting back to school 
+
+china targets controlling middle East 
+
+tennesee valley authority hires h1bs Trump fires CEO
+
+ps5 controllers not backwards compatible
+
+CCP force name verification for games 
+
+tiktok must be sold by Sept 15
+does not get along with FB 
+
+xiao-i accusers apple Siri of patent infringement
+10B rmb at stake 
+
+goog pixel 4a and 4a 5G 500Usd 
+
+msft may buy Tiktok 
+
 8/3
 more than 700k interested in starlink trials
 
