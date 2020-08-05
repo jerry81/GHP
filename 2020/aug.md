@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+8/5
+chinese masks flooding us market 
+
+beirut explosion thousands dead 
+ammonium nitrite 
+nothing to do with Israel 
+israel offers aid 
+
+rising groceries prices 
+
+china helps expand Saudi nuke program 
+
+"white" city Portland unlikely blm hub 
+
+amzn robots built in engineers home garages 
+
+touchscreen wipers banned in Germany after accident 
+
+disney+ already 60m subs
+
+msft paid nearly 14m in big bounties last yr 
+twice goog 
+
+android nearby share like airdrop 
+
+zhang yiming bytedance ceo: trump goal to kill off tiktok 
+
+hot new language game stet!
+
+wakaresaseya hired to end relationships by seducing partner 
+
 8/4
 dollar slide
 
