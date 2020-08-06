@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+8/6
+covid survivors hair loss 
+
+ron Jeremy rape trial 
+
+ketamine therapy clinic 
+
+michelle Obama depression 
+
+jake Paul house raid 
+tax evasion?  
+
+johnson&johnson potential vaccine 
+1B deal with gov 
+
+wireless charging inefficient? 
+
+galaxy Note ultra 1299
+
+instagram launches Tiktok clone 
+reels 
+
+levandowsky gets 18 months 
+plans to sue Uber for 4B
+
+riot gives employees a week off
+
+honda recalls 600k SUVs
+
 8/5
 chinese masks flooding us market 
 
