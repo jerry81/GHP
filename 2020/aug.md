@@ -23,6 +23,10 @@ more expensive leisure travel to compensate
 
 us government 10M reward for reporting election manipulation 
 
+us campaign to purge chink apps 
+
+youtube banning Chinese vids 
+coordinated influence
 
 8/6
 covid survivors hair loss 
