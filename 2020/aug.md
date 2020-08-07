@@ -1,5 +1,29 @@
 [Back to 2020](2020index.md)
 
+8/7
+kanye supports Trump reelection
+
+canada: terminally Ill can use mushrooms 
+
+zuck over 100B 
+
+anti china face masks say covid19 made in China 
+
+ilhan Omar antisemitic remarks 
+
+cloud services banned from app store 
+
+fb removes a Trump post 
+video saying children immune from covid 
+
+verizon T-Mobile att top 3
+
+travel predictions: less business travel 
+more expensive leisure travel to compensate
+
+us government 10M reward for reporting election manipulation 
+
+
 8/6
 covid survivors hair loss 
 
