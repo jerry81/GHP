@@ -1,4 +1,18 @@
-[Back to 2020](2020index.md)
+[Back to 2020](2020index.md)  
+
+8/8
+china wants Biden 
+Russia wants Trump 
+
+Americans giving up citizenship
+
+spacex wins Pentagon rocket contracts
+
+reddit massive hack 
+
+atlassian WFH forever 
+
+wechat ban 
 
 8/7
 kanye supports Trump reelection
