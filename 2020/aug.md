@@ -14,6 +14,21 @@ atlassian WFH forever
 
 wechat ban 
 
+Toshiba exit laptops biz 
+
+vine was Twitter's
+zuck made call to shut down vine 
+
+last Canadian ice shelf collapses 
+
+arctic melts twice the speed of other places 
+Arctic amplification
+
+bye dance transactions banned starting Sept 20
+
+DMV makes 50m a year selling driver data 
+
+
 8/7
 kanye supports Trump reelection
 
