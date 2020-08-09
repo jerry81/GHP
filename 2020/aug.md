@@ -1,5 +1,29 @@
 [Back to 2020](2020index.md)  
 
+8/9
+500M virus cases in USA
+
+ryan reynolds and blake lively apologize for marrying on a plantation 
+
+twitter and tiktok talk about possible combination
+
+oil drilling down
+
+machine programming - write code just by describing it
+
+ibm and yahoo bailed out of WFH
+
+china blocks sites using ESNI: encrypted server name indication
+because blocks third party from seeing what siters are being accessed
+
+eskimo is a colonial term with racist undertones
+
+gates thinks covid crisis be over in 2021
+optimistic about scale of medical innovation
+
+mike pompeo wants to purge the internet of chinese influence
+"split the internet"
+
 8/8
 china wants Biden 
 Russia wants Trump 
