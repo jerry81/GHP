@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md)  
 
+8/10
+kamala Harris VP offer? 
+
+saudis turn off America oil tap 
+
+add Trump to Mt Rushmore?  
+
+lebanese protests 
+
+debate should remote learning software be free? 
+
+cities printing own money 
+combining w basic income 
+
+qualcomm wants special permission to sell to Huawei 
+
+linux 5.8 looks huge 
+
+co2 and water turn into ethanol alcohol
+
+penguin poop seen from space leads to discovery of new guin colonies 
+
 8/9
 500M virus cases in USA
 
