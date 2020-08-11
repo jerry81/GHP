@@ -1,5 +1,47 @@
 [Back to 2020](2020index.md)  
 
+8/11
+extreme poverty rises 
+cancelled subscriptions no more takeout 
+dip into savings and retirement 
+
+shots fired near white House 
+
+McDonald's CEO ousted 
+employee relationships 
+gets sued for it 
+
+trump built up as master negotiator 
+relies on executive orders 
+
+hrw human rights Watch wants to ban autonomous weapons 
+
+ft Collins colorodo, antifa vs Maga turns ugly 
+back the blue protest 
+huge fight 
+
+warren raised most cash for Biden 
+
+looting and riots chicago
+
+mass exodus from NYC 
+
+goog maps coming to appl watch 
+
+Cali judge: uber and Lyft must classify drivers as employees
+
+leaked docs show tiktok doesn't share more info than us big four 
+100 requests vs 51000 requests for personal info 
+
+20M covid cases worldwide 
+
+remove we chat from app store would cause 30% less iPhone sales 
+
+softbank mayasoshi son trying to sell arm 
+UK government form coalition to buy? 
+Cambridge based
+Brexit makes this move possible
+
 8/10
 kamala Harris VP offer? 
 
