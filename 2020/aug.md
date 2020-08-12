@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)  
 
+8/12
+azar us health visit Taiwan 
+china threatens live fire drills near Guam 
+
+kamala Harris once bitter rivals w Biden 
+
+Mac addresses collection used by advertising
+
+Tim Cook 1b aapl 2T
+
+ru claims first covid vac 
+
+7M fake corona posts rm by fb 
+
+last blockbuster Video turns into Airbnb 
+
+twitter reply controls 
+
+google vs genius lyrics 
+goog wins 
+
+mozilla layoffs
+
+belarus internet shutdown 
+
+at&t owns HBO and Warner bros?
+layoffs 
+
 8/11
 extreme poverty rises 
 cancelled subscriptions no more takeout 
