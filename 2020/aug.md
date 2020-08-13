@@ -1,4 +1,30 @@
-[Back to 2020](2020index.md)  
+[Back to 2020](2020index.md) 
+
+8/13
+feds cover up covid data 
+
+kanye approval down at 2%
+
+mcafee tech guy thong mask 
+arrested 
+
+exact definition of recession 
+two consecutive quarters of contraction 
+
+obesity shrinks brain by decreasing blood flow to brain 
+
+netflix documentary unwell about wellness industry
+
+gwenyth Paltrow makes jade eggs inserted into vagina 
+increase sexual energy 
+66usd 
+
+uber Cali to temporarily shut down if required to treat drivers as emps 
+
+ordinary brick turned into a capacitor
+
+msft dual screen surface device 
+surface duo 
 
 8/12
 azar us health visit Taiwan 
