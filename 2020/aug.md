@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md) 
 
+8/14
+covid deaths comparable to 1918 flu epidemic 
+
+michal Cohen Trump lawyer book released 
+golden showers at lv strip club 
+
+turkey Greece Mediterranean standoff 
+france sides with Greece 
+France only nuclear armed Nation in EU 
+dispute over gas and oil fields
+
+hollywood restart 
+
+brazil to China chicken wings test positive 
+
+ghb making a comeback and showing up in online mktplaces 
+
+fornite taken out of app store for direct payments 
+epic sues aapl
+
+taiwan semiconductor
+
 8/13
 feds cover up covid data 
 
