@@ -20,7 +20,20 @@ ghb making a comeback and showing up in online mktplaces
 fornite taken out of app store for direct payments 
 epic sues aapl
 
-taiwan semiconductor
+taiwan semiconductor efficiency and size tech lead over Intel 
+intel delays in 7nm process 
+promises improvements in 10Nm process
+superfin
+ new material for capacitors 
+
+fb abandons some undersea drilling equipment 
+due to citizen protests
+
+man loses 300k in password protected zip file 
+
+lyft joins Uber in legal battle over driver employees status 
+
+
 
 8/13
 feds cover up covid data 
