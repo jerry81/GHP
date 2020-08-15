@@ -1,5 +1,29 @@
 [Back to 2020](2020index.md) 
 
+8/15
+trump brother ill and hospitalized 
+robert 
+
+qanon far right conspiracy theory about secret plot against the Donald 
+
+american passports useless now 
+
+5 year visa Thailand being sold to wealthy foreigners 
+
+usa seizes Iranian oil en route to Venezuela 
+
+chrome 86 hides full url address 
+
+AMc movie theaters to reopen with 15cent tickets 
+
+goog duo and meet to merge into duet 
+
+appl attacked by fb regarding 30% fees 
+
+digital RMB trials 
+
+tik Tok employees sue Trump for executive order 
+
 8/14
 covid deaths comparable to 1918 flu epidemic 
 
