@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md) 
 
+8/16
+antifa vs right wingers "proud boys" in michigan
+proud boys anti jew anti muslim
+
+rich and famous fleeing hollywood 
+junkies and criminals
+
+japan 75 years of pacifism 
+missle proposal 
+afraid of nkorea and china 
+
+robert trump dead 71 y/o
+
+covid-targeted wearable shocks you when you touch your face
+
+star link speeds 11 to 60Mbps 50ms
+
+greenland melted to point of no return
+
+cant catch covid from frozen food
+
+
 8/15
 trump brother ill and hospitalized 
 robert 
