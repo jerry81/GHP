@@ -1,5 +1,25 @@
 [Back to 2020](2020index.md) 
 
+8/17
+LA City Hall george Washington statue torn down 
+
+china no food wasting campaign 
+Changsha restaurant weighs customers and recommends menu 
+
+college students rebelling against cost of online only classes
+
+nuclear powered drone 
+waste heat from decaying plutonium converted to electricity
+
+possible short sleep gene 
+
+moon is drifting away 1 inch per year 
+
+20% north American companies accuse China of ip theft 
+
+meteorite more valuable than gold 
+contained carbon and amino acids 
+
 8/16
 antifa vs right wingers "proud boys" in michigan
 proud boys anti jew anti muslim
