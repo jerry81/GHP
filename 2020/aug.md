@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md) 
 
+8/18
+arm cofounder says sale to Nvidia bc softball over invested 
+meantime Britain wants it to be British public company 
+
+diffs cause days to be more memorable 
+
+notepad++ banned after "stand with hongkong"
+
+tighter restrictions on Huawei 
+no more third party loopholes 
+
+more infectious strain found in Philippines
+
+goog and aus pay for news conflict 
+
+virtual DNC 
+
+spacex turn TX launch site into luxury resort
+
+hand sanitizer fire hazard 
+
+cali blackouts 
+mulls wealth tax .4% net worth 
+
+some say NYC is finished 
+week of riots 
+crime and homelessness 
+
 8/17
 LA City Hall george Washington statue torn down 
 
