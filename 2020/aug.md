@@ -1,5 +1,39 @@
 [Back to 2020](2020index.md) 
 
+8/19
+stocks rise to record close 
+wipe out corona losses 
+Netflix AMZN alphabet 
+
+musk 4th richest in world 
+Tesla rises 8B in one day 11%
+passes Bernard arnault Louis Vuitton
+behind zuck gates Bezos 
+
+police chief of Shanghai taken down by Xi 
+zhou yongkang 2015 
+Wang yongming baotou trial 
+framed, bribed jury 
+
+vending machine pot in Colorado
+
+colleges 24 hour student tracking 
+
+cuba gooding jr rape allegations 
+
+Hamas Islamic Sunni fundamentalist organization
+incendiary baloon attacks from Gaza 
+result of blockade and blackouts 
+egypt trying to diffuse 
+
+tawain a new Iwo Jima situation 
+war game simulations all end bad for USA 
+220k invasion force would take Taiwan
+Cuban Missile crisis in reverse 
+300 chinese ships 
+600mi long range missiles and 20-25 submarines  
+china counter with 10k decoys 
+
 8/18
 arm cofounder says sale to Nvidia bc softball over invested 
 meantime Britain wants it to be British public company 
