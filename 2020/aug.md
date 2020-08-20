@@ -5,6 +5,21 @@ slow down and redirect light
 trap light in a box 
 echo chamber for light 
 
+germany ubi 1400 a month
+for 3 years 
+
+tiktok ig yt massive leak 
+235M users 
+
+oracle new contender to buy tiktok 
+
+biggest Twitter attack ever 
+hits other countries 
+tied to Saudi 
+
+cali first plague case in a while 
+
+transparent solar panels for windows 
 
 8/19
 stocks rise to record close 
