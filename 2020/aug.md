@@ -1,6 +1,18 @@
 [Back to 2020](2020index.md) 
 
 8/20
+saudis require israelis to make peace with Palestinian
+
+bay area, napa fires 
+winery burns down 
+
+roblox digital sex parties 
+
+santiago Chile 
+Batman delivers food to homeless 
+
+ergodan strict social media constraints 
+
 slow down and redirect light 
 trap light in a box 
 echo chamber for light 
