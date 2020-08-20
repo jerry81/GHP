@@ -1,5 +1,11 @@
 [Back to 2020](2020index.md) 
 
+8/20
+slow down and redirect light 
+trap light in a box 
+echo chamber for light 
+
+
 8/19
 stocks rise to record close 
 wipe out corona losses 
@@ -33,6 +39,12 @@ Cuban Missile crisis in reverse
 300 chinese ships 
 600mi long range missiles and 20-25 submarines  
 china counter with 10k decoys 
+
+Android 11 take away camera picker 
+
+dup keys from sounds in lock
+
+
 
 8/18
 arm cofounder says sale to Nvidia bc softball over invested 
