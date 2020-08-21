@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md) 
 
+8/21
+netflix cuties poster sexualized children 
+
+air quality in bay Area bad 
+
+biden to speak at DNC today 
+
+psychedelics to treat trauma funded in silicon Valley 
+
+ron Jeremy saga gets worse
+filthy apartment 
+
+genetically modified mosquitoes all hatch female
+and die in larval stage 
+
+amc 15 cent tickets 
+
+cali relaxes on Uber and Lyft 
+
+pixel earbuds alert with sounds of sirens crying babies and barking dogs 
+
+twn stopping sales of iqiyi and tencent 
+
 8/20
 saudis require israelis to make peace with Palestinian
 
