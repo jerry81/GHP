@@ -1,6 +1,11 @@
 [Back to 2020](2020index.md) 
 
 8/21
+airbnb files to go public 
+
+very light lithium sulfur batteries pave way for 
+electric airplanes 
+
 netflix cuties poster sexualized children 
 
 air quality in bay Area bad 
