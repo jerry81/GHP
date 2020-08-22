@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md) 
 
+8/24
+epic host tourney with anti AAPL prizes 
+
+palantir IPO despite no profits 
+
+electric trucks could reduce emissions by a lot 
+
+updates to WordPress on app store blocked 
+wants 30%
+
+belarus protests 
+
+goog career certificate program alternative to college 
+
+Greenland lost 586B tons of ice 
+
 8/21
 airbnb files to go public 
 
