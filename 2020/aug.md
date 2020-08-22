@@ -1,6 +1,8 @@
 [Back to 2020](2020index.md) 
 
 8/24
+ai fighter jet beats human fighter jet pilots 
+
 epic host tourney with anti AAPL prizes 
 
 palantir IPO despite no profits 
