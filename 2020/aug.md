@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md) 
 
+8/25
+blockchain good marketing 
+not very practical
+
+solar panels dying 
+toxic 
+
+blechley park museum British code breakers
+laying off workers 
+
+electrixal cables made of bacteria 
+
+fiber optic cable tends to absorb signal 
+breakthrough to extend and amplify signal 
+
+scientist w same disease as Hawking als 
+wants to become first cyborg 
+
+mary Trump 
+sister says u can't trust him he had no principles 
+
+the Batman trailer 
+
 8/24
 ai fighter jet beats human fighter jet pilots 
 
