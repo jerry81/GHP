@@ -1,6 +1,40 @@
 [Back to 2020](2020index.md) 
 
-8/25
+8/24
+kim Jong un doesn't look good 
+
+kellyanne Conway's daughter Claudia files for emancipation 
+legal divorce from parents 
+
+italy cases up again 
+
+proud boys vs antifa Portland 
+with baseball bats 
+
+white collar job unemployment high 
+but a third of blue collar unemployment
+
+Harrell racist slur against doncic 
+
+progamer murder suicide Rudy feretti 
+
+people installing own performance boost on Tesla cars 
+extra 50Hp 
+
+new Zealand new covid cases 
+origin unknown 
+
+intel down 50% tsmc up 50% last month
+
+spacex Americas top unicorn 
+valued at 46B 
+
+open source development 
+come for the fun 
+stay for the money
+leave bc of demanding users 
+
+8/23
 blockchain good marketing 
 not very practical
 
@@ -23,7 +57,7 @@ sister says u can't trust him he had no principles
 
 the Batman trailer 
 
-8/24
+8/22
 ai fighter jet beats human fighter jet pilots 
 
 epic host tourney with anti AAPL prizes 
