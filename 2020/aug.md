@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md) 
 
+8/25
+wholefoods yo adopt AMZN cashier less checkout 
+
+fb 110M back taxes in France 
+
+chinese tecno phones in Africa money stealing malware 
+
+gap year for college students for internship
+
+foxconn considering Mexico factories 
+
+widespread zoom outage 
+
+fb groups critical of Thai king taken down 
+
+unity goes public U on NYSE 
+
+MS takes epic side in case vs AAPL
+
+china chooses gitee as open source code host 
+
+zuck was biggest opponent against tiktok
+
+
+
 8/24
 kim Jong un doesn't look good 
 
