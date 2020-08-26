@@ -1,7 +1,31 @@
 [Back to 2020](2020index.md) 
 
+8/26
+american Airlines cut 19k jobs 
+
+real time demo of musks neural link coming
+
+tuscaloosa Alabama 500 students w covid 
+
+becki Falwell and Jerry Falwell into cucking involving pool boy 
+forced his resignation
+
+covid re infections 
+
+exxon leaves dow Jones 
+92 year stay
+Salesforce enters 
+
+largest amzn office yet in south India 
+Hyderabad
+
+chrome 85 faster page loads
+background tab throttling 
+
+africa extinguishes polio 
+
 8/25
-wholefoods yo adopt AMZN cashier less checkout 
+wholefoods to adopt AMZN cashier less checkout 
 
 fb 110M back taxes in France 
 
