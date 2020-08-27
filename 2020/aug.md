@@ -1,5 +1,39 @@
 [Back to 2020](2020index.md) 
 
+8/27
+police using Clearview ai facial recognition
+
+alexa web traffic 
+no relation amazn
+
+us 5g slower than other 5g 
+
+scottish Wikipedia written by an American 
+
+in 30 years 80% of oil industry will be wiped out 
+
+piracy raids 
+
+android jetpack compose write apps with less code 
+
+julia users to defect to python for data science
+
+white House creates quantum and ai research Institute
+
+bird deaths down 70% after painting wind turbines black 
+
+dns servers experiencing huge load due to chrome security feature
+
+boston biogenic conference led to 20k covid cases 
+
+hurricane Laura cat 5 hits new Orleans
+
+militia vs black Lives Matter gunfights in Wisconsin
+
+cn fires two misses into s cn sea as warning to USA 
+
+taiwan military propaganda video shows fending off cn attack 
+
 8/26
 american Airlines cut 19k jobs 
 
