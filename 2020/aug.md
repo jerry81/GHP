@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md) 
 
+8/30
+china threatens withholding drug exports 
+
+melania refused to move into white House until Obama toilet ripped out 
+
+kamala attack dog role 
+
+man removes ears to look like skull 
+
+17 year old armed militia shot protesters in Wisconsin
+idolized police 
+
+reports of children abusing parents 
+
+spotify virtual events 
+
+
+
 8/27
 police using Clearview ai facial recognition
 
