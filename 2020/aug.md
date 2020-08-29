@@ -1,5 +1,24 @@
 [Back to 2020](2020index.md) 
 
+8/31
+abe resigns 
+
+mgm and Coca-Cola layoffs 
+
+zuck calls AAPL a monopoly 
+
+lebron potent political force 
+
+hitchcock Poe munch to cope with anxious age
+
+elon demos neuralink in pig 
+
+us tech stocks worth more than entire eu market 
+
+wechat covid filtering 
+
+boseman dead at 43 
+
 8/30
 china threatens withholding drug exports 
 
