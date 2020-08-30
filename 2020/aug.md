@@ -1,6 +1,23 @@
 [Back to 2020](2020index.md) 
 
-8/31
+8/30
+entrepreneurs 16% of usa
+
+chrome proposes web"bundles"
+brave opposes
+
+carmack and musk tweet about programming languages 
+
+texas a&m prof accused of collaborating w chink gov
+
+browsing history can uniquely identify you
+
+radioactive graphite rods (nuclear waste) may be converted into batteries
+
+nevada man first in usa to be reinfected
+
+
+8/29
 abe resigns 
 
 mgm and Coca-Cola layoffs 
@@ -19,7 +36,7 @@ wechat covid filtering
 
 boseman dead at 43 
 
-8/30
+8/28
 china threatens withholding drug exports 
 
 melania refused to move into white House until Obama toilet ripped out 
