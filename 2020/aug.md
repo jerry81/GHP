@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md) 
 
+8/31
+protester killed in Portland 
+
+college reopening disaster 1200 infected at u of Alabama 
+
+hand sanitizer creating superbugs 
+
+Obama counseled NBA boycotts 
+
+palestine explosive balloons 
+Israel tank fire 
+
+riots in Sweden 
+
+Ted Wheeler Portland Mayor and Trump argue on Twitter 
+
+turkey says Greece expanding maritime borders is casus beli
+
+smart dust
+aka micro electromechanical systems
+aka motes 
+
+race for covid vaccine has scientists concerned of doing things in a rush 
+
+skydive Japanese company tests flying car 
+
+buffet six cans of coke every ay 
+dessert aholic 
+
+linux devs want to add rust to codebase 
+
 8/30
 entrepreneurs 16% of usa
 
