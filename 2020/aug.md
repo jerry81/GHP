@@ -1,6 +1,25 @@
 [Back to 2020](2020index.md) 
 
 9/1
+musk passes zuck for number 3 spot 
+
+qualcomm 5g breakthrough 
+
+now Chinese ip laws complicate tiktok sale 
+
+goog images licensable badge 
+
+big oil plan sell plastic to Africa 
+
+kenya one of Africa's largest economies 
+
+app store appeals division launch
+
+cn increase research spending 10%
+goal 2.5 of GDP
+
+lenovo yoga uses leather lid 
+
 senators scrutinize musks ties with China 
 
 record lines at bay Area food banks 
