@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md) 
 
+9/1
+senators scrutinize musks ties with China 
+
+record lines at bay Area food banks 
+
+amzn prime air drone delivery milestone
+FAA clearance
+
+sf real state dropping again 
+back to bohemian roots? 
+
+me and my penis, british documentary show erect penis on 
+national tv for first time 
+
+30 hr rave in Wales shut down 
+
+austalian anchorwoman detained by China 
+up to six months 
+
+
+
 8/31
 protester killed in Portland 
 
