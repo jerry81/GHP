@@ -1,5 +1,53 @@
 [Back to 2020](2020index.md) 
 
+9/2
+trump denies stroke 
+
+covid infertility and swollen testies
+
+rolls Royce 332k car 
+ghost 
+
+LA protests fatal shooting 
+
+Joe Rogan debut on Spotify
+
+china largest Navy 
+
+computer glare damage skin
+
+skorea suv crash into tank 
+
+cali may start making generic drugs 
+
+processed foods increase aging 
+
+biden campaigning on animal Crossing 
+
+pilot at lax reports guy in a jetpack flying alongside 
+
+nuscale
+doe funded small scale nuke reactor 
+
+three body problem to come to netflix
+
+FB vs Australia
+
+startup naming: use feel good words 
+
+8k gaming an absurd waste of pixels 
+
+amzn delivery drivers hanging phones from trees 
+
+3300usd Samsung Galaxy fold 2
+
+undersea cable to HK plan nixed 
+
+complaining may boost health 
+like the French 
+
+
+
 9/1
 musk passes zuck for number 3 spot 
 
