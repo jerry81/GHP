@@ -1,4 +1,43 @@
 [Back to 2020](2020index.md) 
+9/3
+trump vaccine by nov? 
+
+debt to exceed economy 
+
+harry and Meghan Netflix deal
+
+10% america going hungry 
+
+musk made 88B 
+
+chris Wallace and Steve Scully to moderate 
+debates 
+
+twitter backlash drugged thai tiger gets balls fondled 
+
+kim Jong un winked at Sarah Sanders 
+Trump tells her to take one for the team 
+
+two black holes converge into even bigger one 
+
+xanadu quantum computer startup 
+
+ru force AAPL to reduce app store tax to 20%
+
+electronic paper 
+
+ms salaries leaked 
+second straight year 
+
+tiger lake 10nm process 
+
+aapl IOs apps created 300k jobs 
+
+india mass Chinese app ban 
+
+breakthru silicon in batteries 
+
+
 
 9/2
 trump denies stroke 
