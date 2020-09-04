@@ -1,4 +1,30 @@
 [Back to 2020](2020index.md) 
+9/4
+bets - trump big underdog
+
+stock MKT dip
+Tesla down 18% in 3 days
+aapl bad day
+
+professor of afro American Studies faked being black 
+cancelled herself 
+
+rust discovered on moon 
+
+video of black man being suffocated with hood on head surfaces 
+
+arm thinks Nvidia wants to buy arm to destroy it 
+
+tesla to have design overhaul and rave cave on top of Berlin factory 
+
+asphalt contributes to air pollution
+
+100mbps dl w starting 
+
+aapl offshore wind turbines for Denmark largest in world 
+
+goog gets defense contract for cancer research 
+
 9/3
 trump vaccine by nov? 
 
