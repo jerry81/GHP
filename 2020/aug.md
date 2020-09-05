@@ -1,4 +1,22 @@
 [Back to 2020](2020index.md) 
+
+9/5
+enhance cybersecuriry in space 
+
+ru covid vaccine elicits antibody response 
+
+france 8.4B stimulus 
+
+pentagon Jedi stays with msft
+
+aapl criticizes China sides with freedoms of speech 
+
+usa refuses to pay tens of mils of who dues 
+
+trump reportedly insults dead troops 
+
+musk brother maybe insider trading 
+
 9/4
 bets - trump big underdog
 
