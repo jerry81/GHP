@@ -3,6 +3,15 @@
 9/6 
 langlang Bach goldberg
 
+Michael Cohen book disloyal 
+
+best Java apps 
+Kafka 
+spring boot 
+runscape 
+
+drones drop weed over telAviv 
+
 9/5
 enhance cybersecuriry in space 
 
