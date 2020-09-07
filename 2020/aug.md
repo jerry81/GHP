@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md) 
 
+9/7
+cohen accusations include: obsessed with Obama 
+low opinion of blacks 
+
+most adults under 30 living with parents 
+
+hk protests resume again 
+
+lack of outbreaks in Africa 
+
+100 straight days of Portland protests 
+
+asphalt contributes to emissions 
+
+john cage
+as slow as possible 
+639 year performance
+
+tesla aggressive regenerative braking 
+porsche taycan
+
+musk says settlers likely to die on mars
+
 9/6 
 langlang Bach goldberg
 
