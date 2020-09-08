@@ -1,6 +1,26 @@
 
 [Back to 2020](2020index.md) 
+9/8
+outbreaks at colleges 
+students sent home
 
+cali heat wave
+
+tesla stock described as house of cards 
+
+fake accounts using real addresses to buy prods 
+brushing scam to get fake reviews 
+usually cheap products 
+
+complaints about in game ads for ufc4
+
+entire industry focused on deciding when to pop up "enjoying this app"?  dialogue 
+
+china banned apple scratch pl
+
+musk book list 
+
+molecule that captures solar energy
 
 9/7
 cohen accusations include: obsessed with Obama 
