@@ -1,5 +1,35 @@
 
 [Back to 2020](2020index.md) 
+9/9
+yosemite glows orange
+oregon glows red 
+wildfires 
+
+fed owns 1/3 all mortgages 
+
+musk loses 16B 
+wild wealth swings 
+
+bill Clinton podcast 
+
+fb worker quits says company on wrong side of history
+
+motorcyclist 178mph on highway police don't even bother catching 
+
+parent employees at fb facing unique challenges 
+
+at&t 5g slower than 4g in many city tests 
+
+uber zero emissions by 2040 
+
+goog rolling out Android 11
+
+unexpected: chess streaming popular 
+
+5m prize for covid rapid test 
+
+fornite try to restore self in app store 
+
 9/8
 outbreaks at colleges 
 students sent home
