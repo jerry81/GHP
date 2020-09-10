@@ -1,5 +1,32 @@
 
 [Back to 2020](2020index.md) 
+
+9/10
+bob woodward also comes out with Trump book
+rage 
+
+spacey accused of two more charges 
+
+hydrogen and carbon capture keys to zero emissions 
+
+virtual burning man 
+
+tiktok in discussions to avoid full sale 
+
+tesla Model y cooling system cobbled together 
+with fake wood
+
+special face masks for aapl emps 
+reusable washable 
+
+astrazeneca put on hold 
+
+10m stars scanned: no signs of alien tech 
+
+theory: masks are a crude vaccine 
+
+pubg mobile stays in India by cutting out tencent 
+
 9/9
 yosemite glows orange
 oregon glows red 
