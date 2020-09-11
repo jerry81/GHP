@@ -1,6 +1,35 @@
 
 [Back to 2020](2020index.md) 
 
+9/11
+29.6 M get jobless benefits 
+
+Ivanka will get live vaccine 
+
+ch fighter jets over Taiwan 
+
+remote leadership traits vs traditional 
+remote values doing over saying 
+
+Biden campaign hacked by Russians 
+
+theranos trial Liz holmes may pursue mental illness defense 
+
+cyberinsurance protectd against hacks 
+ransom ware 41% of claims 
+
+layered nonmixing smoke causes the orange and red skies 
+
+github an unlikely Haven from censorship in cn
+covid archives repository
+
+Android go a stripped down Android 
+
+fb back to square one 
+fb campus for college students only 
+
+huawei second version of harmony os 
+
 9/10
 bob woodward also comes out with Trump book
 rage 
