@@ -14,7 +14,16 @@ china would prefer tiktok closed rather than selling to US
 attempts to reconcile quantum mechanics and general relativity
 physicist theory: universe is a "neural network"
 
-wildlife down 
+wildlife down 60%
+
+belarus blocks internet with American companys 
+tech 
+
+IBM accused of age discrimination
+
+pringles tube difficult to recycle 
+
+nikola motors accused of fraud 
 
 9/11
 29.6 M get jobless benefits 
