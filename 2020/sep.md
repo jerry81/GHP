@@ -1,6 +1,21 @@
 
 [Back to 2020](2020index.md) 
 
+9/12
+fans boo nfl social justice stand
+chiefs stayed in locker room during national anthem
+
+betting market has joe biden at 75% chance to win
+
+watching tv while eating prevents us to realize when we are full
+
+china would prefer tiktok closed rather than selling to US
+
+attempts to reconcile quantum mechanics and general relativity
+physicist theory: universe is a "neural network"
+
+wildlife down 
+
 9/11
 29.6 M get jobless benefits 
 
