@@ -1,6 +1,28 @@
 
 [Back to 2020](2020index.md) 
 
+9/13
+exodus from California
+
+first wave of defaults 
+
+nomadland film
+Francis mcdormand
+wins golden lion
+
+Sanders thinks biden not progressive enough
+
+lululemon worth 40B 128usd yoga pants 
+
+c++ 20 huge update 
+
+is planet nine a black hole? 
+
+hapan flying taxis by 2023?
+
+connor MacGregor sexual assault and indecent exposure charges
+Corsica island of France 
+
 9/12
 fans boo nfl social justice stand
 chiefs stayed in locker room during national anthem
