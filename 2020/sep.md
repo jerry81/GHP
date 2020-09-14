@@ -1,6 +1,18 @@
 
 [Back to 2020](2020index.md) 
 
+9/14
+china military calls USA out as threat to world peace 
+
+Chicago free heroin passed out 
+multiple overdoses 
+
+Israeli anti corruption protests against Netanyahu 
+
+Nvidia guys arm 40B 
+
+Linux increasingly being targeted by hackers 
+
 9/13
 exodus from California
 
