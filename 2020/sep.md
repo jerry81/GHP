@@ -1,6 +1,37 @@
 
 [Back to 2020](2020index.md) 
 
+9/15
+Boston dynamics eyes profitability
+spot sells for 74k 
+
+Ethiopia fueled by hate speech, nearing genocide 
+famous singer assassinated 
+
+ex google Schmidt: USA dropped ball on innovation allowing cn to catch up
+
+pandemic accelerates automation 
+
+msft to get into satellites for cloud 
+
+underwater msft server had much higher reliability
+
+venus atmosphere signs of life 
+
+planting a tree is a carbon offset
+
+zuck book list 
+
+bob Woodward 60 minutes 
+
+amazon workforce 1M 
+
+israel second lockdown 
+
+russia poisoned political opposition
+
+
+
 9/14
 china military calls USA out as threat to world peace 
 
