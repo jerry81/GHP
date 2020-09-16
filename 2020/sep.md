@@ -1,6 +1,24 @@
 
 [Back to 2020](2020index.md) 
 
+9/16
+LA fires: broadcast towers in danger 
+
+middle East leaders sign new peace deal while two rockets fired from Gaza 
+
+apatow on censorship: 
+china has bought our censorship
+
+south Park hour long special on virus 
+
+qanon shutdown after owner doxed
+NJ man 
+
+chuck feeny good guy lived frugally donated 8B 
+
+moon mining the next big industry? 
+NASA pays big for sample
+
 9/15
 Boston dynamics eyes profitability
 spot sells for 74k 
