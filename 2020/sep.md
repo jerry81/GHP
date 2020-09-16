@@ -2,6 +2,23 @@
 [Back to 2020](2020index.md) 
 
 9/16
+
+new iPad Air had USBC port 
+
+pitfalls of recycling plastic
+
+aapl watch blood o2 levels 
+
+china : tiktok sale demonstrates USA economic bullying 
+
+IBM.  quantum.  1000qbit by 2023 
+
+monkey shortage in American research 
+
+Benz more emissions cheating 
+
+verizon buys tracfone 6B deal
+
 LA fires: broadcast towers in danger 
 
 middle East leaders sign new peace deal while two rockets fired from Gaza 
