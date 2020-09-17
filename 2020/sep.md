@@ -2,6 +2,15 @@
 [Back to 2020](2020index.md) 
 
 9/17
+USBC not as universal as hoped 
+need right combo of device wire and plug 
+
+good reads , bought by AMZN, needs a revamp
+
+USA chip making industry wants 50B incentive to stay stateside 
+
+Nvidia CEO Jensen Huang 
+
 covid battle continues in eu USA 
 
 hurricane Sally floods 
