@@ -1,6 +1,22 @@
 
 [Back to 2020](2020index.md) 
 
+9/17
+covid battle continues in eu USA 
+
+hurricane Sally floods 
+Florida Alabama
+
+china keeps tiktok Oracle gets slice 
+
+musk tunnel under Vegas for self driving cars 
+
+Mex cartels burn face off rival nicknamed ghost rider 
+
+majority of 18-29 living w parents 
+
+safety diver of self driving vehicle charged with negligent homicide 
+
 9/16
 
 new iPad Air had USBC port 
