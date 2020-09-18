@@ -1,6 +1,43 @@
 
 [Back to 2020](2020index.md) 
 
+9/18
+USA accuses Chinese hackers working with Malaysian businesses 
+
+duckduckgo growing quickly 
+
+apple one service bundle 
+
+after protests, Trump's wechat ruling overruled 
+
+Axios is also a tech conference 
+
+Twitter orders politicians to fortify passwords before election
+
+intel tiger lake benchmark looking gerd 
+
+wayback machine and cloud flare partnering up 
+always online plus auto backups 
+
+amzn 1000 warehouses in suburbs 
+walmart resurgent 
+
+scientists artificially generate disassociation in brain 
+
+daimler hydrogen semi
+battery truck 
+
+protester charges may include sedition 
+
+nj millionaire tax
+
+bank of England eyes negative interest rates 
+how does it work? 
+
+monkeys abt to get human rights in Switzerland
+
+new isis leadership in iraq
+
 9/17
 USBC not as universal as hoped 
 need right combo of device wire and plug 
