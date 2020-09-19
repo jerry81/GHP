@@ -1,6 +1,22 @@
 
 [Back to 2020](2020index.md) 
 
+9/19
+Ginsburg dead 
+pancreatic cancer 
+champion of women's rights 
+dying wish don't fill my seat 
+
+rare plant market flourishes 
+
+lake Tahoe booming in WFH society
+
+Israel olive branch to Saudi Arabia 
+
+ayahuasca has dmt 
+
+
+
 9/18
 USA accuses Chinese hackers working with Malaysian businesses 
 
