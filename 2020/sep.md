@@ -15,7 +15,11 @@ Israel olive branch to Saudi Arabia
 
 ayahuasca has dmt 
 
+gates set high standards and was tough on his team 
 
+tesla wins against disgruntled employee who accused tesla of puncturing batteries 
+
+wikipedia entries about cities affect tourism 
 
 9/18
 USA accuses Chinese hackers working with Malaysian businesses 
