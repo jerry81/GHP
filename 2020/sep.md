@@ -1,9 +1,15 @@
 
 [Back to 2020](2020index.md) 
 
+9/20
+Greek letters used for hurricane names 
+
+house party shooting in Rochester 2 dead 14 injured 
+
+
 9/19
 Ginsburg dead 
-pancreatic cancer 
+pancreatic cancer
 champion of women's rights 
 dying wish don't fill my seat 
 
