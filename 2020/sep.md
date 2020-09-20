@@ -6,6 +6,11 @@ Greek letters used for hurricane names
 
 house party shooting in Rochester 2 dead 14 injured 
 
+tiktok Oracle and Walmart 
+
+need: Yelp for open source projects 
+
+DC shows come to HBO 
 
 9/19
 Ginsburg dead 
