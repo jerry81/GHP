@@ -1,6 +1,20 @@
 
 [Back to 2020](2020index.md) 
 
+9/21
+that protests 
+criticising monarchy formerly taboo
+
+us mechanized troops in Syria 
+guard oil against Isis
+
+many cities ubi experiment
+
+every tesla has 2 processors running ab test beta against current 
+beta is simulated drive 
+
+judge blocks wechat download ban 
+
 9/20
 Greek letters used for hurricane names 
 
