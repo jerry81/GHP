@@ -1,6 +1,36 @@
 
 [Back to 2020](2020index.md) 
 
+9/22
+GOP will make court choice 
+
+Airbus design for zero emissions flight 
+
+stock crash fears of second wave 
+
+cn military exercises near twn 
+
+jakarta tinder man killed and dismembered by girls boyfriend 
+thought he was rich 
+
+ttump defunds NYC 
+anarchist 
+
+cruel monkey experiments in Belgium 
+
+fb may pull out Europe 
+
+china to blacklist us firms 
+
+huangs law 
+Nvidia 
+ai chips double in power every year 
+
+big 4 tech urged to stop advertising to minors 
+
+youtube was using ai to moderate vids 
+back to humans 
+
 9/21
 that protests 
 criticising monarchy formerly taboo
