@@ -1,6 +1,35 @@
 
 [Back to 2020](2020index.md) 
 
+9/23
+model S plaid 0-60 in less than 2 s 
+520 range
+139k USD 
+
+Tim Cook impressed by WFH 
+
+tesla battery day
+better batteries will lower cost
+
+she'll moving towards renewables 
+
+china top producer of greenhouse gases 
+while Trump pulls out of climate change reforms 
+
+edge for Linux 
+
+openai gpt3 generative pre trained transformer 
+msft exclusive license
+
+supreme Court shifts right 
+
+Bob woodward: historians examining Trump administration will ask 
+wtf happened to merica
+
+disney to newsom: please reopen 
+
+barbara Lagoa vs amy Barrett for supreme Court seat 
+
 9/22
 GOP will make court choice 
 
