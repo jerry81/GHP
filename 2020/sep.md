@@ -1,6 +1,43 @@
 
 [Back to 2020](2020index.md) 
 
+9/24
+tesla network outage 
+10% stock drop
+hack fears 
+
+how many books about Trump 
+michael Cohen 
+
+SoCal house prices still high 
+
+Cali ban diesel and gas vehicles by 2035
+
+killer avacodo fungus on Florida 
+scientists preserve them w cryogenics 
+
+senator Bill denies president power to kill internet 
+kill switch act of 2020
+
+cn calls tiktok sale extortion 
+
+wikupedia redesign coming 
+
+28B plan first woman on moon NASA 
+
+flutter extended to windows apps 
+
+ff usage down 85%
+
+nyc clock countdown to global warming being irreversible 
+
+bezos tuition free preschool 
+
+goog the scumbag of companies kills paid chrome extensions
+
+dark web drug raids 
+europol 
+
 9/23
 model S plaid 0-60 in less than 2 s 
 520 range
