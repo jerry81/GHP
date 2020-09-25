@@ -1,6 +1,33 @@
 
 [Back to 2020](2020index.md) 
 
+9/25
+epic tinder spotify
+coalition to take down app store 
+
+Nvidia RTX 3090 fastest gpu ever 
+
+skorea supports ubi 
+
+Amazon ring has a drone to inspect rooms 
+
+goog to try hybrid WFH models 
+
+spotify CEO 1B to incubate EU ventures 
+
+india rural work program to combat unemployment
+
+3d printing to fix stomach ulcers 
+
+quantum radar uses entanglement 
+arms race 
+
+twitter voice DMS
+
+america jobless at 870k 
+
+israel total lockdown 
+
 9/24
 tesla network outage 
 10% stock drop
