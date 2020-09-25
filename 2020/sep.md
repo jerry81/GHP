@@ -2,6 +2,8 @@
 [Back to 2020](2020index.md) 
 
 9/25
+dems want supreme Court term limits 
+
 epic tinder spotify
 coalition to take down app store 
 
