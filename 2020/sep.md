@@ -1,6 +1,34 @@
 
 [Back to 2020](2020index.md) 
 
+9/26
+gun sales up in swing states 
+
+Amy Coney Barret supreme Court 
+president's choice 
+
+Cali largest fire threatens weed farms 
+
+Pelosi want Joe to skip debates 
+
+Rio carnival cancelled 
+
+shaq and Barkley take unpopular stance on breonna Taylor 
+
+african rat sniffs out mines in Cambodia 
+
+trump may use military to stay in office 
+
+drug to treat Ms repairs myelin 
+
+crows very intelligent 
+
+hydrogen plane takes passengers for first time 
+
+trillion times more powerful xray allows you to see cells
+
+
+
 9/25
 dems want supreme Court term limits 
 
