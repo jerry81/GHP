@@ -1,6 +1,22 @@
 
 [Back to 2020](2020index.md) 
 
+9/28
+Trump hasn't paid income in 20 yrs 
+
+tiktok ban blocked by judge 
+
+former Trump campaign manager parscale threatens suicide in home 
+
+silicon Valley psychopath CEO's
+
+goog nap pods and free massages 
+Jeff Bezos to engineer during presentation: why are you wasting my life? 
+steve Jobs didn't wear shoes or shower, parked in handicapped spaces
+and called Emps fucking dickness assholes
+
+metal wires made from carbon 
+
 9/26
 gun sales up in swing states 
 
