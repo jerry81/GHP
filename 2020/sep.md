@@ -1,6 +1,25 @@
 
 [Back to 2020](2020index.md) 
 
+9/29
+Trump tax doc probe 
+Biden campaign sticker : I paid more taxes than DT 
+
+Chris Wallace to moderate 
+
+Carla Bruni denies having affair with trump
+
+quarter of Mexicans get news from YT 
+
+buried lakes in Mars 
+
+amzn expand to Vancouver, talent cheap
+92k vs 141k in SF 128 in Seattle 
+
+new lighter forms of real sugar 
+
+black holes from big bang could be dark matter 
+
 9/28
 Trump hasn't paid income in 20 yrs 
 
