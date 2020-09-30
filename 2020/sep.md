@@ -1,6 +1,39 @@
 
 [Back to 2020](2020index.md) 
 
+9/30
+fusion by 2035 
+
+four largest shipping companies hit by ransom ware 
+
+Uber 2.5 billion self driving experiment: not looking good 
+
+emergency firefighters test starting 
+say it works great 
+5-10 mins to set up a terminal 
+doubles speed 
+
+cloudflare to launch privacy focused rival to goog analytics 
+
+smic Chinese chip maker restricted by Trump 
+
+college enrollments down, graduate up 
+
+dwave launches quantum CPU for business 
+only available through cloud 
+
+amnesty International forced out of India 
+
+debate happening now 
+
+palantir IPO
+big data started w cia
+
+brad parscale (suicide watch) may have embezzled 50M 
+
+
+
+
 9/29
 Trump tax doc probe 
 Biden campaign sticker : I paid more taxes than DT 
