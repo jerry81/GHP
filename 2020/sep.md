@@ -1,6 +1,31 @@
 
 [Back to 2020](2020index.md) 
 
+10/1
+73.1M watched hell debate 
+
+will you shut up man t-shirts
+
+mic mute in next debate 
+
+stocks terrible September
+
+Greenland melting quickly 
+
+Benz electric bus uses solid state batteries 
+charge not as fast as lithium ion 
+higher energy density 
+
+seattle minimum wage for Uber and Lyft drivers 
+17usd 
+
+goog pixel 5 699 usd 
+
+china antitrust investigation into goog 
+Android 
+
+tesco(UK) plant based meat 
+
 9/30
 fusion by 2035 
 
