@@ -2,6 +2,28 @@
 [Back to 2020](2020index.md) 
 
 10/2
+
+Wallace blames Prez 
+
+20k AMZN workers infected 
+
+half of mericans retiring poor 
+
+Geneva minimum wage 4000usd 
+
+research writing by hand helps learners remember better 
+
+time crystals change shape from moment to moment 
+
+palantir NYSE valued at 22B 
+
+emp works for both fb and goog 
+55 hrs a week 
+
+india explore other app stores to fight goog monopoly
+
+
+
 Trump in quarantine 
 close aide hope Hicks has corona 
 
