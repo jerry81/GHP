@@ -1,6 +1,12 @@
 
 [Back to 2020](2020index.md) 
 
+10/2
+Trump in quarantine 
+close aide hope Hicks has corona 
+
+Trump condemns proud boys 
+
 10/1
 73.1M watched hell debate 
 
