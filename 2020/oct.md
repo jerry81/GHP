@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md) 
 
+10/4
+trump critical 
+given oxygen 
+
+clint eastwood, 90 y/o, to film new movie 
+
+oracle, ellison bid for tiktok 
+
+cam newton infected
+
+6 new weinstein sex assault charges 
+
+hypnotists sexually assaulting clients 
+
+human/animal chimeras supported
+
 10/3
 
 power not transferred to VP yet 
