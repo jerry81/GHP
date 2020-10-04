@@ -16,6 +16,28 @@ hypnotists sexually assaulting clients
 
 human/animal chimeras supported
 
+basic income: make people creative or lazy 
+
+stella immanuel (hydrochloroquine advocate, disappointed trump was not treated with it
+
+green hydrogen could be cheapest transformative fuel 
+
+200 nationally controlled internets?
+
+black holes provide more evidence of einstein's theory of general relativity 
+
+MSFT and nasa create website that teaches python coding 
+
+twitter birdwatch aims to add more context to tweets to watch for fake news 
+
+23M NASA titanium space toilet 
+
+anti deepfake detection detecting blood circulation (changes in color)
+
+uk wants to legalize escooters 
+
+
+
 10/3
 
 power not transferred to VP yet 
