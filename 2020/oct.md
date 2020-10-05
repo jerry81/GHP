@@ -1,4 +1,18 @@
-[Back to 2020](2020index.md) 
+[Back to 2020](2020index.md)
+
+10/5
+Trump didn't disclose first positive test 
+
+body language guru: president looks worried 
+
+27trillion us debt 
+
+AMZN low rates threaten goog and fb 
+
+streaming music is power intensive and therefore not green 
+servers 
+
+ransom ware hits coronavirus vaccine research 
 
 10/4
 trump critical 
