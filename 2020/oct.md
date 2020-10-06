@@ -1,5 +1,24 @@
 [Back to 2020](2020index.md)
 
+10/6
+43 yo Brady doing well 
+
+Melania calls stormy Daniel porn hooker 
+
+80yo brains happier and kinder 
+live in moment, less stress, have purpose
+
+Trump visa crackdown pushes work overseas 
+
+renewables in, natural gas out 
+
+theatre shutdown 
+
+nvidia 40B bid on arm 
+build supercomputer in Cambridge 
+
+
+
 10/5
 Trump didn't disclose first positive test 
 
