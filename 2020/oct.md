@@ -1,6 +1,14 @@
 [Back to 2020](2020index.md)
 
 10/6
+Spotify search by lyrics 
+
+14m tonnes of plastic at ocean floor
+
+Djokovic wants replace line judges w cameras 
+
+radiation on moon high school
+
 43 yo Brady doing well 
 
 Melania calls stormy Daniel porn hooker 
@@ -16,7 +24,6 @@ theatre shutdown
 
 nvidia 40B bid on arm 
 build supercomputer in Cambridge 
-
 
 
 10/5
