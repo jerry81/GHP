@@ -1,5 +1,14 @@
 [Back to 2020](2020index.md)
 
+10/7
+Eddie Van Halen dead 65 
+
+Singapore pay citizens to have babies 
+
+huge hurricane Delta to hit Cancun 
+
+
+
 10/6
 Spotify search by lyrics 
 
