@@ -1,6 +1,8 @@
 [Back to 2020](2020index.md)
 
 10/8
+Susan page moderated second debate 
+
 fastest electrodes triple density of lithium batteries 
 
 shocks to tounge to cure tinnitus
