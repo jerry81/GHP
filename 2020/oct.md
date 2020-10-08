@@ -11,6 +11,15 @@ USA may target ant and tencent next
 
 xb1 futuristic passenger craft 
 
+ps5 teardown 
+faster WiFi and usb ports than Xbox 
+
+31.8M for trex skeleton
+
+Nobel Prize to genetic scissors 
+
+
+
 10/7
 Eddie Van Halen dead 65 
 
