@@ -1,13 +1,22 @@
 [Back to 2020](2020index.md)
 
+10/8
+fastest electrodes triple density of lithium batteries 
+
+shocks to tounge to cure tinnitus
+
+Qualcomm Snapdragon phones 
+
+USA may target ant and tencent next 
+
+xb1 futuristic passenger craft 
+
 10/7
 Eddie Van Halen dead 65 
 
 Singapore pay citizens to have babies 
 
 huge hurricane Delta to hit Cancun 
-
-
 
 10/6
 Spotify search by lyrics 
