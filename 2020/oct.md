@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+10/9
+fly on pences head 2 mins 
+Biden swatter t-shirts 
+
+trump cancels next debate
+
+25th amendment ouster of disabled president 
+
+IBM to split into two companies 
+
+Benz 750mile range ev 
+
+waymo starts driverless ride share hailing 
+phoenix area 
+
+rocket lake Intel architecture 
+
 10/8
 Susan page moderated second debate 
 
