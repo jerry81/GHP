@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+10/10
+
+Trump off the meds 
+
+some say Biden win could be good for stocks 
+main reason reduce uncertainty and corona relief 
+
+new Yelp label: business accused of racist behavior
+based in SF 
+
+amd to buy xilinx for 30B 
+
+at&t layoffs at 
+HBO 
+Warner media
+Warner Bros 
+
+spacex gives starting to Indian tribe, wash emergency task force 
+
+new Chinese browser tuber can access YouTube 
+
+antipolitics policy at coinbase 
+
+aapl time Warner and fb turn down offer to buy quibi 
+ali one of the funders 
+
+msft perma-WFH 
+
+pakistan bans tiktok
+
 10/9
 fly on pences head 2 mins 
 Biden swatter t-shirts 
