@@ -1,5 +1,20 @@
 [Back to 2020](2020index.md)
 
+10/11
+research: gave homeless 1000s of dollars 
+
+karma ledger - good deeds outweigh bad deeds then u are good person 
+
+nexera worth more than Exxon Mobil 
+
+AMZN kills failed game crucible 
+
+python 3.9
+
+junk food thriving while other restaurants failing 
+
+pennsylvania swing state 
+
 10/10
 
 Trump off the meds 
