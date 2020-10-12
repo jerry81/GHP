@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+10/12
+dak Prescott injury 
+
+eu second wave 
+
+Taliban hopes Trump will win and withdraw troops 
+
+tabs vs spaces 
+tabs less file size 
+
+medical treatments swaying religious or political beliefs 
+
+c Java python top three popular PL
+
+amzn returns direct to landfill
+
+super habitable planet 
+larger warmer wetter 
+
+replace windows with MSFT Linux? 
+
 10/11
 research: gave homeless 1000s of dollars 
 
