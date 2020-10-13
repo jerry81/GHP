@@ -1,6 +1,13 @@
 [Back to 2020](2020index.md)
 
 10/13
+pc sales up big 
+
+five eyes intelligence sharing 
+us UK aus Canada NZ 
+
+arm founder: Nvidia will become another monopoly
+
 gamblers betting the farm on Joe Biden 
 
 fb Libra still not ready 
@@ -16,8 +23,6 @@ cow hugging as therapy in the Netherlands
 ev sales boom in EU 
 
 Disney reorg focus on streaming 
-
-
 
 10/12
 dak Prescott injury 
