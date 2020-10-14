@@ -1,5 +1,42 @@
 [Back to 2020](2020index.md)
 
+10/14
+hydrogen double deckers in Aberdeen 
+
+Thread networking tech: low power ip based iot protocol
+
+Netflix quick with cancel trigger 
+
+homepod mini 99
+
+Swedes convert office co2 to fuel 
+
+medical race to find holy grail: antibody for all similar illnesses 
+prometheus joint research project to compete with eli-lilly
+
+iphone 12 does not come with adapter 
+
+goog emps squelched on single subject: antitrust
+
+iphone 11 down 100usd 
+5nm chips and 5G 
+
+9M to be tested in Qingdao 
+
+vertical farms in sg 
+Vertivegies
+
+proud boys warn of civil war if Trump loses 
+
+Amazon Prime Day 10/13 to 14 
+workers strike 
+
+trump Superman in India starves self to death 
+
+ronaldo gets covid 
+
+
+
 10/13
 pc sales up big 
 
