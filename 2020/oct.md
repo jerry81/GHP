@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+10/15
+Trump attacks fauci again 
+
+Barrett when screened by Senate failed to answer five freedoms granted by first 
+speech religion press assembly protest 
+
+FL PA AZ battleground 
+
+model S price cut 
+
+china digital yuan trials 
+
+200 yuan to 50k citizens 
+
+tipping point tech: a tech which would be implemented with an investment 
+
+zoom e2e encrypted comms 
+
+goog iPhone hacking team looks for vulnerabilities in iPhone 
+AAPL poaching them 
+
+dropbox permanent WFH
+
 10/14
 hydrogen double deckers in Aberdeen 
 
