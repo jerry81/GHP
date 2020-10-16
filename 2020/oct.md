@@ -1,5 +1,45 @@
 [Back to 2020](2020index.md)
 
+10/16
+kamala staffer tests positive 
+
+Ohio hotspot 
+
+United CEO for sees 2024 return to normalcy 
+
+France big spike 
+
+college enrollment drops 
+
+half us workers made less than 35k last year 
+
+not really news - Xi coughs violently during speech 
+
+8million move in to poverty in USA 
+
+watching nature shows stave off sadness 
+
+backup personless gm self driving vehicles 
+SF
+
+canonical microk8s 
+
+person in jetpack spotted near lax 
+second time 
+
+google adds song matching w humming 
+
+uk digital SVC tax 
+amzn escapes it 
+
+great barrier Reef lost half its corals 
+
+physics: stored light 
+transport of stored light 
+
+room temp superconductor 
+involves lasers and diamonds 
+
 10/15
 Trump attacks fauci again 
 
