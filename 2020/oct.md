@@ -1,5 +1,39 @@
 [Back to 2020](2020index.md)
 
+10/17
+
+covid review: 8m us cases 
+200k deaths 
+20% of world covid deaths 
+
+goog migrate from hangouts to chat 
+
+SF rental prices down 31%
+
+las Vegas underground loop from musk capacity throttled by regulations
+
+737 max set to return 
+
+scientists studying mummified Twinkies
+
+brit airways data breach cost 27M in fines 
+
+france and Netherlands hate big tech 
+(want sanvtions)
+
+uber moving jobs to India 
+cutting costs 
+
+tesla factory 6 days 60 hr weeks 
+workers trying to unionize fired 
+144k model 3 produced in 3 mo 
+
+french teacher decapitated after showing Mohammed cartoons in class 
+
+trump failed to deliver on adding factory jobs in Midwest 
+
+japan may release nuclear Fukushima water into ocean 
+
 10/16
 kamala staffer tests positive 
 
