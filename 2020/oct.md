@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+10/18 
+coronavirus cases up 400k in one day 
+
+factory workers using exoskeletons to lift heavy loads 
+
+amd enjoying tech lead over intel 
+
+how-to-google course costs $298
+
+us antitrust targets chrome browser 
+
+trump administration rushing to pass some regulations loosening gig worker economy and biometric data regulations
+
+sweden transatlantic windpowered car carrier 
+
+iphones excel in single run benchmarks but slower than android in 20x runs 
+
+
 10/17
 
 covid review: 8m us cases 
