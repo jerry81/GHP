@@ -1,5 +1,22 @@
 [Back to 2020](2020index.md)
 
+10/19
+
+musk promises Mars in 4 yrs 
+spacex would not actually build the base, only act as transport 
+
+npm packages that open remote shells
+
+china anti addiction policies for internet content 
+
+Michael Cohen says Giuliani is always drunk 
+
+Oracle "donate" 250k usd to Republican senator while tiktok deal coming to close 
+
+Tesla drops ballsy 7 day return
+
+new linux solves 2038 problem with "big timestamps"
+
 10/18 
 coronavirus cases up 400k in one day 
 
