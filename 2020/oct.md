@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+10/20
+goog discontinued nest secure
+
+chess cheating crisis
+
+Tesla powwrwall competitor 
+bring hydro home
+
+eu 11B investment homegrown cloud
+
+UK drivers banned from picking up mobile phone
+
+for 100usd u can rent an and theatre 
+
+japan joins us and eu in big tech regulations
+
+compton ubi program 2 yrs 800 citizens 
+
+judges to be automatized
+
+reporter masturbates on zoom 
+member of the press lol 
+
 10/19
 
 musk promises Mars in 4 yrs 
