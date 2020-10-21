@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+10/21
+dems may control Senate 
+
+Trump has secret Chinese bank account 
+
+Iowa flipping blue 
+
+800M jobs replaced by machines 
+
+2000 1876 all electoral crises 
+
+spies and cia attacked by mysterious concussion causing microwave weapon 
+
+impossible foods expands to cow milk alternative 
+
+GM invest 2B in ev manufacturing
+
+goog paid mobile carries 1B to distribute search engine 
+
+huawei ZTE banned from Swedish 5g networks 
+
+msft and spacex team up for cloud in space 
+
+tesla design flaw 
+rear bumper fall off when driving thru water 
+
+new solar material perovskites 
+
 10/20
 goog discontinued nest secure
 
