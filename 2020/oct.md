@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+10/22
+Iran behind threatening proud boy emails
+threatening dem voters in FL  
+
+Texas tied 
+
+quibi closes 
+
+ev startups hot on wall St despite no profits 
+
+hummer pickup truck
+1000hp  
+
+rising political tensions at work 
+
+AOC twitch streams among us 
+
+Schmidt : soxial media amplifier for idiots 
+
+tesla full self driving goes into beta 
+
+trade cryptography thru PayPal 
+
+Huawei opposes Nvidia arm deal 
+
+new salivary glands discovered 
+
+
 10/21
 dems may control Senate 
 
