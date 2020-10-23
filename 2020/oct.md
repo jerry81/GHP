@@ -1,5 +1,20 @@
 [Back to 2020](2020index.md)
 
+10/23
+last Prez debate 
+
+jow Biden possible assassin
+
+electric circuits printed on skin
+
+pizza gate about hunter Biden child abuse conspiracy theory
+
+good reviews for Tesla auto driving
+
+Snowden now granted Russian residency 
+
+dutch hacker breaks into Trump Twitter 
+
 10/22
 Iran behind threatening proud boy emails
 threatening dem voters in FL  
