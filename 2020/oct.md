@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+10/24
+NY LA bracing for riots 
+
+putin consider military alliance with China 
+
+turkey us embassy warns of kidnappings and terror 
+
+app developers join forces against app store 
+started w fortnite Spotify and match 
+now over 40
+
+musk to use starting to build internet bridge to Mars 
+
+LED panels may replace green screen for visual effects 
+
+yt fb Patreon ban qanon 
+
+Cali prop 22 uber and Lyft treat drivers as emps 
+
+tmobile 12 hr nationwide outage 
+
+slack accused MSFT of antitrust 
+
+china allegedly uses Uighur slave labor 
+
+intel drops 10%
+
+solar cheapest energy 
+
 10/23
 last Prez debate 
 
