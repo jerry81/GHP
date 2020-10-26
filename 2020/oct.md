@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+10/25 10/26
+3Rd gen chips gallium nitride 
+
+twitch cracks down on music copyright 
+
+murder hornet nest found near Canada
+
+Kabul Afghanistan suicide bombing 
+Isis supsected
+
+delta Airlines no fly list for barefaced flying 
+
+100% south Australia power supplied by solar 
+
+goog pays appl 8 to 12 B to integrate products w goog search 
+
+santa Claus performers get free vaccines 
+
 10/24
 NY LA bracing for riots 
 
