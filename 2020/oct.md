@@ -1,5 +1,34 @@
 [Back to 2020](2020index.md)
 
+10/27
+iranian YouTube CEO sentenced to 10 yrs for user uploaded content 
+video was just asking children if they knew where they came from 
+
+Samsung founders son dies at 78
+
+Pakistan pm asks FB to ban Islamophobia content 
+
+who will save AMC?  Disney? 
+
+water molecules found on moon 
+
+fb enters cloud gaming another feud with aapl
+
+seesaw is a classroom app 
+
+new bond film was thinking of selling to streaming services 600M 
+
+police using facial recognition for minor crimes 
+
+dow down 650
+
+amy Barrett in 
+
+jack ma record ant IPO
+27.4B worth of stock
+
+france vs turkey feud 
+
 10/25 10/26
 3Rd gen chips gallium nitride 
 
