@@ -1,5 +1,44 @@
 [Back to 2020](2020index.md)
 
+10/28
+pa about to go blue 
+
+60 minutes Trump interview
+host death threats 
+
+Reese Witherspoon may run in politics 
+
+Trump hacked 
+
+Russian covid spike 
+mask mandate 
+
+porn blocks for teens in Germany 
+
+YouTube dl GitHub repository taken down 
+github CEO angry 
+
+fb acct bound to oculus 
+
+nocode platform startups
+
+yoshihide suga 
+new Japan pm 
+pledges carbon neutrality by 2050 
+
+covid antibodies wake over time 
+
+net neutrality rejected again by FCC
+
+3% starlink sat failure rate 
+
+nuke engine could mean 3 month trips to Mars 
+
+with just small hole drilled into skull 
+computer can interact with brain using light 
+
+lithium batteries explode if damaged 
+
 10/27
 iranian YouTube CEO sentenced to 10 yrs for user uploaded content 
 video was just asking children if they knew where they came from 
