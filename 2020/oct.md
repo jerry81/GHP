@@ -1,5 +1,46 @@
 [Back to 2020](2020index.md)
 
+10/29
+election most bet on event in history 
+
+wall St spooked by virus 
+stock plunge 
+
+Trump Maga tally at freezing airfield in Omaha 
+
+Biden ahead in Wisconsin
+
+new Vegas resort circa 
+pool party scene 
+
+Harvey downfall linked to Brit film industry downfall 
+
+25 years in prison for killing police Dogg 
+
+aapl iphone12 secret reverse wireless charging feature 
+
+consumer reports: gm super cruise beats Tesla autopilot 
+
+win10 removes Adobe Flash 
+
+wikimedia moves from gerrit to Gitlab
+
+loon 312 day balloon trip sets record 
+
+nasa perseverance rover halfway to Mars 
+
+windows sun Valley ui refresh 2021 
+
+aapl build goog alternative 
+
+bipartisan support for tech antitrust 
+
+a forest room at a daycare improved children immune systems
+
+starlink beta: 500 up front 99/mo 
+
+trump campaign website hacked by crypto scammers 
+
 10/28
 pa about to go blue 
 
