@@ -1,5 +1,57 @@
 [Back to 2020](2020index.md)
 
+10/30
+Trump rallies getting 1000s 
+
+91k USA covid cases in one day 
+
+hostility towards Trump as covid rages 
+in Wisconsin
+
+plug brain into computer thru veins 
+
+Glen Greenwald resign from intercept
+censorship
+
+Greek letter hurricanes already at Zeta 
+
+SF downtown empty
+
+terror in France 
+
+bowie biopic panned 
+
+drone response for 911 calls 
+
+arctic methane getting released
+
+fb losing us/can users 
+
+goog ai webpage to video 
+
+brave browser first in cname security patch 
+
+excel overhaul - live custom types 
+
+china wants to be tech independent 
+
+goldman jp Morgan code freezes around election
+
+netflix price hikes 
+
+amzn launch in Sweden 
+translation issues 
+
+twn UMC to pay 60M to Us in trade secrets case 
+
+bytedance launches smart lamp 
+
+cambridge analytica cases still going 
+
+rare metal asteroid worth quadrillions 
+
+hybrid tidal generator wind solar and waves 
+
 10/29
 election most bet on event in history 
 
