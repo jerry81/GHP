@@ -1,5 +1,43 @@
 [Back to 2020](2020index.md)
 
+10/31
+energy stocks down 
+
+thanksgiving scales back 
+
+dems to control house and Senate 
+
+civil unrest predicted 
+
+violent anti lockdown protests in eu 
+Italy Spain Belgium 
+
+Berlin wax museum drops Donald 
+
+spacex to make laws on Mars 
+
+us UK top plastic polluters 
+
+building moved 62 meters in Shanghai 
+building walking machine 
+
+ios14 added back tap gesture 
+entire back of phone can be double triple tapped 
+
+russians attack dem campaign again 
+
+waymo releases 6.1M mi of self driving data 
+
+drones planting 40k seeds a month 
+losing 7B trees each year 
+total 30trillion 
+
+fb whatsapp 100B msgs a day 
+
+quantum computer at Honeywell 
+
+samsung Huawei Xiaomi appl top 4
+
 10/30
 Trump rallies getting 1000s 
 
