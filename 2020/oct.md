@@ -1,5 +1,23 @@
 [Back to 2020](2020index.md)
 
+11/1
+Trump rallies caused 30000 covid cases 
+
+UK lockdown 
+
+Harris first female southeast Asian Senate member 
+first black female ag of California
+
+Spotify stock up 50 % since getting jre 
+
+riscv compete with arm Intel and amd? 
+
+tesla full self driving gets mixed reviews 
+
+eu 46% of covid cases
+
+amzn 1M EMPs 
+
 10/31
 energy stocks down 
 
