@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+11/2
+prince William keeps virus secret to not alarm Nation 
+
+Dewey vs Truman was case of underdog winning 
+
+Trump supporters in trucks swarm Biden bus on i35 
+
+Bitcoin as Halloween treat 
+
+Slovakia to test entire country 
+
+UK support for ubi 
+
+telework led many to relocate 
+
+huawei new chip factory in Shanghai 
+
+icloud outage 
+
+55k covid cases in us military
+
 11/1
 Trump rallies caused 30000 covid cases 
 
