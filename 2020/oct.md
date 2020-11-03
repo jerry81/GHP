@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+11/3
+Depp loses wife beater case 
+
+netflix reorganize 
+
+Snowden expecting 
+
+youtubedl reposting will lead to ban says GitHub 
+
+twilio and segment API companies merge 
+
+Walmart opts for humans over robotics 
+
+Trey Parker Matt stone deep fake political show sassy justice 
+
+new h1b rules force EMPs to pay them 208k 
+
+radio travels poorly in water but sound is good 
+thus sonar navigation 
+
+chrome will have its own certificate root store 
+
+soccer telecast ai mistakes refs head for ball 
+
+aus no new covid infection
+
 11/2
 prince William keeps virus secret to not alarm Nation 
 
