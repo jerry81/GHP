@@ -1,5 +1,30 @@
 [Back to 2020](2020index.md)
 
+11/4
+smooth sailing on election day so far 
+
+stocks up on election day 
+
+key states Michigan Penn Wisconsin
+
+Michael Moore worried that Trump will launch nukes 
+
+Thailand porn ban and backlash 
+
+Spotify boost music for cut of royalties 
+
+ant IPO halted 
+
+usa broadband is also a monopoly danger 
+
+mostly harmless dead hiker mystery 
+similar to into the wild guy 
+
+goog discovers high risk GitHub flaw 
+fails to fix in 90 days 
+
+intel may outsource to Asia 
+
 11/3
 Depp loses wife beater case 
 
