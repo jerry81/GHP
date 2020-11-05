@@ -1,5 +1,31 @@
 [Back to 2020](2020index.md)
 
+11/5
+Biden on verge of victory 
+overwhelming fav on getting markets 
+
+stock market huge gains 
+
+Trump prepared to contest mi wi pa 
+
+Vienna terrorism 
+2 gunned down 
+
+DC and Oregon both legal 
+OR decriminalized heroin cocaine ecstasy
+NJ AZ recreational marijuana
+
+Uber Lyft drivers still independent in ca
+
+after youtubedl removed from GitHub 
+fucktheriaa account surfaces 
+
+virgin hyperloop in WV
+
+kim dot com in NZ may be extradited to USA 
+
+personal jets selling well 
+
 11/4
 smooth sailing on election day so far 
 
