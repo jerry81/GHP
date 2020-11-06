@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+11/6
+Georgia votes close 
+
+first drug to slow Alzheimer's set to be approved 
+
+Volvo electric trucks 2021 
+
+SF tax for highly paid CEO's 
+
+Android turns 13 years old 
+
+newest amd ryzen 5000 CPUs 
+
+a brewery burns iron powder for fuel 
+
+fortnite back on iPhone thru Nvidia cloud gaming 
+
+whatsapp ephemeral messages feature 
+
+brave 20M users 
+
+us officially withdraws from Paris climate deals 
+
 11/5
 Biden on verge of victory 
 overwhelming fav on getting markets 
