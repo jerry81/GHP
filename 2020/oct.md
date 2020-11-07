@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+11/7
+Biden about to get 309 votes 
+
+stop the steal campaigns 
+
+EXO planet discovered with lava oceans and rains rocks 
+
+T-Mobile over hypes its 5g network 
+
+fb proposes payment network claims 7 x faster than visa 
+
+china launch experimental 6g satellite 
+
+amzn to build a second data center in India 
+
+netflix tests web channel 
+
+india and Pakistan worst air polluters 
+
+tesla tequila will cost 250usd a bottle 
+
 11/6
 Georgia votes close 
 
