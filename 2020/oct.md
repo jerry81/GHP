@@ -1,5 +1,14 @@
 [Back to 2020](2020index.md)
 
+11/8
+Biden to reverse many of trumps orders 
+
+Yelp sales dept sex scandals 
+
+180 degree turn on climate change coming 
+
+Tesla more giant batteries in Australia 
+
 11/7
 Biden about to get 309 votes 
 
