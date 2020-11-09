@@ -1,6 +1,16 @@
 [Back to 2020](2020index.md)
 
 11/9
+raspberry Pi 400 very slick 
+
+Biden rejoin who 
+
+starlink speed impressive 
+
+Biden could let Ajit pai step down allowing for nn to come back 
+
+42% of amzn data caps could be unreliable 
+
 Alex trebeck dead at 80
 
 Bidens German Shepherd back at white House 
