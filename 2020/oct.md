@@ -1,5 +1,19 @@
 [Back to 2020](2020index.md)
 
+11/9
+Alex trebeck dead at 80
+
+Bidens German Shepherd back at white House 
+wife Jill 
+
+Trump plan avoid indictment make money 
+
+study: there are 300M earth's in milky Way 
+
+scientists: we are in 6th mass extinction event 
+
+Tesla tequila sells out quick
+
 11/8
 Biden to reverse many of trumps orders 
 
