@@ -1,4 +1,8 @@
 [Back to 2020](2020index.md)
+11/11
+pfizer vaccine 
+
+dinosur brain discovered
 
 11/9
 raspberry Pi 400 very slick 
