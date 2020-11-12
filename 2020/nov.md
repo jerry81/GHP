@@ -1,6 +1,38 @@
 
 [Back to 2020](2020index.md)
 
+11/12
+
+energy storage w liquid air 
+
+good results from russian vaccine 
+
+cia outsources to swiss company gets whistleblown on spying techniques
+
+ticketmaster to require testing to attend concerts 
+
+aapl claim macbook air 98percent faster than pcs 
+false 
+
+android malware uses goog play store as vector
+
+mcplant to compete w impossible whopper 
+
+tiktok asks whats up w forgotten ban by trump administration
+
+ali 70B in sales on d11
+
+honda first to mass produce level 3 autonomous 
+
+boston dynamics owned by softbank may be bought by hyundai
+
+hospitals overwhelmed 
+140k new cases a day 
+
+hk pro democracy leaders resign 
+
+chipotle digital only restaurant 
+
 11/11
 pfizer vaccine 
 
@@ -9,8 +41,6 @@ dinosur brain discovered
 divorce at 50 year low 
 
 chinese covid vaccine trials in brazil halted 
-
-
 
 11/9
 raspberry Pi 400 very slick 
