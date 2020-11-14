@@ -15,6 +15,27 @@ israel and usa to attack iran?
 
 supreme court justice samuel alito warns of curbs of liberty due to covid
 
+uber may sell self driving group to aurora 
+
+elon musk gets cold, takes 4 covid tests, 2 positive, 2 negative
+
+election most secure in history
+
+chevy bolt ev recalled for fire risks
+
+ubisoft hostage situation on rooftop
+
+VW 86B in EV investment
+
+disney + already 73M subs
+
+paypal trade crypto 
+
+samsung 5nm soc exynos 
+
+python creator joins MSFT
+
+
 
 11/12
 
