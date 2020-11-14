@@ -1,6 +1,21 @@
 
 [Back to 2020](2020index.md)
 
+11/14
+maga supporters heading to DC
+
+130 secret service infected with covid 
+
+homeland security chief defies president
+trump wanted to fire chris krebs, chad wolf defies order
+
+in person classes suspended
+
+israel and usa to attack iran?
+
+supreme court justice samuel alito warns of curbs of liberty due to covid
+
+
 11/12
 
 energy storage w liquid air 
