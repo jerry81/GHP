@@ -1,6 +1,26 @@
 
 [Back to 2020](2020index.md)
 
+11/15 - 
+
+NJ - recreactional pot
+
+lou dobbs big trump supporter 
+
+ps5, xbox resllers asking up to 32K
+
+musk most likely has covid
+
+amzn ring recalls after catching fire
+
+18% covid patients have mental illness afterwards 
+
+ayahuasca may stimulate new brain cell growth
+
+van rossum joins msft
+
+iron powder still being tested as fuel source 
+
 11/14
 maga supporters heading to DC
 
