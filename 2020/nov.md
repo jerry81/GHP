@@ -1,6 +1,22 @@
 
 [Back to 2020](2020index.md)
 
+11/16
+biden chooses more lockdowns 
+
+trump admits defeat 
+
+spacex falcon launch crew of 4
+
+akropolis 2M crypto stolen 
+
+asia pacific trade bloc of 15 countries excludes usa 
+
+parler political social media app censors 
+
+millions of hotel guest cc numbers exposed
+misconfigured cloud 
+
 11/15 - 
 
 NJ - recreactional pot
