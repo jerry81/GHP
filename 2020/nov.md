@@ -1,6 +1,38 @@
 
 [Back to 2020](2020index.md)
 
+11/17
+trump bomb iran?
+
+trump tv laughed at by howard stern 
+
+musk abt to pass zuck worlds richest 
+
+heart attack and stroke polypill cocktail 
+
+bronx warehouse used as illegal fight club 
+
+edge full screen ads 
+
+emplyoee surveillance booming due to wfh
+
+airbnb files to go public 
+
+tesla will go on s&p 500
+
+world is watching more anime 
+streaming services shifting strategy 
+
+btc at 16300 gunning for record 
+
+us military buys location data from ordinary apps 
+
+didi to start producing its own cars 
+
+huawei to uk : revisit ban now that trump defeated 
+
+bmw electric wingsuit 
+
 11/16
 biden chooses more lockdowns 
 
