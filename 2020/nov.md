@@ -1,6 +1,32 @@
 
 [Back to 2020](2020index.md)
 
+11/18
+covid emerged in italy earlier than thought 
+
+disappearing tweets , fleets 
+
+linux suse ipo coming? 6B 
+
+mRNA vaccines must be stored at very low temps 
+logistical nightmare 
+
+M1 arm processor in macbook air 
+exceeding expectations 
+
+profitboss try to compete w delivery apps 
+
+unity education groom 80k devs 
+
+jeff bezos 10B climate fund 
+
+msft pluton chip on top of amd intel arm processors 
+
+amzn pharmacy 
+prescription med delivery 
+
+spacex astronauts dock with iss 
+
 11/17
 trump bomb iran?
 
