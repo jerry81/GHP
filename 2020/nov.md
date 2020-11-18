@@ -2,6 +2,12 @@
 [Back to 2020](2020index.md)
 
 11/18
+trump last ditch effort allow drilling for oil on alaska 
+
+mitch mcconnell senate majority leader 
+
+conan obrien ending show after 28 yr run 
+
 covid emerged in italy earlier than thought 
 
 disappearing tweets , fleets 
