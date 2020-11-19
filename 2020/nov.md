@@ -1,6 +1,20 @@
 
 [Back to 2020](2020index.md)
 
+11/19
+cerebras 26 inch chip 10000 times faster than gpu
+
+amd radeon returns to high end graphics 
+
+more spectrum given to wifi 
+bit taken from vehicle safety 
+
+immunity to covid after vaccine may last years or decades 
+
+aapl pay 113M in batterygate 
+
+
+
 11/18
 trump last ditch effort allow drilling for oil on alaska 
 
