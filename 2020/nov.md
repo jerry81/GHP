@@ -2,6 +2,14 @@
 [Back to 2020](2020index.md)
 
 11/19
+
+app store small biz fee reduced to 15%
+
+tesla flaw media control unit dies 
+flash memory w finite writes dies after logging 4 yrs 
+
+eu more offshore wind farms 
+
 cerebras 26 inch chip 10000 times faster than gpu
 
 amd radeon returns to high end graphics 
@@ -13,7 +21,8 @@ immunity to covid after vaccine may last years or decades
 
 aapl pay 113M in batterygate 
 
-
+israel and saudi arabia want to go to war w iran 
+force bidens hands 
 
 11/18
 trump last ditch effort allow drilling for oil on alaska 
