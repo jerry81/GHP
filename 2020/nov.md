@@ -1,6 +1,27 @@
 
 [Back to 2020](2020index.md)
 
+11/20
+musk gunning for gates number 2 spot
+
+zillow luxury house buying app
+
+fb antitrust abt purchases of ig and whatsapp
+
+buzzfeed buy huffpost
+
+charlotte kirk infamous sex scandals in hollywood 
+
+wonder woman 1984 hbo max 
+
+japan digital yen 
+
+tarrifs are a form of protectionism 
+xi warns against it
+pushes for free and open trade 
+
+china statefunded hacks strike worldwide 
+
 11/19
 
 app store small biz fee reduced to 15%
