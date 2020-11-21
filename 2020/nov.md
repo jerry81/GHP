@@ -1,6 +1,44 @@
 
 [Back to 2020](2020index.md)
 
+11/21
+donald jr gets covid 
+
+more toilet paper panic buying 
+
+biden 78 oldest prez in history 
+
+miley and dua lipa collab, playing vampires 
+
+airbnb exec resigns due to chinese asking for data 
+
+world first: human aging reversed
+at cellular level 
+hyperbaric oxygen chamber - pressure greater than atmosphere 
+
+rocket lab second company after spacex to land an orbital rocket 
+
+tesla model 3 crashes at 100mph, battery cells go flying into 2 different households 
+
+us emissions dropped to 9% in 2020, in position to rejoin paris climate accords 
+
+fb goog and twitter threaten to leave pakistan over censorship
+
+appl moves against bill of forced labor in china 
+targetting uyghur situation 
+
+escooters with computer vision to curb pedestrian collisions 
+
+MSFT free all day calling with ms teams
+taking on zoom
+
+solar power stations in space could be energy breakthru 
+
+softbank ceo doesn't understand bitcoin, says it distracted from his own business
+Masayoshi Son
+
+MIT creates supperconductor from 2 sheets of graphene, twisted together 
+
 11/20
 musk gunning for gates number 2 spot
 
