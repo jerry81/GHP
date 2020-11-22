@@ -2,6 +2,15 @@
 [Back to 2020](2020index.md)
 
 11/22
+amzn alexa glows red when muted to punish privacy wanting users 
+
+us navy tests shooting down intercontinental ballistic missle 
+detected by satellite
+
+github restores youtube dl 
+
+tmobile 998 mental services hotline 
+
 merkel 15 yrs in power 
 
 pope calls for end to feverish consumerism
@@ -15,8 +24,6 @@ big sur lets some network traffic bypass firewall
 1M covid cases in america in one week 
 
 similarities between universe and human brain?
-
-
 
 11/21
 donald jr gets covid 
