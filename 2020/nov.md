@@ -1,6 +1,23 @@
 
 [Back to 2020](2020index.md)
 
+11/22
+merkel 15 yrs in power 
+
+pope calls for end to feverish consumerism
+
+racial minorities die at higher rate from covid 
+
+criminal probes into whitehouse coming 
+
+big sur lets some network traffic bypass firewall
+
+1M covid cases in america in one week 
+
+similarities between universe and human brain?
+
+
+
 11/21
 donald jr gets covid 
 
