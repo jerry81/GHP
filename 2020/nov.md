@@ -1,6 +1,26 @@
 
 [Back to 2020](2020index.md)
 
+11/23
+elegant chemo destroys cancer cells
+
+in and out opens in colorado
+
+japan four days in a row of record cases 
+
+thousands in twn protest us import pork 
+ban lifted 
+
+sidney powell ousted from trump legal team (guiliani) as too crazy
+
+interstellar solar powered spaceship
+
+bitcoin not safe haven but correlatea with economy 
+
+spidermonkey js engine warp update improves performance 
+
+musk totally recovered from covid 
+
 11/22
 amzn alexa glows red when muted to punish privacy wanting users 
 
