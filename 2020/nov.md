@@ -1,6 +1,31 @@
 
 [Back to 2020](2020index.md)
 
+11/24
+wisconsin foxconn plant gets goog server contract 
+
+china chang e 5 collect moon samples 
+
+trump overexposed 
+48mins camera time per day 2020
+
+john kerry join white house team
+
+qantas require vaccine before intnl flight 
+
+mushrooms for migraines 
+
+sarkozy corruption trial 
+
+amzn delivery crunch 
+asks customers to come to store to pick up
+
+queens gambit highest rated netflix 
+
+oxford also has vaccine 
+
+
+
 11/23
 elegant chemo destroys cancer cells
 
