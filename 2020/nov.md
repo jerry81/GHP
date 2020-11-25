@@ -1,6 +1,31 @@
 
 [Back to 2020](2020index.md)
 
+11/25
+stocks up again 
+
+biden picking cabinet 
+
+dr mike sexiest doctor alive 
+breaks own rules 
+bareface in miami party 
+
+china 80% lithium ion production 
+
+every cell in body has same dna 
+
+new tesla designed in berlin 
+
+los angeles 
+transport tech innovation zone 
+
+fb tiktok competitor reels 
+
+tesla worth 515b 
+half a trillion
+
+india bans more cn apps
+
 11/24
 wisconsin foxconn plant gets goog server contract 
 
