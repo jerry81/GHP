@@ -1,6 +1,14 @@
 
 [Back to 2020](2020index.md)
 
+11/26
+gm to start insurance business
+ use customer data 
+
+aws goes down with large part of internet 
+
+salesforce buy slack?
+
 11/25
 stocks up again 
 
