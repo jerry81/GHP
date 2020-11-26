@@ -9,6 +9,22 @@ aws goes down with large part of internet
 
 salesforce buy slack?
 
+sec working to give gig workers equity
+
+ibm 10k job cuts
+
+goog saudi israel fiber 
+historical enemies 
+
+zte goes on security threat list 
+
+amzn push to stop counterfeit
+cooperate w gov
+
+is appl silicon ready? website 
+
+
+
 11/25
 stocks up again 
 
