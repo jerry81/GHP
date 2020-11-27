@@ -1,6 +1,22 @@
 
 [Back to 2020](2020index.md)
 
+11/27
+
+oregon decriminalized drug treatments
+
+xb1 supersonic jet 
+
+hollywood transforming into streaming 
+
+disney 32000 layoffs 
+
+chopins gayness censored
+
+berlin hot among young workers 
+
+fucking austria changes name to fugging
+
 11/26
 gm to start insurance business
  use customer data 
@@ -22,8 +38,6 @@ amzn push to stop counterfeit
 cooperate w gov
 
 is appl silicon ready? website 
-
-
 
 11/25
 stocks up again 
