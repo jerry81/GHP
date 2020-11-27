@@ -3,6 +3,11 @@
 
 11/27
 
+bitcoin may rise to 100k?
+2021
+
+cambridge darwin notebooks stolen
+
 oregon decriminalized drug treatments
 
 xb1 supersonic jet 
@@ -16,6 +21,11 @@ chopins gayness censored
 berlin hot among young workers 
 
 fucking austria changes name to fugging
+
+covid blame shifts back to china 
+key mutatuon happened here 
+
+ownership of farmland getting more concentrated
 
 11/26
 gm to start insurance business
