@@ -1,6 +1,35 @@
 
 [Back to 2020](2020index.md)
 
+11/28
+iran nuclear scientist assassinated 
+
+can trump be trusted with national security secrets?
+
+curaleaf: wants to become frito-lay of cannabis
+
+gas and firing squads may be allowed for executions again in USA
+
+amzn workers planning black friday protests
+
+libra (fb) to launch next year
+
+amzn goes on hiring spree due to pandemic 
+
+WHO still thinks pandemic originated in Cn
+
+huge trough of fresh water found under sea floor off coast of hawaii 
+seawater better conductor than fresh water
+
+china emerges as data superpower 
+
+india enters recession
+
+dyson invest in robotics, ai, batteries
+
+britain commits money to help carriers as alternatives to huawei 5g
+
+
 11/27
 
 bitcoin may rise to 100k?
