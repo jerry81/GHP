@@ -1,6 +1,18 @@
 
 [Back to 2020](2020index.md)
 
+11/29
+spacex mars rocket to launch 
+
+wfh  has companies worried companies will relocate to cheaper regions
+
+qanon founders accused of financial motives
+
+ESA european space agency - starts space debris removal project
+
+crypto ponzi scheme cracked down by chinese police
+
+
 11/28
 iran nuclear scientist assassinated 
 
