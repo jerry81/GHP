@@ -1,6 +1,29 @@
 
 [Back to 2020](2020index.md)
 
+11/30
+tasmania 100% renewable energy 
+
+cno cycle primary fusion cycle 
+
+msft patented tech to score meetings based on body language and facial expressions 
+
+monolith appears in utah desert 
+and disappears 
+
+tesla sentry mode 
+see remote camera feed 
+
+black hole at center of milky way called saggitarius a 
+
+biden foot fracture 
+
+jake paul kos nate robinson 
+
+hk closes schools 
+
+hawaii wants to attract remote workers 
+
 11/29
 spacex mars rocket to launch 
 
