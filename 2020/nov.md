@@ -1,6 +1,39 @@
 
 [Back to 2020](2020index.md)
 
+12/1
+major media layoffs 
+
+blood test for alzheimer
+
+hubei was dealing with flu same time as covid 
+
+aussie soldiers kill afghanis 
+china deepfakes photo calls aus out 
+aus demands apology from cn 
+
+moderna vaccine promising results 
+
+more digital taxes in SEA 
+
+americans spending more time on video games 
+
+ai predicts shape of proteins 
+deepmind of alphago fame 
+alphafold solves 50 year old problem
+
+btc new record 19k 
+less fears of bubble 
+
+fb goog new antitrust in US 
+
+ajit pai to step down 
+
+salesforce acquires slack
+
+tech workers fleeing sf to miami denver austin 
+rents down 20%
+
 11/30
 tasmania 100% renewable energy 
 
