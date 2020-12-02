@@ -1,6 +1,44 @@
 
 [Back to 2020](2020index.md)
 
+12/2
+hector martin wants to bring linux to m1 
+brought linux to ps4
+
+martin tripp whistleblows on tesla abt wasting raw materials
+fined 400k for leaking info to press
+
+another monilith found in romania 
+
+hewlett packard moving from sj to houston 
+
+amzn factories to roll out monitoring tools 
+also quantum computer 
+
+chang'e 5 lands on moon 
+
+cyber jobs have outlandish job requirements 
+
+aws cloud introduces mac minis ecs 
+
+eu emissions down 24% since 1990
+
+advent of code 2020
+
+store hydrogen in salt mines 
+
+biden more stimuluses 
+
+gay conversion therapy is torture 
+
+quibi a 1.75B failure 
+
+lsd problems among marines 
+
+kpop stars can defer military service 
+
+portland car thefts 
+
 12/1
 major media layoffs 
 
