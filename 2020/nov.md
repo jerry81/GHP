@@ -1,6 +1,25 @@
 
 [Back to 2020](2020index.md)
 
+12/3
+uk greenlight vax 
+lockdown lifted 
+
+prince harry: covid punishment from nature 
+
+robert kraft solicits sex at florida asian massage parlor 
+masseuses get in trouble 
+
+samuel little killed over 90 women 
+
+china becomes eu top trade partner 
+
+sf bans tobacco in apts but not mj 
+
+musk confident abt landing humans on mars by 2026
+
+audi etron model y and kia niro called out for problems
+
 12/2
 hector martin wants to bring linux to m1 
 brought linux to ps4
