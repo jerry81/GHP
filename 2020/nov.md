@@ -2,8 +2,29 @@
 [Back to 2020](2020index.md)
 
 12/3
+52M on reddit per day 
+
+code switch number one podcast on apple 
+on race
+
+spotify antiplagirism 
+dominates podcasts
+
+sony ps5 pro w dual gpu?
+
+discovery streaming service 
+
+iphone hack over wifi with no user interaction 
+remote access to device 
+ian beer google project zero day
+
+uber elevate air taxis may be sold to joby 
+
+tesla would consider acquiring legacy automaker 
+
 uk greenlight vax 
-lockdown lifted 
+lockdown lifted
+first to approve 
 
 prince harry: covid punishment from nature 
 
