@@ -1,6 +1,28 @@
 
 [Back to 2020](2020index.md)
 
+12/4
+vaccine nationalism?
+
+cali 3 wk lockdown 
+
+santas stand behind plexiglass 
+
+vision restoring brain implants 
+
+11yo kills self during zoom class 
+
+us broadband jumped 90 percent in 2020
+
+autox, china, first to remove safety drivers from
+robotaxis 
+
+aws virtualization engi puts win 10 on arm of mac m1
+
+lab grown meat approved in singapore 
+
+first prototype fusion plant uk 
+
 12/3
 52M on reddit per day 
 
