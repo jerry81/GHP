@@ -1,5 +1,20 @@
 [Back to 2020](2020index.md)
 
+12/7
+more monoliths showing up
+modern art 
+
+ransomware gangs now use cold calls to threaten ppl 
+
+jap asteroid probe returns w samples 
+
+havanna syndrome could be directed microwave energy 
+
+tiktok misses sale deadline 
+
+china artificial rain and snow program
+
+
 12/5
 covid overtakes heart disease as top killer in USA this week
 
