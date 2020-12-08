@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md)
 
+12/8
+33M lockdown in ca 
+
+banned americans find way to croatia 
+
+human cell grown steaks 
+
+breakdancing now olympic sport 
+
+ikea to kill off its catalog 
+shifting online 
+
+spacex gets 886M to subsidize starlink to citizens 
+
+uber sells atg self driving branch 
+
 12/7
 more monoliths showing up
 modern art 
