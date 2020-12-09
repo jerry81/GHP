@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+12/9
+biden goal 1m shots per day for 100 days 
+
+33% of workers took a pay cut 
+binge drinking
+
+day trading addictive like casino gambling 
+
+stampededs at walmart for nonexistent ps5
+
+chinese spy? fang fang slept w two mayors 
+fbi probe starts and she flees 
+
+chinese bioenhanced soldiers see twice as far 
+
+toyota electric suv 
+
+pornhub child exploitation accusations cause policy change
+ban downloads limit uploads 
+
+new githib project get open src funding from companies 
+
+tripadvisor and 100 other apps cleaned up by cn gov 
+
+airpod max 
+550usd 
+
+mobile genome sequence analyzer 
+
+lg transparent sliding doors w oled displays 
+
 12/8
 33M lockdown in ca 
 
