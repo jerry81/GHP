@@ -15,6 +15,10 @@ oxygenation of mars? split carbon dioxide
 fr nuclear aircraft catrier 
 
 vax allergy warnings 
+ampholytic 两性的
+can ionize into anions or cations 
+anaphylactic extreme allergic reaction 
+
 
 12/9
 biden goal 1m shots per day for 100 days 
