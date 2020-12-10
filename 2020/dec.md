@@ -1,4 +1,20 @@
 [Back to 2020](2020index.md)
+12/10
+mainland cn has separate version of adobe flash 
+
+hyundai acquire boston dynamics 1B 
+
+mass of human manufactured things outweighs natural life mass
+
+electric air taxis in sg by 2023
+
+eu invest in semiconductor
+
+oxygenation of mars? split carbon dioxide 
+
+fr nuclear aircraft catrier 
+
+vax allergy warnings 
 
 12/9
 biden goal 1m shots per day for 100 days 
