@@ -1,4 +1,32 @@
 [Back to 2020](2020index.md)
+12/11
+france approves bionic soldiers as ethical 
+
+mdma couples therapy in EU
+
+spacex  explosion
+
+400k deaths by new uear in usa?
+3000 daily record
+
+new amazon health bracelet requires near nekkid fotos 
+
+airbnb huge stock opening 
+
+ellen test positive
+
+flight attendants advised to wear daipers
+
+water futures on wall st 
+
+credit cards dump pornhib 
+
+salesforce ai can spot breast cancer 
+
+more action from fcc against huawei ztc 
+
+quantum computing issues : noise between entangled pairs 
+
 12/10
 mainland cn has separate version of adobe flash 
 
