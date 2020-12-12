@@ -1,4 +1,25 @@
 [Back to 2020](2020index.md)
+
+12/12
+dogs sniff armpits to detect infection
+
+wine & cheese reduce cognitive decline 
+
+andrew yang nyc mayor?
+
+fb losing key people, taking stabs at company in departures 
+
+oracle moving from silicon valley to austin tx 
+
+musk says problem with corporate america is too many mbas
+too focused on financials, not enough focus on products and services
+
+harrison ford fifth indiana jones movie 
+
+eu agrees to 50% carbon cut by 2030
+
+hyundai buys 80% of boston dynamics
+
 12/11
 france approves bionic soldiers as ethical 
 
