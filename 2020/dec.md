@@ -1,5 +1,16 @@
 [Back to 2020](2020index.md)
 
+12/13
+record number of hospitalizations 
+
+open source devs: securing code is boring soul withering 
+
+c and cpp mem unsafe 
+every other lang safe 
+
+disney stock up 13%
+record high 
+
 12/12
 dogs sniff armpits to detect infection
 
