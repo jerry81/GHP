@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+12/14
+india iphone factory riot 
+
+oblivious dns over http 
+
+einstein impetus for theories 
+light bending by sun and mercury orbit 
+
+
+
+human evolution: bones weaker 
+more lactose tolerant 
+cooler body temps 
+less inflammation
+
+hydrogen fuel cells future of autos?
+refuel quickly 
+toyota mirai honda clarity hyundai nexo
+
+
+
 12/13
 record number of hospitalizations 
 
