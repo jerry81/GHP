@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+12/15
+russians havk usgov
+
+saudi iran conflict rages on 
+
+ivanka fl senator 
+
+covid sped up automation 
+
+unwelcome in other countries 
+mericans flee to mexico 
+
+nomadland to sweep oscars 
+
+many diff versions of 5g 
+
+m&a merger and acquisition 
+vista acquires plurasite 
+
+amazn zoox robotaxi development 
+
+fans fixing cyberpunk bugs before developer 
+patch utilize amd processor power 
+hex editor edited the executable
+
+goog flexi work week 2 days wfh 
+
+pornhub purges all unverified content 
+
+major goog outage 
+
 12/14
 india iphone factory riot 
 
@@ -7,8 +38,6 @@ oblivious dns over http
 
 einstein impetus for theories 
 light bending by sun and mercury orbit 
-
-
 
 human evolution: bones weaker 
 more lactose tolerant 
