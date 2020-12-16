@@ -1,7 +1,44 @@
 [Back to 2020](2020index.md)
 
+12/16
+uk new strain 
+
+cats recover from covid quickly
+
+delivery robots in west hollywood 
+
+stock bubble coming or here?
+
+goog horrible uiux 
+getting left behind 
+
+wildfires poison water 
+plastic pipes too 
+
+walmart driverless trucks 
+
+turn ram into wifi cards to infiltrate airgapped systems 
+
+amzn chaos engineering 
+
+solarwind db monitor and mgmt 
+hacked 
+
+hi freq traders push networking speeds to light speed 
+
+hollow core fiber made of glass 
+
+covid home testing kits 
+
+fda approves genetically altered pigs for meat allergic 
+
+germany to also use volocopters 
+carrying doctors 
+
+poor countries will wait long time for vax
+
 12/15
-russians havk usgov
+russians hack usgov
 
 saudi iran conflict rages on 
 
