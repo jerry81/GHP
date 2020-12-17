@@ -1,5 +1,33 @@
 [Back to 2020](2020index.md)
 
+12/17
+ai controls military aircraft 
+first time ever 
+algorithmic warfare 
+
+chang e 5 brings moon rocks back 
+
+hyper realistic masks 
+
+loneliness grows imagination 
+
+btc over 20k
+
+pornhub sued over sex trafficking 
+
+uk 9yo girl w asthma dies 
+cause of death ruled air pollution
+first in history 
+
+stadia for ios 
+
+fb mind reading tool 
+fb to assist riot vs aapl 
+
+gmail currently broken 
+
+
+
 12/16
 uk new strain 
 
