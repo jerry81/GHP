@@ -1,5 +1,35 @@
 [Back to 2020](2020index.md)
 
+12/18
+wildfires loaded w microbes 
+
+venezuela mining btc 
+
+global chip shortagr 
+
+socal crisis
+icu capacity 0
+
+mericans full revolt agst lockdown 
+
+pfizer millions of doses 
+blames fed for slow rollout 
+
+cyber attack reaches nuke weapons dept 
+
+macron covid 
+
+huge travel bookings for 2021
+
+fake wealth industry makes influencer look rich 
+
+google search huge antitrust suit 
+40 states 
+
+xray satellite vision 
+
+
+
 12/17
 ai controls military aircraft 
 first time ever 
