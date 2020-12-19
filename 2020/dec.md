@@ -1,5 +1,32 @@
 [Back to 2020](2020index.md)
 
+12/19
+rich first to get jab 
+
+russian hack - act of war?
+
+eminem suprise album 
+
+coinbase wants to go public 
+
+msft aim for passwordless logins 
+
+fujifilm ibm record mafnetic tape storage 
+580tb 
+
+cyberpunk refunds 
+
+taiwanese horror game devotion banned by china 
+jab at winniexipooh 
+
+us blacklists several companies incl simc 
+
+super seaweed reduces cow emissions 
+
+quantum internet experiment 
+
+sleep disruption leads to plaque buildup leading to alzhiemers 
+
 12/18
 wildfires loaded w microbes 
 
