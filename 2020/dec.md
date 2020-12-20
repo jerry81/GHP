@@ -1,5 +1,10 @@
 [Back to 2020](2020index.md)
 
+12/20
+new strain 50% more contaigious
+
+
+
 12/19
 rich first to get jab 
 
