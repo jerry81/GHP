@@ -3,6 +3,19 @@
 12/20
 new strain 50% more contaigious
 
+can biden turn america around?
+
+zoom found accused of conspiring with china 
+
+china tailing warship in taiwan strait
+
+physics: precise clock using entanglement
+
+crypto becoming mainstream investment
+
+jupiter and saturn to align
+
+battery prices down 88 percent
 
 
 12/19
