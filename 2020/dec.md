@@ -1,5 +1,21 @@
 [Back to 2020](2020index.md)
 
+12/21
+black hispanic prioritized for vax over whites 
+
+brits banned from belgium holland italy 
+
+900B stimulus coming 
+
+birthrates way down 
+
+quantum chess with multiple boards 
+
+aapl closed 20% of retail stores 
+
+amazn also working on a starlink 
+project kuiper 
+
 12/20
 new strain 50% more contaigious
 
