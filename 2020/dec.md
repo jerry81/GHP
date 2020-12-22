@@ -1,5 +1,26 @@
 [Back to 2020](2020index.md)
 
+12/22
+omar slams aoc for getting shot early
+
+nurse who fainted from jab goes missing 
+
+sex crazed roaring 20s after pandemic 
+
+tesla joins s and p 
+
+aapl cars by 2024
+riding breakthru in battery tech 
+
+digital bank aka neobanks rising 
+
+nikon ending camera prod in japan 
+
+lockheed trying to keep up w musk n bezos 
+
+musk tweets abt bitcoin rival 
+stock inc 20%
+
 12/21
 black hispanic prioritized for vax over whites 
 
