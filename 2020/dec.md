@@ -1,5 +1,28 @@
 [Back to 2020](2020index.md)
 
+12/23
+life expectancy dips 
+
+mutant strain started in usa 
+
+melatonin counter covid 
+
+video games now bigger industry than sports and movies combined 
+
+alex padilla mit electrical engineer selected for senate 
+
+musk was going to sell to aapl cook rejected meeting 
+
+walmart pharmacies blamed for opioid crisis 
+
+amzn original name was to be relentless 
+wsj article on amzn strategy 
+
+ransomware task force features msft and mcafee 
+
+goog fb team against antitrust 
+
+
 12/22
 omar slams aoc for getting shot early
 
