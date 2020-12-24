@@ -1,5 +1,19 @@
 [Back to 2020](2020index.md)
 
+12/24
+biden potus acct to start w 0 followers 
+
+hefty fines for food bingers streamers in cn 
+
+telegram w 500m users to start monetizing 
+
+zoom to expand to emails calendar 
+
+president vetos senate defense bill
+740B
+
+govt may enter a fourth shutdown of trump era 
+
 12/23
 life expectancy dips 
 
