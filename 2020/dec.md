@@ -1,5 +1,27 @@
 [Back to 2020](2020index.md)
 
+12/25
+mutant strains everywhere
+
+rounds of trump clemency 
+
+brexit finally 
+
+neverland ranch sells for just 22M 
+once asked 100m 
+
+jack ma monopoly probe 
+
+laptop desktop sales up 
+
+vw acknowledge appl as threat 
+
+kfc gaming console w chicken warmer 
+
+nuro self driving trucks gets permit from ca dmv
+
+nintendo invasive surveillance 
+
 12/24
 biden potus acct to start w 0 followers 
 
