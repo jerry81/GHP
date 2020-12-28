@@ -1,5 +1,17 @@
 [Back to 2020](2020index.md)
 
+12/28
+2 acre vertical farm equiv to 720acre flat farm
+startup company Plenty 
+
+radishes grown on iss 
+
+tesla boombox mode pumps music to pedestrean speaker 
+
+high demand for gm hummer ev 
+
+larry ellison has an island of hawaii 
+
 12/25
 mutant strains everywhere
 
