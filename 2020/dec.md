@@ -1,6 +1,14 @@
 [Back to 2020](2020index.md)
 
 12/28
+btc now at 26K
+
+more benefits from HIIT: longevity
+
+blue whale population found in indian ocean
+
+korean artificial sun fusion tech
+
 2 acre vertical farm equiv to 720acre flat farm
 startup company Plenty 
 
