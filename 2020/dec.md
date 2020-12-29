@@ -1,5 +1,16 @@
 [Back to 2020](2020index.md)
 
+12/29
+china big tech boosts national espionage 
+
+us drone law 
+can fly over people 
+at night
+
+tesla planning manufacturing in india 
+
+co2 turned to jet fuel w iron manganese potassium catalyst 
+
 12/28
 btc now at 26K
 
