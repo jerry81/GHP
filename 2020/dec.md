@@ -1,6 +1,12 @@
 [Back to 2020](2020index.md)
 
 12/29
+alexa hypnotize me 
+
+combusting teslas
+
+kim yo jong to become first woman dictator 
+
 china big tech boosts national espionage 
 
 us drone law 
