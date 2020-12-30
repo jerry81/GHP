@@ -1,5 +1,36 @@
 [Back to 2020](2020index.md)
 
+12/30
+mutant strain in usa 
+
+aapl supplier lens tech forced labor
+
+car data to kill alibis 
+
+meditation paradoxically boosts ego
+
+intel urged to shake up by hedge fund 
+
+disney to release lits of marvel and star wars nxt year 
+
+wooden satellite plans from jp 
+cut space junk 
+
+neptune most violent storms in ss 
+
+coinbase preparing to go public 
+suspends trade among ripple allegations 
+
+vaccine passport to travel 
+
+2000 handouts 
+
+wind power huge in uk 
+
+mex largest legal cannibis market 
+
+murders rise on east coast 
+
 12/29
 alexa hypnotize me 
 
