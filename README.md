@@ -5,6 +5,8 @@
 
   [2020](/2020/2020index.md)
   
+  [2021](/2021/index.md)
+  
 ### Tech
   [AliCloud Learning](/tech/ali.md)
   
