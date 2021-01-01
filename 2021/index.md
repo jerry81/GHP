@@ -1,15 +1,8 @@
-1/1
+[Go Back](../README.md)
 
-sf lockdown and quarantine 
 
-nye cancelled 
+## 2020
 
-mitch mcconnel rejects the 2000usd handout
 
-daily deaths still at 4000
+[January](jan.md)
 
-ubi inevitable?
-
-China Mobile, China Telecom, China Unicom delisted from NYSE
-
-alphabet drone delivery branch - wing
