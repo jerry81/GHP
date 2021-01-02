@@ -1,5 +1,14 @@
 [Back to 2021](index.md)
 
+1/2
+
+stocks end year at record high 
+
+vibrations can improve sleep
+sleeping in car quite restorative 
+
+
+
 1/1
 
 sf lockdown and quarantine 
