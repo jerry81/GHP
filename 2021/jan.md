@@ -7,7 +7,26 @@ stocks end year at record high
 vibrations can improve sleep
 sleeping in car quite restorative 
 
+bus massacre syria 40 dead 
+isis blamed 
+war in syria almost 400k dead 
 
+eu completes separation 
+
+comics industry did well in 2020
+
+lg transparent oled display 
+
+hunting down serial attacking sharks 
+
+nyc subway finally gets tap to pay
+
+jp piracy crackdown 
+
+streaming services thrived 
+
+Apple, Microsoft, Amazon, Alphabet, Facebook, Tesla and  nvidia 
+top seven tech 
 
 1/1
 
