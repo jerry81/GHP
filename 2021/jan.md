@@ -1,5 +1,25 @@
 [Back to 2021](index.md)
 
+1/3
+true death toll at 500K?
+USA
+
+loss of smell and taste is real 
+
+mericans flocking to mexico city 
+
+jack ma disappears?
+
+usa, iran military activity 
+
+mandalorian redeems star wars?
+
+think tank: UK firms can afford 4 day work week 
+
+boston dynamics, now part of hyundai - robots bust dance moves
+atlas - human like
+handle - ??
+
 1/2
 
 stocks end year at record high 
