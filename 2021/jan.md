@@ -20,6 +20,9 @@ boston dynamics, now part of hyundai - robots bust dance moves
 atlas - human like
 handle - ??
 
+new theory: dreaming protects visual brain cells
+
+
 1/2
 
 stocks end year at record high 
