@@ -1,5 +1,28 @@
 [Back to 2021](index.md)
 
+1/4
+trump caught on tape trying to rig votes 
+
+pelosi reelected as speaker 
+
+israeli jewish pop below 3/4
+
+ge wind turbine 
+853feet tall 
+
+commercial replacement for iss?
+
+india having 4 year old kids learn to code
+parents deepest fear : will my child be left behind
+
+brain activity of coders similar to doing math problems but not exactly
+
+btc up to 34000 50percent increase in one week 
+
+chang-e 5 team used exo skeletons to collect moon samples 
+
+
+
 1/3
 true death toll at 500K?
 USA
