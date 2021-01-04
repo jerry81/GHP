@@ -21,7 +21,11 @@ btc up to 34000 50percent increase in one week
 
 chang-e 5 team used exo skeletons to collect moon samples 
 
+ff design refresh coming 
 
+stagnation of software?
+
+profiteering of pharma causing superbugs
 
 1/3
 true death toll at 500K?
