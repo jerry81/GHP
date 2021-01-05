@@ -1,5 +1,37 @@
 [Back to 2021](index.md)
 
+1/5
+ga senate race 
+
+donald plan to flee to scotland 
+
+get covid after vax?
+
+uk new lockdown 
+
+netflix doc: cia introduced crack to black communities
+
+docs w insomnia
+
+ppl smoking more weed
+less cocaine
+
+colorodo water as investment 
+
+discovery+ launch 
+
+ether up to 1000
+
+jack ma missing from public view for two months 
+
+aapl asks foxconn to work on foldables 
+
+slack outage 
+
+goog workers unionize 
+
+big brands stoppes digital ads and saw NO CHANGE in sales 
+
 1/4
 trump caught on tape trying to rig votes 
 
