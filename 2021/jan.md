@@ -1,5 +1,33 @@
 [Back to 2021](index.md)
 
+1/6
+opioids in construction 
+
+maga want revenge on republican traitors 
+
+exoduses from ny nj 
+move to nc and fl 
+
+ncaa game w masks 
+
+uk sends aircraft carrier to join us forces in japan 
+china prepares for war 
+
+whole foods ceo john mackey best health care solution: not need health care by eating right 
+
+graphics card prices go up 
+demand from crypto
+
+india curbs and shuts down internet more than any other nation 
+
+nyse reverses plan to delist chinese telecoms 
+
+vax may not protect agst south africa variant 
+
+uni 14b years old
+
+uber wasted 100m on digital marketing scams 
+
 1/5
 ga senate race 
 
