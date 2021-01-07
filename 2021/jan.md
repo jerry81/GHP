@@ -1,7 +1,31 @@
 [Back to 2021](index.md)
 
+1/7
+congress riots 
+ivanka calls rioters patriots 
+gallows erected outside capitol 
+trump twitter suspended 
+
+hk movement quelled by mass arrests 
+
+amzn 2B to affordable housing 
+
+trump final blow 
+ban chinese payment apps 
+
+white house has director of technology 
+
+nvidia 40B takeover of arm being investigated by UK
+
+elon musk about to pass bezos for richest 
+
+pig to human organ transplants 
+
+usa allows github to operate in iran 
+previously sanctioned
+
 1/6
-opioids in construction 
+opioids in construction industry
 
 maga want revenge on republican traitors 
 
