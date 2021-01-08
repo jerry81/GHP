@@ -1,4 +1,20 @@
 [Back to 2021](index.md)
+1/8
+fence around capitol hill
+
+msft wanted to do hw for nintendo 
+
+jap facial recog bypass masks 
+
+baidu to try electrical vehicles 
+
+crypto over 1 trillion 
+
+btc at 40k now 
+
+big wifi upgrade coming : wifi 6e
+
+half of mericans turned to video games during lockdown 
 
 1/7
 congress riots 
