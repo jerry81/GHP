@@ -1,4 +1,25 @@
 [Back to 2021](index.md)
+
+1/9
+pelosi calls general to block prez from nuke codes
+will pardon family and inner circle
+maga mob stole national secrets?
+
+newly decriminalized psychadelics (mushrooms) attracting tourists to usa
+
+intel may outsource to tsmc, samsung 
+
+trump twitter permaban
+
+app store growing strongly again
+
+tesla passes fb, fifth most valuable us company
+
+scientists observe cells responding to magnetic fields
+
+hyundai to work with appl on self driving vehicle
+
+
 1/8
 fence around capitol hill
 
