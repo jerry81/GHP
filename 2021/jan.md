@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+1/10
+impeachment coming
+maga ready to rumble
+parallels to pre-nazi germany
+maga/proud boys wanted to hang pence
+indie musician in rally was dropped by label 
+
+parler removed from app store 
+
+half of covid transmissions happen without symptoms
+
+india detains chinese soldier at border
+
+musk endorses signal over fb products on twitter
+
+Discord - video game focused app 
+
+reddit banned r/DonaldTrump forum
+
+autopsies reveal: covid 19 does brain damage
+
+section 230: twitter and fb can pass along any data for publishing without fear of reprecussions
+
+punishing capitol raiders: how to id everyone
+thousands of media photos 
+
+universal (non-annual) flu vaccine in works
+
+soli - radar tech, to be used by goog nest for sleep tracking 
+
+
 1/9
 pelosi calls general to block prez from nuke codes
 will pardon family and inner circle
