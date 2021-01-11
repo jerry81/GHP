@@ -1,5 +1,22 @@
 [Back to 2021](index.md)
 
+1/11
+trebek's final episode airs 
+
+carbon engineering - suck carbon from the sky
+
+apple m1 sparks interest in non x86 architecture
+
+2020 warmest year ever?
+
+trump suspended from snapchat and twitch also 
+
+symptoms show up 6 months later
+
+20% in england have covid?
+
+therealdonaldtrump 57k tweets total
+
 1/10
 impeachment coming
 maga ready to rumble
