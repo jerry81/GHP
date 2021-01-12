@@ -1,5 +1,28 @@
 [Back to 2021](index.md)
 
+1/12
+with 200hrs until handover, fbi eorried abt uprising
+
+btc drops 10% to 34k
+
+yang wants nyc mayor
+
+rioter defense: trump said i could 
+
+biden pro lgbt plan 
+
+ces 2021 happened 
+intel reveals 8 core rocket lake 
+previews adler lake 
+
+staples offers office depot 2B to purchase 
+
+slashdotter: "trade prevents wars"
+
+dlink made usb adapter that adds wifi 6 to laptop 
+
+twitter stock down 7% after trump ban 
+
 1/11
 trebek's final episode airs 
 
