@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+1/13
+cheney mcconnel both want trump impeachment 
+
+assassination threats 
+
+usa require negative covid results for all visitors incl citizens 
+
+virus grows in nba 
+
+musk blames zuck for riot 
+
+btc lose password = screwed 
+
+eu commisioner: capitol attack is tech 9/11
+
+fb to ban stop the steal phrase 
+
+gm electric van and flying cars 
+
+flash content block starts today
+
+telegram and signal suddenly gain huge numbers 
+
+ces 
+amd server and mobile chips 
+nvidia three new gpus 
+
+threats to amzn and fb staff from maga 
+
+netflix 70 movies planned 
+
 1/12
 with 200hrs until handover, fbi eorried abt uprising
 
