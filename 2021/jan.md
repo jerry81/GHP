@@ -1,5 +1,28 @@
 [Back to 2021](index.md)
 
+1/14
+soldiers flow into capitol 
+trump first to be impeached twice 
+
+mcconeghey alt right?
+
+tesla bitcoin bubbles 
+
+bitcoin blasted by eu money minister ecb euro central bank for enabling criminal activity 
+
+uk nuclear spacecraft half time to mars 
+3-4 months 
+
+ubisoft to make star wars game 
+
+aapl to back colored entrepreneurs
+
+dropbox layoff 11%
+
+chinese vaccine disappoints
+
+whatsapp data sharing outrage 
+
 1/13
 cheney mcconnel both want trump impeachment 
 
