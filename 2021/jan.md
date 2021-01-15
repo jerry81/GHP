@@ -1,6 +1,29 @@
 [Back to 2021](index.md)
 
 1/15
+
+china record trade surplus
+hot goods include work from home equipment 
+health care equipment 
+
+study: determine political party with facial recognition
+high correlation with age and skin color 
+
+MIT professor accused of colluding with china
+Gang Chen - Mechanical Engineering
+
+andrew yang nyc mayorial run: universal basic income again
+
+appl magsafe - wireless charger - may interfere with pacemakers 起搏器
+
+jack dorsey enthusiastic about bitcoin
+
+richer you ware, the more you will socially distance
+
+new samsung flagship: S21
+
+tesla touchscreen failures, 150k recalls
+
 soldiers flooding into capitol remniscient of 
 dozens on terror list went to capitol 
 trump cant put together legal team
