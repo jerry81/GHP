@@ -1,5 +1,19 @@
 [Back to 2021](index.md)
 
+1/15
+soldiers flooding into capitol remniscient of 
+dozens on terror list went to capitol 
+trump cant put together legal team
+
+covid lungs look worse than smoker
+
+bugs as food to become mainstream?
+
+ai powered collar translates barks into emotions
+
+istanbul has water crisis 
+
+
 1/14
 soldiers flow into capitol 
 trump first to be impeached twice 
