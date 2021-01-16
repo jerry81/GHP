@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+1/16
+big five publishers  Penguin Random House, Hachette, HarperCollins, Macmillan and Simon & Schuster
+accused of price fixing
+
+aapl imac redesign coming
+
+xbox instant on feature a large power consumer 
+
+humans would not be able to control an AI superintelligence
+would require equal or higher intelligence to counter
+
+amzn workers have not unionized yet 
+may form first 
+
+intel vows to be better than aapl at cpus 
+new ceo 
+
+biology - fermentation an alternative to aerobic respiration used by cancer cells for energy
+
+us blocks xiaomi 
+xiaomi ceo lei jun - millitary lei 
+
+2020 second hottest year on record 
+
+pence is acting president in trump's absence 
+
+cnn dominating fox 
+fox ceo in jeapordy
+
+hebei outbreak
+
 1/15
 
 china record trade surplus
