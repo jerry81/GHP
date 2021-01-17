@@ -1,5 +1,23 @@
 [Back to 2021](index.md)
 
+1/17
+man brings gun and ammo to inauguration 
+
+entire family loses sense of smell and cannot detect fire 
+
+iran blames blackouts on bitcoin mining
+
+female vigilantes in mexico 
+
+data centers consume 2 % of worlds' electricity 
+superconducting cpus incredibly energy efficient
+nobium (element 41)
+price is cooling down to superconducting temps
+
+biden starts twitter account 
+
+fully automated commercial drone flights approved 
+
 1/16
 big five publishers  Penguin Random House, Hachette, HarperCollins, Macmillan and Simon & Schuster
 accused of price fixing
