@@ -1,6 +1,17 @@
 [Back to 2021](index.md)
 
 1/18
+
+some it projects leave company with larger bill
+poor software quality cost total of 2 trillion 
+
+auto factories major cpu shortage 
+
+jamie zawinsky legendary programmer 
+tim berners lee englishman invented www
+
+cios and ctos beleive will be replaced by AI
+
 last 72hrs for trump
 
 nra bankrupt?
@@ -15,9 +26,8 @@ spacex satellites darkened for astronomers
 
 mass exodus from whatsapp to signal causes outage 24 hrs 
 
-
-
 1/17
+
 man brings gun and ammo to inauguration 
 
 entire family loses sense of smell and cannot detect fire 
@@ -36,6 +46,7 @@ biden starts twitter account
 fully automated commercial drone flights approved 
 
 1/16
+
 big five publishers  Penguin Random House, Hachette, HarperCollins, Macmillan and Simon & Schuster
 accused of price fixing
 
