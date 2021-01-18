@@ -1,5 +1,22 @@
 [Back to 2021](index.md)
 
+1/18
+last 72hrs for trump
+
+nra bankrupt?
+
+usa halts intel supplies to huawei 
+
+sf tech worker exodus 
+
+antimaskers still proud 
+
+spacex satellites darkened for astronomers 
+
+mass exodus from whatsapp to signal causes outage 24 hrs 
+
+
+
 1/17
 man brings gun and ammo to inauguration 
 
