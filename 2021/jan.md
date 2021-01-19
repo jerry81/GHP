@@ -1,5 +1,24 @@
 [Back to 2021](index.md)
 
+1/19
+
+aapl new vapor cooling system 
+
+rioter plotted to sell pelosi laptop to russians 
+
+ms teams heavy user tracking 
+
+samsung heir 30 months jail for bribery 
+father also did time in 2017 for bribery 
+
+duckduckgo still growing 
+100M searches in one day 
+
+7% americans have gotten covid 
+
+psychadelic shaman schools popping up 
+
+
 1/18
 
 some it projects leave company with larger bill
