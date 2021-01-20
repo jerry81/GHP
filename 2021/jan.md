@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+1/20
+
+tens of mils of trump supporters stick by him 
+
+gallup poll worst ever president 
+
+investors bet on RIVIAN
+
+mutant strain in s africa 
+
+guarunteed income for 30 cities?
+
+netflix streaming roulette feature 
+200M subs 
+
+ig reels tiktok competitor 
+leader not happy w it enough for release 
+
+weme or mewe? fb competitor big hit in hk 
+
+1B edits on en wikipedia 
+
+ifixit admires airpod engineering compared to competitors 
+
+gdpr general data protection regulation
+
 1/19
 
 aapl new vapor cooling system 
