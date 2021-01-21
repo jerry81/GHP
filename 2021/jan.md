@@ -1,5 +1,38 @@
 [Back to 2021](index.md)
 
+1/21
+nba forbids midgame hugs 
+
+biden inaugural address 
+wallace calls it best 
+clinton falls asleep 
+rejoins paris climate accords 
+will block keystone pipelind from canada to usa 
+
+donald flees to fl 
+
+female superbowl ref 
+
+iron man suits for army 
+
+anti trust probes for alipay and wechat pay
+
+kia to work with aapl for cars 
+
+white house looking for coders uses hidden message on whitehouse.gov 
+
+centOS gone?
+part of red hat 
+free version of red hat ebterprise linux 
+
+tsmc to make intel core i3 on 5nm process 
+
+shijiazhuang 4000 person quarantine camp 
+
+trump pardons ex uber ex google levandowski 
+
+gamestop stock grew from 2 to 40
+
 1/20
 
 tens of mils of trump supporters stick by him 
