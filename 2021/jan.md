@@ -1,6 +1,37 @@
 [Back to 2021](index.md)
 
+1/22
+
+biden inherits worst job market ever 
+
+time magazine interesting cover of vandalized whitehouse with biden 
+
+mask slipping the new manspreading
+
+de-aging drug?
+
+iran wants revenge on trump 
+
+musk wants to fix miami traffic issues with tunnels
+offers big reward for carbon capture tech 
+
+delorean electric car
+
+ajit pai replaced by jessica rosenworcel
+
+instacart grocery delivery app to cut 1900 jobs 
+
+intel ceo rehires retired cpu architects
+
+16:9 aspect ration inching towards 16:10 and 4:3
+
+ubuntu on apple silicon 
+
+tesla job: handle tweets to elon
+
+
 1/21
+
 nba forbids midgame hugs 
 
 biden inaugural address 
