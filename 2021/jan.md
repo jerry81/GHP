@@ -1,5 +1,49 @@
 [Back to 2021](index.md)
 
+1/23
+
+us emissions biggest fall since wwii 
+
+honor, now separate from huawei launches its first phone 
+
+us smartphone location data can be used without a warrant 
+
+mac plans thinner macbook air 
+
+computer technician hacks into home security feeds to watch attractive women have sex 
+
+covid effect on nkorea a mystery 
+no official cases
+
+fermi paradox vs fermi problem
+paradox is about why haven't aliens contacted us
+problem is estimation quiz 
+
+samsung: 10B texas chipmaking plant?
+wants to compete with TSMC
+take advantage of concerned us gov 
+
+alphabet shuts down loon (wifi providing balloons)
+after 9 years
+no sustainable business model 
+
+intel finance hacked
+
+goog search may leave australia 
+aus wants goog to pay publishers for news
+
+UA require jab for emps 
+
+Boris says new UK strain even more deadly
+
+2500 bitcoin whales may manipulate market with their 40% ownership of all bitcoins
+
+investors like cannibus with dems in power 
+
+hank aaron dead, 86
+
+
+
 1/22
 
 biden inherits worst job market ever 
