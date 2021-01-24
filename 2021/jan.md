@@ -15,6 +15,14 @@ protests in russia demand nalvany release, hundreds arrested
 
 beijing okays coast guard to fire on foreign vessels
 
+us treasury nominee encourages crypto
+
+global warming slowing down?
+
+aws forking elasticsearch and kibana
+
+chrome 88 released - flash removed
+
 
 
 1/23
