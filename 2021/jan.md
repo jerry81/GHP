@@ -1,5 +1,22 @@
 [Back to 2021](index.md)
 
+1/24
+
+larry king RIP
+50k interviews
+brooklyn kid no college education 
+covid cause of death 
+
+muslims happy about biden 
+
+17% americans infected 
+
+protests in russia demand nalvany release, hundreds arrested
+
+beijing okays coast guard to fire on foreign vessels
+
+
+
 1/23
 
 us emissions biggest fall since wwii 
