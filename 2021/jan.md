@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+1/25
+
+covid trouble in eu, middle east 
+
+cops in dc riots also investigated 
+
+rare snow in cali 
+
+scientists racing to figure out consiousness 
+
+yang for nyc proposes borough bucks 
+
+cyber attack solarwinds actually may driver customers to azure 
+
+oracle to austin 
+palantir to denver 
+align to az 
+hp to houston 
+
+ant group sponsors reality tv show about programmers
+
+webjoke can u tell a programmer from a murderer?
+
+website: faces of the riot 
+
 1/24
 
 larry king RIP
