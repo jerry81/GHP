@@ -1,5 +1,34 @@
 [Back to 2021](index.md)
 
+1/26
+
+cat and dog vax
+covid sniffing dogs 
+
+billionaires thriving through covid
+
+stock bubble worries due to mania 
+
+bitcoin options deadline coming for companies, brace for price drop
+
+moderna effective against south africa and uk variants
+
+renewables pass fossil fuels in EU
+
+laser signal may lead to data speed breakthroughs
+
+xi warns against cold war at Davos
+
+japanese smart glasses correct myopia 
+
+gamestop stock jumps to record 
+
+aapl lawsuit over throttled iphones
+
+waymo on tesla self driving dreams: "thats not how it works"
+
+BP cuts oil exploration and invests in 
+
 1/25
 
 covid trouble in eu, middle east 
