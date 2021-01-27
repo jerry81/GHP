@@ -1,5 +1,28 @@
 [Back to 2021](index.md)
 
+1/27
+
+survey: how many hrs do tech workers work/day?
+30% 3-4, 30% 7-10, 27% 5-6, 11% 1-2
+
+elon musk hyped up gamestop stock
+
+spacex starlink adds laser links
+
+touchbar doomed, MSFT mocks on surface ad
+
+.ass subtitle standard - causes bans on google play 
+
+youtube paid over 30B to creators and artists over last 3 yrs
+
+iphone avg price (sold) reachers record of $873
+demand for high end 
+
+martha stewart 79 lots of cbd oil
+
+navalny support grows 纳瓦尔尼
+
+
 1/26
 
 cat and dog vax
