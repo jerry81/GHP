@@ -1,5 +1,43 @@
 [Back to 2021](index.md)
 
+1/28 
+
+reddit controlling stock market a thing
+
+cali lifted stay at home 
+
+dow down 683 points 
+
+721M profit for tesla 
+valued at 829B 
+
+six flags worlds' tallest and fastest roller coaaster 
+
+anal swap in china?
+
+robots disinfect hotel rooms 
+
+funny: average human fatter than elephant 
+
+at&t fined 15B debacle with directTV
+
+clash and byte, both tiktok competitors merge
+
+tesla model s interior redesign, 520 Mi range 
+
+gamestop and amc trading halted by td americtrade and schwab 
+amc bed bath and beyond and blackberry manipulated by daytraders, amc grew 288%
+
+nintendo sued over broken controllers 
+
+after india bans tiktok, india sheds thousands of workers 
+previously was the biggest international market 
+
+only 10% of companies expect employees to return 
+
+goog maps show covid vaccine locations
+
+
 1/27
 
 survey: how many hrs do tech workers work/day?
