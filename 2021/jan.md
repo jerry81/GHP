@@ -19,7 +19,8 @@ long haul hydrogen electric trucks
 
 scientists worried about variant from brazil 
 
-cigarette and ecig sales up after long decline
+cigarette sales back up after losing out to ecig for a while
+due to ecig taxes
 
 1/28 
 
