@@ -1,5 +1,26 @@
 [Back to 2021](index.md)
 
+1/29
+
+chip shortage makes car companies lose big 
+61B
+
+coinbase chooses to go direct listing vs ipo
+direct listing - cheaper
+ipo - more epxensive, involves intermediary who provides services in selling shares
+
+robinhood reviewbombed for blocking trades of amc and gamestop
+
+teslas come equipped with gaming hardware 
+
+fb antitrust vs appl 
+
+long haul hydrogen electric trucks
+
+scientists worried about variant from brazil 
+
+cigarette and ecig sales up after long decline
+
 1/28 
 
 reddit controlling stock market a thing
