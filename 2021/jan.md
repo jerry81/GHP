@@ -1,5 +1,52 @@
 [Back to 2021](index.md)
 
+1/30
+
+be aware of mutatiions racing across globe
+should undercut optimism
+troops at vax centers, why?
+assist in administering 
+
+reddit pumps dogecoin 
+worth billions
+grew 300% to 5 cents 
+sold off and down to 3 cents 
+
+centeral banker warns bitcoin investors may lose everything?
+
+rod stewart charged for attacking hotel guard 
+
+amazon sucks at making video games 
+
+"zoom boom" remote work revolution - brings many to santa fe 
+
+tesla roadster delayed to 2022 
+
+amc rescued from bankruptcy by meme stock week 
+
+robinhood limits gamestop to 1 stock 
+
+hacker hacks a male chastity cage 
+locks dick in 
+
+masayoshi son softbank expects driverless cars in 2 years 
+
+coventry england - flying car airport demonstration
+
+keith gill, "deepFuckingValue" reddit user who drove gamestop mania
+34 years old - wallstreetbets forum 
+
+reddit teams up with ethereum network 
+
+robinhood restricts crypto trading 
+
+xiaomi over the air charging over serveral meters 
+but not this year 
+
+gambling apps to come to play store 
+
+1B iphone users 
+
 1/29
 
 chip shortage makes car companies lose big 
