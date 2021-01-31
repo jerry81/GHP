@@ -1,5 +1,27 @@
 [Back to 2021](index.md)
 
+1/31
+
+paris warehouse orgy 100 men and women 
+
+peice of highway 1 near big sur falls into ocean 
+
+more russia protests navalny vs putin 
+
+excel is now turing complete - a system that can compute any solution (ulimited memory and computation)
+excel introduces user defined functions
+
+us gov fleet of cars (650k) to go all electric 
+
+fusion rocket thruster makes dreams beyond mars real 
+
+least affordable city for tech workers: san jose 
+
+dow drops to below 30k 
+
+chinese gov collecting american dna 
+
+
 1/30
 
 be aware of mutatiions racing across globe
