@@ -2,6 +2,12 @@
 
 2/2
 
+hedge fund melvin loses 33% due to reddit 
+
+ibm blockchain doing poorly 
+
+
+
 tsa can fine for bareface 
 
 astrazeneca vax issues w elderly 
