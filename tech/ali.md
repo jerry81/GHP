@@ -55,6 +55,12 @@ k8s/CEN/main
 k8s/container service/main.tf
   managed kumbernetes resource (but commented out)
   
+k8s/slb
+  defines one resource alicloud_slb
+
+k8s/vpc
+  defines alicoloud_vpc, vswitch (3) 
+  
 ### CI
   ECS
     defines resource alicloud_instance for buildkite agent
