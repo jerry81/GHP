@@ -6,6 +6,19 @@ hedge fund melvin loses 33% due to reddit
 
 ibm blockchain doing poorly 
 
+robinhood ceo to testify about gamestop 
+maxine waters - us house rep
+
+reddit users revolt against new apple video player 
+
+AMZN: govt demands for user data spiked 800%
+
+Xiaomi sues USA for ban 
+
+goog in talks to leave australia
+msft bing swoops in 
+
+myanmar - apparent military uprising 
 
 
 tsa can fine for bareface 
