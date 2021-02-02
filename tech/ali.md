@@ -20,6 +20,87 @@ elastic container instance
 
 1 apsaraDB RDBMS instance 
 
+## terraaform 
+
+every terraform file has a 
+backend "oss" which puts terraform files into a bucket 
+
+also has 
+provider "alicloud"
+
+### OSS
+
+each OSS bucket defined in Global/OSS/main.tf
+  with a resource declaration, second label being the bucket name 
+    acl set here to private or public-read
+    some have encryption with server_side_encryption_rule
+    
+### RAM
+
+managed in Global/RAM
+access keys folder has git keys
+all users defined with main.tf
+  resource "alicloud_ram_user" <username> 
+    name, display_name, and comments defined 
+ group membership defined with "alicloud_ram_group_membership" resources
+
+access keys provided for some users
+
+### K8S
+
+k8s/CEN/main
+  defines alicloud_cen_instance_attachment called k8s
+    instance_id, child_instance_id, region_id
+    
+k8s/container service/main.tf
+  managed kumbernetes resource (but commented out)
+  
+### CI
+  ECS
+    defines resource alicloud_instance for buildkite agent
+      image_id (docker image)
+      instance type - preset VM
+      security_groups - for access management
+      instance_name
+      disk size
+      charge - prepaid
+      vswitch_id - reads from remote_state.vpc.outputs
+      user_data - points to a script file
+        ali login info, s3 login info, github login info, buildkite api token
+      apt gets docker, buildkite
+      curls a couple tools
+      then uses systemctl to start the buildkite agents
+    defines EIP resource for CI 
+      charge_type - pay by traffic
+      bandwidth
+      name 
+    defines EIP association resource 
+      allocation_id
+      instance_id
+  VPC
+    defines alicloud_vpc ci_vpc resource
+    and alicloud_vswitch that accompanies it 
+    
+### MongoDB (and redis and Postgres)
+  CEN - resource cen_instance_attachment "mongodb"
+    instance_id (taken from output cen.cen_instance_id)
+    child_instance_id (taken from output vpc.outputs.mongodb_vpc_id)
+    child_instance_region shanghai
+  MongoDB - resource "alicloud_mongodb_instance" "mongodb"
+    storage size
+    vm template
+    vswitch_id - vpc.outputs.mongodb_switch_id
+    account info 
+    backup periods 
+    payment - prepaid
+    when to maintain 
+  VPC - resource alicloud_vpc called mongodb_vpc
+    and alicloud_vswitch "mongodb_vswitch"
+    
+ Postgres has alicloud_db_instance 
+ vs
+ Services/CoreAPI has alicloud_db_database "core_api"
+
 ## definitions
 
 Apsara - Ali's online db service 
@@ -76,3 +157,12 @@ CBWP - common bandwidth package used with EIP
 ENI - elastic network interface - virtual network card 
   5 enis in shanghai, each given private ip address, associated with vpc/vswitch, mac address, geographical location
   1 eni in HK
+  
+managed kubernetes - services vary from provider to provider 
+e.g. canonical manages entire cluster for you
+e.g. AWS EKS - just provides k8s environmenbt (not very managed)
+
+systemctl - control service manager and systemd
+
+systemd - software suite for linux
+
