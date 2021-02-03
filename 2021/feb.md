@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+2/3
+
+bezos steps down
+
+usa hospitalizations continue to fall 
+
+another covid bailout coming from senate?
+
+reddit trades start to fall 
+
+amazon hq2 in VA a helix shape
+
+spacex rocket test explosion (again)
+
+cdc to recommend wearing 2 masks?
+
+urban trees may help ward off depression?
+
+135k teslas recalled over faulty touchscreens 
+
+miami pay emps with bitcoin
+
+goog cloud: lost 5.61B - had 13.06 income 
+
+Robinhood screwed users 
+
+internat blackouts during political unrest 
+
+british crackdown on BNPL buy now pay later industry 
+
+booze delivery company drizly 
+acquired by uber for 1.1B
+
+exxonmobil invest 3B in carbon capture 
+
 2/2
 
 hedge fund melvin loses 33% due to reddit 
