@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+2/4
+
+parler ceo fired by board 
+
+amzn next ceo commited to making video games 
+
+pornhub verification by biometrics 
+
+musk admits quality issues 
+
+Boston dynamics spot gets an arm 
+and self charging
+
+GM chip shortage 
+
+300M indians covid 
+25% of population 
+
+despite 4.5M sales of ps5, sony took a loss on sales
+b/c selling for a loss 
+
+GOOG subsea cable between EU and America now online
+
+aapl and kia - 3.5B to build electric car 
+
+skorea leads in innovation, us drops out of top ten, china 16
+
+amzn hq plans for glass poop emoji shaped building
+
+moderna bizarre arm rashes 
+
 2/3
 
 bezos steps down
