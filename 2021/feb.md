@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+2/5
+
+morgen wallen country singer racial slur
+cancelled
+
+"collapsologist" prepares to live off land
+
+61% approval biden
+
+rep greene kicked out of house
+
+putin fears being killed like gaddafi
+who was captured and killed
+
+emprire state building powered by wind 
+
+new name in linux: magma for 5G
+
+samsung 17B chip plant in austin?
+
+23 and me to go public 
+
+amazon delivery vans to be equipped with AI
+for safety
+
+starlink at 10K users
+
+chromium reduces calls to dns servers
+
+myanmar military overthrows gov, blocks fb 
+
+wall st keeping close eye on wallstreetbets now 
+
+chemists create 99th element, einsteinium 
+
 2/4
 
 parler ceo fired by board 
