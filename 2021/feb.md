@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+2/6
+
+drop box gender discrimination issues
+
+nevada bill - allow tech companies to create own governments
+
+jammu and kashmir 4g internet getting restored after 18 months blackout
+
+fewer children attending school 
+
+quantum detector detects entire radiofrequency range up to 20Ghz
+
+ibm quantum computers finish problems that took months in an hr
+
+homebrew supports M1
+
+nissan mobile office "office pod"
+
+robinhood lifts gamestop restrictions
+
+myanmar moves to block twitter and IG
+
+fox dumps lou dobbs
+
+next stimulus check 1400
+
 2/5
 
 morgen wallen country singer racial slur
