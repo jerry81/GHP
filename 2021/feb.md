@@ -1,5 +1,24 @@
 [Back to 2021](index.md)
 
+2/7
+superbowl tomorrow
+
+china moon activity probe 
+mars probe photos
+
+another bitconin rally
+40k now 
+7% up
+
+educated people actually more likely to fall for qanon 
+
+name for space force soldiers: guardians
+
+centOS fork from almaLinux
+
+gamestop, amc worst weeks ever 
+falls 80%
+
 2/6
 
 drop box gender discrimination issues
