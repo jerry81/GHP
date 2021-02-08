@@ -1,5 +1,14 @@
 [Back to 2021](index.md)
 
+2/8
+
+dogecoin grows 50%
+musk and snoop tweets 
+
+zuck dreams of ar/vr replacing commute
+
+pfizer double vax output
+
 2/7
 superbowl tomorrow
 
