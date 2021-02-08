@@ -9,6 +9,17 @@ zuck dreams of ar/vr replacing commute
 
 pfizer double vax output
 
+brady wins another superbowl 
+drunken maskless crowds 
+
+swiss quantum encryption 
+
+clubhouse popular in china 
+
+gamestop could have been hedge fund pump and dump 
+
+millions fake prochina accts on twitter 
+
 2/7
 superbowl tomorrow
 
