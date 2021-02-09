@@ -1,5 +1,34 @@
 [Back to 2021](index.md)
 
+2/9
+
+impeachment ii deal reached by mcconnell 
+acquittal likely 
+
+no neilsen numbers for superbowl
+
+lots moving to FL
+
+russia cn iran joint naval drills 
+
+netanhayu corruption trial 
+
+tesla buys 1.5B bitcoin will accept it as payment method 
+
+ibm palantir partnership on ai low code product 
+
+fitbit track blood sugar 
+
+fl water supply hacked
+pumped up sodium hydroxide 
+
+mark cuban new podcast app 
+interact w fans 
+
+BJ blocks clubhouse 
+
+wall st bets on reddit wants to go hollywood
+
 2/8
 
 dogecoin grows 50%
