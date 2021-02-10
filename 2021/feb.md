@@ -1,5 +1,28 @@
 [Back to 2021](index.md)
 
+2/10
+
+56% in favor of donald conviction
+
+worst superbowl rating in 50 years 
+
+allergic reaction to apple watch 
+
+reddit trading actually made wall street elites richer 
+
+cops play music while citizens film to trigger copyright filters
+
+half of global wastewater is treated 
+
+aapl should buy bitcoin and create crypto exchange 
+
+iphone mini 12 was a flop 
+
+virtual property sells for 1.5 ether 
+
+us navy fusion patents 
+
+
 2/9
 
 impeachment ii deal reached by mcconnell 
