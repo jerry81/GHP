@@ -30,9 +30,25 @@ ADD <src> <dest> includes urls where you can dl from
 
 ### docker in docker 
 
+the idea: to run a docker inside a docker container 
+
+this is not recommended
+
+### sidecar
+
+this is recommended alternative to DiD
+
+connect a container not running Docker daemon to docker daemon of host system 
+
+### definition - docker daemon
+
+
+
 ### docker compose 
 
 [reference for docker compose](https://docs.docker.com/compose/reference/restart/)
+
+can compose multiple images defined in docker compose or link to Dockerfile
 
 a yaml file that is run with docker-compose up
 
@@ -44,4 +60,21 @@ syntax
 services:
   <service-name>:
     image: <docker image>
-    restart
+    restart: <restart policy>
+    env_file:
+      - <env file>
+    container_name: name to give to container
+    environment: 
+      <env_var_name>: <value> (can use env from env file, ref variables with ${x})
+    volumes: 
+        -  like docker run -v src:tgt
+    ports:
+        - like docker run -p src:tgt
+    build:
+        dockerfile: <path to dockerfile> (would be used instead of image)
+        links: (similar to network, but use network instead)
+        networks: - allows multiple containers to communicate w/ e/o
+          - network name
+ networks: (note that this is on same level as services at the root)
+        network name:
+  
