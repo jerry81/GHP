@@ -26,3 +26,22 @@ or ENV NAME=VAL
 COPY <src> <dest> will "upload" the file to the destination (local filesystem only)
 
 ADD <src> <dest> includes urls where you can dl from 
+
+
+### docker in docker 
+
+### docker compose 
+
+[reference for docker compose](https://docs.docker.com/compose/reference/restart/)
+
+a yaml file that is run with docker-compose up
+
+-f can be used to direct to a specific file 
+otherwise it just grabs the docker-compose.yml file in the current directory
+
+syntax
+
+services:
+  <service-name>:
+    image: <docker image>
+    restart
