@@ -1,5 +1,50 @@
 [Back to 2021](index.md)
 
+2/11
+
+terrible defense for trump
+
+larry flynt dead 
+
+maskne spreading 
+
+willie nelson marathon sex 9 hrs with a woman 
+legendary pot smoker
+
+andrew yang nyc mayor 
+
+2 chinese spacecrafts enter mars's orbit
+
+mastercard opens up to crypto 
+
+android 12 leak - color changing ui 
+
+"im not a cat filter" is decades old software 
+texan lawyer appears in conference with cat filter
+
+habitable planet in alpha centauri (4.37 light years away)
+
+salesforce allows workers to work remotely, declares 9-5 dead
+
+fb building clubhouse competitor 
+audio chat product 
+
+average gamer is full time working professional dad of 3 
+
+chinese hacking group's malware discovered
+
+Modi: indian prime minister
+
+tiktok sale to oracle, walmart shelved
+biden reviewing 
+
+bitcoin has large environmental footprint
+may affect tesla reputation
+
+switch can run android 10, unoficially
+
+
+
 2/10
 
 56% in favor of donald conviction
