@@ -1,5 +1,51 @@
 [Back to 2021](index.md)
 
+2/12
+
+trump acquittal could embolden extremists
+
+FB cooperates to identify rioters
+
+britney sued her father 
+over estate 
+
+ilhan omar takes post in white house: foreign affairs 
+
+bumble boss, 31, hottie 
+
+house prices boom 
+
+whitney wolfe herd
+
+new entertainment: smash stuff at rage room 
+
+robinhood reddit investigation from gov 
+
+disney plus almost 100M subscribers
+
+amd hiring linux engineers 
+
+cyberpunk 2077 code sold by hackers?
+
+grizzly bears repopulating in rockies 
+
+吴健雄 nuke physicist gets her own stamp 
+
+twitter studies using bitcoin, says CFO
+
+biden acknowledges chip shortage - prepared to take action 
+
+eu looking at deal with samsung and TSMC for chip production on eu ground 
+
+solar and wind in USA 10% of power 
+up from .1% 30 years ago 
+
+BTC at 48K now after mastercard embraces it 
+
+wall street wants to hire r/wallstreetbets users to help pick meme stocks 
+
+gina carano anti-semitic tweets get her in trouble and fired
+
 2/11
 
 terrible defense for trump
