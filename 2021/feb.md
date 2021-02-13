@@ -1,5 +1,37 @@
 [Back to 2021](index.md)
 
+2/13
+
+yandex: russian search
+
+MN bans police from using facial recog 
+
+msft quantum computing breakthru was a false alarm
+
+china witholds raw covid data from WHO 
+
+msft, goog, qualcomm protest nvidia arm acquisition 
+
+jokerstash: crypto kingpin
+made a cool B and retired
+
+jack dorsey and jay z invest in BTC
+make it internet currency 
+
+BTC consumes more electricity than argentinia 
+
+hydrogen chloride on mars 
+
+fb and goog take 80% of all ad revenue 
+
+biden lets mexican immigrants in 
+
+cuomo accused of covering up nursing home death toll
+
+TESLA considering hover tech 
+
+is stock market about to crash?
+
 2/12
 
 trump acquittal could embolden extremists
