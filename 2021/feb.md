@@ -1,5 +1,23 @@
 [Back to 2021](index.md)
 
+2/14
+
+senate acquits trump 
+
+pentagon testing ufo wreckage?
+
+fukushima big earthquake
+
+autonomous ships choppers and jets 
+
+coke paper bottle
+
+america building 100B nuke 
+3800 nukes
+deter others from attacking thru intimidation 
+
+lancet: 40% of us covid deaths avoidable 
+
 2/13
 
 yandex: russian search
