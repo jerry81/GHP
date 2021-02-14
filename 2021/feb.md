@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+2/15
+
+proud boys decline 
+
+ny gov andrew cuomo demanded to resign 
+chris cuomo skips coverage 
+
+romance scams up
+
+blockchain smart city in nv 
+
+techno not good stress relief
+
+amzn delivery drivers have two safety monitoring apps 
+
+clubhouse privacy issues 
+
+stopping cfc production in eastern china srt ozone back on healing track 
+
+standard model of physics has no dark matter 
+fermionic dark matter might travel to fifth dimension 
+grav wave detectors becoming viable 
+
+fb like the opposite of aapl 
+
 2/14
 
 senate acquits trump 
