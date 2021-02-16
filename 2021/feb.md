@@ -1,5 +1,43 @@
 [Back to 2021](index.md)
 
+2/16
+
+TX hit with historic freeze 
+
+bill gates plan for battling climate change 
+ideas include injecting carbon into steel 
+plant based meat substitutes 
+direct air capture of carbon
+nuke energy
+
+woke teacher says shakespeare represents white colonialism
+
+china overtakes usa as top EU trade partner
+
+2021 trend: hating on influencers
+for traveling during lockdown 
+
+Centreon: monitoring software 
+
+india gov clamps down on climate change dissent 
+
+bill bryson: no new science but great storyteller 
+new book is anatomy book 
+
+WHO approves astra zeneca/oxford vax for emergency use 
+
+55% all crypto money laundering dowe at 227 addresses 
+
+nissan and aapl autocar talks
+
+uber: cali gig reforms wanted in EU 
+
+msft president brad smith: solarwinds largest and most sophisticated cyberattack ever
+
+agora may provide backend infrastructure to clubhouse
+
+WHO says china uncooperative in investigation 
+
 2/15
 
 proud boys decline 
