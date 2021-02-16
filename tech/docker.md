@@ -78,3 +78,8 @@ services:
  networks: (note that this is on same level as services at the root)
         network name:
   
+ docker-compose run vs exec vs up 
+ up - runs the docker compose containers
+ run - starts one-off service, allows u to override configs with command line
+ exec - reuses existing service
+ 
