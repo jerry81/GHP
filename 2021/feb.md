@@ -1,5 +1,21 @@
 [Back to 2021](index.md)
 
+2/17
+
+america covered in snow 
+
+top dogecoin owner has 2B USD worth 
+
+cia researched gateway experience to escape space and time 
+
+fornite files complaint agst aapl 
+
+romance scams in 2020 led to 300M loss 
+
+btc at 50000
+
+cuba clean water struggle 
+
 2/16
 
 TX hit with historic freeze 
