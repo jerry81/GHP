@@ -20,6 +20,8 @@
   
   [Wechat miniprograms](/tech/miniPrograms.md)
   
+  [Mac/Linux](/tech/macAndLinux.md)
+  
   
 ### Other
   
