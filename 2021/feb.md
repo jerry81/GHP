@@ -1,5 +1,26 @@
 [Back to 2021](index.md)
 
+2/18
+
+fb restricts access to news in australia
+
+banzai parachuting - throw parachute out and jump after it 
+
+rush limaugh dead at 70
+
+white supremacists have infiltrates military 
+
+kambo toad venom that makes u sick
+popular alt treatment 
+
+caffeine shrinks brain temporarily 
+
+the rock for president?
+
+news corp and goog agree to deal to pay for news 
+
+
+
 2/17
 
 america covered in snow 
