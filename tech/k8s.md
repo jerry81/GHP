@@ -90,4 +90,22 @@ to node, pod, or service through proxy
 
 second way not secure 
 
+## kind
 
+run k8s on local computer 
+requires docker 
+
+## minikube
+
+like kind, run k8s locally
+
+also requires docker or other VM manager like VMWare or VirtualBox
+
+### getting started:
+
+1.  brew minikube
+2.  minikube start
+
+## kubeadm
+
+create and manage k8s clusters
