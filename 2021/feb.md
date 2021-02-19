@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+2/19
+
+ted cruz gets flak for cancun trip 
+during chill crisis
+
+water woes in TX
+
+seismic noise dropped 50% due to lockdowns
+
+life expectancy drops
+
+MD internet advertising tax causes controversy 
+
+new version of msft office subscription free 
+
+research article about violence affected by entertainment retracted after scruity 
+
+nasa perseverence rover lands on mars 
+
+aapl wants to start work on 6g wireless
+hiring engineers 
+
+bill gates plugs elon musk for fighting climate change 
+
+america may be reliant on china for 
+semiconductors, high-capacity batteries, medical supplies and rare earth metals
+
+citi accidently wires 900M to hedge funds.  some refused to return.  citi loses legal battle 
+
+texas power disaster 
+
 2/18
 
 fb restricts access to news in australia
