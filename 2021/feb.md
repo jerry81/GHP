@@ -1,5 +1,27 @@
 [Back to 2021](index.md)
 
+2/20
+
+herd immunity by april?
+
+tx 7th day of crisis 
+
+黄馨详 owner of la times 
+
+ru currency to go digital 
+
+baths the new xanax 
+
+nvidia to introduce mining cards 
+
+goog fires another ai ethics leader 
+
+more mericans holding multiple jobs 
+
+bitcoin represents 1% of all cash worldwide breaks 1 Trillion
+
+loon failed bc of govt beauracracy regarding airspaces 
+
 2/19
 
 ted cruz gets flak for cancun trip 
