@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+2/21 
+
+TX thaws but still without water
+
+bannon thought donald had dementia
+
+study: cats destroy your love life
+
+can smartphone be replaced?
+smart glasses?
+eyes on apple
+
+ISIS closing in on oil reserves?
+
+law protecting drivers who hit protesters?
+
+chinese air force exercises near taiwan 
+
+ai installed on guns: stop gun violence correctly?
+
+Uber teamed up with moderna vaccine
+moderna doesn't require ultra low temperatures
+pfizer bionTech vax -112 to -76 F temp - getting easier to distribute 
+
+birdwatch - twitter misinformation fighting tool
+
+McDonnel Douglas - merged with boeing 25 years ago - couldn't compete in commercial space, focused on military 
+
+google search dark mode 
+
+btc now 57k, bill gates says would be nice to get rid of it (b/c of criminal activities)
+
+NASA perseverence rover runs linux
+
+earth about to reverse magnetic poles - may affect climate 
+
+black holes - predicted by einstein theory of general relativity 
+will still spew radiation out 
+first black hole is 21 solar masses
+
 2/20
 
 herd immunity by april?
