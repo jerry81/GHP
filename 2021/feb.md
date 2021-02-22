@@ -1,5 +1,38 @@
 [Back to 2021](index.md)
 
+2/22
+
+usa half a million covid deaths
+fauci: masks for another year 
+italy and germany spike
+israel vaccinated: attempts returning to normal life
+
+scientists clone ferret: 雪豹
+
+united plane engine parts fall from sky 
+boeing 777
+more planes grounded 
+took off from denver 
+
+saudis allow women into military 
+
+malcolm x fbi conspiracy in assassination?
+
+fever swamp - an area of still water which breeds disease 
+
+TX blackouts a warning of climate change ?
+
+scorsese continues crusade against streaming 
+
+america most vax of any country 
+
+fb employees very left politically but FB changes rules to placate right politics 
+
+new malware infects 30K macs 
+
+dev: chrome uses 10x more RAM than safari 
+
+
 2/21 
 
 TX thaws but still without water
