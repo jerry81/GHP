@@ -1,5 +1,47 @@
 [Back to 2021](index.md)
 
+2/23
+
+janet yellen - us secretary of treasury
+since 1/26/2021
+calls for digital-dollar
+warns about bitcoin 
+
+Mike Lindell - CEO of MyPillow
+pillow manufacturing 
+sued for supporting trump 
+
+cities shrinking b/c no one moving in 
+leaving la, going to desert area (joshua tree)
+stevie wonder moves to ghana 
+
+pranksters strap gun onto boston dynamics police dog 
+
+biden approval rating high (58%)
+
+organ transplant recipient dies after receiving covid infected lungs
+
+disgust good for health - avoid poisons
+
+NJ legalize pot 
+
+spotify expands to 80 new markets, targets 1B customers 
+
+MSFT word - text predictions coming 
+
+clubhouse chats breached 
+security issues 
+
+avalanches in north west 
+
+ghana scientist wanted to create healthier sweet potatoes 
+
+Australian tech code of ethics: to fight misinformation 
+agreed upon by FB, Goog, Msft, Twitter
+
+the muppet show needs racism disclaimer 
+
+
 2/22
 
 usa half a million covid deaths
