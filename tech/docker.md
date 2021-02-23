@@ -83,3 +83,14 @@ services:
  run - starts one-off service, allows u to override configs with command line
  exec - reuses existing service
  
+ ### Gitlab CICD
+ 
+ gitlab pipeline setup:
+ 
+ 1.  install runner running on docker container
+ 2.  register runner with git-runner register and following the wizard's prompts
+ 3.  use the config file mounted on volume to control the settings for the runner
+ 4.  write a gitlab-ci.yml file 
+ 5.  use the docker/compose:latest image to have docker-compose preinstalled 
+ 6.  this is an alpine linux image 
+ 7.  turn off TLS by setting DOCKER_TLS_CERTDIR to empty string in variables 
