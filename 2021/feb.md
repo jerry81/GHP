@@ -1,5 +1,35 @@
 [Back to 2021](index.md)
 
+2/24
+
+tiger woods car crash
+
+musk lost 30B in BTC overnight
+
+fauci blames trump for 500K dead
+
+increasingly dangerous strains
+
+gerard depardieu charged with rape
+
+rioter defense: "trump made me do it"
+
+china taunts usa over tx 
+mocks capitalism?
+
+niagara falls freezes over 
+
+software bug keeps inmates beyond release dates
+
+square buys 170M of btc
+
+aapl has bought 100 companies in the last 6 years - tim cook
+
+ps5 to get its own VR headset
+
+FB strikes deal with Aus to pay local providers for content 
+
+
 2/23
 
 janet yellen - us secretary of treasury
