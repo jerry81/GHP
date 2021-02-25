@@ -1,5 +1,65 @@
 [Back to 2021](index.md)
 
+2/25
+
+tiger woods.  lucky to be alive, leg shattered, rods and screws
+
+pentagon beaming power from space 
+
+springsteen fined 540 for drinking in park 
+
+half male half female cardinal spotted
+
+Berkeley police reforms.  remove from traffic light patrol
+
+Biggie documentary 
+
+sascha baron cohen to stop using disguises
+
+guantanamo bay prisoner tell all
+14 years of abuse by CIA
+world's most notorious detention center 
+muslim never officially charged with crime
+in cuba
+female guards sexually abused
+starved and force fed 
+
+gamestop rises again
+100%
+
+gavin newsom political career in dire straits
+
+gov andrew cuomo accusations from female aide
+proposed strip poker
+
+biden signs to strengthen supply chains
+
+verizon 45B spending on 5g airwaves
+
+discord improves video encoding pipeline by switching from go to rust
+
+goog sponsors 2 linux security devs
+
+Fed reserve's system for banaks to send and receive money electronically went down
+
+starlink to hit most of earth this year
+300Mbps
+SpaceX project
+
+Fry's electronics going out of business
+
+HyperX - gaming accessories business, bought by HP for 425M
+
+Myanmar shut down internet at gunpoint
+at telecom operators
+
+huawei smartphone sales fall
+turns to pig farming (provide AI tech)
+also coal mining
+
+aapl M1 reports of excessive SSD wear
+writing excessive amounts
+
 2/24
 
 tiger woods car crash
