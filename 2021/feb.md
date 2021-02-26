@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+2/26
+
+lady gaga dogs stolen 500K reward
+political?
+sang at biden's inauguration 
+
+manhattan DA gets 8 years of trump tax returns
+criminal investigation into business activities
+donald to enjoy conservative movement he spawned
+
+airbnb steep losses
+
+third pfizer dose
+
+crypto art market
+
+how the turntables: man sues female boss who tells him to man up
+
+dems want more taxes
+but hesitant amid pandemic 
+
+brain stimulation to boost confidence and reduce fears
+
+FB upcoming smart glasses - facial recognition
+
+AMZN wants to change AP CS courses
+gives 15M to code.org
+
+twitter super followers pay to see tweets
+
+new rules in India for FB, Twitter, and Whatsapp
+
+nvidia made 5B in gpu shortage
+expect to repeat in Q1
+
+roomba sofware update mess
+
+toshiba helium field HDD - ultra low power consumption, 18TB - FC-MAMR flux controlled, microwave assisted, magnetic recording
+microwaves change magnetic properties
+
 2/25
 
 tiger woods.  lucky to be alive, leg shattered, rods and screws
