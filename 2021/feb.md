@@ -1,9 +1,34 @@
 [Back to 2021](index.md)
 
 2/27
-russia strikes on syria as warning to iran 
 
+global digital tax?
+yellen drops a provision vs it
 
+usa strike on syria was a warning to iran
+france supports
+
+12 yo girl sold stun guns to classmates
+
+half of 65+ americans dosed
+
+andrew yang helps photographer who was assuaulted
+
+solar car coming
+
+new podcast sex worker's guide to the galaxy
+
+$50 montly internet subsidies for low income households
+
+a nyan-cat meme sells for 600k
+new trend of ownership rights to digital art
+
+sergey brin's airship to use world's biggest fuel cell
+
+btc creator has 30B stake
+coinbase: crypto market could destabilize if satoshi nakamoto real identity revealed
+
+electric truck company nikola drops seacraft and ATV projects
 
 2/26
 
