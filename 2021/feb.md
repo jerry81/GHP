@@ -1,5 +1,10 @@
 [Back to 2021](index.md)
 
+2/27
+russia strikes on syria as warning to iran 
+
+
+
 2/26
 
 lady gaga dogs stolen 500K reward
