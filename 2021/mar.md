@@ -1,5 +1,41 @@
 [Back to 2021](index.md)
 
+3/4 
+rashes after vax 
+疫苗新过敏反应：皮疹
+
+UK: financial rewards for being healthy?
+英国：给健康行为报酬？
+
+cuomo 支持率降到38%
+暂时不辞退
+
+中国：200 亿万富翁在疫情期间崛起
+
+健身对脑力好
+
+科学家即将揭秘神秘的疫情症状头脑雾霭 brain fog
+
+Meghan Markel（哈利王子妻子） 欺负白金汉宫工作人员
+
+sao paolo 停业， buenos aires 重开
+
+sands venetian 售卖了， 退出拉斯维加斯
+
+火箭击中有美军的伊拉克军事基地， 一人死
+
+迪士尼关闭20% 店面
+
+北极太空飓风落电子
+
+微软责怪中国黑客邮箱服务器
+
+spacex 火箭成功落地， 但落地后爆炸了
+
+amd rx 6700 准备和nvidia rtx 3060竞争
+
+netflix ‘fast laughs’ tab 类似抖音的爆笑短视频
+
 3/3
 
 lawsuit in NM vs mandatory vax 
