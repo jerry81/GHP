@@ -48,7 +48,22 @@ edge 浏览器会带来垂直标签页
 
 韩国master card 和三星合作出生物统计学的支付
 
+印度威胁把FB， Whatsapp，Twitter员工判刑
 
+john macafee 被控告电子币骗局
+
+英国海出现船的幻影， 貌似浮在空中
+
+无条件工资实验结果： 降低焦虑和失业率
+
+micostrategy （公司） 购买205 比特币， 价格48888， 共有91064 比特币
+
+谷歌将淘汰记忆块（cookie）
+FLoC federated learning of cohorts 会代替
+
+flutter 2 大更新
+
+spacex starlink 工厂在德州
 
 3/5
 
