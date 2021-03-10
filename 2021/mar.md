@@ -1,5 +1,53 @@
 [Back to 2021](index.md)
 
+3/10
+
+piers morgan, good morning britain, 直播时离开散场
+之前批评了meghan markle
+
+中国发布健康护照
+
+打过疫苗的人生活恢复正常
+
+迪士尼经典 peter pan， dumbo， the aristocats 含有种族歧视内容
+
+美国疫情救赎金史上最大之一
+即将发
+
+和牛搂着缓解寂寞
+
+nba 全明星比赛收视率史上最低
+
+华盛顿州被评为最适合住
+
+台湾旱灾，还是有足够的水，不影响造半导体
+
+亚马逊手掌识别支付
+
+LG和特斯拉协作造电池
+
+UK商家被暴露买谷歌好评
+
+迪士尼+订阅者超过一亿
+
+linkedin 中国暂停注册功能
+合规调查
+
+chrome OS 10年内发展了很多
+
+法国1960年代测核武器影响了10万大溪地人
+
+dropbox 收购docsend 1.65亿
+
+俄罗斯和中国合作造空间站
+
+拜登再度招反垄断积极分子亚裔lina khan
+巴基斯坦
+
+EBA european banking authority被黑客
+
+spacex starlink 针对公交车， 卡车， 飞机
+
 3/9
 
 疫情传染率慢下来了
