@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+3/13 
+
+senate majority leader chuck shumer 
+参议院多数党领袖要求cuomo 下台
+被30女士指责
+cuomo 否决
+
+欧洲疫情反弹
+
+floyd家挺 2700万 赔偿
+
+EU 审查谷歌广告垄断
+
+wyoming 怀俄明， 科罗拉多暴雪
+
+2/3 意大利人禁闭
+
+德国宣布第三波开启了
+
+Reliable Robotics 初创公司， 自动驾驶运货级
+
+chrome 4周发行周期
+
+ps 5 史上最热销的硬件
+
+NTSB national transportation security board 将对自动驾驶更严格
+
+缅甸政变后， 卫星归于日本
+
+巴基斯坦禁止抖音
+
+日本fugaku超级计算机上线辅助研究covid 
+
+uber 和 lyft 共享黑名单数据库
+
 3/12
 
 拜登疫苗计划很成功
