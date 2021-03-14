@@ -1,5 +1,26 @@
 [Back to 2021](index.md)
 
+3/14
+
+astrazeneca shot causes severe blood clots 
+astrazeneca 疫苗导致血凝块
+
+brady 和tampa bay 签4年
+
+国会倾向拆高科技垄断
+
+比特币60000
+石油100
+
+天体物理学家说马斯克火星计划
+
+mauna loa 世界上最大的火山激活了
+big island hawaii
+
+旧金山企业取消租约
+
+
+
 3/13 
 
 senate majority leader chuck shumer 
