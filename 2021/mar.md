@@ -1,5 +1,41 @@
 [Back to 2021](index.md)
 
+3/15
+
+AI Mayflower 无人机过大西洋
+
+breonna taylor 游行
+LAPD 撞了两个游行者
+一周年
+
+迪士尼流媒体服务会超过奈飞
+
+woody allen, epstein 亲密关系
+
+twitter 缺陷： memphis 变成敏感词， 自动拉黑
+
+美国政府考虑和私企合作黑客威胁探测
+
+中国又上映阿凡达， 票房超过复仇联盟4
+
+谷歌受审50亿案子跟踪隐私网络使用
+
+美国空军有防EMP技术
+
+BGP border gateway protocol （routing）
+将会被取代
+
+小米美国法案宣判无罪
+
+spacex 火箭成功发射第九次， 破纪录了
+
+西班牙宣布： 快递员也是员工
+兼职经济
+
+防老年痴呆药物有希望：eli lily
+
+两家公司在用气体二氧化碳制造钻石
+
 3/14
 
 astrazeneca shot causes severe blood clots 
