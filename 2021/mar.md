@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+3/29
+
+VR travel boom
+
+people dont share info about being infected due to shame
+
+discarded face masks killing wildlife
+
+GA: two juries investigating trump 
+
+bear killing illness in california
+symptom is fearlessness
+
+mexico death toll underreported by 60%
+
+taste and smell permanently gone?
+
+lifeguards in LA earn 392K??
+
+godzilla vs kong good showing at box office
+
+AMZN vs bernie and liz warren ... on twitter
+warren senator MA
+bernie VA
+
+scientists want to reflect suns' rays
+
+curl: client url - 20th anniversary 
+
+openSSL - most widely used lib for site and email encryption 
+fixed a flaw that crashed servers
+
+programming by voice next frontier
+
+tesla full self driving beta "laughably bad"
+
+CDC claim about covid originating in wuhan lab has no backing evidence 
+
+OpenAI: ai company: says AI will allow 13500/year basic income
+
 3/28
 
 历史： 1918 西班牙大流感结束了之后就是咆哮的20代
