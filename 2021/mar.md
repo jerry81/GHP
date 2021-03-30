@@ -1,5 +1,48 @@
 [Back to 2021](index.md)
 
+3/30
+
+more vax blood clot fears
+
+biden: health passport for americans
+
+george floyd chauvin trial day 1
+
+nba ratings falling
+
+global bank: hedge funds may default
+
+rollerskating comeback?
+
+london 0 covid deaths, first time since 6 months ago 
+
+octopuses do dream 
+
+at&t against nationwide fiber, says 10mbps upload speed fast enough
+
+NZ patient privacy breach due to "programmer incompetence"
+
+standford researchers reverse engineer moderna vax, post entire mRNA sequence online 
+
+VW new name for us operations: voltswagen 
+
+goog wants to compete with amzn for ecommerce, has long way to go 
+
+Boston Dynamics new warehouse robot
+
+american obsession with wet wipes clogging pipes
+
+Zoom is WFH tech darling - faces danger as world reopens 
+
+stablecoins: cryptocurrencies backed by something
+visa using stablecoins to lure in fintechs
+
+WHO: covid most likely originated in animals, not lab
+
+employers mandate zoom "happy hour" 
+outside of work hours
+drink on zoom
+
 3/29
 
 VR travel boom
