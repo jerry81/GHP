@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+3/31
+
+new correlated symptom: ED
+peeling skin
+
+matt gaetz (R - Fl) sexual misconduct allegations
+
+first muslim judge in history nominated by biden 
+
+lil nas x nike shoe has blood in soles 
+satan shoes 
+
+more union pushes with amzn workers 
+
+durant homophobic DMs leaked
+
+branson new jet 
+
+NFTs applied to nba video clips of favorite players
+
+Deliveroo AMZN backed IPO will hit london stock exchange 
+Uber eats rival 
+
+bitclout: buy and sell celebrity "stock"
+
+netflix zero carbon footprint end of 2022 goal
+
+tmobile partner with youtube TV
+
+ARM targets intel dominated market with ML empowered chips 
+
+rocket lake - s gaming cpus "not impressive"
+
+paypal: checkout with crypto service
+
+rectenna: antennae that harvests 5g EM signals to power devices
+
+wine that spent time in ISS reportedly tasted different 
+one year
+
 3/30
 
 more vax blood clot fears
