@@ -6,7 +6,7 @@ kubectl create -f
 creates file (json or yaml)
 
 kubectl config view 
-shows users: - "name"
+shows users: - "name", clusters, contexts
 
 logs -f <pod id> 
   streams logs from pod to terminal
@@ -24,6 +24,10 @@ kubectl describe node <node name>
 gives node status details 
   addresses
   condition
+  
+ get events - shows a history of recent events, object that was worked on, type of msg, and action/reason
+ 
+kubectl create deployment hello-node --image=k8s.gcr.io/echoserver:1.4 - creates a deployment pod, with name hello-node from a docker image
 
 ## Kubernetes Secrets
 place to store and manage sensitive info such as passwords or tokens 
