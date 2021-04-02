@@ -1,5 +1,42 @@
 [Back to 2021](index.md)
 
+4/2
+
+usa - 100M vax
+
+biden's stock market doing even better than trumps'
+
+musks' ship 360 degree view
+
+spacex rocket sends debris into wildlife reserve
+conservationists enraged
+
+man who cheated on wife walks through street naked as walk of shame
+
+canada discovers new brain disease, cause unknown
+
+coinbase targets april 14 trading listing date 
+
+swiss robots use UV to kill viruses in planes
+
+amtrak reveals expanded map which is part of biden's infrastructure plan 
+
+TSMC cancels price cuts 
+
+amzn thinking about opening electronics discount and home goods stores 
+
+Alex Berenson: pandemic hot taker 
+
+CERN april fools: antimatter particles fall up 
+
+myanmar wireless internet shutdown
+
+MSFT shuts down cortana on IOS and android
+
+verizon shut down 3g in 2022
+
+mafia fugitive found on youtube making cooking tutorials
+
 4/1
 
 LA herd immunity coming?
