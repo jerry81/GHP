@@ -1,5 +1,19 @@
 [Back to 2021](index.md)
 
+4/4 
+
+jet flies twice speed of sound
+
+mars helicopter
+
+beverly hills 商店让客户保存毒品和现金和抢
+
+州议会大厦警察被伊斯兰教信徒黑人枪杀
+
+DMX 过量用药， 昏迷状态
+
+jordan（国家） 反对国王的阴谋， 20人被逮捕
+
 4/2
 
 usa - 100M vax
