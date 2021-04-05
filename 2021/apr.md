@@ -1,5 +1,29 @@
 [Back to 2021](index.md)
 
+4/5
+
+硬件 RAID vs 软件 RAID
+独立冗余磁盘阵列
+
+putin 打算控制网络
+
+AI 写了一首nirvana 歌
+
+Deno： Node js 竞争对手
+
+月球是地球的27%大小
+
+特斯拉给大众卖绿色信用
+
+亚马逊在挑逗政客
+
+水下望远镜
+为了发现neutrinos中微子， 因为需要从其他的辐射孤立出来
+
+glenn greenwauld robbed in Rio
+
+homes selling better than ever, record prices
+
 4/4 
 
 jet flies twice speed of sound
