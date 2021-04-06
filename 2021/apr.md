@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+4/6
+
+netflix losing market share
+
+yellen wants a global tax
+
+china creates digital currency 
+
+fourth stimulus check coming?
+
+swarms of ships in south china sea 
+china tightening grip
+
+macbook pro owner adds water cooling system to quiet fan 
+
+MSFT edge numbers grow as firefox falls
+
+goog pixel 6 to have "whitechapel" system on chip 
+
+yahoo answers shutting down 
+
+michio kaku thinks reaching out to aliens is a terrible idea
+compares to montezuma meeting cortez in mexico 
+
+bitcoin at 66K
+
+1B tarrif plan on digital taxes
+
+Goog wins vs Oracle
+
+LG shutting down smartphones
+
+ibm msft intel supporters of "homomorphic encryption"
+
+github infrastructure abused to mine crpto
+
+tesla union trouble in the EU
+
+
+
 4/5
 
 硬件 RAID vs 软件 RAID
