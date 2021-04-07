@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+4/7
+
+covid fears fading
+
+IMF says global growth to set record
+
+caitlin jenner may run for CA gov
+
+neuralink - says jurassic park can be real 
+
+aaron rogers wants to host jeopardy
+
+central banks retreating from dollar
+
+stds in millitary: gonnorhea, chlamydia, syphillis
+navy and airforce highest
+
+usa to join 2022 beijing olympics?
+
+cyberware attack on vehicle emmissions testing
+
+GM chevy silverdo, electric
+400M range
+
+BTC mining emissions in china to hit 130M tons
+
+cosmic rays cause network malfunctions in japan 
+
+signal tests sending crypto 
+
+Uber drivers can see destinations and name prices
+may be prohibited..
+
+MSFT: submerge servers into liquids
+
 4/6
 
 netflix losing market share
