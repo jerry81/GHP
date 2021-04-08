@@ -1,5 +1,50 @@
 [Back to 2021](index.md)
 
+4/8
+
+brazil - "biological fukushima"
+new strain each week
+
+merkel national lockdown 
+
+EU life expectancy drops
+
+significant increase in michigan
+
+2755 in billionaire club 
+
+tigerwoods was speeding when he crashed
+
+conflict at taiwan - taiwan shoot down drones?
+
+after marijuana legalization - fatal car crashes up 
+
+nba full capacity seating next year with partnership with biometric scanning company
+
+saskatchewan to tax electric vehicles
+
+fb data leak - not planning on notifying users
+500M affected 
+
+broadband usage up 30% during pandemic 
+
+twitter acquire 4B?
+
+WHO: virus origins still unclear 
+
+moon is more magnetic than predicted
+
+many users upset about signal dealing with crypto
+
+jeff bezos supports crypto 
+
+EPA new emissions standards to meet climate change requirements
+
+spacex - starlink will not have tiered pricing
+499 usd installation fee
+
+UK easter - greenest day in history 
+
 4/7
 
 covid fears fading
