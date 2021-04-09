@@ -1,5 +1,25 @@
 [Back to 2021](index.md)
 
+4/9
+
+纽约市富裕人民可能交52%税
+
+下一波会是因为病毒变异
+
+硅谷亿万富翁意图用年轻人的血
+
+impossible foods 要上市
+
+reddit rallies another stock IOUPay
+
+GM 因为半导体短缺被迫放慢生产
+
+peter thiel：“比特币是中国的金融秘密武器”
+
+paypal 2040 年前针对0总排放
+
+youtube 第一社交媒体网站
+
 4/8
 
 brazil - "biological fukushima"
