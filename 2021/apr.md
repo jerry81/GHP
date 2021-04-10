@@ -1,5 +1,43 @@
 [Back to 2021](index.md)
 
+4/10
+
+brazil variant
+
+prince phillip dies
+
+dmx 也死了
+
+spotify 删除JRE
+
+deshaun watson 橄榄球星和按摩师ooxx， 被22女士告
+
+中国威胁台湾
+
+普金防10万乌克兰边境
+
+nueralink 猴子装了脑内处理器， 用头脑玩游戏
+
+德州亚马逊机房收到爆炸袭击的威胁
+
+新的转基因crispr 技术不用直接改脱氧核糖核酸
+
+TAE 宣布有核聚变突破
+
+Wickr - 加密聊天软件
+
+一艘香港的船载着300nvidia 显卡被中国政府逮捕
+
+一年内10亿顿食物被浪费了
+
+台湾旱灾
+
+fintech （互联网金融） 给银行激烈的竞争
+
+南极33% 的冰有危险沉默到水里
+
+FB 讽刺标签
+
 4/9
 
 纽约市富裕人民可能交52%税
