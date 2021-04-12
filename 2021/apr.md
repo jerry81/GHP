@@ -1,5 +1,35 @@
 [Back to 2021](index.md)
 
+4/12
+
+pfizer not effective against SAfrica strain
+
+Donald vicious rip on mitch mcconnel
+also disappointed in pence
+
+nomadland to sweep oscars?
+
+calm in america stocks
+
+redsigned airplane seating like a coffeehouse
+
+one group dreading return to normal: introverts
+
+boring company review: flashy red lights and slow cars
+
+536 historically recognized as worst year to be alive
+
+bill huang loses 20B in 2 days
+peak wealth 30B
+concentrated stock portfolio with 5x leverage
+didn't meltdown market
+
+academic researches helped develop covid vax
+
+iran nuke plant blackout - foul play suspected
+
+union vs amzn will continue
+
 4/11
 
 boring company las vegas 隧道
