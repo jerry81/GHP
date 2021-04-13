@@ -1,5 +1,44 @@
 [Back to 2021](index.md)
 
+4/13 
+
+the rock will run for prez if that's "what the people want"
+
+michigan to lockdown
+
+CO new hotspot
+
+us deficit up 454%
+
+blood test to guage depression?
+
+china to usa: we're equals now
+
+goog founders 100B club
+
+intel asks for gov help, wants usa regain semiconductor superiority
+
+tesla solar roof price jumps up
+
+crackdown on crypto coming
+kraken - crypto exchange
+
+goog shopping shutting down
+
+huawei car tech "surpasses tesla" - 1B investment
+
+nvidia eyes intel, starts making cpus
+
+epic games, in effort to compete with steam, loses 30M
+
+737 MAX electrical issues
+
+MSFT buys Nuance for 19B
+
+Yuri Gagarin first man in space
+
+Si Valley workers flocking to austin 
+
 4/12
 
 pfizer not effective against SAfrica strain
