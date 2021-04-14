@@ -2,6 +2,27 @@
 
 4/14
 
+moderna efficacy 90%, fell
+
+fox praises biden's iconic speech praising fallen officer
+us capitol attacck victim
+
+inflation: consumer prices skyrocket
+increase is most since 2013
+
+iconic hollywood cinemas shutter
+
+nike to start to sell used shoes?
+
+brushing teeth linked to preventing alzhiemers?
+
+nasal spray kills large percentage of virus
+99.9%
+
+canada named world's best country
+
+STDS rising 6 years in a row
+
 aapl special event on 4/20
 
 j&j vax paused due to blood clots
