@@ -1,5 +1,25 @@
 [Back to 2021](index.md)
 
+4/14
+
+aapl special event on 4/20
+
+j&j vax paused due to blood clots
+
+msft surface 4 - goes for battery life
+
+facial recognition payment authorization 
+
+japan release fukushima water into sea in 2 yrs
+
+EU ai rules: no surveillance, no social behavior ranking
+
+FB phone number database leaks online
+
+political trolling is actually a profession
+
+msft new webcam and usb-c speaker usher in wfh era
+
 4/13 
 
 the rock will run for prez if that's "what the people want"
