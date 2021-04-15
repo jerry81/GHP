@@ -1,5 +1,68 @@
 [Back to 2021](index.md)
 
+4/15
+
+maddoff dead in prison, 82
+37k victims, ponzi schemer 
+
+kim potter, mn policewoman drew gun instead of taser and killed Daunte Write, who was 20 y/o
+
+netflix show, teachers viewers how to fall asleep
+headspace guide to sleep
+
+onlyfans sexual revolution 
+
+immunization drives wavering due to side effects
+
+scrabble bans racial slurs
+top players angered
+
+coinbase valued at 86B
+250/share
+
+american economy on a stimulus-feuled high 
+
+matt gaetz - woman tells of cocaine and ecstasy filled parties
+
+100 days until tokyo olympics 
+
+jordan political conflict - tribes vs monarchy
+
+aussie navy new 2B ship
+
+ellen all time low ratings 
+
+ford bluecruise 
+self-driving tech
+does 110k mile roadtrip
+
+farming startup 
+carbon robotics
+ai weed zapping
+
+dogecoin surpasses 10 cents
+
+korea robotics revolution happening
+
+video conferencing allows for fewer business travels
+
+virtualize ARM windows natively on M1 Macs with 30% faster performance
+Parallels 16.5
+
+'master' and 'slave' are offensive terms in computing
+
+huawei blames usa for global chip supply crunch 
+
+detroit man wrongfully arrested due to facial recognition
+sues police
+
+inspur 浪潮
+china's largest cloud hardware vendor
+
+Q1 - global pc market grows 55%
+
+NY Times workers form a union
+
 4/14
 
 moderna efficacy 90%, fell
