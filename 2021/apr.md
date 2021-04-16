@@ -1,5 +1,46 @@
 [Back to 2021](index.md)
 
+4/16
+
+3 doses of pfizer needed per year
+
+amzn: algorithmic solutionn to workplace injuries
+
+san antonio airport mental gunman killed
+
+stocks smash records
+
+retail sales surge in springtime
+
+joblessness lowest rate since covid
+
+magic shrooms show promise in treating depression
+
+tokyo olympics may be cancelled: fourth wave
+
+dehli icu: 2 to a bed
+
+mercedes comes out with flagship electric car
+
+china gdp record growth
+
+hologram calls coming
+
+goog speech data recog improved with more data sets
+
+GDPR general data protection regulation
+
+EFF partner with duckduckgo
+
+lee hsing loong singapore PM
+investigations in scandal
+
+chip shortage may last to 2023 says intel tsmc nvidia
+
+aapl 200M investment in carbon removal
+
+france 3k incentives to switch to electric bike from car
+
 4/15
 
 maddoff dead in prison, 82
