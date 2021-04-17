@@ -1,5 +1,29 @@
 [Back to 2021](index.md)
 
+4/17
+
+fed x 枪击案8人死
+19岁的枪手
+4受害者是印度人
+
+指环王电视剧
+
+保时捷电动taycan
+
+dogecoin 一周内涨300%
+
+gdp 18.3%
+
+舒适注意降低睾丸素
+
+benz EQS 电动车
+
+FB 100% 可再生能
+
+机器人判断咖啡品质
+
+加州用卫星监控排放量
+
 4/16
 
 3 doses of pfizer needed per year
