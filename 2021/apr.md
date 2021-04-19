@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+4/18
+
+edward snowden self portrait sells for 5.4 M
+
+test scores optional at some colleges: 
+result: more underpriveleged and black students admitted
+
+adobe founder dies, 81
+
+tesla crash kills 2, nobody was driving in car 
+
+FB moderators take a significant toll physically and mentally
+contracted through accenture 
+
+edge kids mode - 70 websites
+
+powerplants as btc mining operations
+
+china proposes "new ip" with 6g
+"intrinsic security" - users must register to use internet and gov can shut down a user's access anytime
+comment: IP address at birth, used throughout lifetime
+
+tahoe becomes "boom-town"
+
+ftp 50th anniversary
+
+linus likes rust over c++ to code linux
+
+ps5 breaking sales records
+
+dogecoin increased 400% in a week
+
+"whitest" ever paint developed
+
+mccouuneghey runs for tx gov
+
+oldest american dies, 116
+
+massive support for navalny in protests
+
 4/17
 
 fed x 枪击案8人死
