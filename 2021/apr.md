@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+4/19
+
+"illegal alien" term banned
+
+derrick chauvin verdict coming, mn police prepare
+
+LA basic income 
+
+reddit talk clubhouse competitor
+FB clubhouse clone 
+
+april 20 doge day 
+
+msft edge performance mode 
+
+india's middle class may fall into poverty due to covid
+
+parler allowed back in app store
+
+UK to probe nvidia's arm deal 
+
+nvidia wants to create a "metaverse"
+
+bitcoin plummets over weekend
+
 4/18
 
 edward snowden self portrait sells for 5.4 M
