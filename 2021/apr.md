@@ -1,6 +1,46 @@
 [Back to 2021](index.md)
 
-4/19
+4/21
+
+audi a6 etron has headlights that can project video games 
+concept car
+
+youtube ceo susan wojcick - freedom expression award
+
+venmo allow crypto trading 
+
+discord rejects msft 12B bid
+
+aapl m1 imac
+
+us plan protects power grid from foreign hackers
+
+magic leap 2 by end of year
+
+paypal china local wallet 
+cross-border payments
+
+newegg accepts dogecoin now 
+
+chauvin found guilty
+
+music streaming screws songwriters
+
+VS2022 announced
+
+huge winter storm in EU caused by arctic missing ice
+
+netflix to get into video games
+
+pelosi to floyd fam: thank you for sacrificing your life for justice
+
+dogecoin bigger than kraft, ford
+
+chinese naval base in africa
+
+nomad ready to seep oscars
+
+4/20
 
 "illegal alien" term banned
 
