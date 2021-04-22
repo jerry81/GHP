@@ -1,5 +1,47 @@
 [Back to 2021](index.md)
 
+4/22
+
+south israel explosions
+
+whole foods palm payment
+
+EU aI regulations begin
+
+cali has gotten covid under control
+
+iran hates israel
+
+cartel uses drones to drop bombs
+
+suicide watch for chauvin
+solitary confinement
+45% republicans dont agree with verdict
+
+spring cold wave coming to east coast usa
+
+steph curry hot streak
+
+millenial work culture "yolo economy"
+unhappy about return-to-office mandates
+emboldened by savings
+twitter 1 extra day off a month
+linkedin 1 week free pto 
+credit suisse 20k for junior employees "lifestyle allowances"
+
+M1 sales surpass intel sales at aapl
+
+cellebrite phone unlocking company
+signal ceo hacks their device
+
+1/4 devs copy from SO in 5 minutes of visiting page
+
+Uber and Just Eat battle for EU food delivery supremacy
+
+fourth amendement vs selling location services
+
+teaching children chess linked to decrease in risk aversion
+
 4/21
 
 audi a6 etron has headlights that can project video games 
