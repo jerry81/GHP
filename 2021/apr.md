@@ -1,5 +1,34 @@
 [Back to 2021](index.md)
 
+4/23
+india 350k cases per day, max 
+lacks oxygen
+
+japan state of emergency
+
+30% healthcare workers mull dropping out of profession
+
+mexico city drought
+deliver water with donkeys
+
+comey barret supreme court justice book
+bad optics
+
+more citizen renunciations predicted
+
+lebron still getting involved in race wars, threatens ohio cop
+
+58% will find new job if forced to return to office
+
+tesla autopilot without driver in drivers' seat
+
+foxconn abandons wisconsin project
+10B
+
+mars rover successfully converts some mars co2 to oxygen
+
+TX solar energy push 
+
 4/22
 
 south israel explosions
