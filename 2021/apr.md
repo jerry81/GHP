@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+4/24
+
+caitlin jenner 想候选加州州长
+
+电子货币市场跌2000亿
+
+nevada 妓院即将再开门
+
+麦当劳： 来面试就可以白拿50美金
+
+吸血鬼做脸： 从身体抽血打到脸里
+
+Dish 5g will use AWS
+
+10Gigabit home internet coming
+
+jaguar land rover stops production due to chip shortage
+
+Alphabet Wing makes drones
+
+melting glaciers caused shift in earth's axis
+
+italian hospital worker accused of skipping 15 years of work
+
+american honey radioactive due to nuke testing
+
 4/23
 india 350k cases per day, max 
 lacks oxygen
