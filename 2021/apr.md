@@ -1,5 +1,23 @@
 [Back to 2021](index.md)
 
+4/25
+
+jenner 想当州长的事引起了争议
+
+亿万富翁漏出自己秘密：迷幻蘑菇
+
+musk 说火星任务会导致人死
+SNL 5/8
+
+微软： rust for windows
+
+musk dorsey 说比特币鼓励绿化
+
+洛杉矶： 史上最大的无条件收入计划
+
+台积电： 中国半导体还落后5年
+
+
 4/24
 
 caitlin jenner 想候选加州州长
