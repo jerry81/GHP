@@ -1,5 +1,28 @@
 [Back to 2021](index.md)
 
+4/26
+
+btc investors: originally just investors.
+then financial institutions
+and now governments
+
+"hot desking" no designated desks for workers
+
+climate change fighters target methane 
+
+corporations abandoning requirement of 4 year degree
+appl 50% don't have degree
+
+bitche, france page accidently deleted by FB
+
+chernobyl parents' children show no genetic damage 
+
+starlink becoming dominate ISP?
+
+spielberg "west side story"
+
+Air force security force made up of robotic dogs
+
 4/25
 
 jenner 想当州长的事引起了争议
