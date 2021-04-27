@@ -1,5 +1,46 @@
 [Back to 2021](index.md)
 
+4/27
+
+grandson builds telegram messaging machine for 96 year old grandma
+
+millions skpping covid vax 2nd doses
+
+biden to share AZ vax worldwide 
+
+network security companty Proofprint goes private 
+12.3B deal 
+
+Lyft to sell self driving car branch to Toyota
+550M
+
+pornhub ceo's mansion burns
+
+TSMC developing 2nm, 3 and 4 nm on track for 2022
+
+canada internet outages
+blamed on beavers gnawing cables
+
+outbreak in india - controls social media 
+
+Chloe Zhao's oscar victory censored in china
+oscar ratings bad
+
+zuck and tim cook are foes
+
+fb played part in capitol insurrection
+
+aapl ios 14.5 update 
+big privacy changes - users control apps tracking users for ads 
+
+suicidal man jumps from building lands on woman both dead
+
+tesla record income, revenue surges 74%
+
+oxygen on the black market 
+
+china 3 new warships
+
 4/26
 
 btc investors: originally just investors.
