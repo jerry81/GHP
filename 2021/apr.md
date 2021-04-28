@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+4/28
+
+biden first prez address: socialist messages
+
+musk: bezos can't get it up
+
+schwarzenegger thinks caitlyn has a chance
+
+aus cn relationship deteriorating
+aus joins usa wargames
+
+tyrese shaves gf on ig
+
+musk plan - turn every home into a distributed power plant
+
+law making driver monitoring systems mandatory?
+
+turkey crackdown on crypto 
+
+lockdowns cut down on SE asia smog, rilling resevoirs too
+
+ransomware now threatening police informants
+
+CEO ousted for taking LSD before meeting
+
+aapl m2 chip mass production starts
+
+tesla lost money on cars but made it back on bitcoin and selling regulatory credits
+everytime they sell a 0 emissions car they get green credits
+
+
 4/27
 
 grandson builds telegram messaging machine for 96 year old grandma
