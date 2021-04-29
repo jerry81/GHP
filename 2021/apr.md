@@ -1,5 +1,33 @@
 [Back to 2021](index.md)
 
+4/29
+
+viral animation of arabic empire being toppled
+
+genetic engineering of pigs: fatter, less feed
+
+juror says chauvin showed no remorse in his face
+
+FDA bans electroshock therapy
+
+musk names himself the dogefather
+
+glaciers melting faster than ever
+
+moderna and pfizer 94% effectiveness in elderly
+
+samsung inheritance tax
+
+monitoring of foreigners steps up in china
+
+UK allows self driving cars onto the roads
+
+google saving 1B a year from WFH
+
+fauci says world has failed india
+
+CES 2022 will be in person
+
 4/28
 
 biden first prez address: socialist messages
