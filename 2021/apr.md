@@ -1,5 +1,42 @@
 [Back to 2021](index.md)
 
+4/30
+
+rudy danger to rat
+about russia
+
+dozens dead in israel tomb during jewish ritual
+
+美国缺少鸡
+
+德州， oklahoma 下冰雹
+
+肥胖增加患上疫情的危险
+
+亚马逊销量上升44%
+
+狗狗币最有钱人值140亿美元
+
+法国利用AI 预判恐怖分子行动
+
+普通感冒在疫情下消失了
+
+IRS 想黑客电子货币钱包
+
+Rust 想变成主流语言
+
+美国劳动秘书 决定gig 工人应该算正式员工
+uber 等公司股票立即跌
+
+中国五十年内第一次人口下降
+
+中国开始建空间站
+
+BCI
+brain computer interface
+上次是猴子用脑子玩游戏
+历史第一次人类也成功用脑控制电脑
+
 4/29
 
 viral animation of arabic empire being toppled
