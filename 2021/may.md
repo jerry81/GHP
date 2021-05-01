@@ -22,3 +22,13 @@ amazn 防工会行为
 MSFT teams 用户跳到1450万
 
 台湾禁止跳槽到中国
+防人才流失
+
+win10 跑在13亿机器上
+
+英国足球抗议种族歧视
+
+amzn， alphabet， fb， appl， msft 每年加起来有1T 多收入
+
+MSFT twitter 永久 wfh
+但谷歌要员工会办公室
