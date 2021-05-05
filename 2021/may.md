@@ -1,5 +1,22 @@
 [Back to 2021](index.md)
 
+5/5
+
+netanhayu 建国失败
+
+steve jobs 曾经在邮件里面叫facebook fecebook
+
+6g 可以一瞬间下载电影
+
+丰臀流星， 植发和肉毒out
+
+美国要求台湾给汽车行业造半导体
+
+belgian gov ddos 攻击
+
+dogcoin 创始人曾经卖掉了他所有狗狗币， 买个二手本田汽车
+现在狗狗币比本田值钱了
+
 5/4
 
 bill gates 离婚
