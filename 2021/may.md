@@ -1,5 +1,55 @@
 [Back to 2021](index.md)
 
+5/7
+
+china plan for naval base
+
+dogecoin grew 12000%
+
+stocks set records 
+
+baldness linked to covid suseptibility?
+
+south florida loses people
+
+india close to 1M covid deaths
+
+wind turbines noise pollution
+
+Fermilab: national particle physics and accellerator lab supported by DoE
+
+china uses iphone hack to spy on uyghurs
+
+coinbase shuts down SF HQ, will have no HQ
+
+uber and other gig companies spend 1M lobbying against PRO act 
+
+biden waives IP protections for covid vax paving way for international distribution
+
+netflix mulling n-plus
+
+study on blue light reducing aapl night shift: doesn't help with sleep
+
+twitter adds prompts before sending "mean replies"
+
+IBM first ever 2nm chip 
+
+oxford study: no link between tech use and mental health problems
+
+CD projekt ceo quits after accused of bullying
+
+GM: self driving vehicles by end of decade
+
+biden overrides trumps rule on allowing uber to treat drivers as contactors
+
+goog engineer criticizes ios browser
+
+mystery brain disease in canada 
+
+white house AI website
+
+berkshire hathaway stock price is too high, 421k per share 
+
 5/5
 
 netanhayu 建国失败
