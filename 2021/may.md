@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+5/8
+
+musk on snl this weekend
+
+tesla engineer: musk overblew autopilot abilities
+
+olivia and liam most popular baby names 2 years in a row 
+
+unemployment rises 
+
+mayweather vs logan paul
+june 6 
+
+neurotech: erase unhappy memories
+
+MD topless beach fights for rights
+
+FBI raid exposes giuliani 
+
+tahoe quake 
+
+WHO approves chinese covid vax
+Sinopharm
+German company CureVac also comes out with a rna vax 
+
+sharks use earth's mag field to navigate seas
+
+youtube tv to compete with roku 
+
+msft stops shipping windows 10x
+
+record breaking laser created
+
+SETI: no signals from 60 million stars
+
 5/7
 
 china plan for naval base
