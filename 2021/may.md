@@ -1,5 +1,27 @@
 [Back to 2021](index.md)
 
+5/10
+
+gas/consumer prices up 
+
+CA population declines first time in history 
+
+mother's day flower shortage
+
+musk: i am first snl host with aspergers
+5M viewers
+tanked price of dogecoin (down 40%)
+
+colorado shooting 7 dead in home
+
+asia virus surge
+
+vision of future: humans move underground, robot servants
+
+scientists study cats sitting in squares
+
+lithium supply crunch due to EVs
+
 5/9
 
 美国主要的汽油管子被黑客
