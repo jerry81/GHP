@@ -1,5 +1,38 @@
 [Back to 2021](index.md)
 
+5/11
+
+newsom wants to triple spending on stimulus checks
+cash payments for CA residents
+
+corn prices rise
+inflation fears
+
+bill gates a womanizer?
+naked pool parties?
+
+tokyo olympics will have computer generated crowd noise
+
+AMZN seies and destroys counterfeit products
+
+harley davidson "livewire" electric motorcycle brand
+
+game developers salaries become more transparent
+
+AMD takes large chunk out of intel's market share
+
+gas flaring - burning the gas that comes with crude oil mining
+done to minimize risk of explosions
+removes waste products
+
+aapl suppliers linked to uyghur forced laobr
+
+clubhouse for android arrives 
+
+amzn jedi contract in danger due to amzn court fights
+
+russians suspected in fuel pipeline cyberattack 
+
 5/10
 
 gas/consumer prices up 
