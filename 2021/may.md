@@ -1,5 +1,53 @@
 [Back to 2021](index.md)
 
+5/12
+
+gas stations run out of gas
+
+usa daily cases falling
+
+yankees coach, who had vax tests positive
+
+sex robot customers want angel wings
+realdoll
+
+home prices surge in buying frenzy
+
+ontario mixed doses due to AZ shortage
+
+700+ rockets hit israel 
+target was tel aviv
+
+ben gurion airport - major intnl airport of israel 
+
+brain implant makes mice immediately become friends
+
+china offers digital yuan as alternative to digital dollar
+fed's pumping endagers dollar's status as reserve
+
+some countries still dont have jabs
+
+ebay allows sales of nfts
+
+CCP opens twitter account
+powered by army of fake accounts
+
+amzn alexa has a voice actor - nina rolle 
+
+skyworth - chinese tv manufacturer 
+under fire for collecting data 
+
+goog double ai research staff
+
+intel tiger lake processor 
+high performance laptops 
+
+fb ordered by germany to stop collecting whatsapp data 
+
+china population growth down
+
+mdma for pstd treatment
+
 5/11
 
 newsom wants to triple spending on stimulus checks
