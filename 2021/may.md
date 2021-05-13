@@ -1,5 +1,43 @@
 [Back to 2021](index.md)
 
+5/13
+
+pipeline restarts after hack
+
+tesla bails on bitcoin
+
+degeneres quits
+
+american fertility crisis is a problem?
+
+homeless shelters in LA: fire crisis
+arson suspected
+root cause unknown
+
+basquiat sells for 93M 
+
+CNN described as opinionated and emotional
+
+tyson chicken shortage due to "underperforming roosters"
+
+uraguay struggles with corona
+
+israel and gaza violence escalating
+
+chinese sellers mysteriously disappear from AMZN
+
+Buterin: Ethereum founder donates 1T shiba inu coins to india
+
+goog docs to move from html-based rendering to canvas based rendering
+
+amzn managers "hire to fire" to meet annual turnover goals
+
+USA agrees to remove xiaomi from blacklist 
+
+biden approves offshore wind farm 
+
+ford patent: recognize billboard, show ad in car 
+
 5/12
 
 gas stations run out of gas
