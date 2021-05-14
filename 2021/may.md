@@ -1,5 +1,47 @@
 [Back to 2021](index.md)
 
+5/14
+
+israel rioting
+
+3 rox fired from lebanon
+
+andrew yang atop nyc mayorial race
+
+aapl airtag - "way to keep track of your stuff"
+attach to phone, keys
+can be abused by stalkers
+
+california to add grade before kindergarden?
+
+bill maher catches covid, show cancelled 
+
+white-knuckle - causing fear 
+west in store for white knuckle summer with power grid shortages 
+
+1 in 3 considering unsubsribing from netflix 
+
+new EV design uses no magnets
+lessen reliance on chinese magnets
+97% of world supply
+
+spacex and goog partner for starlink
+goog data centers house starlink infra 
+
+hackers made 5 million in ransoms
+for pipeline hack 
+
+wework ceo: least engaged workers like WFH
+
+skorea invests 450 B in chipmaking push 
+wants to be global leader 
+
+neural implant in paralyzed person allows him to write with thoughts
+
+usa moves step closer to banning tiktok 
+
+wireless charging for vehicles on road 
+
 5/13
 
 pipeline restarts after hack
