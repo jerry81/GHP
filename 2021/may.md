@@ -1,5 +1,25 @@
 [Back to 2021](index.md)
 
+5/17
+
+war in israel
+strike on gaza building says houses hamas
+palestinian marches in spain and paris
+israel flag burning in germany
+toronto assaults
+
+msft asks bill to step down 
+inappropriate relationship with female employee
+20 year affair 
+
+dogecoin founder bashes musk
+
+matt mccoughneghey to run for tx 
+
+fish to treat mood and depression issues 
+
+huawei eavesdropping on dutch cell users?
+
 5/16
 
 israel 反击hamas
