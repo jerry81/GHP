@@ -1,5 +1,32 @@
 [Back to 2021](index.md)
 
+5/18
+
+cnn writer praised hitler
+fired
+
+Boom supersonic: go anywhere in world within 4 hrs for 100 bucks
+
+airlines to weigh passengers before boarding?
+
+no comedies on nbc: first time in 50 years
+
+thiel wants to run for senate
+
+aapl did not take cut from physical goods (400B in sales)
+
+Rotten tomatoes wants to be a streaming channel 
+
+aapl compromised security to stay in china
+data center guiyang 
+
+AMZN sidewalk - bluetooth wifi mesh network 
+extend range 
+
+MSFT with guido van rossum to double speed of python
+
+Alumninum io battery charge 60x faster, hold 3x energy
+
 5/17
 
 war in israel
