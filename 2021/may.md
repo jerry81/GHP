@@ -1,5 +1,23 @@
 [Back to 2021](index.md)
 
+5/19
+
+pentagon to monitor millitary social media 
+
+musk loses 2nd richest rank 
+
+america "restaurant apocalypse" actually exaggerated
+
+wear OS and Tizen to merge (goog and samsung collab)
+
+ford f150 lightning electric pickup 
+
+colonial pipeline hackers get 90M in bitcoin 
+
+goog starline - holographic teleconferencing 
+
+amzn to buy mgm for 9B 
+
 5/18
 
 cnn writer praised hitler
