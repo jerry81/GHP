@@ -1,5 +1,26 @@
 [Back to 2021](index.md)
 
+5/20
+
+btc down 30% again to 30k
+musk and china reiterate bans
+
+msft emp: blames toxic culture on leadership
+
+good reviews for quiet place 2 
+
+obama thoughts on trump: 'corrupt mf' 'f- lunatic'
+
+rival for neuralink - backed by thiel
+
+any amount of alcohol bad for brain
+
+goog to build quantum computer by 2029
+
+exxon mobil #1 in plastic waste
+
+
+
 5/19
 
 pentagon to monitor millitary social media 
