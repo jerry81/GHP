@@ -1,5 +1,48 @@
 [Back to 2021](index.md)
 
+5/21
+
+feds want new rules for crypto
+including irs compliance
+
+US proposes 15% global tax
+
+USA, russia military action in arctic
+china on the move
+
+dating apps "drug of choice" for millenials
+
+israel shoots down iranian armed drone
+
+nyc floating park a "marvel"
+
+ford electric truck under 40K
+
+leaked video from navy shows ufo sinking into ocean
+
+riding e-bikes also increases heart rate 
+
+computer coding could count as foreign language credit
+
+corona cases fall by 20% 
+in USA
+
+TSMC claims breakthru on 1nm chips
+
+opera gaming browser to mobile
+
+FB: gov internet shutdowns on the rise
+
+cicadas coming out, fungus acts as amphetamine for them
+
+linux on chromebooks out of beta
+
+bytedance founder to step down as CeO
+
+china mars rover photos released
+
+65 animal species can laugh
+
 5/20
 
 btc down 30% again to 30k
