@@ -1,5 +1,39 @@
 [Back to 2021](index.md)
 
+5/23
+
+employers reluctant to require vax
+
+white house: hugs in, masks out
+
+500M people have diabetes
+
+1958, usa was ready to nuke china to protect twn from communist forces
+
+smart toilet takes pix of poo to send to doctors
+
+extroverts happier and have higher salaries than introverts
+covid has increased inverted this
+extro - should focus on cultivating lasting relationships
+introverts - focus more on future
+
+virgin galactic 3rd successful flight with rocket powered plane
+50 mile mark - edge of space
+
+CA requires uber and lyft drivers to transition to ev
+
+top source of security threats: powershell
+
+motorcycle airbag vests
+
+crypto miners abuse free tier of cloud providers
+
+first EV charging highway in Italy
+
+bytedance, kuaishou, linkedin called out by china for data collection
+
+netflix gaming hiring executives
+
 5/21
 
 feds want new rules for crypto
