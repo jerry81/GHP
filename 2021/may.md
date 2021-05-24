@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+5/24
+
+"stop doing what hitler did to you" - placards in London
+"israel the new nazis"
+
+dogs can detect covid with 97% effectiveness thru human sweat
+
+natural food supplement for anxiety:  beta-sitesterol
+almonds, pistachios, various grains and especially avocados
+
+"no hymen no diamond" trend in marriage 
+
+many are borrowing to buy stocks
+
+esports curiculum added to 6 UC schools
+not enough for a major yet though
+
+china and usa bid for ethiopia 5G contract
+usa won 
+
+usa digital currency coming
+
+global fertility drop
+
+guido van rossum likes typescript, copying some things from it for python
+
 5/23
 
 employers reluctant to require vax
