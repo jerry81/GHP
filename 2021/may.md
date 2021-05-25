@@ -1,5 +1,46 @@
 [Back to 2021](index.md)
 
+5/25
+
+bitcoin down 50% from peak
+
+gold may be good investment
+
+japan virus nightmare right before olympics
+
+anti-semitic attacks in USA around synagogue 
+
+dogs to sniff covid at airports?
+
+maine lobster roll prices up to 34 usd
+demand
+
+spacey to return to acting
+pedophilia drama
+
+biden starts every day lifting weights
+
+arnault world's richest
+french fashion tycoon
+
+amzn to buy MGM
+
+national guard finally leaves capitol
+
+ferarri hybird supercar 500k
+
+peloton treadmill manufacturer USA factory 400M
+
+germany Self driving cars by 2022 on the road
+
+AMD to new use new socket tech
+
+china to ban all bitcoin mining soon
+
+yuan longping rice pioneer RIP
+
+lifespan doubled in 100 yrs
+
 5/24
 
 "stop doing what hitler did to you" - placards in London
