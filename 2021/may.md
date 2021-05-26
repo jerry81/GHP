@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+5/26
+
+trump grand jury 
+
+scientists predict life expectancy could become 150 with life extending therapies
+
+usa anti-semitic attacks "alarmingly" rising
+
+100 years old ccp claims victory for current state
+
+john cena in F&F
+gets involved in china politics
+
+biden, putin to meet in geneva
+
+july 4th fireworks shortage 
+
+30 countries oxygen crisis
+
+Bitcoin Mining Council: watchdog for energy usage
+
+amzn ad revenue larger than twitter, snap, roku, pintrest combined
+
+senate prepares 10B releif fund for jeff bezos blue origin
+
+next gen windows coming soon
+
+oracle debuts ARM based cloud
+
+msft GPT3 - allows to code with natural language 
+
+DC vs AMZN
+antitrust
+
+MSFT and qualcomm team up - ARM based developer PC
+
+Goog Fuschia OS debuts
+
+Blind man's sight partially restored with gene therapy
+
 5/25
 
 bitcoin down 50% from peak
