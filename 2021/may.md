@@ -1,5 +1,43 @@
 [Back to 2021](index.md)
 
+5/27
+
+7M aus go into lockdown again
+melbourne exodus
+
+blood moon, eclipse plus brighter than usual supermoon
+
+san jose gun massacre, 9 dead incl shooter
+
+proof of jab necessary to enter canada
+
+hamas says they have 10k terrorists within israel 
+
+bezos has final meeting as CEO of amazon
+
+mcDs desperate for workers
+
+doctor decisions determined by goog algorithms
+
+openai startup funds 100M
+
+gamestop NFT platform
+
+half of usa adults fully vaxed 
+
+FB board moved to undermine zuck's power
+rejected
+
+russia internet crackdowns
+
+usb power upgrades for gaming laptops
+
+mgm bought by amazon for 8.4B
+
+whatsapp vs india over privacy
+
+biden offshore wind in CA
+
 5/26
 
 trump grand jury 
