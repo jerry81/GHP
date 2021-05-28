@@ -1,5 +1,39 @@
 [Back to 2021](index.md)
 
+5/28
+
+air travel boom
+americans no longer afraid of covid
+hedonistic summer to follow isolation blues
+
+youtuber tied dogs to helium balloons
+arrested
+pomeranian 
+
+two dead 10 missing key west boating incident
+
+long bath good for you?
+
+argentina record rise in covid 
+
+boring company: teslas in tunnels
+system in vegas
+
+epic games unreal engine 5 
+
+corona immunity could last years
+
+super blood moon already happened
+
+rowhammer - memory attack 
+
+automation has already decreased rote jobs 
+premium on decision-making jobs 
+
+dutch court: shell must reduce emissions by 45% by 2030
+
+goog san jose mega campus
+
 5/27
 
 7M aus go into lockdown again
