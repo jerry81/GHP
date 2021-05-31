@@ -1,5 +1,56 @@
 [Back to 2021](index.md)
 
+5/31
+
+cold summer in usa northeast
+
+huge opening for a quiet place
+
+big live crowd for indy 500
+
+airlines halt alcohol service in light of passenger violence uprising
+
+miami concert shooting, 20+ shot
+
+jim caviezel: qanon fanatic
+
+new lockdowns in china
+
+boy stabs cheerleader 114 times, charged as adult
+
+cartel hunts down police in homes
+
+"venus aerospace" startup promises spaceship travel to anywhere on planet within an hour traveling at 9000 MPH
+
+another breakthru running at high temperatures for a period of time at china's fusion reactor
+
+israel bombed gaza - says first AI warfare
+
+Aus fully automated farm
+
+zinc batteries replace Li ion in power grid?
+
+worker-owned co-op to compete with uber and lyft?
+
+massive labor shortage in cybersecurity
+
+iran bans crypto mining
+
+twitter to copy fb style reactions
+
+uk police, while looking for cannibus farm, stumble on bitcoin mine
+
+twitch copyright(song) crackdown
+
+fb, whatsapp goog to comply with india rules 
+
+logitech ceo: chip shortage to last for a year
+
+chrome new js compiler
+about to get much faster
+
+record purchases of wearables
+
 5/28
 
 air travel boom
