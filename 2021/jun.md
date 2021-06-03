@@ -1,5 +1,39 @@
 [Back to 2021](index.md)
 
+6/3
+
+one more film from tarantino?
+
+WSJ posits musk tweets violate SEC
+
+dogecoin jumps again
+
+Goog diversity chief: "jews have insatiable appetite for war"
+
+pfizer shock and myocarditis link being investigated
+inflammation of heart muscle 
+
+1900 HP electric hypercar
+rimac nivera 
+
+gates to build next gen nuke reactor in wyoming
+
+harmony os arrives in pad 
+ipad clone 
+
+amzn warehouse injures 80% higher than competitors 
+will stop mj testing, support legalization
+
+rare bird flu found in chinese man
+
+ali UC browser "huge business"
+
+stackoverflow sold to prosus for 1.8B
+
+aapl seld driving car brain drain 
+
+emps choose to quit instead of give up WFH
+
 6/2
 
 20% of meat capacity wiped out
