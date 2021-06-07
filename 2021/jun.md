@@ -1,5 +1,61 @@
 [Back to 2021](index.md)
 
+6/7
+
+eilish sophomore slump
+
+woman seduces serial killers as hobby
+
+mayweather 100M for jake paul fight
+
+el salvador may adopt crypto as legal tender
+
+post covid america likened to post prohibition 
+
+elon pumps cumrocket crypto 
+
+china tech clampdown
+
+new covid vax technique - protein based novavax
+
+robot food deliveries in miami 
+
+labor shortage mean more power for workers?
+
+mRNA other applicatinos - cancer applications
+
+no one cares about next windows
+
+colonial pipeline hacked with compromised password
+
+whatsapp view once feature 
+
+dji drones cleared of security risks in military
+
+wireless charing ipad pro 
+
+tankman censored on USA bing
+
+apple and its developers have a rift over principles
+
+amzn cloud dominance: getting close to government orgs
+
+Trump banned from FB for 2 years
+
+biden bans investment in dozens of chinese tech, defense
+
+tiktok collects faceprint and voiceprint biometric data
+
+711 EV charging stations
+
+aapl return to office push 
+
+maimi huge bitcoin conference 
+
+1B broadband fund from biden to tribal grounds
+
+G7 countries invest more on fossil fuels than green 
+
 6/3
 
 one more film from tarantino?
