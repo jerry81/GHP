@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+6/8
+
+bezos will be on blue origin's first crewed flight
+
+france sues goog for advertising dominance
+
+monique criticizes blac women for wearing bonnets and slippers in public 
+
+1 bald eagle kills 54 lambs on farm
+
+belt and road initiative: greater asia and some of europe global infrastructure project 
+mao zedong built 80k+ dams throughout asia 
+exert control on india?
+Brahmaputra river - tibet-india-bangladesh - connects with ganges
+rocky relations over highway construction in kashmir
+accusation: china purposely caused drought in se asia by blocking mekong river??
+china has its own water crisis
+SNWD south to north water diversion program controversial
+
+amy chua, yale professor, author of tiger mom memoir, 
+husband rubenfield sexual harrassment of students 
+chua participated in excessive drinking with students
+
+controversial fda approval 
+alzheimers med that may not work
+
 6/7
 
 eilish sophomore slump
