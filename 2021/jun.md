@@ -1,5 +1,29 @@
 [Back to 2021](index.md)
 
+6/9
+
+irs files leaked:
+secrets of wealthy avoiding income taxes revealed
+assets like houses and stocks only are taxed if sold
+
+WR 10 babies birth
+
+egypt ruled gaza strip in 50s 60s
+
+Graphene HDDs store 10x more data
+
+ohio wants to declare goog a public utility
+
+McDs automated drivethru 
+
+programmable fibers at MIT
+
+drone midair refuel first ever
+
+reducing poverty would actually lower energy demands
+
+new mac os monterey
+
 6/8
 
 bezos will be on blue origin's first crewed flight
