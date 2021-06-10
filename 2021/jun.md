@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+6/10
+
+new china outbreak 
+
+cicadas invade biden's plane ready to take off
+
+tiktok and wechat ban dropped
+
+branson and bezos space race
+
+55 year old russian female hacker
+
+keystone line abandoned
+
+americans 4B in btc profits in 2020
+
+aapl ar headset 2022
+
+VW eyes 8.50 per hour for autonomous driving
+
+FB: makes wfh permanent for all emps
+with condition: pay scales on cost of living
+
+el salvador volcano energy
+
+china 20M vax per day
+
+nat geo recognizes new fifth ocean: south ocean
+
+CO2 highest level in 4M years
+
 6/9
 
 irs files leaked:
