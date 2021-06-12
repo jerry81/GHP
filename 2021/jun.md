@@ -1,5 +1,38 @@
 [Back to 2021](index.md)
 
+6/11
+
+aapl worked with dems - gave ip addresses phone and names of DOJ
+
+austin tx shooting
+wounded
+
+irelannd knownn for low taxes
+
+lobster diver swallowed by a whale
+
+kim jong un hates kpop
+
+goats for controlling wildfires
+
+uk prototype fusion power plant
+
+phishing at all time high
+
+fda scandal?  some resign over alzheimer drug approval
+
+airlines to get into flying taxis
+
+Sex trafficking on FB
+
+dramatic drop in college enrollment
+
+waymo to haul goods from houston to fort worth with self driving trucks
+
+laughing gas for depression?
+
+ea hack
+
 6/10
 
 new china outbreak 
