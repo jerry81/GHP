@@ -1,5 +1,67 @@
 [Back to 2021](index.md)
 
+6/15
+
+biden and putin to meet in geneva 
+biden to putin: "don't be mad at the mirror if you're ugly"
+
+trump in exile from new york
+
+netanhayu out, plots comeback
+
+musk selling all his houses
+
+monica lewinsky now a producer for disney
+
+man with 39 wives dies world's largest family
+india 
+
+phoenix 118 F
+
+jpmorgan stockpiling cash
+
+french nuke power companies in guangdong 
+
+wave of resignations predicted as lockdown ends
+
+amzn prime: luna cloud gaming service
+
+G7 wants russia to crackdown on ransomware gangs
+
+worry: quantum hacking of bitcoin wallets:
+mitigated by new encryption algorithms
+
+dozens of companies getting into flying cars
+
+G7 decarbonization and covid topics
+
+pakistan county may block sim cards for non vaccinated
+
+aapl repair tech leaks explicit photos of woman
+
+bitcoin vs cash traceability:  bitcoin gets called transparent
+
+33% would opt for immortality
+
+home security workers uses cameras to spy on women, gets 4 years in prison
+
+seat on bezos's space trip sells for 28 M
+
+dartmouth medical cheating investigation
+
+crypto miners abusing docker's free cloud compute 
+
+cali bullet train gets nearly 1B in funding
+
+youtube paying out music industry after constant complaints
+
+goats to prevent cali wildfires
+
+space research on sperm
+survives the radiation
+
+mcd's data breach
+
 6/11
 
 aapl worked with dems - gave ip addresses phone and names of DOJ
