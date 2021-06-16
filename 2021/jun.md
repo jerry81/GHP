@@ -1,5 +1,37 @@
 [Back to 2021](index.md)
 
+6/16
+
+death valley comes within 10 degrees of world record
+high temp
+
+SF drug epidemic 
+
+cn exercises near twn getting bigger and bigger
+largest plane exercise yet 
+
+feces problem in NYC subways
+
+jon stewart backs wuhan lab leak theory?
+
+southwest airlines software glitch
+500 flights cancelled
+
+razer gaming laptop 
+
+cyberpunk to return to psn 
+
+lina khan to become ftc commissioner
+big tech critic
+
+aapl google mobile duopoly antitrust probe 
+antitrust pioneer
+
+plexiglass - no anti-covid proof
+but it is showing up everywhere
+
+companies asking for vax proof 
+
 6/15
 
 biden and putin to meet in geneva 
