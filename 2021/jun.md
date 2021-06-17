@@ -1,5 +1,33 @@
 [Back to 2021](index.md)
 
+6/17
+
+biden putin tensions
+
+china sends another crew to space station
+
+AI fighter jet pilots better than humans
+
+the rock running for president?
+
+experiment: transplant uterus in male rat, make it give birth
+
+"dangerous variant" in USA
+
+helmet reads your mind
+110M 
+
+shipping shortage crisis
+
+volvo has 100s of ECU (electronic control units)
+
+third day of SW airlines cancellations
+
+el salvador looking at getting into bitcoin impl
+
+nasa juno exploring jupiter
+under clouds: massive storms and radiation
+
 6/16
 
 death valley comes within 10 degrees of world record
