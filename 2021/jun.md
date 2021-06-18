@@ -1,5 +1,23 @@
 [Back to 2021](index.md)
 
+6/18 
+
+supreme court case to keep obamacare - affected by amy and brett
+
+phx drive by shooting spree 
+
+spacex launch advanced gps satellite for space force
+
+Nielsen: ratings industry tracking streaming vs network tv
+
+Blade: uber for helicopters
+
+audi and vw hack leaks vins and emails
+
+goog next ai focus: teach foreign languages
+
+global chip shortage brings about other issues like fake components
+
 6/17
 
 biden putin tensions
