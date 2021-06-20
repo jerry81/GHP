@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+6/20
+
+pride parade, south florida truck accident 1 killed
+
+first dog dies (biden's dog)
+
+twitter trouble with indian gov 
+
+chinese astronauts reach space station
+construction of space station "tiangong"
+
+data centers use large amounts of water for cooling
+
+satya nadella becomes chairman of MSFT in addition to CEO
+
+18B spent by us on covid vax, 3B into covid pill
+
+new study says ageing is unstoppable
+
+oregon legalizes human composting
+burial and cremation bad for environment
+
+fermi paradox: we should have seen life by now
+
+rescue drones trained to detect human screams
+
 6/18 
 
 supreme court case to keep obamacare - affected by amy and brett
