@@ -1,5 +1,23 @@
 [Back to 2021](index.md)
 
+6/21 
+
+NZ trans olympic lifter
+
+cruise ships attempt to get back into business
+
+businesses want another bailout
+
+mushrooms anti-cancer
+
+NYC universal basic income tests 500/month
+
+brain surgery to treat addiction?
+
+navy buries railgun plans
+
+chinese startup unitree 2700k usd robot dog 
+
 6/20
 
 pride parade, south florida truck accident 1 killed
