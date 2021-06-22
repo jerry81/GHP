@@ -1,5 +1,62 @@
 [Back to 2021](index.md)
 
+6/22
+
+nfl first player comes out of closet
+nassib
+
+israel digital shekel
+
+joe approval at 52%
+
+spielberg makes deal with netflix
+
+500$ basic income plan extends to 20 cities 
+
+china: wuhan lab deserves nobel prize for medicine
+
+nut trucks targeted by theives 
+
+appl new macbook air 
+new chip, two usbc ports 
+successor to m1
+
+self balancing self riding bike
+
+hyundai buys boston dynamics
+1.1B
+
+EU GPU prices falling
+
+doge coin criticized as ponzi scheme 
+
+sichuan cracks down crypto mining, bitcoin plummets
+32k now 
+
+delta variant of covid, virulent
+
+republicans think msft should be involved in antitrust cases
+
+AMZN: millions of unsold products destroyed
+
+goog acquired shopify to compete with AMZN
+
+FB clubhouse clone 
+
+hawaii ideal location for wfh-ers
+reliable wifi an issue 
+
+quantum computers already being applied to chemistry, medicine, and solar panels
+
+hackers targeting water treatment plants
+
+van living wfh'ers 
+
+el salvador town went full bitcoin
+living experiment
+
+mRNA being applied to cancer (attempt)
+
 6/21 
 
 NZ trans olympic lifter
