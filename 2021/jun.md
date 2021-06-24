@@ -1,5 +1,57 @@
 [Back to 2021](index.md)
 
+6/24
+
+mcafee suicide in spanish prison
+chased by american gov
+
+UK to ban junk food ads online
+
+netflix sexy beasts
+
+germany pro lgbt, hungary anti
+tensions escalate before euroleague match
+
+warren buffet backs out of bill and melinda foundation
+
+peloton injury causing flaw require 40 bucks to fix
+
+china linked in is censored
+
+canonical - company making ubuntu 
+
+morgan stanely requires workers and clients to have jab 
+
+kickstarter ceo supports 4 day work week 
+
+lundon underground full mobile coverage by 2024
+
+food from air - capture co2 from air, combine with solar energy
+10x more efficient than planting crops
+finland company solarfoods
+
+canon AI cameras only allow smiling employees in 
+
+antitrust vs goog smart tv in india 
+
+MSFT 2T market cap 
+
+monero cybercurrency of choice for criminals
+
+brave reveals its own search engine
+independent index of web 
+
+bumble gives "burnt out staff" a week break 
+
+hedge fund that bet against gamestop shuts down
+redditors win
+
+bezos backs General Fusion 
+canada based company
+build fusion plant in UK
+
+coffee helps vs liver disease?
+
 6/22
 
 nfl first player comes out of closet
