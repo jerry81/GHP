@@ -1,5 +1,39 @@
 [Back to 2021](index.md)
 
+6/27
+
+miami - building collapses
+maybe 150+ dead
+
+uk health minister sex scandal
+resigns
+
+j&j ordered to stop selling opiates
+
+1 in 5 neither working nor studying
+
+tarantino last film, resevoir dogs reboot?
+
+vegas home sells for 25M
+
+"pornification of netflix"
+365 days
+gaspar noe's love
+
+hot air balloon crash in NM
+
+bitcoin continues slump into "crypto winter"
+
+engineer solves zodiac killer's final code
+
+croatian wikipedia pushing radical agenda 
+
+usa convinced about ufos
+
+peter thiel: master of avoiding tax
+
+
+
 6/24
 
 mcafee suicide in spanish prison
