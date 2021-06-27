@@ -32,6 +32,30 @@ usa convinced about ufos
 
 peter thiel: master of avoiding tax
 
+in effort to save tasmanian devils, penguin population suffers
+
+israel: delta variant infects fully vaccinated
+
+Coronavirus hit 20k years ago?
+
+cancer blood test rolls out 
+
+bytedance still tightly controls tiktok
+
+android apks can be sideloaded onto windows 11
+
+half the world owns smartphone
+
+el salvador giving away bitcoin to its citizens
+30 usd each
+
+china crewed mission to mars 2033
+
+wickr, encrypted messenging, acquired by amazn
+
+biden infrastructure plan, 1.2T
+65B on universal broadband
+
 
 
 6/24
