@@ -1,5 +1,37 @@
 [Back to 2021](index.md)
 
+6/29
+
+portland 114 deg
+seattle roads buckling
+vancouver at 116
+
+maimi building collapse was a condo 
+
+mexico decriminializes mj
+
+clarence thomas questions pot laws
+
+bullshitting a sign of intelligence
+
+a large bitcoin owner dies at 41
+
+goog AMP may be nixed
+
+FB hits 1T
+
+alcohol, 1-2 drinks may increase creativity
+
+mixing covid vax good strat
+
+abu dhabi face scans detect rna quality - detect covid
+
+duckduckgo moves to #2 ahead of bing
+
+40% still uncomfortable with sharing road with self driving cars
+
+crypto exchange binance cracked down by some of the richest countries
+
 6/27
 
 miami - building collapses
