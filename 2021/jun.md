@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+6/30
+
+United airlines bluetooth entertainment
+
+mars once had habitable conditionss
+no life possible on venus but maybe jupiter
+
+uber asks employees to return to work 50% of time
+
+rigetti startup company does quantum computers
+
+Pyston python project aimed at improving python for web
+
+musk investing billions into starlink
+
+MSFT prepares for tech regulation by hiring more lawyers
+openai to assist in suggesting code for developers
+
+highest resolution image of atom ever
+
+china cyber prowess still 10 years behind usa
+
+indians obsessed with gold, but starting to warm up to crypto 
+
+a hack causes a stablecoin's value to drop to zero
+
+boy dies in judo class after being repeatedly slammed
+
+sleeping outdoors on rise
+fresh air benefits
+
+sopranos prequel coming
+
+
+
 6/29
 
 portland 114 deg
