@@ -1,5 +1,35 @@
 [Back to 2021](index.md)
 
+7/2
+
+DC building collapses
+
+#metoo reversal, ghislane, weinstein confident they will be freed
+
+delivery companies revolt against amzn, shut down
+
+covid up 10% this week
+
+fukushima produces mutant boars
+
+nyc hotels recession
+
+spielberg west side story
+
+xi threatens foreign bullies
+
+hawking's black hole theory confirmed observationally
+
+blue screen of death coming back to win 11
+
+rich branson space launch jul 11
+
+devs say ps hard to work with
+
+delta variant outbreaks worldwide
+
+aapl spending on goog cloud storage to increase 
+
 7/1
 
 trump charged with tax crimes
