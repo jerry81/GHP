@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+7/3
+
+travel above precovid levels
+
+militia group on i-95
+
+china "lie flat" movement
+
+riot games helps streamers by releasing uncopyrighted album
+
+msft was bad 2000 - 2014, then made comeback
+
+summer classes on bitcoin
+
+gulf of mexico fire
+gas pipeline break
+
+github "copilot" pair programming AI gets mixed reviews
+
+china's crackdown on mining makes the remaining miners richer
+
+Didi, which just had IPO, tumbled after announcement of being cyber-audited
+
+decay of internet is a thing
+
 7/2
 
 DC building collapses
