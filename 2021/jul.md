@@ -1,5 +1,40 @@
 [Back to 2021](index.md)
 
+7/5
+
+pressure for anti vaxxers growing
+biden - ease travel restrictions?
+
+AI drone swarm to hunt down terrorists
+
+NYC nightlife district plan
+
+high rise dwellers nervous they could be next
+
+4 day work week overwhelming success in ireland
+
+lactose free milk through cloning
+
+advertising in dreams?
+
+didi seeks usa ipo
+china recommends delay
+
+juul was once a surging vape company, now struggling to survive
+
+bezos steps down as CEO
+
+uber/lyft driver shortage
+
+FB twitter goog battling hk over data privacy laws
+
+aapl decentralizing out of silicon valley
+
+water disinfectant made only of hydrogen millions of times more effective than current commercial product
+
+lab-grown salmon at sf startup
+sushi bar
+
 7/3
 
 travel above precovid levels
