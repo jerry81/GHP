@@ -1,5 +1,49 @@
 [Back to 2021](index.md)
 
+7/7
+
+SF and oakloand looting on streets
+
+BMW has better access to chips
+
+ban on boiling lobsters alive?
+
+spacex rocket size of statue of liberty
+
+food costs rise, supermarkets stockpile
+
+kepler telescope discovers free floating planets
+
+seneca lake - glacial lake turned into a hot tub by bitcoin mining operations' dumping 135M gallons of hot water every day 
+cold water holds more oxygen
+hot water kills fish
+
+VW offloads Bugatti to Bugatti-Rimac
+Rimac - EV supercar company
+VW owns porsche
+
+Bumble (dating app) restaurant - bumble brew
+NYC
+
+Biden to set rules for right to repair
+
+tiktok book reviews a thing
+booktok
+"they both die at the end"
+
+UK largest semiconductor mfg bought by chinese company
+Nexperia bought Newport Wafer Fab
+
+Nordic countries heatwave
+
+hurricaine florida
+
+more data crackdowns for big companies coming following didi
+
+pentagon cancels JEDI contract
+
+cathay airlines working on single pilot system for long hauls
+
 7/5
 
 pressure for anti vaxxers growing
