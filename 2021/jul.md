@@ -1,5 +1,38 @@
 [Back to 2021](index.md)
 
+7/8
+
+haiti president assassinated
+assassins masqueraded as DEA
+
+historic high for job openings
+
+4M quit in one month
+new record
+
+trump: "hitler did a lot of good things"
+
+phones increase tumor risk?
+
+england win vs denmark 
+
+3 nites of bad sleep a breakoff point for great blow to well being
+
+bill to remove melinda from foundation in 2 years
+
+intel rehiring veterans (ex-employees)
+
+youtube recommendation engine deemed "horror show"
+
+hiv vax at oxford 
+trials
+
+grubhub delivery robots from russia
+
+trump sues dorsey, zuck for censorship
+
+
+
 7/7
 
 SF and oakloand looting on streets
