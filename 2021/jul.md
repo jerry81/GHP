@@ -2,6 +2,8 @@
 
 7/8
 
+nanofiber membrane filters out 99% salt from saltwater in 30 mins
+
 haiti president assassinated
 assassins masqueraded as DEA
 
@@ -30,8 +32,6 @@ trials
 grubhub delivery robots from russia
 
 trump sues dorsey, zuck for censorship
-
-
 
 7/7
 
