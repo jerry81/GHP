@@ -1,5 +1,50 @@
 [Back to 2021](index.md)
 
+7/9
+
+suspect in haiti assassination - us citizen
+
+6.0 quake in USA SW
+
+10K for maskless passenger
+
+matt damon gets standing o at cannes
+
+olympics crowd banned
+
+FB making own city
+in menlo park
+zuck and sandberg relationship soured
+
+china top secret AI drone 
+
+death rates for cancer down
+
+wind and solar growing at record rates
+
+cali exodus actually a myth
+
+hard to do business in myanmar after coup
+
+moderna mRNA flu shot
+
+cell phone data use affects wifi performance
+same with too many wifi networks in competition w/ each other
+
+cali drought, newsom asks residents cut down usage 15%
+
+VW, Benz, BMW conspired against emissions regulations
+fined 1B
+
+a 150M dutch tool in the chip making supply chain blocked by trump from being sold to china
+ASML - tool maker
+
+prolonged heart rate elevation after exercise may be long term effect of covid
+
+lasers - new tech makes energy cost cheaper 
+
+blood testing chinese BGI group may collaborate with military to collect data on citizens
+
 7/8
 
 nanofiber membrane filters out 99% salt from saltwater in 30 mins
