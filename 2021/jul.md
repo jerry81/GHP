@@ -1,5 +1,53 @@
 [Back to 2021](index.md)
 
+7/10
+
+hottest june ever for USA
+
+marilyn manson assault charge
+videographer during concert
+
+biden plan to control big tech
+
+paul veroheven "bendetta" at cannes - lesbian nuns
+
+americans spending on backyard pools
+
+taliban resurgence
+
+tom cruise quits scientology?
+becomes recluse
+
+trump a blend of populism and facism
+populism:  focus on unhappy "ordinary" people
+
+tencent: facial recog to enforce gaming curfew for kids
+
+"palace on rails" concept - 14 cars long
+
+15 years in prison for crypto fraudster
+
+biometrics privacy law in NYC
+
+Foxconn to use WI plant to build electric vehicle
+repurposing
+
+gig work "sucks" - reason uber and lyft cant get drivers
+
+goog search performance advantage only available to chrome browser
+preconnectToSearch service
+
+MSFT: 1500 cash bonus for working in pandemic
+
+Silicon valley sanctions and funds a chinese facial recog company
+
+25 of didi's apps downloads halted by china
+china beidou: rival to american GPS
+
+MSFT 13.6M in award money to security researchers in past year
+
+181k loans taken out for 2 year masters degrees and come out to make 30K annually?
+
 7/9
 
 suspect in haiti assassination - us citizen
