@@ -17,6 +17,30 @@ looking towards extreme sports
 
 sharks invading cape cod
 
+robert e lee statues being removed
+
+by 2030: predicted that we will no longer own anything
+everything we want will be rented by drone 
+
+long island ice tea company announces pivot to bitcoin
+causes stock to go up
+charged with insider trading
+
+python overtake C and Java as most popular lang?
+
+MSFT with 1500 bonus, github gifts days off
+
+goog workers angered by hypocrtical wfh policies where leadership granted more wfh priveleges
+
+crypto pump and dump scams
+cannot be regulated as that is the point of crypto 
+
+edge overtakes ff as 3rd most popular browser
+chrome 65% safari 18%
+
+sim cards going digital as esims
+embeddable reprogrammable chips
+
 7/10
 
 hottest june ever for USA
