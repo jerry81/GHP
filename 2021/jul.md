@@ -1,5 +1,19 @@
 [Back to 2021](index.md)
 
+7/11
+
+pentagon warns of china offensive space tech
+
+global tax coming G20
+
+AMZN permited to monitor sleep
+
+romance scammers thriving
+
+HIV doesn't affect life expectancy?
+
+
+
 7/10
 
 hottest june ever for USA
