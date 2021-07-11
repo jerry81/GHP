@@ -12,7 +12,10 @@ romance scammers thriving
 
 HIV doesn't affect life expectancy?
 
+people starved for adrenaline
+looking towards extreme sports
 
+sharks invading cape cod
 
 7/10
 
