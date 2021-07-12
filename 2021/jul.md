@@ -1,5 +1,35 @@
 [Back to 2021](index.md)
 
+7/12
+
+branson returns from space
+
+bruce/caitlyn jenner political career jeered: 'sick freak'
+
+connor macgregor breaks leg 
+
+tesla solar powered neighborhood
+
+stress-relief industry includes bath bombs and massage car chairs
+
+econ: higher inflation here to stay for a few years
+
+goog 20B tax shelter in 2017
+
+crypto mining operation stealing electricity busted
+ukraine
+
+btc miners move to energy-cheap tx
+
+older linkedin users get less job offers, younger picture helps
+
+superconductor connected to semiconductor
+
+giant pandas no longer endangered
+
+states trying to attract remote workers:
+HI, VT, Indiana, OK, WV
+
 7/11
 
 pentagon warns of china offensive space tech
