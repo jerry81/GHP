@@ -1,5 +1,62 @@
 [Back to 2021](index.md)
 
+7/13
+
+macron mandates health pass
+
+cuban cp cracks down on insurgents
+
+wall street predicts huge profits coming
+
+bad coffee harvests, high demand cause coffee price to go up
+
+british man spends 200k to become korean
+
+dating apps used to find friends without sex
+
+english black football players face racism after defeat
+
+shohei otani: japanese babe ruth
+2way threat
+
+marijuana for endurance athletes?
+makes it less boring
+
+cosby plans comeback
+
+tampa bay red tide kills 15 tons of fish
+
+stream-ripping - technique to download streaming music
+legal according to french ministry 
+
+foxconn and tsmc buy vax for twn
+
+Li batteries supplied by aus, cn, argentinia, chile
+salton sea near joshua tree park site for new lithium mine
+
+AMD, 2021 continue chip shortage
+Lisa Su
+
+stumble proofing robots
+training on rugged terrain
+
+pac nw heatwave kills crops
+wheat and fruit
+
+heat has killed 1B ocean small creatures
+
+GFW blocking 311K domains, 41K by accident
+
+sundar pichal warns of authoritarian internet
+"none of googles major products are in CN"
+
+netflix benefits from biden's big tech crackdown because it is 
+suprisingly, not considered part of big tech
+
+china undermines bitcoin because it wants to use its own digital currency to restructure international economy
+
+future energy: solar panels on roof with battery storage?
+
 7/12
 
 branson returns from space
