@@ -1,5 +1,42 @@
 [Back to 2021](index.md)
 
+7/14
+
+macron health pass requires vax for bars, restaurants planes
+
+ken starr (lewinsky prosecuter) acted as epstein's fixer
+
+Tesla, Elon in court
+
+Boulder CO named best place to live in USA
+
+lebron's entertainment company, springhill valued at 750M
+
+taliban surging
+religious movement
+
+olympics commisioner calls japs "chinese"
+
+rapper shot during an IG stream
+
+amzn ring adds encryption
+
+drought stresses CA power grid
+less hydro power
+
+current intel ceo criticises intel's focus on financialization losing edge over TSMC and SEC - semiconductor equipment corp
+
+appl adds buy now, pay later to compete with Affirm and Paypal
+
+biden pressed putin to crack down on ransomware
+Russian RW gang REvil disappears
+
+aapl weather refuses to display 69 degrees
+
+new type of plastic disintegrates with exposure to sunlight and oxygen
+
+handwriting better than typing when learning new lang
+
 7/13
 
 macron mandates health pass
