@@ -1,5 +1,38 @@
 [Back to 2021](index.md)
 
+7/15
+
+carbon import tax in eu
+for example steel
+
+ios zero day - fully upgraded iphone can be hacked by solarwinds
+
+gov journalism takedowns up globally
+
+MC compliance issues with india Mastercard
+
+United and Mesa team up for electric planes for short trips
+
+TX 2021 February freeze blackout allowed gas company to reap 11B in profits
+
+twitter gives up on fleets, the burn after reading feature
+
+windows 365 - put PCs on cloud
+
+WFH cause for increasing cyberattacks
+
+gut bacteria linked to fihgting cancer
+
+new tech taps into brain to communicate without physical body
+
+2022 Mercedes-AMG SL - car for modern times
+
+moving towards digital euro 
+
+sales: pay is high but few want to do it
+
+walking builds up brain
+
 7/14
 
 macron health pass requires vax for bars, restaurants planes
