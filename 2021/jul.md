@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+7/16
+
+los angeles remasks
+
+biden calls communism a failed system
+
+open air prostitution rampant in NYC
+
+vampire serial killer kills 10 children, sucked one's blood
+
+blue origin civilian space flight ready to go 
+
+china "pulling ahead" in global quantum race
+
+smitten FB engi abuses power to track girl friend
+
+chrome https first mode
+
+TSMC looking to expand to japan, usa
+
+tech workers coming back to bay area
+
+softbank has a robot named pepper 
+
+FB ditches brain interface plans
+
 7/15
 
 carbon import tax in eu
