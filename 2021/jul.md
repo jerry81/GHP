@@ -1,5 +1,46 @@
 [Back to 2021](index.md)
 
+7/17
+
+debates over 3rd shot
+
+mel gibson still a crazy cristian
+
+airline shortages and delays
+
+europe floods, not just germany
+landslides
+
+yellowstone earthquakes
+
+7-4 chinese teen girl dominating basketball
+
+quantum computer breakthru - error reduced from 40% to .2%
+
+netflix plans to get into video games
+
+LG - rollable tv
+100K USD
+
+xiaomi passes aapl in smartphones
+
+MSFT linux distro: CBL mariner common base linux
+
+japan sets internet speed record 319 TB per second
+fiber 3000KM long
+typical consumer max 10gbps
+nasa 400Gbps
+
+WHO: don't mix vax
+
+Didi data security probe 
+
+cause for flooding irregular moon orbit
+
+Intel big purchase 30B 
+global foundaries
+
+
 7/16
 
 los angeles remasks
