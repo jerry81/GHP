@@ -1,5 +1,19 @@
 [Back to 2021](index.md)
 
+7/18
+
+covid case at olympic village
+
+report: mcafee died broke
+
+deadly road rage during pandemic
+
+pfizer not effective against delta
+
+french protests against vax, for freedom
+
+
+
 7/17
 
 debates over 3rd shot
