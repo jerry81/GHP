@@ -12,6 +12,15 @@ pfizer not effective against delta
 
 french protests against vax, for freedom
 
+cali - basic income program for pregnant ladies
+
+havana syndrome - the malaise that hits foreign officials
+suspected microwave beams
+
+climate pessimists starting to change their minds
+
+glass octopus discovered
+completely transparent except some organs
 
 
 7/17
