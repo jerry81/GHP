@@ -1,5 +1,20 @@
 [Back to 2021](index.md)
 
+7/19
+
+commie rallies in havana
+
+oxford piers gav - drug fueled sex party 
+
+dogecoin creators (2) criticize crypto 
+both have since left the project
+
+music streamings reaps pitiful reterns for creators
+
+china may monopolize and weaponize zero days
+
+SQL may be outdated
+
 7/18
 
 covid case at olympic village
