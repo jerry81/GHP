@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+7/20
+
+britney conservatorship dispute 
+
+hyperloop may travel at 670 mph
+
+business op: treating aging like a disease
+
+china threatens nuking japan if intervene in TWN conflict
+
+MSFT hack blamed on beijing
+msft security exchange
+
+shroom stocks rise on wall st
+
+as beijing cracks down on big tech, ceos start giving to charity 
+
+malaysian police destroy 1000+ bitcoin rigs
+
+big telecom big spender on lobbying
+
+zoom diversifying to cloud in post pandemic wlrd
+
+china expects total surrender from big biz
+
 7/19
 
 commie rallies in havana
