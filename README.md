@@ -23,7 +23,7 @@
   [Mac/Linux](/tech/macAndLinux.md)
   
   [Frontend Mentor](/fe-mentor/index.html)
-  
+
 ### Other
   
   [TED Talks](/TED/index.md)
@@ -33,4 +33,6 @@
   [History](/history/1917.md)
   
   [Interesting Music](/music/keyboardToLearnAndStudy.md)
+
+  [Resume](./resume.html)
   
