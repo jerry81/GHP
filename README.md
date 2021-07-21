@@ -22,6 +22,7 @@
   
   [Mac/Linux](/tech/macAndLinux.md)
   
+  [Frontend Mentor](/fe-mentor/index.html)
   
 ### Other
   
