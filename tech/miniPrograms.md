@@ -1,4 +1,4 @@
-[Go Home](../README.md)
+[Go Home](../index.md)
 
 1 email address per app id 
 

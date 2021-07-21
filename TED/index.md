@@ -1,4 +1,4 @@
-[Go Back](../README.md)
+[Go Back](../index.md)
 
 ## TED Talks
 
