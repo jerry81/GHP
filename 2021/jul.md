@@ -1,5 +1,32 @@
 [Back to 2021](index.md)
 
+7/21
+
+bezos goes to space
+11 min flight
+dr evil comparisons
+
+olympics turning into a bust
+
+weistein faces 140 years in prison for rape charges
+
+black widow ticket sales suddenly dry up 
+
+spider venom may help heart attack victim
+
+btc crashes to below 30k - crypto crash accelerates
+peak in april - 60k
+china crackdowns
+malaysia steam roller event
+
+Denuvo DRM software affects game performance
+
+Eric Schmidt - US needs stronger tech connections with korea and japan to beat chinese AI and quantum tech
+
+past 2 years, aerospace companies launched 2000 satellites into orbit, doubling total 
+
+universe is a 3d donut theory
+
 7/20
 
 britney conservatorship dispute 
