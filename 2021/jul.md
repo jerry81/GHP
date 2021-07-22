@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+7/22
+
+steve jobs 1973 job application up for auction
+
+serial swatter gets 5 years in prison
+caused death
+
+china rejects us allegations of hacking, accuses usa of cyberspying
+
+square - also a payments company - new bitcoin platform for finservices
+
+tesla likely to accept btc as payments again
+says musk
+claims tesla didn't sell btc
+
+eu wants to make btc transfers more traceable
+
+wildfire smoke from canada spreading to us east coast
+
+tesla to open charging network to other evs later this year 
+25k superchargers globally
+
+intel mobileye - auto driving system - tested in NYC
+
+china maglev fastest in world 372 mph, 600 kph
+BJ to shanghai 2.5 hrs
+
+LG quit android phones, may sell iphones in stores
+
+
+
 7/21
 
 bezos goes to space
