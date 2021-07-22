@@ -29,7 +29,23 @@ BJ to shanghai 2.5 hrs
 
 LG quit android phones, may sell iphones in stores
 
+LA restaurants close
+another shutdown?
 
+life expectancy biggest drop since wwii
+
+dubai 120 deg heatwave - 
+tries to make rain to counter
+
+tiktok figures out who you are by amount of time you spend on each video 
+
+btc dropped 50% from peak
+
+space jam blocked by xi?
+
+nba finals ratings up 32%
+
+anti vax protest: "jews behind pandemic" chanted
 
 7/21
 
