@@ -2,6 +2,18 @@
 
 7/23
 
+China to build first waterless nuke reactor - designed for desert
+thorium powered (instead of U)
+
+cia director determined to solve [Havana Syndrome](https://en.wikipedia.org/wiki/Havana_syndrome)
+
+Mike Lynch Founder of UK software firm Autonomy - extradited to USA, fraud charges
+sold to HP for 11B
+overvaluation before sale 
+![Mike Lynch](./images/_110780472_hi058984636.jpeg)
+
+
+
 widespread internet outage - DNS failure
 911 outages on east coast
 
@@ -18,7 +30,7 @@ China opposes studying wuhan lab leak in search for origin
 
 AI human protein database boon for research [Full article](https://www.france24.com/en/live-news/20210722-ai-s-human-protein-database-a-great-leap-for-research)
 
-mercedes to go all-electric 
+mercedes to go all-electric by 2030
 
 the darkside of EV on environment - lithium mining [Full article](https://news.yahoo.com/californias-electric-car-revolution-designed-100041571.html)
 
