@@ -1,0 +1,48 @@
+<html>
+  <style>
+    div a {
+      margin: 15px;
+      display: block;
+      color: lightblue;
+    }
+    div a:visited {
+      margin: 15px;
+      display: block;
+      color: lightpink;
+    }
+    header {
+      padding: 15px;
+    }
+  </style>
+  <body>
+    <div style="height: 5000px; background:black; color: greenyellow">
+      <header>
+        <nav>
+          <a href="./index.html">back home</a>
+        </nav>
+        <h1>Modules</h1>
+      </header>
+      <main>
+        <pre><code>
+            import { hello } from './modules/util'
+
+            const tobeExported = "export me";
+            console.log('its working', tobeExported)
+            
+            hello()
+        </code></pre>
+        <hr>
+        <button id="loadgb">load Goodbye</button>
+        <button id="gb">call goodbye</button>
+        <pre>
+          <code>
+            async function loadGoodbye() {
+              await import { goodBye } from './modules/goodBye.js'
+            }
+          </code>
+        </pre>
+      </main>
+    </div>
+  </body>
+  <script src="./modules.js" type="module"></script>
+</html>

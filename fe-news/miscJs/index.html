@@ -1,0 +1,55 @@
+<html>
+  <style>
+    div a {
+      margin: 15px;
+      display: block;
+      color: lightblue;
+    }
+    div a:visited {
+      margin: 15px;
+      display: block;
+      color: lightpink;
+    }
+  </style>
+  <body>
+    <div style="height: 5000px; background:black; color: greenyellow">
+      <button onclick="handleClick()">Scroll to 1000</button>
+      <button onclick="arrowFunctionTest()">arrow funcion experiment</button>
+      <button onclick="cgTests()">test console groups</button>
+      <button onclick="passByExps()">test pass by in js</button>
+      <br />
+      <button onclick="incClosure()">incClosure</button>
+      <p id="closure" style="height: 500px; background: brown">empty</p>
+      <a href="./arrayUnpack.html">array unpacking</a>
+      <a href="./asyncawait.html">async await</a>
+      <a href="./bedmas.html">order of operations</a>
+      <a href="./data-attributes.html">data attributes</a>
+      <a href="./datatypes.html">data types</a>
+      <a href="./debugger.html">array debugger</a>
+      <a href="./domAccessible.html">DOM accessible</a>
+      <a href="./promise.html">promises</a>
+      <a href="./properForm.html">forms</a>
+      <a href="./reducerFlatten.html">flatten with reduce</a>
+      <a href="./publicapi.html">public api</a>
+      <a href="./modules.html">modules</a>
+      <!-- () needed -->
+    </div>
+  </body>
+  <script>
+    function handleClick() {
+      console.log("i am in");
+      window.scrollTo({
+        top: 1000,
+        behavior: "smooth"
+      });
+    }
+    setTimeout(function() {
+      alert("anon function has run after 1 s");
+    }, 1000); //anoymous function
+  </script>
+  <script src="./hoisting.js"></script>
+  <script src="./arwFnReturnObj.js"></script>
+  <script src="./consoleGroups.js"></script>
+  <script src="./passBy.js"></script>
+  <script src="./closure.js"></script>
+</html>

@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <script>
+      try {
+        const p = document.querySelector("#root");
+        console.log("p is ", p);
+        p.innerHTML = "root loaded";
+      } catch (e) {
+        console.error("error ", e);
+      }
+      function init() {
+        console.debug("inside init");
+        const loaded = document.querySelector("#subroot");
+        loaded.innerHTML = "subroot loaded";
+        console.dir(loaded);
+        console.dir(loaded.textContext);
+        loaded.insertAdjacentText(
+          "beforeend",
+          "prefix added with insertAdjacentText"
+        );
+
+        // querySelector vs querySelectorAll
+        console.debug(
+          "this should return one item",
+          document.querySelector("div")
+        );
+        console.debug(
+          "this should return multiple item",
+          document.querySelectorAll("div")
+        );
+
+        // example of searching within element
+        const root = document.querySelector("#root");
+        console.debug("should only be one item", root.querySelectorAll("div"));
+
+        // example of creating and inserting element
+        const subroot = document.querySelector("#subroot");
+        const h2 = document.createElement("h2");
+        h2.innerText = "i am created";
+        subroot.insertAdjacentElement("beforebegin", h2);
+        setTimeout(() => (h2.innerText = "i have been inserted"), 1000);
+
+        // createRange and createContextualFragment
+        const htmlAsStr = document.querySelector("#contextual").innerHTML;
+        try {
+          htmlAsStr.querySelectorAll("div");
+        } catch {
+          console.error("this operation expected to fail");
+        }
+        const frag = document.createRange().createContextualFragment(htmlAsStr);
+        const allChildrenOfFrag = frag.querySelectorAll("div");
+        allChildrenOfFrag.forEach(x => {
+          x.insertAdjacentText("afterbegin", "insertedText");
+        });
+        // at this point the fragment isn't part of the document
+        try {
+          document
+            .querySelector("body")
+            .insertAdjacentElement("beforeend", frag);
+        } catch {
+          console.error("this doesnt work because fragments arent elements");
+        }
+        document.body.appendChild(frag);
+      }
+      document.addEventListener("DOMContentLoaded", init);
+    </script>
+  </head>
+  <body>
+    <div id="root">
+      <a href="./index.html">back home</a>
+      root
+      <div id="subroot">subroot</div>
+      <div id="contextual">
+        <div>
+          <div>
+            <div>
+              nested 4 layers
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

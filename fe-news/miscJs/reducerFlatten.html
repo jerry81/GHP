@@ -1,0 +1,45 @@
+<html>
+  <body>
+    <div
+      style="height: 100%; background:black; color: greenyellow; width: 100%; overflow:auto;"
+    >
+      <a href="./index.html">back home</a>
+      flatten array with reducer
+      <pre>
+        <code>
+          const original = [['a','b'], ['c','d']]
+          function reducer(acc, cur) {
+            acc = [...acc, ...cur]
+            return acc
+          }
+          const reduced = original.reduce(reducer, [])
+          console.log('reduced', reduced)
+        </code>
+      </pre>
+      <hr />
+      Exercise: count every letter and number using reduce
+      <pre>
+        <code>
+          const str = 'we want to make sure that whether the letter is uppercase or lowercase, we still only count it once. For example a and A would could as two "a"s, not one uppercase A and one lowercase a.'
+          asList = str.split('')
+          function countCharCount(acc, cur) {
+            if (!acc[cur]) {
+              acc[cur] = 1
+            } else {
+              acc[cur]++
+            }
+            return acc
+          }
+          const countMap = str.reduce(countCharCount, {})
+          console.log('countMap is ', countMap)
+        </code>
+      </pre>
+      <div>Count Map output:</div>
+      <div
+        style="width: 500px; word-wrap: break-word;"
+        id="countMapOutput"
+      ></div>
+    </div>
+  </body>
+  <script src="./reducerFlatten.js"></script>
+</html>

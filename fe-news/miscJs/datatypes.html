@@ -1,0 +1,54 @@
+<html>
+  <body>
+    <div style="height: 5000px; background:black; color: greenyellow">
+      <a href="./index.html">back home</a>
+      <article id="work">work area</article>
+      <button onclick="add()">
+        mod obj
+      </button>
+      <button onclick="freeze()">
+        freeze obj
+      </button>
+      <section id="workarea2">
+        <pre>
+          <code>
+            let a = {}
+            let b = {} 
+            a == b
+            <span id="double"></span>
+            a === b
+            <span id="triple"></span>
+            after a = b, 
+            a == b
+            <span id="doublea"></span>
+            a === b
+            <span id="triplea"></span>
+          </code>
+        </pre>
+      </section>
+      <section id="w3">
+        Copy by reference examples
+        <br />
+        <pre>
+          <code>
+            const o1 = { a: 'a1' } 
+            const o2 = o1 
+            o2.a = 'a2'
+            <span id="cbrR"></span>
+
+            const a1 = [1]
+            const a2 = a1
+            a2.push(2)
+            <span id="cbrR2"></span>
+
+            let n1 = 1
+            let n2 = n1
+            ++n2
+            <span id="cbvR"></span>
+          </code>
+        </pre>
+      </section>
+    </div>
+  </body>
+  <script src="./datatypes.js"></script>
+</html>
