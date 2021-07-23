@@ -24,6 +24,8 @@
   
   [Frontend Mentor](/fe-mentor/index.html)
 
+  [Frontend News](/fe-news/index.html)
+
 ### Other
   
   [TED Talks](/TED/index.md)
