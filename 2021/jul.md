@@ -10,14 +10,30 @@ cia director determined to solve [Havana Syndrome](https://en.wikipedia.org/wiki
 Mike Lynch Founder of UK software firm Autonomy - extradited to USA, fraud charges
 sold to HP for 11B
 overvaluation before sale 
-![Mike Lynch](./images/_110780472_hi058984636.jpeg)
+![Mike Lynch](/images/_110780472_hi058984636.jpeg)
 
+new intel i9-12900k flagship processor much faster than ryzen 5950x
 
+cali sues activision blizzard for sexual harrassment and sexist pay
+
+india central bank digital currency
+
+chrome os bug rolls out to production bricking devices
+goog also showing reasons it found search results
+
+weaponization of app data is here
+outing gays without consent 
+extortion
 
 widespread internet outage - DNS failure
 911 outages on east coast
 
 israel tests oral vax
+
+huge penalty for Didi coming 2.8B fine
+for usa ipo 
+
+clubhouse exits beta and now open to everyone
 
 jobless claims rose
 as employers more desperate to fill jobs (paradox)
@@ -28,7 +44,7 @@ book: Mark Levin "American Marxism"
 
 China opposes studying wuhan lab leak in search for origin
 
-AI human protein database boon for research [Full article](https://www.france24.com/en/live-news/20210722-ai-s-human-protein-database-a-great-leap-for-research)
+Deepmind AI human protein database boon for research [Full article](https://www.france24.com/en/live-news/20210722-ai-s-human-protein-database-a-great-leap-for-research)
 
 mercedes to go all-electric by 2030
 
