@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | 3-column preview card component</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      /* fonts */
+      @font-face {
+        font-family: "BSDBold";
+        src: url("./fonts/Big_Shoulders_Display/BigShouldersDisplay-Regular.ttf");
+      }
+      @font-face {
+        font-family: "Lexend_Deca";
+        src: url("./fonts/Lexend_Deca/LexendDeca-Regular.ttf");
+      }
+      /* mobile */
+      html {
+        height: 100%;
+        width: 100%;
+        font-size: 15px;
+        font-family: "Lexend_Deca";
+        font-weight: 400;
+        color: hsl(0, 0%, 95%);
+        background: hsl(0, 0%, 95%);
+      }
+      body {
+        width: 100%;
+        overflow-y: scroll;
+        padding-bottom: 40px;
+      }
+      main {
+        width: 375px;
+        margin: 40px auto;
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+      }
+      main div {
+        width: calc(375px - 140px);
+        padding: 70px;
+        display: flex;
+        flex-direction: column;
+      }
+
+      main div:first-child {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+      }
+      main div:last-child {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+      main div img {
+        width: 70px;
+        margin-bottom: 50px;
+      }
+      .attribution {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        font-size: 11px;
+        text-align: center;
+        padding-bottom: 10px;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+      .title {
+        margin-bottom: 40px;
+        font-family: "BSDBold";
+        font-weight: 700;
+        font-size: 45px;
+        transform: scale(1.4, 1) translateX(30px);
+      }
+      .desc {
+        color: hsla(0, 0%, 100%, 0.75);
+        line-height: 30px;
+        margin-bottom: 30px;
+      }
+      button {
+        background: hsl(0, 0%, 95%);
+        border: none;
+        padding: 20px 15px;
+        width: 150px;
+        border-radius: 50px;
+        font-family: "Lexend_Deca";
+        font-size: 15px;
+      }
+      button:active {
+        background: transparent;
+        color: hsl(0, 0%, 95%) !important;
+        border: 2px solid hsl(0, 0%, 95%);
+      }
+
+      /* desktop */
+      @media only screen and (min-width: 800px) {
+        body {
+          height: 100%;
+          width: 100%;
+          margin: 0;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        main {
+          width: 1180px;
+          margin: auto;
+          display: flex;
+          flex-direction: row;
+          border-radius: 10px;
+          height: 680px;
+          position: relative;
+        }
+
+        main div {
+          width: calc(1180px / 3 - 140px);
+          padding: 70px;
+          display: flex;
+          flex-direction: column;
+          height: calc(100% - 140px);
+        }
+
+        .title {
+          color: hsl(0, 0%, 95%);
+          margin-bottom: 40px;
+          font-family: "BSDBold";
+          font-weight: 700;
+          font-size: 45px;
+          transform: scale(1.4, 1) translateX(30px);
+        }
+
+        button {
+          background: hsl(0, 0%, 95%);
+          border: none;
+          padding: 20px 15px;
+          width: 150px;
+          border-radius: 50px;
+          font-family: "Lexend_Deca";
+          font-size: 15px;
+          position: absolute;
+          bottom: 60px;
+        }
+        button:active {
+          background: transparent;
+          color: hsl(0, 0%, 95%) !important;
+          border: 2px solid hsl(0, 0%, 95%);
+        }
+
+        main div:first-child {
+          border-top-left-radius: 10px;
+          border-bottom-left-radius: 10px;
+          border-top-right-radius: 0;
+        }
+        main div:last-child {
+          border-top-right-radius: 10px;
+          border-bottom-right-radius: 10px;
+          border-bottom-left-radius: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1></h1>
+    </header>
+    <main>
+      <div style="background-color: hsl(31, 77%, 52%)">
+        <img alt="sedans" loading="lazy" src="images/icon-sedans.svg" />
+        <span class="title">SEDANS</span>
+        <span class="desc"
+          >Choose a sedan for its affordability and excellent fuel economy.
+          Ideal for cruising in the city or on your next road trip.</span
+        >
+        <button style="color: hsl(31, 77%, 52%)">Learn More</button>
+      </div>
+      <div style="background-color:hsl(184, 100%, 22%)">
+        <img alt="suvs" loading="lazy" src="images/icon-suvs.svg" />
+        <span class="title">SUVS</span>
+        <span class="desc">
+          Take an SUV for its spacious interior, power, and versatility. Perfect
+          for your next family vacation and off-road adventures.
+        </span>
+        <button style="color: hsl(184, 100%, 22%)">Learn More</button>
+      </div>
+      <div style="background-color: hsl(179, 100%, 13%)">
+        <img alt="luxury" loading="lazy" src="images/icon-luxury.svg" />
+        <span class="title">LUXURY</span>
+        <span class="desc">
+          Cruise in the best car brands without the bloated prices. Enjoy the
+          enhanced comfort of a luxury rental and arrive in style.
+        </span>
+        <button style="color: hsl(179, 100%, 13%)">Learn More</button>
+      </div>
+    </main>
+    <footer>
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="https://github.com/jerry81">Jerry</a>.
+      </div>
+    </footer>
+  </body>
+</html>
