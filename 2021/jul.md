@@ -10,7 +10,7 @@ cia director determined to solve [Havana Syndrome](https://en.wikipedia.org/wiki
 Mike Lynch Founder of UK software firm Autonomy - extradited to USA, fraud charges
 sold to HP for 11B
 overvaluation before sale 
-<img src="../images/_110780472_hi058984636.jpeg" alt="Mike Lynch" style="height: 100px; width:auto;"/>
+![Mike Lynch](/assets/_110780472_hi058984636.jpeg)
 
 new intel i9-12900k flagship processor much faster than ryzen 5950x
 
