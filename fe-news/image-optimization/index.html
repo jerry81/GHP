@@ -1,0 +1,102 @@
+<html>
+  <style>
+    body {
+      height: 5000px;
+      background: black;
+      color: greenyellow;
+    }
+    a {
+      margin: 15px;
+      display: block;
+      color: lightblue;
+    }
+    a:visited {
+      margin: 15px;
+      display: block;
+      color: lightpink;
+    }
+    svg#Layer_1 {
+      stroke: lightyellow;
+    }
+  </style>
+  <body>
+    <header>
+      <h1>Image Optimization</h1>
+      <nav>
+        <a href="https://css-tricks.com/images-are-hard/"
+          >Link to original article</a
+        >
+      </nav>
+    </header>
+    <main>
+      <h2>Figure and figcaption</h2>
+      <pre>
+        <code>
+          Code snippet
+          <xmp>
+          <figure>
+            <img loading="lazy" alt="always include alt tag" src="./images/test.png"/>
+            <figcaption>Title of image</figcaption> <!-- use css to, for example, make the caption appear on top of the image -->
+          </figure>
+        </xmp>
+        </code>
+      </pre>
+      Result:
+      <figure>
+        <img
+          loading="lazy"
+          alt="always include alt tag"
+          src="./images/test.png"
+        />
+        <figcaption>
+          Title of image
+        </figcaption>
+      </figure>
+      <hr />
+      <h2>Picture and source</h2>
+      <pre>
+          <code>
+            Code snippet 
+            <xmp>
+                <picture>
+                    <source srcset="./images/test.png"
+                            media="(min-width: 800px)"> <!-- like an inline media query -->
+                    <img loading="lazy" src="./images/Walking-your-dog-aggressive-Chihuahua-1.jpeg" alt="chi" />
+                </picture>
+          </xmp>
+          </code>
+        </pre>
+      Result (resize parent window to be &lt; or &gt; 1000px to see effect):
+      <picture>
+        <source srcset="./images/test.png" media="(max-width: 1000px)" />
+        <img
+          loading="lazy"
+          src="./images/Walking-your-dog-aggressive-Chihuahua-1.jpeg"
+          alt=""
+        />
+      </picture>
+      <hr />
+      <h2>SVG</h2>
+      <a
+        href="https://www.creativebloq.com/news/6-reasons-why-you-should-be-using-svg"
+        >When to use SVG</a
+      >
+      <pre>
+          <code>
+            SVG control style - Code snippet 
+            <xmp>
+              <img loading="lazy" src="./images/Flake-06.svg" alt="svg image" />
+              <img loading="lazy" src="./images/Flake-06pink.svg" alt="svg image" />
+            </xmp>
+          </code>
+      </pre>
+      Result: - note color changed by editing svg file directly
+      <img src="./images/Flake-06.svg" loading="lazy" alt="svg image" />
+      <img src="./images/Flake-06pink.svg" loading="lazy" alt="svg image" />
+      <hr />
+      <h2>The most modern image format</h2>
+      <a href="https://developers.google.com/speed/webp">details on webp</a>
+    </main>
+  </body>
+  <script></script>
+</html>
