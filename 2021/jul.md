@@ -1,5 +1,27 @@
 [Back to 2021](index.md)
 
+7/23
+
+widespread internet outage - DNS failure
+911 outages on east coast
+
+israel tests oral vax
+
+jobless claims rose
+as employers more desperate to fill jobs (paradox)
+
+"taking a knee against racism" a thing at olympics
+
+book: Mark Levin "American Marxism"
+
+China opposes studying wuhan lab leak in search for origin
+
+AI human protein database boon for research [Full article](https://www.france24.com/en/live-news/20210722-ai-s-human-protein-database-a-great-leap-for-research)
+
+mercedes to go all-electric 
+
+the darkside of EV on environment - lithium mining [Full article](https://news.yahoo.com/californias-electric-car-revolution-designed-100041571.html)
+
 7/22
 
 steve jobs 1973 job application up for auction
