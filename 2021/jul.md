@@ -1,5 +1,56 @@
 [Back to 2021](index.md)
 
+7/24
+
+Guntrader UK based gun retailer CRM breached 111K records leaked
+[Guntrader official](https://www.guntrader.uk/)
+
+bezos and branson not recognized as official astronauts
+
+[Spothero](https://spothero.com/) app: find and reserve parking space
+
+spacex starlink faces opposition from [viasat](https://www.viasat.com/)
+
+[PlasticARM](https://www.newscientist.com/article/2284533-flexible-computer-processor-is-the-most-powerful-plastic-chip-yet/) most powerful plastic chip 
+
+Startup [Form Energy](https://www.wsj.com/articles/startup-claims-breakthrough-in-long-duration-batteries-11626946330) iron batteries 
+
+Clubhouse 1 year old, valued at 4B
+
+"bugs in production 100x more expensive to fix vs in requirements" - no citations
+
+china could impose sweeping regulations on tutoring/100B edTech industry
+turn industry into non-profit
+prevent raising capital
+prevent going public
+school curiculum not public
+
+Artificial heart "Aeson" implanted
+made partly with bovine tissue 
+powered with external device
+battery powered
+
+snapchat doing well again, huge turnaround
+due to pandemic?
+
+malware infects neural net "neurons"
+
+deepmind protein db named AlphaFold
+
+nfl coach fired for refusing vax
+
+olympic opening ceremony dull
+
+Larry Page living off grid in Fiji
+
+amsterdam oldest sex workers serviced 335K men...
+
+cape cod shark capital of world
+
+lebron makes 1B
+
+woodstock 99 documentary
+
 7/23
 
 China to build first waterless nuke reactor - designed for desert
