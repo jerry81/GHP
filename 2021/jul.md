@@ -9,6 +9,14 @@ FL, misourri, texas - covid hubs
 
 venezuela still a mess, takes days to fill gasoline
 
+fake win11 installers adtually malware
+
+chinese hackers compromised usa pipelines'
+
+opening ceremony used classic japanese video game music
+
+amazon mmo "new world" bricking some nvidia cards
+
 7/24
 
 Guntrader UK based gun retailer CRM breached 111K records leaked
