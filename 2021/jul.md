@@ -1,5 +1,14 @@
 [Back to 2021](index.md)
 
+7/25
+
+olympics ratimgs 33 year low
+usa no medals to open first time in decades
+
+FL, misourri, texas - covid hubs
+
+venezuela still a mess, takes days to fill gasoline
+
 7/24
 
 Guntrader UK based gun retailer CRM breached 111K records leaked
