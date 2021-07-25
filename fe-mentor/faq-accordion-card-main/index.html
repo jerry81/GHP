@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | FAQ Accordion Card</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      @font-face {
+        font-family: "Kumbh Sans"; /*a name to be used later*/
+        src: url("../sharedfonts/Kumbh_Sans/KumbhSans-Regular.ttf");
+      }
+
+      @font-face {
+        font-family: "Kumbh Sans Bold"; /*a name to be used later*/
+        src: url("../sharedfonts/Kumbh_Sans/KumbhSans-Bold.ttf");
+      }
+
+      /* mobile */
+
+      html {
+        height: 100%;
+        width: 100%;
+        font-family: "Kumbh Sans";
+        font-size: 12px;
+        color: hsl(237, 12%, 33%);
+      }
+
+      h1 {
+        font-family: "Kumbh Sans Bold";
+        font-size: 30px;
+      }
+
+      body {
+        height: 100%;
+        width: 100%;
+        background: #333;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .woman-mob {
+        display: block;
+      }
+
+      .pattern-mob {
+        display: block;
+      }
+
+      /* 
+        Soft violet: hsl(273, 75%, 66%)
+        Soft blue: hsl(240, 73%, 65%)
+      */
+
+      main {
+        width: 375px;
+        height: 100%;
+        background-image: linear-gradient(
+          to bottom,
+          hsl(273, 75%, 66%),
+          hsl(240, 73%, 65%)
+        );
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        position: relative;
+        overflow-y: scroll;
+      }
+
+      main img {
+        position: absolute;
+        top: 30px;
+        z-index: 2;
+        margin-left: -30px;
+      }
+
+      main section {
+        z-index: 1;
+        position: absolute;
+        top: 138px;
+        width: calc(90% - 60px);
+        background: white;
+        border-radius: 15px;
+        padding: 120px 15px 40px 15px;
+        height: auto;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .accordion {
+        width: 100%;
+        padding: 15px 0;
+        border-bottom: 1px solid hsl(240, 5%, 91%);
+      }
+
+      .acc-t {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .acc-t img {
+        position: relative;
+        margin-left: 0;
+        top: 0;
+        margin-right: 5px;
+        height: 8px;
+        width: 12px;
+      }
+
+      .accordion:active,
+      .accordion:hover {
+        color: hsl(31, 77%, 52%);
+        cursor: pointer;
+      }
+
+      .accordion:active {
+        transform: scale(1.05);
+      }
+
+      .accordion[data-expanded="true"] .acc-t img {
+        transform: rotate(180deg);
+      }
+
+      .acc-t span {
+        margin-left: 5px;
+      }
+
+      .accordion[data-expanded="true"] .acc-t span {
+        font-weight: 700;
+        font-family: "Kumbh Sans Bold";
+      }
+
+      .acc-b {
+        display: none;
+      }
+
+      .accordion[data-expanded="true"] .acc-b {
+        display: block;
+        text-align: left;
+        margin: 15px 35px 0 5px;
+        color: hsl(240, 6%, 50%);
+      }
+
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+        position: fixed;
+        bottom: 15px;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+
+      .woman-desk {
+        display: none;
+      }
+
+      .pattern-desk {
+        display: none;
+      }
+
+      .box-desk {
+        display: none;
+      }
+
+      /* desktop */
+      @media only screen and (min-width: 800px) {
+        .woman-desk {
+          display: block;
+          position: absolute;
+          left: 0;
+          top: 50px;
+          margin-left: -85px;
+          width: 452px;
+        }
+
+        .pattern-desk {
+          display: block;
+          position: absolute;
+          left: 0;
+          margin-left: -600px;
+          top: 0;
+          margin-top: -310px;
+        }
+
+        .box-desk {
+          display: block;
+          margin-left: -1090px;
+          margin-bottom: -35px;
+          position: relative;
+        }
+        .woman-mob {
+          display: none;
+        }
+
+        .pattern-mob {
+          display: none;
+        }
+
+        body {
+          height: 100%;
+          width: 100%;
+          background: white;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin: 0;
+        }
+
+        main {
+          width: 1440px;
+          height: 720px;
+          background-image: linear-gradient(
+            to bottom,
+            hsl(273, 75%, 66%),
+            hsl(240, 73%, 65%)
+          );
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: row;
+          position: relative;
+          overflow-y: scroll;
+        }
+
+        main section {
+          z-index: 1;
+          width: 900px;
+          background: white;
+          border-radius: 15px;
+          height: 450px;
+          text-align: center;
+          display: flex;
+          flex-direction: column;
+          align-items: flex-end;
+          padding: 40px 60px 0 60px;
+          overflow-x: hidden;
+          overflow-y: scroll;
+        }
+        .accordion {
+          width: 45%;
+          padding: 15px 0;
+          border-bottom: 1px solid hsl(240, 5%, 91%);
+          margin-right: 60px;
+        }
+
+        h1 {
+          align-self: center;
+          margin-left: 40px;
+        }
+
+        .acc-t {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .acc-t img {
+          position: relative;
+          margin-left: 0;
+          top: 0;
+          margin-right: 5px;
+          height: 8px;
+          width: 12px;
+        }
+
+        .acc-t img {
+          position: relative;
+          margin-left: 0;
+          top: 0;
+          margin-right: 5px;
+          height: 8px;
+          width: 12px;
+        }
+        .accordion:active,
+        .accordion:hover {
+          color: hsl(31, 77%, 52%);
+          cursor: pointer;
+        }
+
+        .accordion:active {
+          transform: scale(1.05);
+        }
+
+        .accordion[data-expanded="true"] .acc-t img {
+          transform: rotate(180deg);
+        }
+        .accordion[data-expanded="true"] .acc-t span {
+          font-weight: 700;
+          font-family: "Kumbh Sans Bold";
+        }
+        .accordion[data-expanded="true"] .acc-b {
+          display: block;
+          text-align: left;
+          margin: 15px 35px 0 5px;
+          color: hsl(240, 6%, 50%);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <img
+        class="woman-mob"
+        src="./images/illustration-woman-online-mobile.svg"
+        alt="woman"
+      />
+      <img
+        style="top: 140px; margin-left: 0"
+        class="pattern-mob"
+        src="./images/bg-pattern-mobile.svg"
+        alt="pattern"
+      />
+      <img
+        class="box-desk"
+        src="./images/illustration-box-desktop.svg"
+        alt="box-desktop"
+      />
+      <section>
+        <img
+          class="woman-desk"
+          src="./images/illustration-woman-online-desktop.svg"
+          alt="woman-desktop"
+        />
+        <img
+          class="pattern-desk"
+          src="./images/bg-pattern-desktop.svg"
+          alt="pattern-desktop"
+        />
+        <h1>FAQ</h1>
+        <div class="accordion" onclick="handleAccordionClick(event)">
+          <div class="acc-t">
+            <span>How many team members can I invite?</span>
+            <img src="./images/icon-arrow-down.svg" alt="down" />
+          </div>
+          <div class="acc-b">
+            You can invite up to 2 additional users on the Free plan. There is
+            no limit on team members for the Premium plan.
+          </div>
+        </div>
+        <div class="accordion" onclick="handleAccordionClick(event)">
+          <div class="acc-t">
+            <span>What is the maximum file upload size?</span>
+            <img src="./images/icon-arrow-down.svg" alt="down" />
+          </div>
+          <div class="acc-b">
+            No more than 2GB. All files in your account must fit your allotted
+            storage space.
+          </div>
+        </div>
+        <div class="accordion" onclick="handleAccordionClick(event)">
+          <div class="acc-t">
+            <span>How do I reset my password?</span>
+            <img src="./images/icon-arrow-down.svg" alt="down" />
+          </div>
+          <div class="acc-b">
+            Click “Forgot password” from the login page or “Change password”
+            from your profile page. A reset link will be emailed to you.
+          </div>
+        </div>
+        <div class="accordion" onclick="handleAccordionClick(event)">
+          <div class="acc-t">
+            <span>Can I cancel my subscription?</span>
+            <img src="./images/icon-arrow-down.svg" alt="down" />
+          </div>
+          <div class="acc-b">
+            Yes! Send us a message and we’ll process your request no questions
+            asked.
+          </div>
+        </div>
+        <div class="accordion" onclick="handleAccordionClick(event)">
+          <div class="acc-t">
+            <span>Do you provide additional support? </span>
+            <img src="./images/icon-arrow-down.svg" alt="down" />
+          </div>
+          <div class="acc-b">
+            Chat and email support is available 24/7. Phone lines are open
+            during normal business hours.
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="https://github.com/jerry81">Jerry</a>.
+    </footer>
+  </body>
+  <script>
+    function handleAccordionClick(ev) {
+      const accord = ev.currentTarget;
+      if (accord.dataset.expanded) {
+        delete accord.dataset.expanded;
+      } else {
+        accord.dataset.expanded = true;
+      }
+    }
+  </script>
+</html>
