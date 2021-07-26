@@ -1,5 +1,31 @@
 [Back to 2021](index.md)
 
+7/26
+
+teen loneliness increases worldwide
+reason may be smartphones
+
+AMZN hires digital currency and blockchain product lead
+
+usa 2050 goal of 0 net carbon emissions - 
+carbon capture pipelines proposed 
+
+[facial recognition required to claim unemployment benefits in Usa](https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html)
+
+[RNA manipulation for drought resistant rice and potatoes](https://science.slashdot.org/story/21/07/24/1957248/rna-breakthrough-creates-high-yield-drought-tolerant-rice-potatoes)
+
+[olympics showcases basketball robot](https://nypost.com/2021/07/25/scary-looking-robot-steals-the-show-at-olympics)
+
+USA worst olympic start turns arounds as they win 6 medals
+swimming team doing fine without phelps
+
+gymnasts sick of sexualization, switches uniforms
+
+[DeFi - Decentralized finance dangerous and unregulated as finance](https://www.politico.com/news/2021/07/24/shadow-financial-market-spooks-regulators-500696)
+jack dorsey also ceo of Square 
+
+mushrooms making grounds on therapy 
+
 7/25
 
 olympics ratimgs 33 year low
