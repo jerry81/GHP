@@ -2,7 +2,21 @@
 
 7/27
 
+gov requires vax for workers
 
+sinovac effects fade after 6 months?
+
+beijing: western media intentionally making olympians ugly?
+
+whites lowest life expectancy in england
+
+record setting heat will become the norm in the future
+
+amzn denies report that it will accept bitcoin
+
+covid related fraud caused 500M in losses
+
+Citizen paying citizens to [livestream crimes](https://www.inputmag.com/culture/citizen-is-now-paying-new-yorkers-to-livestream-crimes)
 
 7/26
 
