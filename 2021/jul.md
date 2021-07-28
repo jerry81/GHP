@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+7/29
+
+netflix, goog, fb to require jab
+
+israel approve 3rd shot
+
+adele plans comeback in vegas
+
+trailer park for swingers in lousiana
+
+floyd weather targeted in drive-by, bodyguard wounded
+
+10M ps5 consoles sold so far
+
+fast internet everywhere could add 160B to economy
+
+thousands of scientists call for immediate action on climate crisis
+
+prions, infections misfolding proteins causing fatal brain disease 
+research in france halted after 2 workers who handled them die of fatal brain disease
+
+china orders tech firms to clean up mobile popups
+
+
+
 7/28
 
 despite higher vax rates, higher virus rates found
