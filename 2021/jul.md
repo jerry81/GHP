@@ -1,5 +1,11 @@
 [Back to 2021](index.md)
 
+7/28
+
+despite higher vax rates, higher virus rates found
+
+
+
 7/27
 
 gov requires vax for workers
@@ -17,6 +23,9 @@ amzn denies report that it will accept bitcoin
 covid related fraud caused 500M in losses
 
 Citizen paying citizens to [livestream crimes](https://www.inputmag.com/culture/citizen-is-now-paying-new-yorkers-to-livestream-crimes)
+
+toyota used to lead clean cars with prius
+now fighting to delay them
 
 7/26
 
