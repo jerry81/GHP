@@ -21,6 +21,10 @@
   [Wechat miniprograms](/tech/miniPrograms.md)
   
   [Mac/Linux](/tech/macAndLinux.md)
+
+  [Java Tutorial](/tech/java.md)
+
+### demos
   
   [Frontend Mentor](/fe-mentor/index.html)
 
