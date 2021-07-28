@@ -4,7 +4,27 @@
 
 despite higher vax rates, higher virus rates found
 
+unemployed file lawsuits against states ending stay at home benefits
 
+US men's basketball blames coach
+
+pot chemical delta 8 [promising in anti nausea](https://apnews.com/article/lifestyle-business-health-bdef53f20c34fe3adfd17a7808d5b4e6)
+
+[Synchron](https://www.bloombergquint.com/markets/elon-musk-neuralink-competitor-announces-fda-trial-for-brain-device) neuralink competitor beats musk to fda trials
+
+walmart cover 100% college tuition of workers
+
+bob odenkirk collapses on set 
+
+UK city tries cables to power electric lorries
+
+AWS 32% market share, Azure 19, Goog 7
+
+Elon makes cracks at aapl, who has been stealing tesla workers to work on titan, self driving ev project
+
+wechat investigated for security compliance, new accounts temporarily suspended
+
+one-atom thick magnet may have applications in computing and electronics
 
 7/27
 
