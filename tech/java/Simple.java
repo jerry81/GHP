@@ -33,6 +33,11 @@ class Simple {
             System.out.println(mp.fib(fibx));
             ++fibx;
         }
+        System.out.println("prime test 3, 4, 7, 12");
+        System.out.println(mp.isPrime(3));
+        System.out.println(mp.isPrime(4));
+        System.out.println(mp.isPrime(7));
+        System.out.println(mp.isPrime(12));
     }
 }
 
@@ -97,16 +102,26 @@ class Utils {
 
 class MathProblems {
     Hashtable<Integer, BigInteger> fibMemo = new Hashtable<Integer, BigInteger>();
+
     BigInteger fib(int n) {
-      if (n == 0 || n == 1) {
-          BigInteger one = new BigInteger("1");
-          fibMemo.put(0, one);
-          fibMemo.put(1, one);
-          return one;
-      } else {
-          BigInteger val = fibMemo.get(n-1).add(fibMemo.get(n-2));
-          fibMemo.put(n, val);
-          return val;
-      }
+        if (n == 0 || n == 1) {
+            BigInteger one = new BigInteger("1");
+            fibMemo.put(0, one);
+            fibMemo.put(1, one);
+            return one;
+        } else {
+            BigInteger val = fibMemo.get(n - 1).add(fibMemo.get(n - 2));
+            fibMemo.put(n, val);
+            return val;
+        }
+    }
+
+    boolean isPrime(int n) {
+        for (int i = 2; i <= Math.ceil(Math.sqrt(n)); i++) {
+            if (n % i == 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
