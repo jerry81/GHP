@@ -41,6 +41,10 @@ class Simple {
 
         System.out.println("is Palindrome 14341" + MathProblems.isPalindrome(14341));
         System.out.println("is Palindrome 12233" + MathProblems.isPalindrome(12233));
+
+        System.out.println("factorial 3 is " + MathProblems.factoral(3).toString());
+        System.out.println("factorial 4 is " + MathProblems.factoral(4));
+        System.out.println("factorial 5 is " + MathProblems.factoral(5));
     }
 }
 
@@ -105,6 +109,7 @@ class Utils {
 
 class MathProblems {
     Hashtable<Integer, BigInteger> fibMemo = new Hashtable<Integer, BigInteger>();
+    static Hashtable<Integer, BigInteger> factoralMemo = new Hashtable<Integer, BigInteger>();
 
     BigInteger fib(int n) {
         if (n == 0 || n == 1) {
@@ -119,6 +124,19 @@ class MathProblems {
         }
     }
 
+    static BigInteger factoral(int n) {
+        BigInteger one = new BigInteger("1");
+        if (n == 1) {
+            return one;
+        }
+        BigInteger total = one;
+        for (int i = 2; i <= n; ++i) {
+            total = total.multiply(new BigInteger("" + i));
+        }
+
+        return total;
+    }
+
     boolean isPrime(int n) {
         for (int i = 2; i <= Math.ceil(Math.sqrt(n)); i++) {
             if (n % i == 0) {
@@ -128,7 +146,7 @@ class MathProblems {
         return true;
     }
 
-   static boolean isPalindrome(int input) {
+    static boolean isPalindrome(int input) {
         String asString = "" + input;
         String reversed = Utils.reverse(asString);
         System.out.println("values are " + asString + ", " + reversed);
