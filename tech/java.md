@@ -67,3 +67,4 @@ java functions all virtual by default (except static)
 
 c++ multiple inheritance (one class many parents) supported
 java no multiple inheritance 
+
