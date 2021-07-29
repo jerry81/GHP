@@ -50,3 +50,20 @@ Run in JVM sandbox
 2.  garbage collection
 3.  exeption handling
 
+### performance
+
+slower than C/C++ because bytecode still needing to be interpreted by JVM
+
+### c++ vs java
+
+c++ can be both by call by ref and call by value
+java call by value only - don't expect objects sent in method to be changed
+
+c++ no native threads
+java native threads
+
+c++ virutal keyword makes function overrideable
+java functions all virtual by default (except static)
+
+c++ multiple inheritance (one class many parents) supported
+java no multiple inheritance 
