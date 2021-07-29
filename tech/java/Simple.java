@@ -1,3 +1,6 @@
+import java.math.BigInteger;
+import java.util.Hashtable;
+
 class Simple {
     public static void main(String args[]) {
         System.out.println("Hello Java");
@@ -23,6 +26,13 @@ class Simple {
         u.printAll(inputArr);
         System.out.println("demonstrating loop labels... [1,2,3,55]");
         u.labledAndBreakEx(inputArr);
+        System.out.println("fib seq");
+        int fibx = 0;
+        MathProblems mp = new MathProblems();
+        while (fibx < 100) {
+            System.out.println(mp.fib(fibx));
+            ++fibx;
+        }
     }
 }
 
@@ -82,5 +92,21 @@ class Utils {
                 System.out.println(j);
             }
         }
+    }
+}
+
+class MathProblems {
+    Hashtable<Integer, BigInteger> fibMemo = new Hashtable<Integer, BigInteger>();
+    BigInteger fib(int n) {
+      if (n == 0 || n == 1) {
+          BigInteger one = new BigInteger("1");
+          fibMemo.put(0, one);
+          fibMemo.put(1, one);
+          return one;
+      } else {
+          BigInteger val = fibMemo.get(n-1).add(fibMemo.get(n-2));
+          fibMemo.put(n, val);
+          return val;
+      }
     }
 }
