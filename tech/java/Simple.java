@@ -19,8 +19,10 @@ class Simple {
         System.out.println("reverse on 'abcd'");
         System.out.println(u.reverse("abcd"));
         System.out.println("demonstrating foreach... print all items in [1,2,3,55]");
-        String[] inputArr = {"1","2","3","55"}; // java array declaration
+        String[] inputArr = { "1", "2", "3", "55" }; // java array declaration
         u.printAll(inputArr);
+        System.out.println("demonstrating loop labels... [1,2,3,55]");
+        u.labledAndBreakEx(inputArr);
     }
 }
 
@@ -31,13 +33,15 @@ class AddTest {
 }
 
 class InstanceTest {
-  int instanceInt = 0;
-  void addOne() {
-      ++instanceInt;
-  }
-  int get() {
-      return instanceInt;
-  }
+    int instanceInt = 0;
+
+    void addOne() {
+        ++instanceInt;
+    }
+
+    int get() {
+        return instanceInt;
+    }
 }
 
 class CondTest {
@@ -50,14 +54,30 @@ class Utils {
     String reverse(String input) {
         String reversed = "";
         for (int i = 0; i < input.length(); ++i) {
-          int j = input.length() - 1;
-          reversed += input.charAt(j-i);
+            int j = input.length() - 1;
+            reversed += input.charAt(j - i);
         }
         return reversed;
     }
+
     void printAll(String[] input) {
-        for (String s:input) {
+        for (String s : input) {
             System.out.println(s);
+        }
+    }
+
+    void labledAndBreakEx(String[] input) {
+        loop1: for (String i : input) {
+            System.out.println(i);
+            loop2: for (String j : input) {
+                if (j == "1") {
+                    continue loop2;
+                }
+                if (i == "3") {
+                    break loop1;
+                }
+                System.out.println(j);
+            }
         }
     }
 }
