@@ -38,3 +38,15 @@ write once run anywhere
 compiler compiles source into bytecode
 bytecode can run on win/mac/linux
 
+### Security 
+
+Virus free software because:
+No c-style pointer
+Run in JVM sandbox 
+
+### robust
+
+1.  memory management
+2.  garbage collection
+3.  exeption handling
+
