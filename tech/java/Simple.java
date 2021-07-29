@@ -76,6 +76,9 @@ class Utils {
                 if (i == "3") {
                     break loop1;
                 }
+                if (j == "55") {
+                    break loop2;
+                }
                 System.out.println(j);
             }
         }
