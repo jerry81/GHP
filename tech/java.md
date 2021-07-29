@@ -22,3 +22,19 @@ latest version 16 SE 3/2021
 
 March and september releases
 
+Designed as successor to C++
+
+## Features
+
+### abstraction
+
+abstract class vs interface - interface no impl details
+abstract class may implement one or more methods but also include methods without implementation
+
+### WORA
+
+write once run anywhere
+
+compiler compiles source into bytecode
+bytecode can run on win/mac/linux
+
