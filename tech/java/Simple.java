@@ -20,7 +20,7 @@ class Simple {
         }
         Utils u = new Utils();
         System.out.println("reverse on 'abcd'");
-        System.out.println(u.reverse("abcd"));
+        System.out.println(Utils.reverse("abcd"));
         System.out.println("demonstrating foreach... print all items in [1,2,3,55]");
         String[] inputArr = { "1", "2", "3", "55" }; // java array declaration
         u.printAll(inputArr);
@@ -38,6 +38,9 @@ class Simple {
         System.out.println(mp.isPrime(4));
         System.out.println(mp.isPrime(7));
         System.out.println(mp.isPrime(12));
+
+        System.out.println("is Palindrome 14341" + MathProblems.isPalindrome(14341));
+        System.out.println("is Palindrome 12233" + MathProblems.isPalindrome(12233));
     }
 }
 
@@ -66,7 +69,7 @@ class CondTest {
 }
 
 class Utils {
-    String reverse(String input) {
+    static String reverse(String input) {
         String reversed = "";
         for (int i = 0; i < input.length(); ++i) {
             int j = input.length() - 1;
@@ -123,5 +126,12 @@ class MathProblems {
             }
         }
         return true;
+    }
+
+   static boolean isPalindrome(int input) {
+        String asString = "" + input;
+        String reversed = Utils.reverse(asString);
+        System.out.println("values are " + asString + ", " + reversed);
+        return asString.equals(reversed);
     }
 }
