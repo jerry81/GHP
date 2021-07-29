@@ -15,6 +15,9 @@ class Simple {
         } else {
             System.out.print("is even");
         }
+        Utils u = new Utils();
+        System.out.println("reverse on 'abcd'");
+        System.out.println(u.reverse("abcd"));
     }
 }
 
@@ -37,5 +40,16 @@ class InstanceTest {
 class CondTest {
     boolean isOdd(int i) {
         return i % 2 != 0;
+    }
+}
+
+class Utils {
+    String reverse(String input) {
+        String reversed = "";
+        for (int i = 0; i < input.length(); ++i) {
+          int j = input.length() - 1;
+          reversed += input.charAt(j-i);
+        }
+        return reversed;
     }
 }
