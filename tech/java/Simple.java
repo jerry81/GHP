@@ -18,6 +18,9 @@ class Simple {
         Utils u = new Utils();
         System.out.println("reverse on 'abcd'");
         System.out.println(u.reverse("abcd"));
+        System.out.println("demonstrating foreach... print all items in [1,2,3,55]");
+        String[] inputArr = {"1","2","3","55"}; // java array declaration
+        u.printAll(inputArr);
     }
 }
 
@@ -51,5 +54,10 @@ class Utils {
           reversed += input.charAt(j-i);
         }
         return reversed;
+    }
+    void printAll(String[] input) {
+        for (String s:input) {
+            System.out.println(s);
+        }
     }
 }
