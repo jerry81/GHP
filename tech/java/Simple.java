@@ -8,6 +8,13 @@ class Simple {
         InstanceTest it = new InstanceTest();
         it.addOne();
         System.out.println(it.get());
+        System.out.println("Is odd test 3");
+        CondTest ct = new CondTest();
+        if (ct.isOdd(3)) {
+            System.out.println("is odd");
+        } else {
+            System.out.print("is even");
+        }
     }
 }
 
@@ -25,4 +32,10 @@ class InstanceTest {
   int get() {
       return instanceInt;
   }
+}
+
+class CondTest {
+    boolean isOdd(int i) {
+        return i % 2 != 0;
+    }
 }
