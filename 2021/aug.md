@@ -45,3 +45,7 @@ scarjo sues disney over black widow release
 
 nikola founder (company) indicted 3 counts of fraud
 
+trans athlete will compete monday 
+
+st louis mayor black woman
+
