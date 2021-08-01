@@ -36,3 +36,12 @@ intel trying to catch up
 
 [tesla supplier debuts sodium-ion batteries](https://www.bloomberg.com/news/articles/2021-07-29/catl-debuts-sodium-ion-batteries-amid-raw-material-cost-spike)
 
+weightlifting may be removed from olympics
+
+tencent 170B wipeout
+july 23%
+
+scarjo sues disney over black widow release
+
+nikola founder (company) indicted 3 counts of fraud
+
