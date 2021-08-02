@@ -6,6 +6,26 @@ banned chinese facial recog used for us protesters
 
 zoom pays up 85M for datasharing lawsuit
 
+AI tools didn't really help with covid
+
+russian independent internet failure
+
+sky news australia banned from youtube for misinformation
+
+amzn employs over 1M people in usa, 1 in 169
+
+UK pharma firm price hiked 6000%, caught and fined 100M pounds
+
+hot job market for tech workers
+
+FL most cases in one day 
+
+pfizer and moderna raise prices in EU
+
+cn gold medals surpass usa 
+
+nyc gang shooting injures 10
+
 
 
 8/1
