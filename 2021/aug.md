@@ -1,5 +1,27 @@
 [Back to 2021](index.md)
 
+8/3
+
+peak covid in usa
+aus - soldiers and helicopters to enforce lockdown
+
+bill and melinda finalize divorce
+
+antisemitism not stopped by social media
+
+pornhub star: nandita dutta - arrested 
+woman who lured other women into making films with promise of career in bollywood
+
+reese witherspoon media biz sells for 900M
+
+welwitschia plant genetic code studied for its longevity
+
+[Google to abandon qualcomm and start building its own processors](https://www.cnbc.com/2021/08/02/pixel-6-will-have-processor-designed-by-google.html)
+
+ethereum price set to rise after upgrade limits supply
+
+square to buy Afterpay for 29B
+
 8/2
 
 banned chinese facial recog used for us protesters 
