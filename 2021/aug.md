@@ -1,5 +1,13 @@
 [Back to 2021](index.md)
 
+8/2
+
+banned chinese facial recog used for us protesters 
+
+zoom pays up 85M for datasharing lawsuit
+
+
+
 8/1
 
 robot dogs join hawaii police
