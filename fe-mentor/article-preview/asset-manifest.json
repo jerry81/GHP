@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ebe03008.chunk.css",
+    "main.js": "./static/js/main.8e36ecb3.chunk.js",
+    "main.js.map": "./static/js/main.8e36ecb3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.43d100f6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.43d100f6.js.map",
+    "static/js/2.58781a52.chunk.js": "./static/js/2.58781a52.chunk.js",
+    "static/js/2.58781a52.chunk.js.map": "./static/js/2.58781a52.chunk.js.map",
+    "static/js/3.ecff2273.chunk.js": "./static/js/3.ecff2273.chunk.js",
+    "static/js/3.ecff2273.chunk.js.map": "./static/js/3.ecff2273.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ebe03008.chunk.css.map": "./static/css/main.ebe03008.chunk.css.map",
+    "static/js/2.58781a52.chunk.js.LICENSE.txt": "./static/js/2.58781a52.chunk.js.LICENSE.txt",
+    "static/media/WorkArea.css": "./static/media/Manrope-Bold.d109d6f8.ttf",
+    "static/media/index.css": "./static/media/Manrope-VariableFont_wght.fca742de.ttf",
+    "static/media/drawers.631135b0.jpg": "./static/media/drawers.631135b0.jpg",
+    "static/media/icon-active.7110b35e.svg": "./static/media/icon-active.7110b35e.svg",
+    "static/media/icon-facebook.1e9b3338.svg": "./static/media/icon-facebook.1e9b3338.svg",
+    "static/media/icon-pinterest.45264b1d.svg": "./static/media/icon-pinterest.45264b1d.svg",
+    "static/media/icon-share.890102fe.svg": "./static/media/icon-share.890102fe.svg",
+    "static/media/icon-twitter.45735e3b.svg": "./static/media/icon-twitter.45735e3b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d100f6.js",
+    "static/js/2.58781a52.chunk.js",
+    "static/css/main.ebe03008.chunk.css",
+    "static/js/main.8e36ecb3.chunk.js"
+  ]
+}
