@@ -1,0 +1,156 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("../sharedfonts/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: "PoppinsB";
+  src: url("../sharedfonts/Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "PoppinsL";
+  src: url("../sharedfonts/Poppins/Poppins-Light.ttf");
+}
+
+/*
+- Red: hsl(0, 78%, 62%)
+- Cyan: hsl(180, 62%, 55%)
+- Orange: hsl(34, 97%, 64%)
+- Blue: hsl(212, 86%, 64%)
+
+### Neutral
+
+- Very Dark Blue: hsl(234, 12%, 34%)
+- Grayish Blue: hsl(229, 6%, 66%)
+- Very Light Gray: hsl(0, 0%, 98%)
+*/
+
+html {
+  font-family: "PoppinsL";
+  font-size: 15px;
+  color: hsl(234, 12%, 34%);
+  height: 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 15px;
+  color: grey;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background: #333;
+}
+
+main {
+  width: 375px;
+  background: hsl(0, 0%, 98%);
+  display: flex;
+  flex-direction: column;
+  height: 95%;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  margin: 84px 20px 12px 20px;
+  font-weight: 400;
+  font-size: 26px;
+}
+
+h2 {
+  margin: 0px 20px 0 20px;
+  font-weight: 600;
+  font-family: "PoppinsB";
+}
+
+h3 {
+  margin: 24px 20px 84px 20px;
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+  font-size: 14px;
+}
+
+article {
+  width: 330px;
+  background: white;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+  border-radius: 12px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+h4 {
+  margin: 32px 20px 20px 20px;
+  font-weight: 600;
+  font-family: "PoppinsB";
+  font-size: 18px;
+}
+
+article span {
+  color: hsl(229, 6%, 66%);
+  margin: 0 20px;
+}
+
+article img {
+  display: flex;
+  width: 60px;
+  margin: 20px;
+  align-self: flex-end;
+}
+
+/* desktop */
+@media only screen and (min-width: 800px) {
+  body {
+    background: white;
+  }
+  main {
+    width: 1440px;
+    height: 900px;
+  }
+  .articles {
+      height: 593px;
+      width: 1440px;
+    position: relative;
+  }
+  h3 {
+    width: 420px;
+  }
+  .d-top {
+    position: absolute;
+    top: 0;
+    left: 545px;
+  }
+  .d-left {
+    position: absolute;
+    top: 150px;
+    left: 175px;
+  }
+  .d-right {
+    position: absolute;
+    right: 175px;
+    top: 150px;
+  }
+  .d-bot {
+    position: absolute;
+    bottom: 50px;
+    left: 545px;
+  }
+}
