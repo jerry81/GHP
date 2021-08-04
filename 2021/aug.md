@@ -1,5 +1,37 @@
 [Back to 2021](index.md)
 
+8/4
+
+germany testing electric highways
+siemens involved
+
+NZ gets top score for countries most likely able to survive a collapse
+
+UK considering blocking nvidia takeover of ARM
+40B acquisitino
+last september
+
+NYC gyms and restaurants to require vax
+
+SEC wants congress to help reign in crypto 
+
+mac pro gets graphics card update
+radeon pro
+
+rust most loved language 6 years in a row
+
+blizzard president stepping down amid culture scandals
+
+Cancer research - magnetic helmet shrinks tumours
+
+andrew cuomo sex scandal
+
+many saints of new york released
+
+world's steepest rollercoaster 150ft drop
+
+
+
 8/3
 
 peak covid in usa
