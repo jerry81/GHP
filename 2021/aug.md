@@ -1,5 +1,33 @@
 [Back to 2021](index.md)
 
+8/5
+
+goog firings over data misuse
+
+wealthy and young renouncing usa citizenship
+
+dr dre's daughter homeless?
+
+louis ck announces tour dates after hiatus
+
+men who ejaculate more slash risk of prostate cancer
+
+[spanish engis use condensation to pull water out of air](https://www.reuters.com/technology/spanish-engineers-extract-drinking-water-thin-air-2021-08-04/)
+
+netflix spacex documentary about civ trip to space
+
+IRS seized 1.2B in crypto this year
+
+FF loses 50M users in 3 years
+
+AMZN and Goog DNS as service bugs patched
+
+AMZN under fire over destruction of unused products, set to cut waste
+
+MSFT cloud PC and windows365 free trials paused due to "high demand"
+
+law applicants up 13%
+
 8/4
 
 germany testing electric highways
