@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Frontend Mentor | Base Apparel coming soon page</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="mo">
+      <img src="./images/logo.svg" class="logo" alt="logo" />
+      <img src="./images/hero-mobile.jpg" class="herom" alt="herom" />
+      <h1>WE'RE</h1>
+      <h2>COMING SOON</h2>
+      <div class="pink">
+        Hello fellow shoppers! We're currently building our new fashion store.
+        Add your email below to stay up-to-date with announcements and our
+        launch deals.
+      </div>
+      <div class="email">
+        <input placeholder="Email Address" id="in" />
+        <img
+          src="./images/icon-error.svg"
+          class="error"
+          alt="error"
+          id="error"
+        />
+        <div class="wrapper" onclick="handleClick(event)">
+          <img src="./images/icon-arrow.svg" class="arrow" alt="arrow" />
+        </div>
+      </div>
+      <div class="validation">Please provide a valid email</div>
+    </main>
+
+    <!-- layout for desktop drastically different -->
+    <main class="dt">
+      <div class="left">
+        <div class="contentwrap">
+          <img src="./images/logo.svg" class="logo" alt="logo" />
+          <h1>WE'RE</h1>
+          <h2>COMING SOON</h2>
+          <div class="pink">
+            Hello fellow shoppers! We're currently building our new fashion
+            store. Add your email below to stay up-to-date with announcements
+            and our launch deals.
+          </div>
+          <div class="email">
+            <input placeholder="Email Address" id="in" />
+            <img
+              src="./images/icon-error.svg"
+              class="error"
+              alt="error"
+              id="error"
+            />
+            <div class="wrapper" onclick="handleClick(event)">
+              <img src="./images/icon-arrow.svg" class="arrow" alt="arrow" />
+            </div>
+          </div>
+          <div class="validation">Please provide a valid email</div>
+        </div>
+      </div>
+      <img src="./images/hero-desktop.jpg" class="herod" alt="herod" />
+    </main>
+
+    <footer>
+      <p class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="#">Your Name Here</a>.
+      </p>
+    </footer>
+  </body>
+  <script>
+    function handleClick(ev) {
+      const but = ev.currentTarget;
+      const error = document.querySelectorAll("#error");
+      const val = document.querySelectorAll(".validation");
+      if (but.dataset.act) {
+        delete but.dataset.act;
+      } else {
+        but.dataset.act = true;
+      }
+      error.forEach((er) => {
+        if (er.dataset.act) {
+          delete er.dataset.act;
+        } else {
+          er.dataset.act = true;
+        }
+      })
+      val.forEach((v) =>  {
+        if (v.dataset.act) {
+          delete v.dataset.act;
+        } else {
+          v.dataset.act = true;
+        }
+      })
+    }
+  </script>
+</html>

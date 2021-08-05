@@ -1,0 +1,219 @@
+/*
+- Desaturated Red: hsl(0, 36%, 70%)
+- Soft Red: hsl(0, 93%, 68%)
+
+### Neutral
+
+- Dark Grayish Red: hsl(0, 6%, 24%)
+
+### Gradients
+
+- Linear, 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%)
+- Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%)
+
+*/
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-weight: 300, 400, 600;
+  src: url("../sharedfonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "Josefin Thin";
+    src: url("../sharedfonts/Josefin_Sans/static/JosefinSans-ExtraLight.ttf");
+  }
+
+body {
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+}
+
+footer {
+    position: fixed;
+    bottom: 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+.logo {
+    margin: 30px;
+    width: 80px;
+    height: auto;
+}
+
+main {
+  width: 375px;
+  background: white;
+  height: 100%;
+  display: flex; 
+  flex-direction: column;
+  text-align: center;
+  background: linear-gradient(135deg,hsl(0, 0%, 100%), hsl(0, 100%, 98%));
+}
+
+.pink {
+    /* 
+    hsl(0, 36%, 70%)
+- Soft Red: hsl(0, 93%, 68%)
+    */
+    color: hsl(0, 36%, 70%);
+    line-height: 28px;
+    margin: 0 20px 60px 20px;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: "Josefin Thin";
+    margin-top: 60px;
+    color:  hsl(0, 36%, 70%);
+    letter-spacing: 8px;
+    margin-block-end: 0;
+}
+
+h2 {
+    margin-top: 8px;
+    font-size: 48px;
+    letter-spacing: 8px;
+}
+
+.herom {
+  display: inline;
+}
+.herod {
+  display: none;
+}
+
+.email {
+    width: 320px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    justify-content: space-between;
+}
+
+.email input {
+    width: 290px;
+    border-radius: 30px;
+    padding: 8px 16px;
+    border: 1px solid hsl(0, 36%, 70%);
+}
+
+.email .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    border-radius: 30px;
+    padding: 8px 24px;
+    background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+    margin-left: -40px;
+}
+
+.email .wrapper[data-act="true"] {
+    background: hsl(0, 95%, 95%);
+    margin-right: -10px;
+  }
+
+.email input::placeholder {
+    color: hsl(0, 36%, 70%);
+}
+
+.mo {
+    display: flex;
+}
+
+.dt {
+    display: none;
+}
+
+.validation {
+    display: none;
+    width: 290px;
+    text-align: left;
+    margin-left:42px;
+    margin-top: 8px;
+    color: hsl(0, 93%, 68%);
+}
+
+.validation[data-act="true"] {
+    display: inline;
+}
+
+#error {
+    display: none;
+}
+
+#error[data-act="true"] {
+    margin-left: -130px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+/* desktop */
+@media only screen and (min-width: 800px) {
+  body {
+    background-color: #ccc;
+  }
+  main {
+    width: 1440px;
+    height: 800px;
+    flex-direction: row;
+  }
+  .herod {
+    display: block;
+    width: 610px;
+    height: 800px;
+
+  }
+  .left {
+      width: 830px;
+      height: 800px;
+      display: flex;
+      flex-direction: column;
+      text-align: left;
+  }
+  .herom {
+    display: none;
+  }
+  .mo {
+      display: none;
+  }
+  .dt {
+      display: flex;
+  }
+  .email {
+      justify-self: flex-start;
+      align-self: flex-start;
+      width: 460px;
+  }
+  .email input {
+      width: 430px;
+  }
+  .contentwrap {
+    margin: 60px 200px 0 120px;
+  }
+  h1 {
+      letter-spacing: 16px;
+  }
+  h2 {
+      letter-spacing: 16px;
+      width: 300px;
+  }
+  .validation[data-act="true"] {
+    display: block;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+}

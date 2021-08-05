@@ -30,8 +30,6 @@ many saints of new york released
 
 world's steepest rollercoaster 150ft drop
 
-
-
 8/3
 
 peak covid in usa
