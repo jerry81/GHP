@@ -1,5 +1,34 @@
 [Back to 2021](index.md)
 
+8/6
+
+[the virus is winning](https://news.yahoo.com/we-are-backsliding-our-pandemic-momentum-has-been-squandered-002145298.html)
+CNN fires 3 staffers for not vax
+moderna makes billions, stock doubles
+poll: 29% have lost someone
+hospital usage up 40% in a week
+
+jill biden "abusive"?
+
+NZ makes border exception for larry page
+
+AZ drought, cows starving
+
+south park creators sign 900M TV deal
+
+CIA researching wuhan lab genetic data
+
+ethereum purposefully being deflated
+
+edge "super duper secure mode"
+
+biden 2030 goal: half of all vehicle hybrid or electric
+
+US gov enlisting msft amzn goog to combat ransomware and cybercrime
+
+AMZN drone delivery dream slowly collapsing?
+[layoffs in uk](https://www.wired.co.uk/article/amazon-drone-delivery-prime-air)
+
 8/5
 
 goog firings over data misuse
