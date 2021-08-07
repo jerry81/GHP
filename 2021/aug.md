@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+8/7
+
+'delta plus' variant - san fran 
+
+appl "think different" about encryption
+backdoors ?
+
+holywood exodus to austin 
+
+goldmine asteroid hurtling towards worth - worth quadrillions
+
+chicago cops quitting
+
+risque reality tv shows: fboy island, ex-rated
+
+clint eastwood - 91 - "cry macho" 
+
+bezos shooting for moon lander project
+
+tokyo train stabbings - 10 injured
+
+major hydro plant shut down in CA
+due to drought
+
+biden's infrastructure build to determine fate of crypto 
+
+hwawei revenue slides 29%
+goes into survival mode
+
+ford bluecruise hands free driving tech
+
+goog project: recycle hard drives
+plans silicon valley hardware campus
+
+moderna recommends booster
+
+aliens may be using quantum internet from starlight for instantaneous communication
+
+
+
 8/6
 
 [the virus is winning](https://news.yahoo.com/we-are-backsliding-our-pandemic-momentum-has-been-squandered-002145298.html)
