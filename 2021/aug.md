@@ -38,8 +38,6 @@ moderna recommends booster
 
 aliens may be using quantum internet from starlight for instantaneous communication
 
-
-
 8/6
 
 [the virus is winning](https://news.yahoo.com/we-are-backsliding-our-pandemic-momentum-has-been-squandered-002145298.html)
