@@ -1,5 +1,27 @@
 [Back to 2021](index.md)
 
+8/8
+
+CNN exclusive: investigation into space force
+
+bitcoin mining looking towards nuclear plant cooperation
+
+ultra wealthy renouncing us citizenship to avoid taxes?
+
+chinese military cyberattacks vs southeast easian telcos
+
+Elasticsearch vs Amzn over open source fork
+
+AAPL privacy saga - will scan phones for child abuse
+
+olympics wrestling showdown russian tank vs captain america - ru wins
+
+[oregon decriminalizes all drugs to curb od](https://reason.com/video/2021/08/06/oregon-decriminalized-all-drugs-to-stop-overdoses-will-it-work/)
+
+nasa recruiting people to live on mars for a year
+
+
+
 8/7
 
 'delta plus' variant - san fran 
