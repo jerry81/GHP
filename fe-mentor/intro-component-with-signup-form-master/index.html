@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Frontend Mentor | Intro component with sign up form</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="intro">
+        <h1>
+          Learn to code by watching others
+        </h1>
+        <span>
+          See how experienced developers solve problems in real-time. Watching
+          scripted tutorials is great, but understanding how developers think is
+          invaluable.
+        </span>
+      </section>
+      <section>
+        <h2><b>Try it free 7 days</b> then $20/mo. thereafter</h2>
+        <div class="login">
+          <div class="input-c">
+            <input placeholder="First Name" />
+            <span class="vtext">Field cannot be empty</span>
+          </div>
+          <div class="input-c">
+            <input placeholder="Last Name" />
+            <span class="vtext">Field cannot be empty</span>
+          </div>
+          <div class="input-c">
+            <input placeholder="Email Address" />
+            <span class="vtext">Field cannot be empty</span>
+          </div>
+          <div class="input-c">
+            <input placeholder="Password" />
+            <span class="vtext">Field cannot be empty</span>
+          </div>
+          <button onclick="handleButtonClick()">CLAIM YOUR FREE TRIAL</button>
+          <div class="tac">
+            By clicking the button, you are agreeing to our Terms and Services
+            <span class="tas">Terms and Services</span>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="https://www.github.com/jerry81">Jerry</a>.
+      </p>
+    </footer>
+  </body>
+  <script>
+    function applyV(s) {
+      s.forEach(el => {
+        if (el.dataset.v) {
+          delete el.dataset.v;
+        } else {
+          el.dataset.v = true;
+        }
+      });
+    }
+    function handleButtonClick() {
+      const allVtexts = document.querySelectorAll(".vtext");
+      const inputs = document.querySelectorAll('.login input')
+      const els = [allVtexts, inputs]
+      els.forEach(applyV);
+    }
+  </script>
+</html>
