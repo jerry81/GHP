@@ -24,7 +24,7 @@
 
   [Java Tutorial](/tech/java.md)
 
-  [AWS Learning](/tech/aws/index.md)
+  [AWS Learning](/tech/index.md)
 
 ### demos
   
