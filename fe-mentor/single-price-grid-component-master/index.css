@@ -1,0 +1,206 @@
+/*
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Cyan: hsl(179, 62%, 43%)
+- Bright Yellow: hsl(71, 73%, 54%)
+
+### Neutral
+
+- Light Gray: hsl(204, 43%, 93%)
+- Grayish Blue: hsl(218, 22%, 67%)
+
+### Font
+
+- Family: [Karla](https://fonts.google.com/specimen/Karla)
+- Weights: 400, 700
+*/
+
+@font-face {
+    font-family: 'Karla';
+    src: url(../sharedfonts/Karla/static/Karla-Regular.ttf)
+}
+
+@font-face {
+    font-family: 'KarlaB';
+    src: url(../sharedfonts/Karla/static/Karla-Bold.ttf)
+}
+
+
+body {
+    font-family: 'Karla';
+    font-size: 16px;
+    font-weight: 400;
+    background: hsl(218, 22%, 67%);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    margin: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 15px;
+}
+
+main {
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    background: hsl(204, 43%, 93%);;
+}
+
+.bot {
+    display: flex;
+    flex-direction: column;
+    color: hsl(204, 43%, 93%);;
+}
+
+.left {
+ background: hsl(179, 62%, 43%);
+}
+
+.right {
+ background: hsl(179, 62%, 49%);
+}
+
+h1 {
+    margin-top: 32px;
+    color: hsl(179, 62%, 43%);
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 12px;
+    font-family: 'KarlaB';
+}
+
+h2 {
+    color: hsl(71, 73%, 54%);
+    margin-left: 24px;
+    font-size: 16px;
+    margin-right: 24px;
+    font-family: 'KarlaB';
+}
+
+button{
+    color: hsl(204, 43%, 93%);
+    background: hsl(71, 73%, 54%);
+    margin-left: 24px;
+    margin-bottom: 24px; 
+    margin-right: 24px;
+    border: none;
+    padding: 24px 0;
+    border-radius: 8px;
+}
+
+.bot h2 {
+    color: hsl(204, 43%, 93%);
+    margin-top: 32px;
+}
+
+.top span {
+    color: hsl(218, 22%, 67%);
+    margin-left: 24px;
+    margin-right: 24px;
+    line-height: 24px;
+    margin-bottom: 32px;
+}
+
+h3 {
+    font-size: 32px;
+    margin-block-start:0;
+    margin-block-end: 0;
+    margin-right: 12px;
+    color: hsl(204, 43%, 93%);
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+    color: hsl(200, 36%, 84%);
+    margin-bottom: 12px !important;
+}
+
+.bot span {
+    margin-left: 24px;
+    margin-bottom: 32px;
+    line-height: 24px;
+}
+
+.right span {
+    color:hsl(200, 36%, 84%);
+    margin-right: 100px;
+}
+
+@media only screen and (min-width: 800px) {
+    main {
+        width: 1000px;
+    }
+
+    .bot {
+        flex-direction: row;
+        width: 100%;
+    }
+    .left {
+        width: 50%;
+    }
+    .right {
+        width: 50%;
+    }
+    h1 {
+        margin-left: 48px;
+        margin-top: 48px;
+    }
+
+    h2 {
+        margin-left: 48px;
+    }
+
+    .top span {
+        margin-left: 48px;
+        margin-right: 96px;
+        margin-bottom: 48px;
+    }
+
+    .price {
+        margin-left: 48px;
+    }
+
+    .bot span {
+        margin-left: 48px;
+    }
+
+    .bot h2 {
+        margin-top: 48px;
+    }
+
+    button {
+        margin-left: 48px;
+        margin-right: 48px;
+        margin-bottom: 48px;
+    }
+}
