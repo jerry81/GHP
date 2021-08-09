@@ -24,6 +24,8 @@
 
   [Java Tutorial](/tech/java.md)
 
+  [AWS Learning](/tech/aws/)
+
 ### demos
   
   [Frontend Mentor](/fe-mentor/index.html)
