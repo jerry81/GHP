@@ -1,1 +1,1 @@
-[Back home](../../)
+[Back home](../index.md)
