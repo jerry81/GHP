@@ -1,5 +1,44 @@
 [Back to 2021](index.md)
 
+8/9
+
+delta saga - childrens' hospitals filling up 
+companies' fall plans falling through
+
+usa late rally to pass china on golds 
+
+usa currently fighting taliban with b-52 bombers
+
+1M more job openings than applicants
+
+McDonalds food bag shortage
+
+flooding in omaha
+
+[southern towns like those in SC experiencing boom, buyers attracted by space](https://www.chron.com/lifestyle/article/The-appeal-of-small-Southern-towns-16370071.php)
+
+big tech wants call center workers to install cameras in homes
+
+self-driving car startup concept: avoid letting AI make life-death decisions
+
+[MSFT employee blog, screw you Edge](http://www.charlespetzold.com/blog/2021/08/Screw-You-Microsoft-Edge.html)
+
+Disney Star wars theme hotel - one weekend 4800usd
+orlando 
+
+man falls, apple watch dials emergency services, credited with saving life 
+
+vax misinformation lucrative field
+crowdfunded
+
+2.5 B basic income plan proposed
+
+chrome disables alert() and confirm()
+receives criticism
+
+cali prop 22 was major blow to gig workers
+MA may pass similar laws
+
 8/8
 
 CNN exclusive: investigation into space force
@@ -19,8 +58,6 @@ olympics wrestling showdown russian tank vs captain america - ru wins
 [oregon decriminalizes all drugs to curb od](https://reason.com/video/2021/08/06/oregon-decriminalized-all-drugs-to-stop-overdoses-will-it-work/)
 
 nasa recruiting people to live on mars for a year
-
-
 
 8/7
 
