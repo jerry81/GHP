@@ -1,5 +1,50 @@
 [Back to 2021](index.md)
 
+8/10
+
+TX covid crisis
+
+bam marguera sues paramount for mental health discrimination 
+
+2024 republican candidate: Tim Scott
+
+finaly tally - Tokyo olympics down 42% from rio 
+
+veteran therapy: wild mustangs 
+
+squatter lives in home for over 20 years
+
+how the turntables: pricey legal marijuana (such as bubba kush) pouring into mexico
+
+trump promoting maga merch
+
+internet more authoritarian than ever
+
+congress cracks down on crypto
+
+firefighter shortage
+
+[China develops glass as strong as diamonds](https://www.independent.co.uk/news/science/china-strongest-glass-diamond-scientists-b1899243.html)
+commercial applications in solar cells
+
+[Captcha pictures are depressing](https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a)
+no humans
+angles wrong
+voyeuristic
+crime scene footage 
+alien-eye view
+little nature 
+
+AI can identify your race through medical scans 
+
+Samsung leader granted parole 假释, leave prison
+
+navy solar powered plane fly for 90 days
+
+amzn sellers hunting down negative reviewers, coerce/bribe them to change them 
+
+pixar 1995 was in dire straites, financed by disney to make toy story 
+
 8/9
 
 delta saga - childrens' hospitals filling up 
