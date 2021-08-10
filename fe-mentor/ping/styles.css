@@ -1,10 +1,114 @@
 /* You can add global styles to this file, and also import other style files */
 @font-face {
   font-family: "Libre Franklin";
-  src: url('LibreFranklin-Regular.ttf');
+  src: url('LibreFranklin-Thin.ttf');
 }
-html {
+@font-face {
+  font-family: "Libre Franklin Bold";
+  src: url('LibreFranklin-Bold.ttf');
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
   font-family: "Libre Franklin";
+  background: #222;
+  font-size: 20px;
+}
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 375px;
+  background: white;
+}
+.large {
+  width: 325px;
+  height: auto;
+  margin-bottom: 80px;
+}
+.logo {
+  width: 80px;
+  height: auto;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.icons {
+  margin-bottom: 20px;
+}
+.icons i {
+  color: #4f7df3;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  margin: 10px;
+}
+.icons i.fa-facebook-f {
+  padding: 10px 14px;
+}
+.icons i.fa-instagram {
+  padding: 10px 12px;
+}
+footer {
+  justify-self: flex-end;
+  margin-bottom: 20px;
+  color: #969696;
+  font-size: 12px;
+}
+h2 {
+  color: #969696;
+  font-weight: 100;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+h2 span {
+  color: #151f29;
+  font-weight: 700;
+  font-family: "Libre Franklin Bold";
+  font-size: 24px;
+}
+.mini {
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 60px;
+}
+.form input {
+  width: 250px;
+  margin-bottom: 12px;
+  border-radius: 25px;
+  border: 1px solid #c2d3ff;
+  padding: 12px 24px;
+  display: flex;
+}
+.form button {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  padding: 12px 24px;
+  border-radius: 25px;
+  background: #4f7df3;
+  color: white;
+  border: none;
+}
+@media only screen and (min-width: 800px) {
+  body {
+    background: #ccc;
+  }
+
+  main {
+    width: 1440px;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map*/
