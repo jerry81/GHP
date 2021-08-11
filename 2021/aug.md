@@ -1,5 +1,52 @@
 [Back to 2021](index.md)
 
+8/11
+
+physics: smashing two photons together generates matter
+electron + positron 
+
+10B NSA cloud contract given to AMZN
+
+Wear OS gets huge upgrade in performance thanks to samsung 
+
+AMD vs NVIDIA
+Radeon RX 6600 XT vs Geforce RTX 3060
+
+twitter algorithm biased towards slimmer younger light-skin faces
+
+AMC and WB deal: 45-day theatre only grace period deal 
+
+Tiktok overtakes FB most-dl app 
+
+OpenAI: turn written language to computer code 
+
+AMC accept btc payment 
+
+salesforce new project - video streaming
+
+SpaceX acquisition: Swarm, Satellite data startup 
+
+NY governor: Andrew Cuomo out
+[Hochul (first female NY gov) in](https://news.yahoo.com/factbox-cuomos-replacement-kathy-hochul-161638547.html)
+
+biden infrastructure bill passes vote in senate 69-30
+
+RU China joint-military drills
+
+[age of ai - new book to track](https://www.showbiz411.com/2021/08/10/henry-kissinger-eric-schmidts-big-treatise-on-artificial-intelligence-panned-in-early-important-book-review)
+
+casinos have a great year 
+
+Robin officially Bi 
+
+Fox to acquire TMZ?
+
+Pepsi: Alcoholic Mountain Dew 
+
+[prince andrew sex assault accusations](https://www.dailymail.co.uk/news/article-9881139/Prince-Andrew-seen-Balmoral-supported-ex-wife-Fergie-day-sued-New-York.html)
+
+Oregon law: reading/writing not necessary to graduate 
+
 8/10
 
 TX covid crisis
