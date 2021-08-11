@@ -53,6 +53,10 @@ main {
 .icons i.fa-instagram {
   padding: 10px 12px;
 }
+.icons i.activeI {
+  color: white;
+  background: #4f7df3;
+}
 footer {
   justify-self: flex-end;
   margin-bottom: 20px;
@@ -84,11 +88,13 @@ h2 span {
 }
 .form input {
   width: 250px;
-  margin-bottom: 12px;
   border-radius: 25px;
   border: 1px solid #c2d3ff;
   padding: 12px 24px;
   display: flex;
+}
+.form input.inputE {
+  border: 1px solid red;
 }
 .form button {
   width: 100%;
@@ -101,6 +107,20 @@ h2 span {
   color: white;
   border: none;
 }
+.form button.errorBut {
+  background: #c2d3ff;
+}
+.form input::placeholder {
+  color: #ccc;
+}
+.inputC {
+  margin-bottom: 12px;
+}
+.errorS {
+  color: red;
+  font-size: 12px;
+  margin-left: 24px;
+}
 @media only screen and (min-width: 800px) {
   body {
     background: #ccc;
@@ -108,6 +128,44 @@ h2 span {
 
   main {
     width: 1440px;
+  }
+
+  .logo {
+    width: 120px;
+  }
+
+  h2 {
+    font-size: 48px;
+  }
+
+  h2 span {
+    font-size: 48px;
+  }
+
+  .mini {
+    font-size: 20px;
+  }
+
+  .large {
+    width: 700px;
+  }
+
+  .form {
+    flex-direction: row;
+    width: 700px;
+    align-items: flex-start;
+  }
+
+  .form button {
+    width: 200px;
+  }
+
+  .form .inputC {
+    width: 500px;
+  }
+
+  .form input {
+    width: 420px;
   }
 }
 
