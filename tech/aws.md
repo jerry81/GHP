@@ -40,6 +40,40 @@ SQL enterprise DB
 
 NoSQL database
 
+create table steps
+1.  note which region (us-east-1)
+2.  create table button 
+3.  note amazon resource name (arn:aws:dynamodb:us-east-1:659285663815:table/hw-db)
+
+issue, does lambda have to be same server as dynamo db?
+
+## IAM
+
+Identity Access Management like RAM in ali 
+permissions and roles 
+
+example 
+Lambda - Function - Configuration - Permissions - add inline policy - JSON
+e.g. allows access to dynamo table 
+{
+"Version": "2012-10-17",
+"Statement": [
+    {
+        "Sid": "VisualEditor0",
+        "Effect": "Allow",
+        "Action": [
+            "dynamodb:PutItem",
+            "dynamodb:DeleteItem",
+            "dynamodb:GetItem",
+            "dynamodb:Scan",
+            "dynamodb:Query",
+            "dynamodb:UpdateItem"
+        ],
+        "Resource": "YOUR-TABLE-ARN"
+    }
+    ]
+}
+
 ## Elastic Kubernetes (EKS)
 
 managed k8s, use k8s on cloud without needing to install k8s
@@ -61,8 +95,11 @@ user -> aws amplify -> amzn API gateway -> AWS lambda -> Dynamo DB
 
 1.  create aws amplify html page
 2.  create lambda function (simple json req and res)
+3.  create api gateway rest api, hookup to lambda 
+4.  create dynamo table
+5.  grant lambda db permissions 
 
-### AWS Amplify 
+## AWS Amplify 
 
 fully managed service - deploy host static web apps 
 served by CDN 
@@ -83,7 +120,7 @@ minimal app
 3.  drag and drop to upload
 4.  hosted on amzn web server (domain generated)
 
-### api gateway
+## api gateway
 
 rest and websocket apis available 
 
@@ -112,3 +149,8 @@ MEAN mongo express angular node
 LEMP - nginx instead of apache 
 
 EBS - elastic block storage
+
+ARN - amazon resource name 
+
+boto3 - AWS python Sdk
+
