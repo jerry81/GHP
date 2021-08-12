@@ -1,5 +1,45 @@
 [Back to 2021](index.md)
 
+8/12
+
+20 year high for inflation, stocks hit new record
+
+efficiency of pfizer decreasing, only 42% last month?
+
+national emergency: citizens asked to limit 911 calls
+
+[micro-4-second burst hiit](https://lightlynews.com/2021/08/11/health/exercise-vigorously-for-four-seconds-repeat-your-muscles-may-thank-you/)
+
+demographics: number of white people in USA decreases for first time ever
+
+sicily record breaking 120 degrees F
+
+IG anti-abuse tools
+
+[audi new car skysphere, autonomous mode and sports car mode](https://electrek.co/2021/08/10/audis-new-skysphere-concept-is-two-cars-in-one/)
+
+netflix cracking down on geoblocking proxy workarounds
+
+Significant funding coming for big telecom 
+
+100K + salaries get no EV tax credits
+
+antitrust action against app/play stores
+
+GOOG: WFH emps may get pay cut 
+
+[opinion: apps getting worse because PMs are struggling to innovate things that aren't broken](https://www.tbray.org/ongoing/When/202x/2021/08/07/Apps-Get-Worse)
+
+MSFT, predictably, complains about AMZ?N's 10B NSA cloud contract
+
+biggest crypto heist: 600M
+hackers return half?
+
+business crackdowns in china first targeting immediately affecting industries
+education, food and drug 
+
+"Master Face" like master key for facial recog system 
+
 8/11
 
 physics: smashing two photons together generates matter
