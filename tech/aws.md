@@ -59,6 +59,9 @@ deploy the image as container anywhere in AWS
 
 user -> aws amplify -> amzn API gateway -> AWS lambda -> Dynamo DB 
 
+1.  create aws amplify html page
+2.  create lambda function (simple json req and res)
+
 ### AWS Amplify 
 
 fully managed service - deploy host static web apps 
@@ -79,6 +82,23 @@ minimal app
 2.  zip the file
 3.  drag and drop to upload
 4.  hosted on amzn web server (domain generated)
+
+### api gateway
+
+rest and websocket apis available 
+
+first stop for clients
+
+has cache 
+
+steps: 
+
+1.  create api
+2.  associate with lambda
+3.  configure cors 
+4.  deploy api 
+5.  get invoke url:  https://czq9tfuq42.execute-api.us-east-1.amazonaws.com/dev
+6.  test api with lightning bolt under resources
 
 ### definitions
 
