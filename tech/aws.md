@@ -16,6 +16,8 @@ expose lambda functions thru api
 
 free of charge to use, data transfer fees apply 
 
+just write the code (which is like a controller function in a app framework)
+
 ## Elastic Beanstalk 
 
 provides management for web applications
@@ -71,6 +73,12 @@ steps
 1.  connect to git repo 
 2.  config build settings 
 3.  deploy to CDN 
+
+minimal app
+1.  create index.html file
+2.  zip the file
+3.  drag and drop to upload
+4.  hosted on amzn web server (domain generated)
 
 ### definitions
 
