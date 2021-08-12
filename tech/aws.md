@@ -53,6 +53,25 @@ write code and save as docker image
 store on ECR 
 deploy the image as container anywhere in AWS
 
+## Full stack app (tutorial)
+
+user -> aws amplify -> amzn API gateway -> AWS lambda -> Dynamo DB 
+
+### AWS Amplify 
+
+fully managed service - deploy host static web apps 
+served by CDN 
+built in CI/CD 
+PR previews (staging)
+domain setup
+free HTTPS cert 
+monitoring 
+
+steps 
+1.  connect to git repo 
+2.  config build settings 
+3.  deploy to CDN 
+
 ### definitions
 
 Magento - Adobe Ecommerce platform 
