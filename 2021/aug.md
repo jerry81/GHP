@@ -55,6 +55,8 @@ Messi partially takes pay in crypto
 
 Asteroid Bennu possibility of hitting earth: thru 2030 1 in 1750
 
+sicily 120 deg is EU record
+
 
 
 8/12
