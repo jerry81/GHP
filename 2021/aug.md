@@ -1,5 +1,62 @@
 [Back to 2021](index.md)
 
+8/14
+
+[taliban in afghanistan take kandhihar, will march on kabul](https://www.wsj.com/articles/taliban-seize-kandahar-prepare-to-march-on-kabul-11628846975)
+us sends troops for diplomatic evac
+
+NYC arrest for not leashing dog 
+
+SF Vax proof mandatory for indoor activities
+
+gig workers supply down 
+
+samsung leader out of jail 
+choi-gate originally 30 year sentence
+out after 18 months
+move forward with usa factory plans 
+chip plant 
+
+many remote workers work 2 full time jobs 
+2 meetings simultaneously 
+
+"crypto allows digital products to become scarce, increasing their value"
+"unlock true potential for digital economy"
+
+NVidia keynote speech: CEO was computer generated
+
+[Google 3d periodic table](https://artsexperiments.withgoogle.com/periodic-table/)
+
+Leaked UN report: greenhouse emissions must peak within 4 years
+else, irreversible climate changes
+
+[twitter new font, chirp](https://www.cnet.com/news/twitters-redesign-includes-new-font-less-visual-clutter/)
+giving some users headaches
+
+another shortage: fiberoptic cables
+
+cuba free internet
+
+Reddit valued at 10B 
+
+Aapl campus has homeless encampment 
+
+Warner Bros using deepfakes to personalize trailers
+
+AMZN policy: game development after work hours belongs to amzn and requires amzn tools
+
+pirate entertainment sites make billions from ads
+
+FB owns gilphy may be forced to sell by UK antitrust 
+
+AMZN monitor keyboard mouse strokes
+
+Messi partially takes pay in crypto 
+
+Asteroid Bennu possibility of hitting earth: thru 2030 1 in 1750
+
+
+
 8/12
 
 20 year high for inflation, stocks hit new record
