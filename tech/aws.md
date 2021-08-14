@@ -98,6 +98,10 @@ user -> aws amplify -> amzn API gateway -> AWS lambda -> Dynamo DB
 3.  create api gateway rest api, hookup to lambda 
 4.  create dynamo table
 5.  grant lambda db permissions 
+6.  change amplify html page to call the api gateway method
+7.  redeploy to amplify (https://dev.d2jbyjlqmjf39e.amplifyapp.com)
+
+gotcha: do not rename index.html or else amplify wont run
 
 ## AWS Amplify 
 
