@@ -1,5 +1,33 @@
 [Back to 2021](index.md)
 
+8/16
+
+haiti quake death toll 2000
+
+afghanistan a brutal loss for biden 
+
+bitcoin regaining ground
+
+muhamed ali grandsson wins first pro bout 
+
+samsung using AI to design chip
+
+[Battista all electric hypercar 1900 HP](https://www.newsweek.com/watch-pininfarinas-1900-horsepower-electric-hypercar-take-californias-streets-sonic-style-1618965)
+
+article makes case against full remote work 
+hybrid model suggested
+
+pareto rule with power plants - worst 5% produce 70% emissions
+
+MIT powerful magnet - generate intense heat - needed for nuclear fusion 
+
+Goog Tensor chip for cell phones
+
+java popularity surging again
+
+iBuyer market - house flipping companies that buy house, repair it, and resell it
+Zillow
+
 8/14
 
 [taliban in afghanistan take kandhihar, will march on kabul](https://www.wsj.com/articles/taliban-seize-kandahar-prepare-to-march-on-kabul-11628846975)
