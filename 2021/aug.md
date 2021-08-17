@@ -1,5 +1,30 @@
 [Back to 2021](index.md)
 
+8/17
+
+american 20 year plan to "free afganistan" falls in one day 
+
+dylan sex assault in '65?
+
+Federal water cuts in western statess
+
+[audi shape-shifting concept car - skysphere](https://edition.cnn.com/2021/08/14/success/audi-skysphere-self-driving-concept/index.html)
+
+[largest solar powered battery, manatee project](https://interestingengineering.com/worlds-largest-solar-powered-battery-is-now-75-complete)
+
+wikipedia vandalized with swatstikas
+
+mastercard phase out magnetic strips
+now: chip cards with processors, embedded antennae for contactless 
+
+walmart to get into crypto 
+
+Intel GPU named Intel Arc
+
+Bytedance being probed by gov
+
+Goog cable links japan and SEA
+
 8/16
 
 haiti quake death toll 2000
