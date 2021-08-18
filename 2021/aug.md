@@ -19,7 +19,21 @@ ikea selling renewable energy to houses in sweden
 
 google pixel 5a 449USD, water resistant
 
+[OIC - open invention network - group of companies protecting linux and OSS from patent attacks and trolls](https://www.zdnet.com/article/bytedance-tiktoks-parent-company-joins-the-open-invention-network/)
 
+people spend more at amzn than walmart 
+largest retail seller outside china 
+
+CES 2022 proof of vax needed 
+
+boston dynamics: teaches atlas robot parkour 
+(hyundai robot)
+
+MSFT .NET developers fear being "silverlighted"
+
+China draft rules - antitrust, user data protection
+
+m1x macbook pros by november 
 
 8/17
 
