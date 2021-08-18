@@ -1,5 +1,26 @@
 [Back to 2021](index.md)
 
+8/18
+
+tx gov tests positive
+
+taliban pledges women's rights 
+elicits skepticism
+
+britney family feud
+
+epstein probe leads to prince andrew
+
+laser fusion experiment 
+192 lasers, pellet of hydrogen 
+mini hydrogen bomb 
+
+ikea selling renewable energy to houses in sweden
+
+google pixel 5a 449USD, water resistant
+
+
+
 8/17
 
 american 20 year plan to "free afganistan" falls in one day 
