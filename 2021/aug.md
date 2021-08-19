@@ -1,5 +1,22 @@
 [Back to 2021](index.md)
 
+8/19
+
+booster vax in sept
+
+taliban vows to ban heroin 
+
+Neil Blomkamp new film demonic
+
+intel preview alder lake chip - promise hybrid CPU for desktop and laptops
+
+Nvidia ARM acquisition may take longer than 18 months
+
+TSMC now asia's most valuable company 
+overtaking tencent 
+
+fuschia os to roll out on nest hubs 
+
 8/18
 
 tx gov tests positive
