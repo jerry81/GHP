@@ -1,5 +1,51 @@
 [Back to 2021](index.md)
 
+8/21
+
+tesla robot
+musk - end of work 
+universal income for all 
+musk second richest in world 
+tied with bezos and bernie arnault (LVMH)
+
+feds to make tesla slow down?
+
+china 4x nuke spending 
+
+jeopardy host cancelled 
+podcast comments "booth slut" "average white guy host"
+
+Kamala Asia trip
+
+article: jack ma challenged xi and lost 
+IPO blocked by xi 
+
+[lebanon energy crisis](https://www.france24.com/en/live-news/20210820-hell-on-earth-lebanon-unlivable-as-crisis-deepens)
+
+[aloe vera a scam](https://dnyuz.com/2021/08/20/is-aloe-a-sham/)
+
+india first DNA covid vax, needle free 
+
+geofence warrant - reverse location warrant 
+
+aapl "greatest platform for child porn"
+
+Tesla dojo supercomputer 
+most powerful ai training machine 
+musk unsatissfied with hardware, developed own 
+
+1/3 of a company's workers quits after CEO ends flexible work hours 
+
+WHO wants scientists to study Animal - human transmission
+
+DDOsSecrets has eclipsed Wikileakss
+
+Cloudflare mitigated 17M request/min DDos attack 
+
+Cerebras make compuer chips the size of a plate 
+
+CSAM (child sex abuse material) vs encryption 
+
 8/19
 
 booster vax in sept
