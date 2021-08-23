@@ -1,5 +1,42 @@
 [Back to 2021](index.md)
 
+8/23 
+ISIS returns 
+
+flooding in TN
+22 dead
+
+taliban mocks iwo jima flag raising photo 
+
+last week - study about blue hydrogen being non-green - 
+causes UK hydrogen and fuel cell association chair to quit 
+
+india ranks high for ipv6 adoption
+usa rank 6th 
+[china 95th](https://www.aelius.com/njh/google-ipv6/)
+
+samsung becomes top semiconductor manufacturer 
+surpassing intel 
+
+2 year remote work is a possibility 
+
+97M stolen from jap crypto exchange 
+Liquid
+ethereum tokens, btc, xrp, stablecoins
+
+asimov's foundation may become streaming series 
+
+Moderna mRNA vax for HIV 
+
+MSFT owns bethesda: will release enhanced version of Quake 1 
+
+new volcanic island near japan appears 
+
+2g and 3g shutting down
+IOT should move to 5g  and must move to 4g LTE
+
+Chevy "Bolt" EV recalls - electric risk 
+
 8/21
 
 tesla robot
