@@ -30,6 +30,36 @@ advantages: cores commuicate faster on same chip
 memory handled better
 uses 15 kw
 
+8/24
+TN flooding aftermath
+
+Troops deployed to Kabul 
+
+news industry struggling 
+
+golden age of hiphop sparked by collabs
+
+[mathematics model determines best way to build muscle](https://phys.org/news/2021-08-mathematical-muscle.html)
+
+Circle USD coin (backed 1:1 USD) stablecoin undergoing massive change
+
+campaign in AAPL to improve working conditions 
+collect stories of injustice and abuse 
+
+Intel and DOD domestic chip building ecosystem 
+
+Goog pay team - botched app revamp leads to major upheavel
+frustrated with slow movement of team 
+
+paypal crypto launch in UK
+
+intel 45 teraflop 100B transistor AI chip 
+
+largest computer chip from Cerebras 
+advantages: cores commuicate faster on same chip 
+memory handled better
+uses 15 kw
+
 8/23 
 ISIS returns 
 
