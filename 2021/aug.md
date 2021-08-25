@@ -1,5 +1,73 @@
 [Back to 2021](index.md)
-test
+8/25
+
+Biden attempting afghan withdrawl
+G7 leaders try to deter, cannot sway
+approval crashes to 41%
+tax increases across the board
+
+Two house members make trip to Kabul 
+
+biden receives inconclusive report on covid origins
+not enough info from china 
+
+vax efficacy down to 66%
+
+kentucky hotspot 
+
+entire tX town shuts down (50% infection rate)
+
+HI to visitors: "stay away"
+
+Musk warning: old world dying in blaze 
+
+milkshakes removed from mcDs menu 
+
+food supplier crisis, chick-fil-a forced to close some shops 
+
+onlyfans ceo blames banks for porn ban 
+
+Larry Elder: CA gov race frontrunner
+
+COINBASE accounts drained by hackers
+
+ultra-vaxxed israel 
+still has crisis, dire warning 
+
+Xi's China: Country before profit for tech giants 
+
+kamala may have been hit with havana syndrome 
+still moves on with asia trip, vietnam
+
+Older teslas UI performance boost software update 
+from john carmack!
+musk tried to hire him for a long time 
+drives a model S 
+2500 usd upgrade
+
+[aapl patent - dual display mackbook, virtual keyboard, wireless charging](https://9to5mac.com/2021/08/24/apple-wins-patent-for-dual-display-macbook-with-virtual-keyboard-and-wireless-charging-capabilities/)
+
+waymo autonomous rides in SF 
+
+Bosch: german tech and engineering group, largest car-parts supplier
+believes semiconductor Supply Chain is outdated
+
+farmer-specific e-commerce apps - grazecart, farmdrop, farmingo, grownby 
+Direct to consumer sales 
+
+NASA delays ISS spacewalk 
+astronaut health issue 
+
+samsung 3 year hiring plan: 40K worksers, 205B  USD
+
+appl and goog store legal battle in korea 
+
+netflix live action cowboy bebop 
+nov 19
+john cho as spike 
+
+hubble captures einstein predicted gravitational lensing
+
 8/24
 TN flooding aftermath
 
