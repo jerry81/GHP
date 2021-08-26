@@ -1,4 +1,39 @@
 [Back to 2021](index.md)
+
+8/26
+
+pentagon orders troops vaxxed
+booster every 6 months
+
+Taliban shows off their special forces
+
+US counterterrorism doubted
+
+30 new chargers against ron jeremy
+
+Feds expand use of facial recog 
+
+6500 a seat for flight out of Kabul 
+
+diabetes doubles in american youth 
+
+zero emissions cargo ship, norway 
+fully electric 
+
+south korea to end controversial gaming curfew
+no gaming after midnight
+
+PC market booms in USA 
+
+cause of chevy bolt fires: misaligned factory robot 
+
+30th birthday linux 
+
+employees leaving Bezos Blue origin 
+going to other spaceflight outfits 
+
+onlyfans drops porn ban 
+
 8/25
 
 Biden attempting afghan withdrawl
