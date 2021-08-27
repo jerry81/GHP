@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+8/27
+
+taliban warns women to stay home 
+
+[13 USA troops killed at kabul airport](https://www.the-sun.com/news/3544925/kabul-airport-explosion-taliban-afghanistan-2/)
+90 Afghans killed
+suicide bomb attacks
+isis claims responsibility 
+
+netflix diana trailer 
+
+billionaire wealth grew during pandemic 
+
+Alphabet drones delivering coffee and chickens
+
+liz holmes (theranos) trial still going 
+
+CN msft hack in january 
+
+TSMC increases prices 20% in supply shortage 
+
+goog 16 years tried to compete in messaging industry to no avail 
+goog talk 2005
+goog chat last month 
+
+china hacker-spies for hire 
+
+taliban had a strong social media campaign 
+
+ISS next steps - commercial space stations by 2030
+
 8/26
 
 pentagon orders troops vaxxed
