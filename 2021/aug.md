@@ -1,5 +1,66 @@
 [Back to 2021](index.md)
 
+8/28
+
+new urgency to airlift from kabul after blast kills 170
+
+hostage situation brewing?
+
+isis propagandha reportedly using AWS 
+
+lousiana hurricaine 
+
+tahoe fires 
+
+instead of water cycle, titan has methane cycle 
+suitable for life 
+(saturn moon)
+
+HI virus surge 
+
+Horse dewormer as covid remedy?
+
+inflation at 30 year high 
+
+tim cook 750M bonus
+aapl 10th anniversary 
+
+Tmobile hack earlier this month 
+was brute force with specialized tools 
+
+SSD manufacturing samsung caught swapping lower quality NANDs 
+
+cn - strict control of algorithms 
+bytedance, ali, tencent didi targeted
+
+[whole mouth toothbrushes, clean teeth in 20 seconds](https://www.wsj.com/articles/the-fast-lazy-way-to-clean-your-teeth-whole-mouth-toothbrushes-11629991198)
+
+snowden now warns on appl privacy 
+
+sf skyscraper leaning
+
+stephen segal has moved to moscow 
+
+beijing massive orbiting spaceship 10x bigger than ISS
+1km long
+
+EU probe nvidia 54B takeover of ARM
+
+Chinese courts makes 996 illegal 
+
+Tesla wants to provide electricity in TX 
+Tesla energy ventures 
+
+AAPL now lets developers talk to customers about buying direct 
+
+goog pays appl 15B to remain default search engine in 2021
+
+human evolution: extra artery in arm 
+
+3d printed wagyu beef 
+
+
+
 8/27
 
 taliban warns women to stay home 
