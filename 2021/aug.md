@@ -1,5 +1,29 @@
 [Back to 2021](index.md)
 
+8/29
+
+Hurricaine IDA a beast 
+CAT 4
+oil output down 91%
+NO evacs
+
+Pentagon drone stike - 2 ISIS leaders 
+
+jefree star trans
+
+newsom from landslide victory -> struggling for survival 
+
+US debt 29Trillion
+
+Spaceforce failed launch 
+
+Self driving bus hits paralympic athlete 
+
+regulators probing gamification of stock trading apps
+
+Japan space: deep-space rocket tech - "rotary detonation engine" 
+tested in space 
+
 8/28
 
 new urgency to airlift from kabul after blast kills 170
@@ -58,8 +82,6 @@ goog pays appl 15B to remain default search engine in 2021
 human evolution: extra artery in arm 
 
 3d printed wagyu beef 
-
-
 
 8/27
 
