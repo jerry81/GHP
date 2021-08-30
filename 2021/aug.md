@@ -1,5 +1,36 @@
 [Back to 2021](index.md)
 
+8/30
+
+goog - cut salaries for remote workers
+
+jack dorsey square - want to build decentralized p2p btc exchange 
+
+state of fusion:  1000x improvement since 2011
+magnetic fusion machines 
+
+10 US gov agencies plan to use more facial recog 
+
+github copilot feedback: many of its suggestions have security vunerabilities 
+
+cuba gov recognize but regulate crypto 
+
+liz holmes saga: may accuse ex bf of psychological abuse 
+
+linux success in part due to GPLv2
+Gnu public license version 2
+
+all power off in NO
+hurricaine 
+
+bolsonaro's 3 choices: reelect, killed, or arrested 
+
+Switzerland: terror attacks at vax sites, warning 
+
+spacex delivery: ants, avocados robotic arm 
+
+[usa drone strike on isis suicide bomber truck](https://apnews.com/article/afghanistan-kabul-us-taliban-9da4da11b5c8d00445b57aee297bd270)
+
 8/29
 
 Hurricaine IDA a beast 
