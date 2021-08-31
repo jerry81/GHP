@@ -1,5 +1,39 @@
 [Back to 2021](index.md)
 
+8/31
+
+NO still without power 
+
+america officially leaves kabul
+"longest war ever declared over"
+
+china: limit children to 3 hrs gaming / week 
+
+mcDs may close indoor seating 
+
+cracks found in ISS module 
+
+AI image upscaling tech from Goog
+
+another crypto platform gets robbed
+29M
+
+AMZN ushers out 6% office workers each year 
+
+PayPal stock trading platform 
+US customers only 
+
+App store in 1st half of 2021 - 40B
+goog play 20B
+
+chevy bolt production halted
+
+Telegram 1B downloads globally 
+
+China will clean online content "badmouthing" economy 
+
+Solar playing key in developing world
+
 8/30
 
 goog - cut salaries for remote workers
