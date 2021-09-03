@@ -1,5 +1,50 @@
 [back](./index.md)
 
+9/3
+
+huricaine ida death toll 40+
+
+ABBA comeback?
+
+gavin newsom may resist his recall
+
+People's privacy vs siri
+
+merkel ready to step down 
+after 16 years
+
+roe v wade which legalized abortion nationally, may be overturned 
+
+israel now world's hotspot
+despite being heavily vaxxed
+
+audi grandsphere concept car 
+interior transforms into first class lounge when in self driving mode 
+
+china cracking down on "sissy men" in new crackdown 
+
+Mina Hsiang: new boss of US digital service 
+tech special forces
+
+GM suspends production due to chip shortages 
+
+Ali Dances, invest 15.5B USD 100B yuan to common prosperity 
+joins geely, tencent
+
+Appl AR/VR headset coming  - needs to connect to iphone 
+
+whatsapp fined 260M 
+
+[floors laced with silicon can generate electricity from footsteps](https://www.newscientist.com/article/2288670-wooden-floors-laced-with-silicon-generate-electricity-from-footsteps/)
+
+[AMD patent - more reliable quantum computing archi](https://www.tomshardware.com/news/amd-teleportation-quantum-computing-patent)
+related to quantum teleportation
+
+horse deworming med called Ivermectin 
+
+fired credit union emp deletes 21GB of data in revenge 
+company spent 10K restoring data 
+
 9/2
 
 one million in NO without power 
