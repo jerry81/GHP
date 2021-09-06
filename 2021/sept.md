@@ -61,6 +61,8 @@ India DNA covid vax world first
 
 AI cannot get US patents, only humans - judge ruling
 
+AMZN launch Tv in the usa
+
 9/3
 
 huricaine ida death toll 40+
