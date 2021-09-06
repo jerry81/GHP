@@ -1,5 +1,66 @@
 [back](./index.md)
 
+9/6
+
+female boxer dies after being knocked out in ring 
+
+israel up to 4th dose 
+scientists cant predict covid roadmap 
+
+altos labs working on immortality joins a batch of similar silicon valley companies
+raising hundreds of millions
+
+'tax the rich' not working for dems anymore 
+
+biden, still grieving his son, beau biden since 2015 
+
+supermarkets taking knives off shelves after stabbing
+
+700 steps a day, living on street with trees, good for heart health 
+
+[violent world of flight attendants](https://edition.cnn.com/travel/article/flight-attendants-unruly-passengers-covid/index.html)
+abuse from passengers
+
+[smart toilets to track our health](https://www.wsj.com/articles/smartwatches-track-our-health-smart-toilets-arent-too-far-behind-11630771201)
+toilets full of cameras 
+
+chinese bitcoin miners moving to TX
+
+lawsuits against listening by siri, alexa, goog 
+
+ivermectin overdoses (horse dewormer)
+
+salesforce email service used for phishing 
+
+FB subcontracting content moderation for hundreds of M
+
+IBM 7nm CPU telum 16 cores, 5GHz
+
+el salvador adopting BTC as legal tender 
+
+Quantum breaking PK encryption still in doubt by NSA 
+
+AT&T drone "cell towers"
+
+deep mind wants to research the neuron more to refactor its machine learning systems 
+
+Beijing wants to take Didi over - state control 
+
+non-lethal warfare - electronic device reflects a person's voice 
+
+biotech: mini CRISPR
+
+AAPL hostile working conditions lawsuit 
+
+Air force software officer quits 
+
+RISC-V chips - competitor to ARM 
+looking for RISC-V expert 
+
+India DNA covid vax world first 
+
+AI cannot get US patents, only humans - judge ruling
+
 9/3
 
 huricaine ida death toll 40+
