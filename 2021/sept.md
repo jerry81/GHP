@@ -1,5 +1,42 @@
 [back](./index.md)
 
+9/7
+
+['mu' covid variant found in 49 states](https://www.msn.com/en-us/news/us/new-mu-covid-variant-now-found-in-49-u-s-states/ar-AAO9Uf6)
+
+unemp benefits expiring for americans
+
+men giving up on college, feeling lost 
+
+china wargames, flying nuke jets over twn
+
+[400B city in american desert](https://edition.cnn.com/style/article/telosa-marc-lore-blake-ingels-new-city/index.html)
+planned by billionaire marc lore (former walmart exec)
+5M population 
+architectural photos released 
+nevada
+
+porsche e-racing car: 1073HP Mission R
+
+[carrefour rolls out cashierless grocery store in dubai](https://apnews.com/article/technology-middle-east-business-2b682282869cb341730d0b34efcb0544)
+
+cali bill vs amzn productivity tracking algorithms
+
+AMZN software erroneously rejecting Ms of job candidates 
+
+Tesla leading way for EV to move away from silicon chips 
+silicon carbide vs standard silicon
+energy loss cut in half 
+used in model 3s
+SiC is third hardest known object 
+
+library e-books is a big business
+
+state of automation taking over jobs: 
+drive through order-takers 
+
+remote work has lead to boom in worker surveillance 
+
 9/6
 
 female boxer dies after being knocked out in ring 
