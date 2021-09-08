@@ -1,5 +1,22 @@
 [back](./index.md)
 
+9/8
+
+china wants to deploy to evacuated afghan base Bagram
+to mine rare minerals
+
+el salvador warld's largest bitcoin experiment.  people oppose, price plunges
+
+whatsapp mods read msgs 
+
+intel invests 95B eu chip-making 
+
+btc appeals more to countries with history of financial instability 
+
+substrates - hold chips on circuit boards in high demand
+
+toyoto spend 13.5B on EV battery tech 
+
 9/7
 
 ['mu' covid variant found in 49 states](https://www.msn.com/en-us/news/us/new-mu-covid-variant-now-found-in-49-u-s-states/ar-AAO9Uf6)
