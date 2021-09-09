@@ -1,5 +1,56 @@
 [back](./index.md)
 
+9/9
+
+covid cases 300% higher than a year ago
+summer of hope ends in gloom
+
+boston dynamics best fighting robots?
+
+move 3 mins every half hour to combat effects of sitting
+
+howard stern on antivax hosts who died: fuck them and fuck their freedom 
+
+amzn 2 cashier-less whole foods stores
+
+new mercedes reads driver's mind...
+
+acapulco quake 
+
+web news race
+1.  google
+2.  cnn
+3.  fox 
+4.  nyt 
+5.  yahoo news
+6.  drudge
+7.  washpost
+
+[germany redscare is real](https://www.politico.eu/article/germany-election-2021-red-scare-angela-merkel-cdu-armin-laschet-spd-olaf-scholz-greens/)
+merkel warns of far left gov 
+
+MIT makes advance towards fusion 
+20 tesla supermagnet 
+
+after chiding appl on privacy, germany admits it uses pegasus spyware 
+
+biden blueprint for solar 
+
+iceland - first carbon capture system 
+takes in co2, pumps it deep underground 
+4000 tons of co2 per year 
+stores for thousands of years 
+
+pandemic distracts from fight against HIV, TB, and malaria 
+
+paypal entry into buy now pay later market in asia: acquires japan's paidy for 2.7B
+
+SEC vs coinbase
+threatens lawsuit
+
+cruise ship satoshi was going to be first crypto cruise ship, escaping regulations and taxes
+failure?
+
 9/8
 
 china wants to deploy to evacuated afghan base Bagram
