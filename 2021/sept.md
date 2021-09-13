@@ -1,5 +1,63 @@
 [back](./index.md)
 
+9/13
+
+UK drops vax passport
+
+pedo judge kills self as fbi swoops in for arrest 
+
+rapper has gold chains implanted in skull 
+
+wozniak also has space startup
+
+men abandoning college degrees.  admission officers will discriminate against women?
+
+motorcycle vibrations damage iphone cameras?
+
+AMZN has open source fork of elastic search 
+
+new study: remote work threatens productivity/innovation
+
+pro-china misinformation operation targeting americans tries to exploit divisions over covid
+
+new battery techs - silicon powder 
+
+9-11 20 year anniversary 
+
+AI can now write computer code 
+
+sonos price hike for speakers 
+chip shortages 
+
+china bans all new video games indefinitely 
+tencent reveals
+
+study: too much free time bad for you
+
+hackers paid 6 figures to find bugs for appl
+
+msft: win 11 99.8% crash free experience
+
+sperm freezing companies 
+
+judge in epic vs appl : aapl restrictions are anti-competitive 
+
+amzn may become largest quantum consumer 
+
+aapl watch software chief takes over self driving car project 
+
+yandex, of russia, repels largest DDos attack in history 
+
+AMZN cover 100% tution for hourly employees 
+
+FB rayban smart sunglasses 
+
+AMZN TV line launched 
+
+AMZN 21M state-of-art warehouse in tiajuana slum 
+
+
+
 9/9
 
 covid cases 300% higher than a year ago
