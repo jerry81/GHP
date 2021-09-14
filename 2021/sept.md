@@ -1,5 +1,31 @@
 [back](./index.md)
 
+9/14
+
+dem tax rate higher than commie china
+nyc 61.2%
+
+howard stern roasts joe rogan for taking horse pills 
+
+aaron rodgers benched
+
+Uber drivers are employees says dutch court 
+
+new ai app swaps women into porn vids with a click
+
+Intuit purchase Mailchimp for 12B
+
+talent gap in IT growing 
+
+firm raises 15m wants to bring back wooly mammonth
+
+el salvador btc rollout 
+technical glitches 
+
+walmart will accept litecoin
+
+epic looses to appl in app store case 
+
 9/13
 
 UK drops vax passport
@@ -55,8 +81,6 @@ FB rayban smart sunglasses
 AMZN TV line launched 
 
 AMZN 21M state-of-art warehouse in tiajuana slum 
-
-
 
 9/9
 
