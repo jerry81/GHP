@@ -1,5 +1,39 @@
 [back](./index.md)
 
+9/15
+
+newsom wins in landslide 
+recall vote 
+heavy tournout, SF overwhelming support
+
+general - feared trump would use nukes in last days
+
+thiel hates copycats
+
+FB admits insta toxic for teens 
+
+HBO jagged documentary about alanis morrisette 
+
+norm mcdonald dead 
+
+biden approval - 41%
+
+texas storm
+
+2/3 biz struggling to hire 
+
+eye conditions like cataracts have increased chance of getting dementia
+
+new ipad 5g, usb-c
+
+india/sg link payment systems 
+
+meat - 60% greenhouse gases 
+
+china to break up alipay 
+
+
+
 9/14
 
 dem tax rate higher than commie china
