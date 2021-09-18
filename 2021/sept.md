@@ -57,6 +57,30 @@ miners disguised as data researchers and storage facilities
 
 amc accept cryptos other than bitcoin 
 
+new msft office next month no subscription payment needed 
+oct5 win11 rollout too 
+
+wikipedia bans 7 chinese users for infiltration 
+
+IG boss argues that social media as deadly as cars 
+anxiety and depression for teen girls 
+congress investigating that IG harms teens
+
+AMD prepared to make arm chips
+
+[zhao wei erased from internet](https://slashdot.org/story/21/09/16/1518241/chinas-biggest-movie-star-was-erased-from-the-internet-and-the-mystery-is-why#comments)
+gov halt unhealthy celebrity culture 
+
+NASA: thousands of volcanic eruptions on mars
+
+Travis CI flaw exposed thousands of open source projects
+
+spacex launches first tourist crew into orbit 
+
+AMZN cloud exec jumped to MSFT cybersecurity division
+
+Anonymous hacks Epik web hosting company
+
 
 
 9/15
