@@ -81,7 +81,13 @@ AMZN cloud exec jumped to MSFT cybersecurity division
 
 Anonymous hacks Epik web hosting company
 
+passwordless msft account - replaced with msft authenticator app on phone + windows hello (security key) or email verification
 
+uber CTO to step down 
+Sukumar Rathnam 
+at odds with Product officer 
+
+kindle UI overhaul 
 
 9/15
 
