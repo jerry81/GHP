@@ -1,5 +1,64 @@
 [back](./index.md)
 
+9/18
+
+fed investigation on insider tading 
+
+book: biden calls trump f-ing ahole
+
+[colin huang, pinduoduo largest wealth drop ever 27B](https://www.the-sun.com/news/3683077/tycoon-fortune-slashed-biggest-wealth-drops-ever/)
+35.2B to 208M
+masayoshi son 76B to 1.1B (softbank)
+reason, vunerable to the crackdown 
+
+dolphin kills self after seperated from human lover 
+
+marijuana farms sucking up west's scarce water 
+
+usa-aus attempting to exploit china submarine weakness
+
+wall str influencers make 500K 
+topping bankers 
+
+drug tests being nixed at companies because of worker scarcity 
+
+wuhan lab creates super-powerful virus 
+
+tesla to open full self driving software to owners with good driving record
+
+makeup can defeat facial recog tech 
+
+rolls royce all electric aircraft makes 15min maiden voyage 
+
+FDA rejects pfizer covid booster to general public 
+
+volcanic sources of carbon caused history's bigest mass extinction end-permian mass extinction 
+252 M years ago 
+killed 90 percent marine species and 70 percent terrestial 
+
+astrophysics - second type of dark energy discovered
+
+skorea to suspend crypto next week - new regulations coming 
+real name identification 
+
+tencent forced to open links to rival content - first time in years 
+anti-trust action from beijing 
+
+telegram is new dark web for cyber crime
+
+solar power may drive synthetic fuel industry 
+
+razer mechanical keyboards 
+
+Lucid Air: Electric sedan 520Mi radius destroys tesla Model s long range 
+
+china hunt for crypto miners intensifies 
+miners disguised as data researchers and storage facilities 
+
+amc accept cryptos other than bitcoin 
+
+
+
 9/15
 
 newsom wins in landslide 
