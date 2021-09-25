@@ -1,5 +1,32 @@
 [back](./index.md)
 
+9/25
+
+- china declares all transactions illegal
+- robinhood tests e-wallet
+- cnn andrew cuomo accused of sexual harrassment
+- elon musk grimes split
+- legal gamlbing rise
+- coal plant mining btc for util company
+- chinese scientists - starch from co2
+  - economically viable
+- facebook fiber to expand to rural VA
+- meng wenzhou released (huawei)
+
+9/24
+- william shatner to fly on blue origin
+- electronic monitoring - most restrictive form of control besides prison
+- CA mandate zero-emission EV autonomous vehicles by 2030
+
+9/23
+- engis: cook 3d-printed chicken with lasers
+- impossible foods: meatless pork in US, hongkong, singapore
+- cali law targets amzn labor algorithms
+- NY - delivery worker conditions improvements
+- zero day hacks in one year record set in 2021
+![zero day attack](./zero-day.png "zero day attack")
+
+
 9/18
 
 fed investigation on insider tading 
