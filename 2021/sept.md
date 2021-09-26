@@ -25,7 +25,8 @@
 - NY - delivery worker conditions improvements
 - zero day hacks in one year record set in 2021
 ![zero day attack](./zero-day.png "zero day attack")
-
+- linkedin hacked 700 records leaked
+- 
 
 9/18
 
