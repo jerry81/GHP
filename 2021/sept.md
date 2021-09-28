@@ -1,5 +1,43 @@
 [back](./index.md)
 
+9/28
+
+- r kelly guilty of sex trafficking, life in prison?
+- germany replacement for merkel, left politics
+- biden third dose 
+- amtrak derail accident
+- UK fuel shortages
+- berlin first female mayor
+- social anxiety up during pandemic for young
+- korean prez ban eat dog meat
+- tom brady to return to new england?
+- tesla getting sued over power grid failures in Aus
+- google in aftermath of EU fine, says "What about apple?"
+- coinbase allows paycheck to account service
+- FB spending to "responsibly" develop the AR/VR metaverse
+- USA drops huawei CFO fraud charges
+- FB halts IG for kids
+- tiktok 1B active users
+- US Space force works with rocket lab, spacex, blue origin, ULA for next gen rocket testing
+- cloudflare to enter email security
+- IBM autonomous boat fail, trying again
+- BTC miners looking towards nuke power
+- world's longest cave system in kentucky
+
+9/26
+
+- Us military - plans to build transportable nuke reactor
+- samsung: copy and paste brain onto AI chips
+- hamster trading crypto outperforms warren buffet
+- chipmakers urge carmakers to get out of semiconductor stoneage
+  - obsolete tech, over 10 years old
+- US power company abandons 6B nuke power plant
+- America has 26k bitcoin ATMs and installing hundreds more every week
+- generate antimatter in lab?
+- linux 30 years birthday
+- semiconductor shortage getting worse
+- chris pratt as mario in new animated movie
+
 9/25
 
 - china declares all transactions illegal
