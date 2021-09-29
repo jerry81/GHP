@@ -1,5 +1,13 @@
 [back](./index.md)
 
+9/29
+
+- fed scandal with pumping stocks
+- lebron, skeptical still gets covid dose
+- stocks down 2.8%, worst since march
+- oil 3 year high
+- eli manning double middle fingers on Monday night football
+
 9/28
 
 - r kelly guilty of sex trafficking, life in prison?
