@@ -7,6 +7,14 @@
 - stocks down 2.8%, worst since march
 - oil 3 year high
 - eli manning double middle fingers on Monday night football
+- taco bell payments using dogecoin?
+- everyone's hiring but nobody's getting hired
+- attacking otters
+- AMZN home robot roams around house
+  - astro robot tracks everything you do to help surveil and helper duties
+- big tech companies now amassing property
+- first planet to orbit 3 stars at once
+- 1password - hide my email feature
 
 9/28
 
