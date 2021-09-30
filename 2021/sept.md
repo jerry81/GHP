@@ -1,5 +1,32 @@
 [back](./index.md)
 
+9/30
+
+- youtube bans antivax content
+- UA fires employees refusing shot
+- dementia prevention: happiness
+- angriest society in history?
+- bacon record high 
+- Gene editing allows patient to see color again 
+- americans check smartphone 96 times a day
+- daniel craig's final bond 
+- most stock traders believe stock markets are rigged, and they are right 
+- domanine rush hunt in VR
+- mice that experience defeat get depressed 
+- pacquiao announces retirement
+- police warn: cannabis candy for halloween 
+- AI completes beethoven's unfinished 10th symphony 
+- rivian R1T electric pickup reviews out 
+- rolls royce stop making gas cars by 2030 
+- us wants to slow china's innovation rate 
+  - by cracking down in IP theft
+  - team up with europe 
+  - focused areas include semiconductors
+- xiaomi mobile phone watched by german watchdog
+- chromebook demand down as pandemic eases
+- goog introduces new features attempts to add more context 
+- gene editing makes hardier farm breeds
+
 9/29
 
 - fed scandal with pumping stocks
