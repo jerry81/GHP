@@ -20,3 +20,5 @@
 [August](aug.md)
 
 [Sept](sept.md)
+
+[Oct](oct.md)
