@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+10/3
+
+- gronk to leave new england
+- pelosi legacy: most powerful member of congress ever 
+- taiwan angry about china air incursion
+- beijing cracking down on false idols
+- miami mayor wants to build new, cryptofriendly silicon valley
+- neiman marcus discloses 2020 data breach - 4.8M customers
+- linus compliments the linux community for loyalty - since 1991
+- GM scraps hands free highway driving feature due to chip shortage
+- netflix discloses top shows and movies of all time - lupin, witcher, extraction movie, birdbox 
+- AMZN, GOOG, MSFT, IBM working together to protect rights and privacy of cloud users 
+- FB big germany crackdown 
+- people enjoy deep convos with strangers
+- Merck covid pill named moinupiravir
+
 10/2
 
 - covid pill - cuts hospitalization death in half 
