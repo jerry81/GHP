@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+10/4
+
+- china warplanes over taiwan 
+- largest leak of rich and famous 
+- south cali coast, massive oil spill
+  - dead fish, birds
+- alaskan salmon vanishing
+- since 1950, many pedophiles in catholic church
+- philipines duerte to retire
+- what's keeping carmakers from switching to newer chips?
+- coronavirus getting more efficient at airborne transmission?
+- competition among ransomware gangs
+- another tesla record for deliveries
+- high-power lasers may play big role in quantum research
+- another covid origin report: strengthens argument for wetmarket origin, weakens lab-leak theory
+- internet outages due to expieration of Let's encrypt certificates
+
 10/3
 
 - gronk to leave new england
