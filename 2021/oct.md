@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+10/5
+
+- FB shutdown for 7 hrs
+  - zuck loses Bs
+- Amtrak shooting, DEA agent killed
+- startup experiments with 3day work week
+- andrew yang leaves democratic party
+- whisteblower highlights ughyr torture
+- A DeFi bug put 162M up for grabs
+- UK to invest 5B pounds in retaliatory cyberattacks
+- Android 12 release
+- MSFT releases win 11 a day early
+
 10/4
 
 - china warplanes over taiwan 
