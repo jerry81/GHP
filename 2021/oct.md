@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+10/7
+
+- studying shadows: blank walls can be used for spying 
+- new appl requirement - way to delete account by 2022
+- china bought more dna testing kits before first known covid cases says firm
+- windows 11 performance on ryzen cpu issues AMD warns
+- europe calls for ban on facial recog 
+- ecology: earth getting dimmer 
+- zodiac killer finally identified died in 2018 
+- goog invest 1B in africa over 5 years
+- Appl EU antitrust charge over nfc chips
+- nobel prize in chem scientists created tool to build molecules
+  - physics go to global warming predictors
+- D-wave quantum computing plans - new hardware, compiler, plans
+- UN warns global water crisis
+- dna as storage: scientists successfully record data to dna albiet for a few short minutes
+- GOOG will turn on MFA for users by default 
+- during FB outage, telegram gained 70M users
+- russian actress and director to make first movie on space station
+- AMZN smart fridge
+- Steve jobs death 10 year anniversary
+- BTC becomes legal payment in brazil 
+- apache webserver patches zero day
+- surgically implanted brain device helps with depression
+- germany first ever synthetic kerosene plant
+- no organ transplants for unvax
+- USA warns of incoming default
+- TX legal battle over abortion 
+- Twitch hack (user passwords lost)
+- 15 years given for man spreading covid hoax on FB
+- italy flooding 
+- seattle decrims psychadelics
+- usa feels pressure to aid taiwan with chinese jets flying over
+
 10/5
 
 - FB shutdown for 7 hrs
