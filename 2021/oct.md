@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+10/8
+
+- telsa hq moves to texas 
+  - alameda county blocked full reopening of plant 
+  - but still expanding cali activities 
+  - and giga nevada 
+- changes made to sf's leaning tower causes it to sink more 
+- south china sea us submarine collision
+- man survives 9 story fall onto bmw 
+- china passes usa economically?
+- marines in taiwan - beijing outraged
+- iran emerging as drone threat 
+  - ai used to select targets from satellite photos
+- comcast's sky wants to get into tv with sky glass
+- us treasury secretary steven mnuchin - stablecoins "shouldn't be regulated like casino chips"
+- TSMC after us request, refuses to leak sensitive info 
+- MSFT says russia behind 58% of state-backed hacks
+- norway to be 100% ev sales by early next year 
+- robots taking over italian vineyards
+- goog maps new feature - most fuel efficient route
+- 
+
 10/7
 
 - studying shadows: blank walls can be used for spying 
