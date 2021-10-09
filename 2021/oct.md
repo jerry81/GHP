@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+10/9
+
+- 136 countries agree on [global tax (15% for corporations)](https://www.cnbc.com/2021/10/08/oecd-reaches-deal-on-corporate-tax-after-ireland-agrees.html)
+- inflation - oil up to 80usd
+- adele transformation 
+  - slimmer 
+- deepfake as a weapon
+- pseudosci: sense of purpose boosts memory
+- chappelle new netflix special criticized about lgbt jokes
+  - the closer
+- matt mcconaughey may run for gov 
+- [waldorf hotel, park avenue bought by chinese Wu Xiaohui gets huge renovation](https://www.bloomberg.com/news/features/2021-10-08/waldorf-astoria-inside-the-renovation-slated-for-condos-hotel-owned-by-china)
+  - 18.5 for four bedroom apartment 
+- neuroscientists release comprehensive atlas of brain cells
+- russian hackers target gmail
+- elon musk spacex 100B valuation
+- brewdog data leak 
+- FB more issues 
+- twitch hack - background images of games replaced with jeff bezos
+- MSFT waves the right to repair flag 
+- intel backs out of UK chip factory due to brexit
+
 10/8
 
 - telsa hq moves to texas 
@@ -20,7 +42,6 @@
 - norway to be 100% ev sales by early next year 
 - robots taking over italian vineyards
 - goog maps new feature - most fuel efficient route
-- 
 
 10/7
 
