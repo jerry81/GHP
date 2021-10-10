@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+10/10
+
+- experts not sure if covid waves are over
+- VA gov race
+- lebanon blackout 
+- storytelling makes hearts beat as one
+- robots do all the work in a nissan plant
+- ambani, musk, bezos 100B club
+  - india's reliance industries
+  - oil refining and petrochem
+- "lamb" horror movie about lamb/human hybrid
+- python becomes #1 language
+- tech firms hiring from everywhere not just tech hubs
+- Due to climate change - tx 3 deg hotter
+  - will have twice as many 100deg days
+- white house pushes crypto oversight
+- 
+
 10/9
 
 - 136 countries agree on [global tax (15% for corporations)](https://www.cnbc.com/2021/10/08/oecd-reaches-deal-on-corporate-tax-after-ireland-agrees.html)
