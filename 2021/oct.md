@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+10/11
+
+- bond not doing well in US, but better globally
+- 100s of 1000s of troops defy vax mandate
+- LA man tries to hit crowd with truck, pulled out and beaten to death
+- lebanon signal of global energy crisis?
+- southwest rampant flight cancellations 
+- linux and mac computers get time zones frmo same db 
+- ca to ban gas powered leaf blowers and powers
+- cosmic gamma ray explosion was russian space junk
+- BTC could provide demand for nuke power
+- Ars Technica: best part of windows 11 is linux aka WSL windows subsystem for linux
+- automaker response to fewer chips: prioritize high-markup vehicles, offer fewer deals
+
 10/10
 
 - experts not sure if covid waves are over
