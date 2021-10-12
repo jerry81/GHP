@@ -10,6 +10,20 @@
 - paul says john caused the beatles split 
 - china "won" battle with usa in AI, ex-software cheif at pentagon says 
 - netflix drama over chappelle special
+- china remotely shuts down dancing grannies' stereos
+- brussels pressured to add nuke energy to green energy list 
+- goog looking to expand fuchsia os applications to other places than nest hub
+- germany first self-driving train 
+- credit card companies visa and mastercard becoming regulators of web 
+- TSMC 7B plant in japan
+- amazn allows emps to work remotely indefinitely 
+- aapl victory over epic "isn't enough"
+- nuke fusion as a cure for climate change?
+- qualcomm CEO scrambles to cope with chip crisis
+- FB success built on algorithms
+- Honduras: a failed silicon valley funded libertarian startup city
+- VPNs now superfluous if using it just for security purposes
+  - all traffic is https now 
 
 10/11
 
