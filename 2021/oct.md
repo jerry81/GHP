@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+10/12
+
+- southwest cancellations make headlines
+- [Jamie Dimon](https://en.wikipedia.org/wiki/Jamie_Dimon), chairman of JP Morgan calls bitcoin worthless
+- MERCK wants FDA approval for virus pill 
+- superman gay?
+- mars desert condition simulations for living 
+- paul says john caused the beatles split 
+- china "won" battle with usa in AI, ex-software cheif at pentagon says 
+- netflix drama over chappelle special
+
 10/11
 
 - bond not doing well in US, but better globally
