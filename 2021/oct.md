@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+10/13
+
+- SW airline pilots warnings about fatigue and frustration 
+- more leaving office life for farm life 
+- fb secret blacklist of "dangerous" groups and individuals
+- 5$ a gallon for gas in NYC 
+- MSFT claims it blocked biggest cyberattack ever
+  - 2.4 Tbps DDoS attack
+- in wake of FB [why does internet keep breaking?](https://www.bbc.com/news/business-58873472)
+- aapl feeling pressure from xi's crackdown 
+- robotics engi adds usbc port to iphone
+- msft puts win subsystem for linux on app store for fast updating
+- new leverage empowers workers to quit 
+  - study mostly included restaurant, bar, hotels jobs 
+- magic leap raises another 500M for another AR headset
+- coinbase marketplace for nft
+- Peter Norvig: AI expert, leaves google, joins stanford
+
 10/12
 
 - southwest cancellations make headlines
@@ -8,7 +26,7 @@
 - superman gay?
 - mars desert condition simulations for living 
 - paul says john caused the beatles split 
-- china "won" battle with usa in AI, ex-software cheif at pentagon says 
+- china "won" battle with usa in AI, ex-software chief at pentagon says 
 - netflix drama over chappelle special
 - china remotely shuts down dancing grannies' stereos
 - brussels pressured to add nuke energy to green energy list 
