@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+10/14
+
+- will shatner to go into space on blue origin
+  - oldest in space
+- docs prove amazon rigged search to promote own products, also product plagarism
+- regulators: want answers from tesla about lack of recalls
+- snow storm hits early near rocky mountains
+- country music mired in controveries
+- walmart, fedex, ups move to "24/7" model
+- oldest white rhino 54 dies 
+- leprosy in wild chimpanzees
+- mass blood testing in wuhan 
+- netflix squid game sets records 
+- robot dogs with rifles mounted on back
+- terrorism in norway - bow-and-arrow rampage 5 dead
+  - suspect arrested
+- appl argues against app sideloading by pointing out android malware figures
+- low dose aspirin as heart attack prevention 
+- rewinding ai fake face generators
+- cisco aims to make a MSFT-like comeback
+- activision new anti-cheat system 
+- china solar power reaches price parity with coal 
+- FAST: world's largest radio telescope 
+- europe top meat producer: steak will be champagne like luxury - due to climate change
+- america "everything shortage" 
+- us passes china in btc mining after cn ban 
+- win 11 patch makes amd cpu performance even worse
+- appl iphone production cuts due to chip crunch
+
 10/13
 
 - SW airline pilots warnings about fatigue and frustration 
