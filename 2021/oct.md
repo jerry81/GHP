@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+10/15
+
+- prince william on branson/musk/bezos: earth first!
+- queen advised to give up daily drinking
+- zuck personal project: AI that sees hears and understands everything we do 
+- bumblebees facing extinction 
+- shorter work week worked in iceland
+  - [participants reduced hrs by 3 - 5 hrs without losing pay](https://www.msn.com/en-us/money/companies/the-shorter-work-week-really-worked-in-iceland-here-e2-80-99s-how/ar-AAPvuG6)
+- netflix ceo under fire for defending chappelle special
+- miami mayor - pay with bitcoin?
+- modular laptop - easily repaired/upgraded
+- musk: starlink provide faster internet speed on airlines
+- ted cruz: TX btc mining may fix electric grid
+- FB early investor: people have lost trust in company
+- putin: accepts crypto as currency for making payments 
+- MSFT shuts down linkedin in china
+- biden: expansion of wind farms off US coasts
+
 10/14
 
 - will shatner to go into space on blue origin
