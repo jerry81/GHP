@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+10/17
+
+- elon wealth hits 200B
+- negotiations over hollywood strike
+- adele new streaming single
+- afghanis selling children, extreme destitution
+- china hypersonic missle
+- baseball robot umpires?
+- Gitlab IPO valued at 15B
+- proposed change for python may speed it up dramatically
+- BTC rises to 60K 50% up in 24 days
+- epic open to using blockchain and crypto in games
+- drones deliver lungs in medical transplants
+- 737 max chief tech pilot indicted for fraud
+- jack dorsey square building OSS bitcoin mining system
+- 7-11 collecting facial imagery
+- guns on robot dogs
+- china apple takes down a koran app 
+
 10/15
 
 - prince william on branson/musk/bezos: earth first!
@@ -17,6 +36,7 @@
 - putin: accepts crypto as currency for making payments 
 - MSFT shuts down linkedin in china
 - biden: expansion of wind farms off US coasts
+- 
 
 10/14
 
