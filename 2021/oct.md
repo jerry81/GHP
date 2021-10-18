@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+10/18
+
+- US intelligence scared by China hypersonic missle tech
+- bill clinton spent 5 days in hospital 
+- matt mcconaughey for tx gov?
+- musk now richer than gates and buffet combined
+- car salesmen finding themselves without thigns to do 
+- japan warns of 6th wave
+- SNL ratings at all time low 
+- psychosis caes up 
+- kayne wears strange white mask in venice
+- study: ridesharing actually increases pollution and congestion
+- 5G lobbyist: autonomous vehicles may take a long time to reach cities
+- el salvador bitcoin project 1 month anniversary
+  - not a popular decision
+  - price of bitcoin immediately dropped
+  - bugs and glitches on ATMs, state-run wallet
+  - rushed
+- AMZN textbook rental service
+- LA ghost gun problem: a gun without serial number, licensed manufacture, impossible to track
+
 10/17
 
 - elon wealth hits 200B
