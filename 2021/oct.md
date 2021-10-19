@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+10/19
+- RIP colin powel
+  - dead from covid
+- new type of meth creating mental illnesses
+- 30 minute naps for memory, motor skills
+- fasting boosts life span 
+- fed scandals - chairman investigated
+- FB to hire 10k workers to build metaverse in europe
+- BTC [etf](https://www.investopedia.com/terms/e/etf.asp) exhcnage-traded fund to hit market
+- macos monterey oct 25 rollout
+- airpod 3 rolls out next week, new design, spatial audio
+- AAPL M1 Pro and M1 Max
+  - SoC - faster memory, performance per watt, power efficiency, mem bandwidth capcity
+- US treasury - 5.2B bitcoin ransomware payments
+- intel recent manufacturing problems blames predecessors 
+
 10/18
 
 - US intelligence scared by China hypersonic missle tech
