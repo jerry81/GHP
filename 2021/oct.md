@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+10/20
+
+- food shortages may be next supply chain nightmare 
+  - people starting to hoard food
+  - farmers worry could get worse
+- worker shortage: does this mean unemployment down?
+- chickenpox shot lasts 20 years, why not covid
+- japan yakuza mob weakening
+- men with high testosterone more likely to cheat 
+- netflix soaring after squid game
+- 26% of malicious js code is obfuscated 
+- brave removes goog as default search engine 
+- new macbook has hdmi 2.0 port
+- teen girl tics epidemic blamed on tiktok 
+- goog tech for call centers features for seeing wait times, phone tree options
+- dell salaries disclosed 
+- many germans believe in homeopathy despite no evidence it works
+- FDA wants you to buy hearing aid without Rx
+- goog pixel 6
+- 99% scientists agree climate emergency caused by humans
+- hacker steals argentina's gov id db
+- former netflix exec 7 yrs for bribery
+- einstein theory of general relatively proven again by star's path around black hole
+- SEC reviews gamestop surge: individual investors, policies dont need to change 
+- radiant, cali company, wants to make small nuke reactors to replace diesel generators
+
 10/19
 - RIP colin powel
   - dead from covid
