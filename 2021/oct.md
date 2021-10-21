@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+10/21
+
+- booster mandate coming?
+- stocks and bitcoin both hit new high
+- musk to become world's first trillionaire?
+- GOOG tests drone delivery of toothpaste in TX
+- dune review: spice wars mirror today's global econ
+- chappelle netflix wars escalate
+  - netflix employee walkout 
+- queen of england health issues
+- beijing growing threat in space
+- at china's request, took cook removes yahoo app
+- raspberry pi first ever price increase
+- man arrested for uncensoring japanese porn using AI deepfake
+- fda approves mixing covid vax
+- lab-grown coffee coming
+  - cross between coffee and black tea 
+- sinclair broadcast hacked by russians 
+- paypal looking to purchase pintrest, 39B
+- micron (USA) to build 7B plant in japan - DRAM production 
+- BTC rises above 65K
+- recycled Li batteries work as good as new
+- US surgeons: successful pig kidney to human transplant
+- cowboy bebop teaser netflix - animated, john cho 
+
 10/20
 
 - food shortages may be next supply chain nightmare 
