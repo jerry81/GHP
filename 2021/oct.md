@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+10/22
+
+- gas at 7.59 in CA town
+- biden struggling with supply chain crisis 
+- backlog of cargo ships at socal ports
+- queen, 95, has to spend night in hospital 
+- hedge funds grow 5x
+- stephen crowder says "agressively asian face" mocking reporter betty yu 
+- thiel admits he underinvested in bitcoin 
+- shrooms and lsd surging in LA 
+- kanter (celtics makes comment on china, celtics wiped from chinese broadcasts)
+- steak knife made of hardened wood, 3X sharper than steel
+- GPSD - system that gets time from GPS system will switch time keeping system sto 2002 unless you update 
+- AMD and MSFT issue ryzen cpu patches 
+- blue paint shortage
+- VR treatment for lazy eye in children get FDA approval 
+- fed: ban policymakers from owning individual stocks
+- twitter algorithms accused of favoring right
+- AMZN surpasses fedex as shipper
+- google lowers play store fees on subs to 15%, as low as 10%
+- eyeball scans for crypto at Worldcoin
+- Roku wanted to strike deal with Youtube, failed
+- AAPL product design improves after jony ive leaves
+- trump social media platform "Truth Social"
+
 10/21
 
 - booster mandate coming?
