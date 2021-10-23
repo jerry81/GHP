@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+10/23
+
+- prop gun accident on alec baldwin movie set
+- definition of "fully vaccinated" keeps changing
+- phoenix suns owner sex harrassment
+- mike pence possible '24 run 
+- biden makes threatening comments about taiwan, beijing vows no concessions
+- intel accuses china of collecting genetic data 
+- Russians invading alaskan airspace 
+- intel's future depends on making others' chips
+  - aapl, goog, amzn moving away from intel chips and towards their own designs
+- NATO launches 1B fund and AI strategy 
+- China top chipmaker SMIC 
+- Alexa collects most data out of all smart assistants
+- twn math teacher puts lessons on pornhub, says youtube too saturated
+- intel bug catching AI tool
+- china two hypersonic weapon tests this past summer
+- ISPs want more money b/c squid game streaming
+  - collect and sell "horrifying" amount of sensitive data
+- India 1B covid vax
+- Lockheed joint project: starlab - private space station in 2027
+
 10/22
 
 - gas at 7.59 in CA town
