@@ -1,5 +1,14 @@
 [Back](./index.md)
 
+10/24
+
+- dems aim to pass a bill that targets 700 wealthiest americans
+- us considering national cloud to compete with China AI
+- AI startup databricks valued at 26B
+- astronomers can observe an exploding star
+- systemd - linux initialization and program booting program, said to be inflexible
+- vs code for the web released by MSFT
+
 10/23
 
 - prop gun accident on alec baldwin movie set
