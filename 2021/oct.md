@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+10/25
+- alec baldwin manslaughter charges
+- crypto to replace USD as world reserve currency?
+- AI playing bigger part in military 
+- STDs at all time high in America
+- delta8 thc straigh deemed illegal by TX
+- RU CN joint patrols in pacific
+- celtics support kanter criticisms 
+- autonomous car racing
+- twn 6.5 mag quake 
+- tahoe snowstorm 
+- xpeng flying car that also drives on roads planned for 2024 
+  - also bionic horse 
+- thiel warns about surveillance AI
+- man steals 178M fb users' data, gets sued by FB
+
 10/24
 
 - dems aim to pass a bill that targets 700 wealthiest americans
