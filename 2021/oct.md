@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+10/26
+- FB big leak 
+  - internal dissent over sites' policies 
+  - conspiratoral actions
+  - ammo for antitrust 
+- anti-biden raps on itunes
+- kanter continues vs nike: stop slavery
+- china moving to remove domed mosques 
+- indie dev: linux users generate more/better bug reports
+- intel alder lake pre-release - beats m1 max in benchmarks
+- china outbreak in the north
+- aapl vs DOJ antitrust
+- windows xp 20 yrs old, many still use it
+- AMZN HR problem: paid and unpaid leave handling
+- Tesla 1T market cap 
+- macos monterey available to dl 
+- ultra precise clock measure distance bewteen top and bottom of milimeter-tall cloud of atoms 
+- Mastercard - crypto credit and debit cards
+- AMC onscreen captions at some locations
+- MSFT open source office
+- china's rising emission levels dirty secret: pollution from state-run companies 
+
 10/25
 - alec baldwin manslaughter charges
 - crypto to replace USD as world reserve currency?
