@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+10/27
+- most expensive thanksgiving ever
+  - inflation, wall st records
+- tesla lowest revenue company ever to hit 1T
+- Jack ma disappears, ali loses 497B
+- Bezos plans luxury space station
+- Goog doubles profit - red hot ad market
+- CN launch anti-satellite weapon to space 
+- dems plan 5T in taxes on billionaires 
+- restaurant staff shortage, recruiting customers
+- [tik tok star, ali abulaban accused of double murder](https://www.fox5ny.com/news/california-tiktok-star-pleads-not-guilty-to-double-murder)
+- college enrollments down (50 year low)
+- baldwin faces criminal charges, manslaughter
+- 3d printed houses near austin
+- marijuana to treat depression and anxiety
+- ipod came out 2 decades ago
+- adobe creative cloud to M1 macs and web
+- tiktok "we do not give info to china"
+- PAX tech: point-of-sale 
+- photoshop: prepare as NFT option coming soon
+- 150 arrests in darknet (opioids)
+- AMZN joins quantum computer race, caltec center
+  - Also a clubhouse competitor
+  - Alexa in hospitals
+- china 2060 goal: cut fossil fuels down to below 20%
+- FB to spend 10B on metaverse
+- greenhouse gas levels actually hit new high in 2020, despite pandemic
+- Physical Chem: Argon Flouride laser - practical fusion lasers
+
 10/26
 - FB big leak 
   - internal dissent over sites' policies 
