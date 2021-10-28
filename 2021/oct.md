@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+10/28
+- cdc proposes 4th covid shot
+  - and yearly booster
+- in-and-outs getting closed for rule violation
+- dem wealthy tax proposal in chaos
+- netflix algorithm protected by first amendment 
+- tiktok stance on chinese access to user data: won't disclose 
+- cigarette sales rise first time in 20 yrs
+- abba comeback gambles its legacy
+- mexico cartel shootout kills tourists, sends troops
+- soccer's first gay player comes out 
+- robot to referee world cup 22 
+- age checks coming to web
+- cyberattack on iran gas stations
+- latest crypto hack 130M (cream finance)
+- McDs and IBM partner to automate drive-thru lanes
+- Stripe (payment company) kick starting carbon removal market
+- P vs NP problem: why are some problems harder than others
+  - what problems will computers realistically solve
+  - how much time does it take 
+  - 50 year old problem
+- Android 12L - improvement for folding phones
+- nvidia 54B arm bid still going, EU regulations probe, setback 
+- Underline: new startup with funding from AOL founders wants to challenge big broadband
+- MSFT closing in on Appl, race for most valuable firm
+- France protects book industry from AMZN
+- bezos blue origin tourist space station plan: nearly as big as ISS
+
 10/27
 - most expensive thanksgiving ever
   - inflation, wall st records
