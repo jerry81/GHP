@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+10/29
+- cuomo arrested for sex crimes 
+- fb changes name to Meta
+- NYC AG letita james, going to run for gov 
+- nyc judge denices NYPD bid to stop vax mandate
+- could mean 25% workers forced to go home 
+- AA plane drama: passenger bloodies flight attendant 
+- gdp slows to 2%
+- oil crunch causing food prices to soar
+  - christmas tree shortage
+  - AMZN earnings down
+  - AAPL falls short of expectations
+  - chip shortage worsening
+- musk/bezos worth half T
+- us general now says china military progress stunning
+- msft: billions of passwords hacked
+- doc invents unisex condom
+- modular home startup Cover: modeled after tesla, gets 60M series B funding
+- BTC back to over 60k el salvador buys 420 BTC
+- global covid deaths and cases rise first time in 2 months
+- MSFT collab with community colleges, fill 250K cyber jobs
+- FB metaverse plan
+  - horizon home: home screen on oculus quest 
+  - messenger calling in VR
+  - 2d apps to vr
+  - horizon marketplace 
+  - spark AR dev tools 
+- mark cuban to give away btc for 48 hrs
+- counting co2 is a difficult and expensive business
+  - aka carbon accounting
+- Goog sends warning to customers about antitrust affecting their smaller affiliates
+- antidepressant as covid treatment?
+- cn new quantum computer - 1M times the power of googles' 
+
 10/28
 - cdc proposes 4th covid shot
   - and yearly booster
