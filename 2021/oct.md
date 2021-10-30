@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+10/30
+- 5% adults have quit job to protest vax
+- KISS band tech dies of covid, roadies blame band
+- msft becomes worlds' wealthiest
+- silicon valley biotech: turn blood into human eggs
+- lady gaga to star in house of gucci 
+- CO firm claim: triple power of electric engines
+- us intel concludes: China didn't weaponize covid, didn't have knowledge of it
+- carmack skeptical of the metaverse
+- toyota bz, new electric car
+- pubg owned by s.korean company krafton
+- govs cracking down on criminals using crypto 
+- us working with twn to secure chip supply chain
+- sun fires a major solar flare
+- mri and ultrasound to transmit anti-cancer drugs to brain?
+
 10/29
 - cuomo arrested for sex crimes 
 - fb changes name to Meta
