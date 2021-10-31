@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+10/31
+- AA cancels 1400s of flights
+- wearing mask as way of covering up social anxiety
+- weed fueled athletes?
+- ["runner's high" and mj high similar](https://news.yahoo.com/weed-jocks-best-bud-dont-030254320.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kcnVkZ2VyZXBvcnQuY29tLw&guce_referrer_sig=AQAAAAR9jgdNhkfi6tDOE8Bmi0IA9XuPDO8Nl8KTtjKui14ej3w12jLbH8NRRG7OwE0h1YYE2htGmK7OEUYa-qBl84OXAm6yUm5XEvHgeTXUII-ifCFaw8fIVFbO2WN4kCpCLtkOfv6QIujlmGNG6fKrogtHLuj0CfIz4Vci7DC6SPWJ)
+- [great pacific garbage patch - double the size of tx](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch)
+- tesla new feature - remotely connect to camera, talk to people
+- nuke upgrade: power&accuracy
+- benchmark "Clear linux" faster than win 11, but win 11 faster than ubuntu and arch linux
+- [clear linux is optimized for running on intel chips](https://en.wikipedia.org/wiki/Clear_Linux_OS)
+- [fedora is maintained by redhat](https://en.wikipedia.org/wiki/Fedora_Linux)
+
 10/30
 - 5% adults have quit job to protest vax
 - KISS band tech dies of covid, roadies blame band
