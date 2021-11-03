@@ -29,3 +29,24 @@
 - spacex registers in India: aim to deploy 200K active terminals by 2022
 - aapl aims to have iphones auto-call 911 and detect car crashes
 - bytedance mandates shorter working hours
+
+11/3
+
+- VA gov election, republicans up 
+  - nj gov race close
+- sleep naked - double chance for good night rest
+- children spend 8 hrs a day looking at screens 
+- christmas with broken supply chains?
+  - nintendo switch cut back 20%
+- "monkey jizz" crypto turns out to be a scam
+- ulta-conservative churge on rise in Idaho 
+- Zillow home flipping company quits the business 
+- twitter stock down for the year 
+- USA ev charging infra performing well
+- cyberattack on pakistan national bank
+- ev race: hyundai one to watch
+- Nigeria atempts digital currency 
+- netflix to try games on android
+- fb - shuts down facial recog system 
+- edge for linux available 
+- yahoo exits china "difficult business and legal env"
