@@ -50,3 +50,35 @@
 - fb - shuts down facial recog system 
 - edge for linux available 
 - yahoo exits china "difficult business and legal env"
+
+11/4
+
+- republican gov republican 
+  - dem party panicing
+  - nj hangs by thread
+- Boston mayor asian american woman Wu
+- Judge Alito: why can't citizens be armed on NYC subways
+- a pornstar flashes in front of kremlin, detained
+- Aaron rogers antivax?
+- china outbreak most widespread since wuhan
+- chinese tennis star allegation against top leader blackout
+- Eternals brings sex to MCU 
+- spacex bug: toilet leak 
+- Bezos proposal to tom hanks - go to space for 28M
+- lowtech video game streams on tiktok 
+- future ipad pros and mackbook pros to use ultra-bright doublestack oled displays
+- Github CEO nat friedman to step down
+- waymo will operate in NYC
+ - chrystler Pacifica vans
+- MSFT js to excel
+- NYC mayer wants crypto 
+- MSFT Loop takes inspiration from Notion and Coda - online collaborative editors
+- hackers like bots that steal 2fa codes
+- china nuke arsenal growing faster than expected says pentagon
+- brown grad gets phd at age 89
+- after success during pandemic, chromebooks on massive downturn 
+- kleiman vs Wright 65B bitcoin lawsuit 
+  - wright claims he is inventor - partners that mined 1.1M bitcoins together
+- Ford new electric pickup 
+  - F-150 lightning pickup  - F-100 Eluminator
+- zillow homeflip business failed, wants to sell 7000 homes valued at 2.8B
