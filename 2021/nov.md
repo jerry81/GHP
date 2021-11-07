@@ -82,3 +82,32 @@
 - Ford new electric pickup 
   - F-150 lightning pickup  - F-100 Eluminator
 - zillow homeflip business failed, wants to sell 7000 homes valued at 2.8B
+
+11/7
+- covid pills era starts
+- gavin newsom disappears from public eye for 10 days
+- 8 dead at houston music festival - crowd stampede
+- giant asteroid heading for earth
+- exploding drone used in assassination attempt on iraq prime minister
+- 16y/o rescued using tiktok hand gesture for domestic abuse
+- arm ceo: chip industry spending 2B a week to resolve crisis
+- peloton: the internet connected exercise bike
+- modern programming is fragmented and complex
+- US infra bill: clean energy, electric cars, broadband
+- fda first psilocin trial 
+- hackers steal data with a plan to allow quantum computers to crack them in a decade
+- iphone 13 screen requires software from aapl to replace
+- newfoundland cyberattack worst in history 
+- over 50 games incompatible with adler lake
+- US big plans for carbon capture 
+- amzn to launch about 5000 satellites
+- japan has aircraft carriers again, 1941 had largest navy in world
+- mac silicon plans: 3nm chips, 50 cores
+- meta wants to build physical stores
+- red hat forced to hire cheaper less experienced devs
+- study says covid does not infect brain cells
+- oxford: finds gene that doubles chance of covid death
+- goog 3rd party payments come to SKorea
+- alphabet new AI company to discover new drugs
+- msft 11 bug due to expired cert
+- 23andme long term goal: design drugs based on dna
