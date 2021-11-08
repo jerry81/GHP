@@ -111,3 +111,15 @@
 - alphabet new AI company to discover new drugs
 - msft 11 bug due to expired cert
 - 23andme long term goal: design drugs based on dna
+
+11/8
+- xi for life?
+  - us military fears
+- biden approval 38%
+- job applications now dont require work degree, experience or bg checks
+- travis scott already hit with lawsuit 
+- long trips to space -> brain damage?
+  - [lack of gravity](https://abcnews.go.com/Technology/long-trips-outer-space-brain-damage/story?id=81009631)
+- USA milk surplus 
+- new study: js is world's most popular pl
+  - 2. python, 3.  java, ruby not in top ten :(, 4.  c/c++, 5. php 
