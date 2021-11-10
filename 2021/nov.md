@@ -123,3 +123,41 @@
 - USA milk surplus 
 - new study: js is world's most popular pl
   - 2. python, 3.  java, ruby not in top ten :(, 4.  c/c++, 5. php 
+
+11/10
+
+- astroworld disaster - satanic conspiracies
+  - travis scott warned before taking stage - police had safety concerns
+- pfizer ceo calls vax misinformation spreaders "criminals"
+- going to bed at 10PM "may save life"
+- american debt at all time high 
+- 12 y/o from nj became youngest chess grandmaster
+- us lawmakers visiting taiwan, china conducts readiness patrol 
+- china now has world's largest navy - 460 warships by 2030
+- guam - test israel iron dome - defense against chinese cruise missles 
+  - system used to intercept palestinian rockets and mortars
+- btc, ether hit records 
+- chinese journalist reported from wuhan, hunger strike, gravely ill now
+- rolls royce - funding to develop mini nuke reactors 
+  - SMR - small modular reactor 
+- france - new nuke reactors 
+- portugal work law - illegal to text you after work
+- tim cook fires back against sideloading on ios 
+- adam neumann - ex-wework ceo
+- msft to kill onedrive for windows 7, 8, 8.1
+- msft launch win 11 SE - low cost education pcs
+- sony invests 500M in TSMC's japanese chip venture
+- tim cook invested in bitcoin personally but aapl doesn't plan to do so
+- [EU to ban meme-stock mania](https://www.bloomberg.com/news/articles/2021-11-09/eu-set-to-ban-trading-practice-helping-power-meme-stock-mania) 
+  - usa potential moves 
+  - more transparency of orders, info about transactions, all stemmed from gamestop 
+- huawei offloads x86 business
+- japan scheming to subsidize domestic chip output 
+- REvil - notorious cyber gang
+- truckload of GPUs robbed on way out of SF
+- alphabet - 2B valuation 
+- robinhood - hacked and extorted.  nobody lost money
+- china censorship: ban flightradar24 - real time commercial aircraft tracking service
+- msft VS 2022 generally available
+- cn says spy hacked airlines, stole passenger records
+- 
