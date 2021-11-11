@@ -160,4 +160,20 @@
 - china censorship: ban flightradar24 - real time commercial aircraft tracking service
 - msft VS 2022 generally available
 - cn says spy hacked airlines, stole passenger records
-- 
+
+11/11
+
+- consumer prices surge - 30 year high
+- drama in DC: manchin may kill biden plan 
+- inflation threatening to take a part in politics: just like reagan 1980
+- EV startup Rivian valued at 86B higher than ford, GM
+  - IPO, one of biggest ever
+- Zillow sells 2000 homes in its home flipping biz shutdown
+- palm oil fatty acid linked to cancer
+- most (75%) think FB makes society worse 
+- AMZN IMDb TV may be renamed
+- China more agressive climate action 
+- Twitter launches dedicated crypto team 
+- Google EU antitrust, 2.8B fine
+- Credit cards all time high in USA
+- france - build new nuclear energy reactors
