@@ -177,3 +177,25 @@
 - Google EU antitrust, 2.8B fine
 - Credit cards all time high in USA
 - france - build new nuclear energy reactors
+
+11/12
+
+- 89 year old gets phd in physics
+- xi on way to indefinite rule
+- winter covid spike coming?
+- costner new film "yellowstone"
+- RIVIAN IPO riding meme craze 
+- Universal Music: world's largest record company - creating NFT group
+- spaceX dragon docks at ISS - 4 astronauts
+- Seoul first city to join metaverse
+- patreon native video hosting to avoid youtube
+- windows SE not sold separately
+- AI racism: cancer detection less accurate for dark skin 
+- lawsuit over subway tuna: chicken, pork and cattle dna detected
+- Goog Earth created vast trove of images with sattelites
+  - aims to save the planet
+  - drowning in data but thirsty for insights
+  - let scientists easily analyze data about climate change
+- global temp rise over last 24k years is "unprecedented"
+- msft wants kids to learn coding with minecraft
+- astrophysics: black holes gain mass from expansion of universe
