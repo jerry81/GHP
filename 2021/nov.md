@@ -199,3 +199,22 @@
 - global temp rise over last 24k years is "unprecedented"
 - msft wants kids to learn coding with minecraft
 - astrophysics: black holes gain mass from expansion of universe
+
+11/13
+
+- bannon indicted, faces 2 yr
+  - [contempt of congress](https://edition.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html)
+- german covid spike
+- britney free and set out for revenge
+- China on US economy: "game of the rich"
+- metaverse the utlimate surveilance tool?
+- [scientist reverses paralysis in mice](https://news.yahoo.com/injectable-gel-reversed-paralysis-mice-165207056.html)
+  - injectable gel, regenerates spinal cord
+- costner's yellowstone, most watched last year
+- bolsonaro - trump have a connection
+- after astroworld catastrophe, drake visits strip club
+- river thames coming back to life
+- IoT to generate 12.6T by 2030
+- youtube may remove dislike count
+- us factories create 29k robots valued at 1.48B this year
+- Aus tops list of coal emissions per capita
