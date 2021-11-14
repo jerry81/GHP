@@ -218,3 +218,14 @@
 - youtube may remove dislike count
 - us factories create 29k robots valued at 1.48B this year
 - Aus tops list of coal emissions per capita
+
+11/14
+- germany new covid wave
+- china threatens australia
+- florida trial may unmask btc creator
+- intel wants to expand into china, washington advises against
+- Penpot, new FOSS vector design web app
+- msft to compete with fb on metaverse
+- Vizio (not visio) tv maker
+- chem: convert ammonnia into nitrogen gas
+  - releases energy
