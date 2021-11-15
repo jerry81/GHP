@@ -229,3 +229,21 @@
 - Vizio (not visio) tv maker
 - chem: convert ammonnia into nitrogen gas
   - releases energy
+
+11/15
+- germany crisis - army may step in 
+- oklahoma hottest weed market, crackdown
+- spain nightlife faces alcohol shortages
+- libya - gadhafi son to run for prezident
+- ukraine says 100k russian troops are at border 
+- IBM quantum computing breakthru 
+  - IBM eagle processor 127 qubits - measure of qc power 
+  - ibm ceo arvind krishna - hopes this will return company to growth 
+  - google claimed quantum supremacy
+    - sycamore processor 
+  - instead china's photonic qc may be the first to acheive quantum supremacy
+  - crypto fears quantum?
+- big battery electric trains?
+- us department of homeland sec - wants "digital literacy
+- Cerebras systems - AI hardware
+- SG to stop covering bills of unvax covid patients
