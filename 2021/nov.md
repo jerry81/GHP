@@ -247,3 +247,26 @@
 - us department of homeland sec - wants "digital literacy
 - Cerebras systems - AI hardware
 - SG to stop covering bills of unvax covid patients
+
+11/16
+- nato alarmed over russia troops buildup
+- anti-satellite weapon test frmo russians
+- russia becoming space power 
+- uk demands 3 shots for covid passes
+- thiel buys house in washington 
+- scorpion epidemic in egypt 
+  - brought by rain storms
+- sesame street ji-young - first asian american muppet 
+- tweens and teens sharing more nude pics 
+- notifications driving people crazy 
+- bios security flaws in intel processors
+- rowhammer technique attacks ddr4 memory protections 
+- russia may have shot down its own satellite
+- msft halo infinite multiplayer launch 
+- crypto nerds want to buy us constitution 
+- step towards digital authoritarianism?  
+  - portugal biometric mass surveillance law proposed
+- roblox building out the metaverse 
+- huawei looking for ways to sidestep us sanctions
+- processor history: 1971, intel 4004 microprocessor "changed the world"
+- toyota corolla with hydrogen engine
