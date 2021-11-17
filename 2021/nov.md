@@ -270,3 +270,31 @@
 - huawei looking for ways to sidestep us sanctions
 - processor history: 1971, intel 4004 microprocessor "changed the world"
 - toyota corolla with hydrogen engine
+
+- 11/7
+- biden to require booster
+- covid outbreak in CT nursing home - 8 dead
+- cali gas prices new high
+  - pirates looting oil, causing shortage crisis
+- ru, cn military "running circles around us" in space force race?
+- belarus border tensions, poland puses water cannons and tear gas
+- longest lunar eclipse in centuries
+- blood biomarker detects diabetes 19 years in advance
+- wall st. set for biggest bonuses since great recession
+- another elecric car startup market value exceeds ford "lucid"
+- crypto suddenly crashes 400B, btc under 60k 
+- brave browser comes with crypto wallet
+- bilibili joins bytedance in open invention network 
+- robinhood hacked, thousands of phone numbers comprimised
+- Lucid Air - first model from Lucid motors
+  - wins motortrend car of the year
+- china takes aim at "extremely harmful" crypto mining again
+- faa, fcc working on improving 5g signal
+- goog, ig, aws, tiktok, shiopify and others facing outages
+  - cause unclear
+- largest ever ddos attack at 2Tbps repelled by cloudflare
+- qualcomm nextgen cpus to take on appl M series in 2023
+- nvidia arm faces uk national security probe
+- goog has "fortnite task force"
+- experts on aapl: software slipping
+- USA fnally a national recycling strategy
