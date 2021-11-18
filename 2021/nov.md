@@ -271,7 +271,7 @@
 - processor history: 1971, intel 4004 microprocessor "changed the world"
 - toyota corolla with hydrogen engine
 
-- 11/7
+- 11/17
 - biden to require booster
 - covid outbreak in CT nursing home - 8 dead
 - cali gas prices new high
@@ -298,3 +298,24 @@
 - goog has "fortnite task force"
 - experts on aapl: software slipping
 - USA fnally a national recycling strategy
+
+11/18
+- MI is covid hotspot 
+  - detroit schools going remote classes
+- britney to appear on oprah 
+  - looking old as shit
+  - feud with family, wants them in jail
+- goldman worker says "market greed outpacing fear"
+- beef prices up 20%, gas up 50%
+- arms race in space
+- china hypersonic weapon 
+- australia cannibal crabs, 50M
+- 750M lawsuit against astroworld event, includes aapl, travis scott, drake
+- SG turning into surveilance state
+- 300 mins of exercise a week to ward off cancer
+- tea and coffee vs dementia and stroke 
+- japan has world's fastest supercomputer
+- skorea giving millions of photos to facial recog researchers
+- discord bot empire - 30 percent of servers use bots, 430K total
+- chinese gov wants to replace us tech, secretive entity makes list
+- cambodia has largest alphabet in the world, 74 cahracters, reason for 50% of FB messenger's voice messages coming from cambodia
