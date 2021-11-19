@@ -319,3 +319,19 @@
 - discord bot empire - 30 percent of servers use bots, 430K total
 - chinese gov wants to replace us tech, secretive entity makes list
 - cambodia has largest alphabet in the world, 74 cahracters, reason for 50% of FB messenger's voice messages coming from cambodia
+
+- 11/19
+- biden approval down to 36%
+- aapl fully autonomous car
+- robot dogs in SG enforce social distancing
+- simpsons still going, plans for final episode
+- longest lunar clipse in 6 centuries 
+- twn advanced fighter jets in Cn tensions
+- programmer restores dislike button on youtube with browser extension
+- starbucks partner with amazon go for cashierless starbucks
+- spacex orbital starship flight
+- nvidia wants to join Trillion club with huge earnings
+- aapl employees to return to offices on 2/1/2022 in hybrid work program 
+- hbo wanted to buy netflix in 2006
+- Bill Gates TerraPower - nuke energy - 4B nuke plant in wyoming
+- bezos vision: future humans visit earth like a national park 
