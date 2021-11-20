@@ -335,3 +335,22 @@
 - hbo wanted to buy netflix in 2006
 - Bill Gates TerraPower - nuke energy - 4B nuke plant in wyoming
 - bezos vision: future humans visit earth like a national park 
+
+11/20
+
+- austria lockdown
+- africa general avoiding covid disaster, bafles scientists
+- kyle rittenhouse not guilty
+- kanter torches james over china ties
+- more red meat leads to illnesses
+- dogphone - a ball that allows dogs to call owners and recieve calls by moving the ball
+- first electric autonomous cargo ship launches in norway 
+- ford target 600k electric vehicles by 2023
+- alphabet employs cleaning robots at google offices
+- 36.5M crypto stolen in sim swap by teen 
+- rockstar not happy with quality of gta remasters
+- 3rd booster shot passed by CDC, moderna and pfizer
+- new pentagon contracts, amzn, goog, oracle, msft bid
+- papers coming out about microdosing and its good effects on stress levels
+- amzn lobbyists try to kill consumer protection laws
+- usa pushing for chipmaking booms
