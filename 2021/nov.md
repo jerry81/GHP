@@ -354,3 +354,14 @@
 - papers coming out about microdosing and its good effects on stress levels
 - amzn lobbyists try to kill consumer protection laws
 - usa pushing for chipmaking booms
+
+11/21
+- violent covid protests in EU
+- SF LV store robbed
+- joe biden 79 y/o, kamala would be first female prez
+- tucker carlson interview with kyle rittenhouse, monday
+- vision: gas station in space - convert space junk into rocket fuel 
+- github survey shows: remote devs not returning to office
+- fusion advantage over fission - safer, no meltdowns, no radioactive waste
+- TX to become btc capital of world
+- nasa nuke reactor on moon
