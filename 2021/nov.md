@@ -365,3 +365,27 @@
 - fusion advantage over fission - safer, no meltdowns, no radioactive waste
 - TX to become btc capital of world
 - nasa nuke reactor on moon
+
+11/22
+- mcconaughey leading TX gov race
+- rittenhouse says he "supports BLM"
+- foxnews filmed documentary during trial
+- dems worried that biden wants to run in 2024
+- 90% use phone on toilet, 30% in funeral, 40% after sex
+- more childless adults 
+  - future too dark
+- fda drug for dwarfism 
+- republicans now want pot legalization
+- intel plan to improve manufacturing 
+  - match tech of samsung and TSMC by 2024, surpass in 2025
+  - IFS - intel foundry services - join "fabless" like nvidia, amd, qualcomm - rely on others for manufacturing
+  - sell its own factories, rely on TSMC
+- colleges giving up on remote edu
+  - bad feedback from students 
+  - refunds 
+  - social element critical
+- el salvador "bitcoin city" powered by volcano 
+- github acquired npm in 2020, fixes two serious security flaws - publishers can publish new version of npm package they don't own with authorization attack 
+- german state - switch 25k computers from win to linux 
+- roundabouts environmentally safer and less accident prone 
+  - no idling
