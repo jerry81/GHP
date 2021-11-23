@@ -389,3 +389,26 @@
 - german state - switch 25k computers from win to linux 
 - roundabouts environmentally safer and less accident prone 
   - no idling
+
+11/23
+- vax effectiveness wanes against infections 
+- merkel says new spike "worse than ever"
+- germans "either cured or dead" by spring
+- suv driver crashes into xmas parade in milwaulkee
+  - 5 dead
+- toad venom as psychadelic trending
+- anti-virus chewing gum 
+- lebron suspended 
+- aapl stock gets bigger 
+- yellen predicts the inflation will cool in a year
+- green australia: rooftop solar helps make south aus grid zero demand, world's first
+- rolls royce - all electric airplane
+  - 387.4 MPH
+- qualcomm - exclusivity deal with msft on windows for ARM
+- adele special request - remove shuffle button off album
+- India police vs AMZN execs - marijuana smuggling 
+- msft security analysis: attackers don't brute force long pwds
+- ridley scott to produce blade runner and alien shows
+- norway - no gas cars to tax
+- china btc mining rigs shipped out 
+- 2021 big tech winners: evs, crypto, metaverse
