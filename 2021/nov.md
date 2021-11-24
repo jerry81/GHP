@@ -412,3 +412,31 @@
 - norway - no gas cars to tax
 - china btc mining rigs shipped out 
 - 2021 big tech winners: evs, crypto, metaverse
+
+11/24
+
+- luxe retailers robbed 
+- despite new england being highly vaxed, hospitals suffering
+- 200th homicide in DC
+- free speech or hate speech: man gets 19 months for urging MAGA to kill lawmakers who backed election results 
+- man declared dead, comes back alive from freezer 6 hrs later
+- last person from 19th century dies at 124 y/o
+- china ban: celebs showing extravagant wealth on social media
+- mcconaughey the guru: gratitude will transform your life
+- louis ck and chappelle both get grammy noms
+- thankgiving travel nears pre-pandemic levels 
+- new windows zero-day lets one become admin
+- smartphone market in decline due to component shortage
+- japan allocates 5.2B to fund chip plants 
+- atom bank 4 day work week without cutting pay 
+- aapl clever scheme to give good scores - random in-app prompts to submit ratings
+- china new sweeping data privacy laws leaving usa in the dust with digital standards
+  - also confusing companies
+- moscow demands us tech firms set up in russia by 2022, or be banned
+- samsung - tx site for 17B advanced chip plant 
+- india ban all private crypto 
+- qualcomm msft exclusivity deal for windows on arm to expire
+- italian watchdog fines aapl amzn 225M
+- new EU laws vs Big US Tech 
+- spotify lacks homepod support, aapl users cancel spotify
+- cancer research: cancer cells use tentacles to suck mitochondria out of immune cells 
