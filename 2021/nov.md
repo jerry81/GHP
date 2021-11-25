@@ -440,3 +440,24 @@
 - new EU laws vs Big US Tech 
 - spotify lacks homepod support, aapl users cancel spotify
 - cancer research: cancer cells use tentacles to suck mitochondria out of immune cells 
+
+11/25
+- 3 convicted of murder in murdering Ahmaud Arbery, Georgia
+- AZ no longer gives protection 
+- hbo fighting to survive 
+- students in nkorea caught watching squid game, man sentenced to death
+- italian nuke plant leak - 1 dead, 3 injured
+- china top movie ever - battle at lake changjin starring wu jing 
+  - topic is about an american defeat
+- havana syndrome saga continues, hits the fbi 
+- clubhouse rose, and falls again
+  - poster child of VC-backed hype
+- tencent suspended from updating or launching apps
+- US blacklists chinese Quantum computing companies
+- virtual real estate eslls for 2.4M - bought with crypto, 
+  - Decentraland - online environment - metaverse
+- 1/3 all dark web is V3 onion sites
+  - 56 character long domains
+  - v2 were 16 charas long 
+- liz holmes admits foul play, doctoring documents
+- Cali to get stupider - delay algebra to 9th garde
