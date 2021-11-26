@@ -460,4 +460,19 @@
   - 56 character long domains
   - v2 were 16 charas long 
 - liz holmes admits foul play, doctoring documents
-- Cali to get stupider - delay algebra to 9th garde
+- Cali to get stupider - delay algebra to 9th grade
+
+11/26
+- WHO warns about a superstrain
+- germany death toll > 100k
+- school cancels classes for mental health day
+- maradona's corpse's heart removed to prevent fans from stealing it
+- psychadelic retreats on rise
+- castro's revolution floundering 5 years after his death
+- uk law fines
+- china new space reactor 100x more powerful than similar nasa device
+- eu, if they want to hit 1.5C paris climate goal, must ban BTC mining
+- battery waste piling up, world needs to solve battery recylcling puzzle
+- 5g worrying FAA, affecting air travel
+  - telecoms temporarily tune down 5g 
+- israel restrict cyberweapons export by 2/3 
