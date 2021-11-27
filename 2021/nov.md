@@ -476,3 +476,21 @@
 - 5g worrying FAA, affecting air travel
   - telecoms temporarily tune down 5g 
 - israel restrict cyberweapons export by 2/3 
+
+11/27
+- CA port truckers supply chain deficiencies
+- kazahkstan crypto miners face power cuts
+- galaxy note series ending
+- Beleaguered LG electronics gets new CEO
+- biden travel ban on S. Africa
+- China virtual yuan push, setting up exchange service
+- notifications are driving us crazy
+- next world cup in qatar
+  - automatic offside detection
+- omicron variant in s.Africa 
+  - causes stock crashes - dow drop 905
+  - BTC bear market
+- spielberg's west side story coming soon
+- russia building up military
+- aspirin connected with heart failure risk?
+- licorice pizza PTA new movie
