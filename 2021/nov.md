@@ -494,3 +494,13 @@
 - russia building up military
 - aspirin connected with heart failure risk?
 - licorice pizza PTA new movie
+
+11-28
+- israel bans foreigner entry
+- hawaii popular destination for silicon valley tycoons
+- lebron fined for obscene gesture
+- PHP completely relies on 2 people
+- booster shots increase antibodies by 23x
+- crypto refunds expensive
+- neutrinos detected at large hadron collider
+- Amazon Linux 3 is based on Fedora RHEL (red hat)
