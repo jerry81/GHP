@@ -504,3 +504,17 @@
 - crypto refunds expensive
 - neutrinos detected at large hadron collider
 - Amazon Linux 3 is based on Fedora RHEL (red hat)
+
+11/29
+- new variant: likely in usa
+  - china colossal outbreak
+  - safrica thinks being punished
+- omicron panic
+  - fauci considers lockdowns
+- austin becamse of of least affordable cities 
+- ghislaine faces 80 yrs - epstein's black book would be incriminating evidence
+- gang of 30 rob MN best buy 
+- clarence thomas avowed critic of roe
+- adele reaches #1, but sales down from last album 
+- lady gaga gets bad reviews for gucci movie
+- PhD student demonstrates laser in silicon 
