@@ -518,3 +518,30 @@
 - adele reaches #1, but sales down from last album 
 - lady gaga gets bad reviews for gucci movie
 - PhD student demonstrates laser in silicon 
+
+11/30
+- jack dorsey steps down from twitter
+  - CTO parag agrawal will replace
+- "afrophobia" describes recent omicron scare 
+- smollett tiral starts in chiraq
+- scientists may have found alzheimer cause
+- pentagon upgrade vs beijing: guam australia bases
+- scientists - build living robots that can reproduce 
+- new opioids more powerful than fentanyl appear in DC
+  - wave of overdoses
+- ghislaine trial begins
+- intel stockpiling legacy tech for security research
+- big tech pay isps to upgrade networks/telcos
+- AMD to increase RX GPU prices by 10%
+- Nissan plan to roll out electric vehicles - 17.6B
+- goog sued by fired employees over "dont be evil" mantra
+- amzn prepares for holiday crunch with new network to speed delivery
+- who warns about omicron being high global risk 
+- amzn appstore broken on android for a whole month
+- Henan to monitory foreign students and journalists with surveliance system 
+- US faces quarter shortage 
+- streamers on twitch burning out 
+  - 8 to 10 hrs a day 
+- MSFT accuse of anti-competition by bundling onedrive, teams in windows
+- raspberry pi may go public in spring 
+- magnus carlsen wants quicker games and is rich through sponsorships, found company "Play Magnus" - play against magnus 
