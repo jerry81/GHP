@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+12-2
+- us gets its first omicron case
+  - in cali 
+  - lebron covid protocols
+  - job refusers who quit jobs get unemployment in red states
+  - enforcements across the country - dining protocols, In and Out protests
+  - children's brawl breaks out at trampoline park
+- bieber caught up in Saudi political row
+  - to perform in jeddah with guetta 
+  - rights activists campaigners urge him to protest by cancelling shows
+- Naoya Inoue "the monster" japanese boxing star 21-0 record
+- Iger replaced at disney 
+- EU official says: semiconductor independence is impossible
+- Meta (fb) allows crypto ads
+- hashicorp goes IPO - highly valued - up to 14.6B
+- 1/3 of world pop hasn't used internet
+- reddit upgrades: typing indicators, voting animations
+- stripe on hiring spree
+  - but rescinding offers without warning
+- china tightens laws on foreign ipos
+- at&t dealing with data-stealing malware 
+- demand for a town willing to hold nuclear waste
+- WHO says: omicron found in 23 countries around the world
+- british man gets first 3d printed eye - history's first
+
 12-1
 - chris cuomo suspended from cnn indefinitely 
   - anderson coop to fill in 
