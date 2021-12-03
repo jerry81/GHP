@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+12-3
+- nyc omicron outbreak
+  - anime convention 
+- ron jeremy looking decrepit
+- robot djs
+- hulu removes astroworld concert "from hell"
+- pompeo dramatic weight loss
+- baldwin cries on stephanopoulos "didnt' mean to pull trigger"
+- trump social media site "truth social" admits it is based on mastodon
+- msft research: DNA as storage
+- "mushroom leather" handbags
+  - feels like calf/sheepskin
+- goldman and other wall st banks exploring btc backed loans
+- aws brings mac m1 to cloud
+- us gov still bought cn surveilance tech despite ban 
+- SiFive - RISC-V chip trying to challenge stagnated computer designs
+- renewable energy - another record year of growth 
+
 12-2
 - us gets its first omicron case
   - in cali 
