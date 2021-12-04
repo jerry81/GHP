@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+12-4
+- biden coughs during speech
+- man eats nothing but kfc for a month:
+  - gains 16 lbs
+  - mental health decline
+- lesbian robots programmed to be gay
+- iss swerving to dodge space junk
+- australia drunkest country in the world
+- theives use airtags for tracking items they want to steal
+- Didi to delist from NYSE
+- quantum computing advance 
+- covid simulation in drop of water
+- germans back out from facial recog ban in public places
+- musk plans cybertruck 4 motor variant
+- israeli spyware hacks us gov
+- space force says us satellites being attacked every day 
+
 12-3
 - nyc omicron outbreak
   - anime convention 
