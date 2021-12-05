@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+12-5
+- cnn fires cuomo
+- omicron spreading twice as fast
+- americans numb to covid
+- oxford high school shooting parents gave son gun
+- BTC plunges 20%
+  - also ether, down to 46K 
+  - el salvador missed the bottom by 7 minutes
+- musk and china need e/o
+- kamala staff exodus - questioning her leadership?
+- france first female president?  Pecresse - right-wing
+  - the french merkel 
+- deepfake recreates announcer's voice
+- "advent of code" code puzzles
+- boosters are powerful and may be effective against omicron
+- advances in robot facial expressions
+- 
+
 12-4
 - biden coughs during speech
 - man eats nothing but kfc for a month:
