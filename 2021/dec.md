@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+12-6
+- bob dole dead
+  - 98, cancer
+- sex allegation against chris cuomo
+- more omicron cases in USa
+- households with children falls to all time low 
+- violent crimes in LA
+  - smash and grabs
+- us military - vs ransomware groups
+- 2021 - web almanac research - tracking how web is built - lots of css, js, jquery, not much wasm
+- vinyl records make a big comeback
+- again: case for 4 day workweek 
+  - key is to rein in meetings
+- people living in simulations of life on mars
+- highest paid devs: cloud/net architect - 153 - 180k
+  - senior web dev , web dev - 111k to 151k 
+- mystery science theatre makes online comeback
+- 120M stolen from DeFi website
+
 12-5
 - cnn fires cuomo
 - omicron spreading twice as fast
