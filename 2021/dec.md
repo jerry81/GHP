@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+12-7
+- china wants military base in atlantic
+  - missles hidden in containers
+- covid killed more than all combat deaths in every american war combined
+- congressman family photoshoot holding guns after school shooting
+- cuomo set to sue CNN over 6M salary
+  - sex miscontect was last straw
+- half of young adults obsese or overweight
+- tesla faces SEC probe, enters bear market
+- kamala described as bully and soul destroying
+- kamikaze drones has US military wary
+- switzerland approves assisted suicide capsule 
+- eurostar tests facial recog on london trains 
+- verizon collecting browser history 
+- toyota 1.29B EV battery factory in NC
+- cream cheese shortage affects nyc bagel shops
+- small group of insiders reaping profits from nfts
+- china moon rover to investigate cube shaped mystery object
+- tasmania to build black box to record climate change downfall
+- america 600k cybersec positions
+- ice caps melting, killer whales move in for the kill
+- BitMart trading platform hit by hackers, 150M
+
 12-6
 - bob dole dead
   - 98, cancer
