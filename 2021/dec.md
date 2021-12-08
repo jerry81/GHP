@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+12-8
+- AMZN packages pile up - AWS outage
+- Russia Ukraine tensions mount - biden warns putin 
+- Musk plans brian chips in humans next year 
+- congress progressives back a 4 day work week
+- face as boarding pass?
+- 30 countries have legalized same sex marriage 
+- trans swimmer finishes 38 secs ahead of nearest opponent.  fury ensues
+- anorexia epidemic 
+- civilization requires more children 
+- twitter acquires and shuts down Quill, slack rival 
+- UAE - 4 1/2 day workweek, shifts to sat/sunday weekend
+  - currently fri - sat weekend
+- viagra - 70% lower risk of alzheimers
+- intel wants to take mobileeye (self-driving) public in 2022
+- chip demand depends on malaysia - working thru pandemic 
+- aapl ceo signs 275B deal with chinese authorities
+- chinese cyber-spy group "nickel" - msft seizes domains
+- solarwinds hackers - new bag of tricks for mass comprimise attacks
+- china modified weather to create clear skies for political celebration 
+
 12-7
 - china wants military base in atlantic
   - missles hidden in containers
