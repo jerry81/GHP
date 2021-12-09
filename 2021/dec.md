@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+12-9
+- pfizer: 3 shots necessary
+- israel already on 4th
+- largest lab-grown steak revealed
+- LA crime spree continues
+- atlete's blood better for brainpower?
+  - injecing blood from mice on exercise wheels
+- legal suicide pods in switzerland 
+- waking up right after falling asleep boosts creativity?  
+  - example given: edison 
+- alexa.com (web traffic) is retiring
+- biden 2050 goal: make gov carbon neutral 
+- win11 notepad revamp 
+- older people with cataracts removed have lower dementia risk 
+- americans not getting healthier despite medical advances says NIH director 
+- line pay leak - 133k users' data
+- 
+
 12-8
 - AMZN packages pile up - AWS outage
 - Russia Ukraine tensions mount - biden warns putin 
