@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+12/11
+- brian williams, quits msnbc
+- musk thinks about quitting his job
+- strangely warm weather
+- matrix hype building
+- amzn massive cloud outage
+- eric schmidt says china will lead us in tech
+- tyson foods spend 1.3 b on automating meat plants
+- visa crypto consulting services
+- 1 year after cyberpunk release, things not better
+- microplastics damage human cells
+- Sensetime: chinese facial recog AI company
+
 12-9
 - pfizer: 3 shots necessary
 - israel already on 4th
