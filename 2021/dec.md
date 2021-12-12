@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+12/12
+- 50+ indicted for capitol hill riots
+  - 41 months in prison, judges urge to plead guilty
+- magnus wins 8th world championship
+- magazines already saying bitcoin failed in el salvador
+- eyedrops, brand name Vuity, may replace reading glasses
+- newest conspiracy theory: birds aren't real - actually gov drones
+- linux kernel may get "second language", rust
+  - to join C
+- Google starting to take Code.org work
+- samsung smartwatch innovation: add camera
+- tornado in kentucky 100 plus 
+- 3 of 5 in america more tired than ever
+- crypto rich moving to puerto rico 
+  - luxury tax haven 
+
 12/11
 - brian williams, quits msnbc
 - musk thinks about quitting his job
