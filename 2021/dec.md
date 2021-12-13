@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+12/13
+- chris wallace out at fox and going to cnn+
+- worst tornado in kentucky history 
+- 007 could become non-binary 
+- criticism of bezos - went to space while amzn warehouse collapsed killing 6 
+  - raises question about cellphone ban for workers on warehouse floors
+- denmark covid surge 
+- star wars themed disney hotel: Galactic Starcruiser 
+  - march 1 opening
+- companies moving infrastructure to higher ground in "corporate climate migration"
+- companies admit they don't know when they will return to office 
+- hard drive with 7500 btc buried in landfill, can it be dug up?
+  - sorth over 350 M 
+
 12/12
 - 50+ indicted for capitol hill riots
   - 41 months in prison, judges urge to plead guilty
