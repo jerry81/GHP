@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+12/14
+- first omicron death in UK
+- philly requires vax to eat out
+- 88 dead in tornado aftermath 
+- man gets 10 jabs in 1 day 
+- kim jong en has been supreme leader for 10 years.
+- musk named person of the year
+- china gets first omicron case, Tianjin
+  - 1000s placed in quarantine for it
+  - 250k in zhejiang lockdown 
+- newsom pushing gun laws
+- exercise better than meds for anxiety treatment 
+- aapl to become world's first 3T company
+- Ukraine arrest 51 for selling data of 300M people in US, EU
+- Space trips emit tons of Carbon dioxide (one lifetime worth)
+- Intel spend 7B on chipmaking expansion in Malaysia
+- log4j security flaw had cyberattacks looking to exploit
+  - gives access to servers
+  - amzn, twitter, cisco affected
+- biden executive order - move gov services online
+- adobe fremium offering for design software, to take on Canva 
+  - similar UIs
+- 300K nft sold for 3k 
+- human waste has become a hot commodity - world desperate for manure 
+- mozilla earnings up, mozilla VPN, firefox relay, pocket making money 
+- toyota key fob to start car will cost money per startup 
+- matrix awakens demo, shows off unreal engine 5 
+
 12/13
 - chris wallace out at fox and going to cnn+
 - worst tornado in kentucky history 
