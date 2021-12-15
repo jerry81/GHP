@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+12/15
+- CDC winter warning 
+- variant "no worse than flu"
+- american death toll passes 800K
+  - 1 in 100 elderly 
+- germany recession 
+- spiderman set to revive theatres
+- ghislaine defense calls 35 witnesses
+- spacex engineer says musk is "sadistic"
+  - complains of misogyny going unpunished
+- bank of england: BTC may become worthless
+- NES designer dies age 78
+- Web3 - successor to Web 2.0 - crypto and decentralization is at core, more democratization, less hoarding by the big companies 
+- plastic eating bugs 
+- AAPL goog mobile duopoly faces UK antitrust
+- netflix cuts prices in india 
+- space travel degrades eyesight
+
 12/14
 - first omicron death in UK
 - philly requires vax to eat out
