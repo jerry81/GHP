@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+12/16
+- uk covid crisis
+- nfl superspreader 
+- hillary vs trump '24?
+- xijingping leadership style described as micromanagement leaving underlings scrambling
+- tesla women complaining of sex harrassment
+- NYC ban natural gas hookups 
+- Vodeo unionizes
+- USA to blacklist DJI
+- pelosi rejects a stock-trading ban for members of congress
+- aapl delays return to office
+- former Chinese content moderator for CN social media says "goal is not to win, but cause chaos and suspicion until there is no truth
+- Scientists find significant amount of water inside mars grand canyon
+- Solana big returns for investors (1B)
+- hackers in china exploit log4j flaw
+- goog not riding web3 wave
+- india 10B plan to lure semiconductor makers
+- Huawei role in China surveilance bigger than acknoledged
+- brain and rocket scientists not necessarily more clever in cognitive tests
+- Goog building new AR device and OS 
+
 12/15
 - CDC winter warning 
 - variant "no worse than flu"
