@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+12/17
+- variant infects 70 times faster
+- CDC: J&J blood clots 
+- metaverse already has groping problem
+- UK shuts down to try to save christmas
+- virus may infect neurons, affecting brain
+- bay area car theft issues: people leaving trunks open
+- sugar warnings coming to NYC menus, in addition to salt warnings
+- At EA: take a day to change 3 lines of code 
+- Wind power becomes spain's #1
+- metaverse needs 1000x more computational power than what we have now
+- Reddit files for IPO 
+- India sterilization and contraceptives to control population bomb 
+  - 2/3 of population under 35 y/o
+- crypto scams revenue hits 7.7B in 2021
+
 12/16
 - uk covid crisis
 - nfl superspreader 
