@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+12/18
+- vax side effect - muscles ballooning in size
+- nyc pandemic high 
+- anderson agrees with firing chris
+- indian monkeys kill entire town of dogs
+- fake gynecologist uses webcam to record over 400 women 
+- dow drops 500 points
+- asian elderly targeted in bay area robberies
+- guam is america's front line against china
+- new websocket log4j attack vector discovered
+- adobe stock down 10%
+- school bombing and shooting threats made on tiktok, schools shut down
+- bing turns off autofill to comply with china laws
+- cdc recommends pfizer and moderna over j&j
+- ibm and samsung - new phone cpu design really saves energy
+
 12/17
 - variant infects 70 times faster
 - CDC: J&J blood clots 
