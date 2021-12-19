@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+12/19
+- us politics to change their stance:  live alongside virus that shows no signs of disappearing
+- omicron cases double in a day 
+  - london emergency 
+- spiderman 2nd best opening of all time 
+- peta says lv and gucci skin reptile alive to make bags
+- woman gives birth while tela autopilot 
+- navy destroyers off california coast harrased by drones
+- radio shack to enter crypto?
+- log4j exploit raises question: who pays open source for fixes?
+- rats in africa trained to rescue
+- war over chinese wikpedia: doxxing, beatings incidents
+- liz holmes trial concludes
+
 12/18
 - vax side effect - muscles ballooning in size
 - nyc pandemic high 
