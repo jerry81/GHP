@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+12/20
+- omicron in USA - millions per day feared
+- biden to make address on tuesday 
+- spiderman may save theatres 
+- Ray Dalio: success thanks to 40 mins of meditation per day 
+- 2021 crytpo heists - 6 different ones over 100M 
+- "network effect" best sci fi novel award
+- ruby on rails 7.0 - David Heinemeier Hansson - former CTO of basecamp - One Person Framework - production level framework that one person can manage 
+- to stop omicron - pfizer and moderna plus a booster
+- science breakthru of the year: AI that can churn out protein structures by the 1000s
+- Wolfram PL has chem and chem reactions out of box 
+  - videos from images and videos, integrals, real numbers, graph treas, leap seconds, bio sequences, flight data, vector displacement plots, lightning, ML, tracking robots, etcs
+    - version 13
+- a type of seaweed may stop cows from emitting methane 
+- changing ecosystems: menancing robot predator scares away invasive fish
+- "cloud" making internet more fragile
+  - called unsustainable, defined as "concentrated network resources controlled by centarl entity"
+    - peer to peer, edge computing may gain favor 
+    - recent outages due to AWS caused alarm 
+
 12/19
 - us politics to change their stance:  live alongside virus that shows no signs of disappearing
 - omicron cases double in a day 
