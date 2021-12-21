@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+12/21
+- autopiloting tesla hosts its first birth in front seat
+- ubisoft exodus of developers
+- USA may run on clean energy by 2050 
+- Have I been Pwned gets 585 M passwords from UK NCA (national crime agency )
+- 1% of people control 27% of all BTC
+- Legal issues of US receiving European's data.
+- 35K java packages impacted by log4j vunerabilities
+- saving florida manatees from starvation 
+- security flaws in guest wifi system in hotels
+- a virtual 8-bit processor was built in minecraft - Chungus 2
+- brain cells in dish taught to play "pong"
+- himalayan glaciers melting at furious rate 
+- vacuum sealed container from 1972 to be opened after 50 years
+- biden gets new dog 
+- Viya, KOL disappeared and fined for tax evasion 
+
 12/20
 - omicron in USA - millions per day feared
 - biden to make address on tuesday 
