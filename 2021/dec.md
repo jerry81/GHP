@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+12-22
+- covid
+  - troops to help hospitals
+  - biden gives covid address, coughing through it
+  - spacex outbreak 
+  - england cuts self-isolation mandate due to worker shortages
+  - us population lowest growth rate during first pandemic year 
+    - lowest since founding
+  - WHO warning about omicron 
+- biotech
+  - first ever HIV prevention vax?
+  - well preserved dinosaur embryo found
+- current events 
+  - miami airport brawl 
+- economy
+  - mcd's rations fries
+  - pet food shortage 
+  - workers burned out, bosses struggle to respond
+  - cuba 70% inflation 
+- tech 
+  - musk dorsey mock "web3", controversy ensues
+  - japanese sony employee steals 154M in bitcoin 
+  - AR/VR headset from appl, 2022 Q4
+  - MSFT aquire Nuance Communications
+  - 75% steam top 100 games run on linux
+  - belgian gov attacked thru log4j exploitation 
+  - quantum physics relies on imaginary numbers
+  - goog android developers need to adapt apps for chromebooks, demand up 50%
+  - stablecoin supply grew 388% this year 
+  - boeing, airbus want to delay 5g deployment 
+  - ballmer wanted to name cortana "Bingo"
+
 12/21
 - autopiloting tesla hosts its first birth in front seat
 - ubisoft exodus of developers
