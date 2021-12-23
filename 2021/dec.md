@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+12-23
+- covid
+  - germany says 4th shot required
+  - prediction - 60% americans infected by march 
+  - omicron, more cases, but less deaths?
+    - double chance getting on plane
+  - life expectancy falls to 77 (from 79)
+  - funeral business booming 
+  - s. africa omicron wave subsiding
+  - FDA approves pill to treat covid
+- europe 
+  - meghan markle may be deposed (v. to force to testify, to remove from office), prince andrew suit (sex)
+  - germany to close half of its reactors
+    - bad time, during energy crunch 
+- south lake tahoe most popular place to live
+- tech 
+  - third amzn outage in month 
+    - slack, epic games, asana (project management) affected
+  - musk claims he lives in 50k house
+  - 2nd ransomware family exploiting log4j spotted in EU
+  - US 5G speeds rank last 
+  - China to suspend AliCloud partnership over being slow to report log4Shell vunerability 
+    - vunerabilities must be reported within 48 hrs
+  - MIT engineers, fiber battery that can be woven into fabrics
+  - biggest offshore windfarm - UK east coast - starts to produce power  
+- politics 
+  - chile milenian president, Gabriel Boric, ofrmer student activist, Communist party
+  - kim jong un - 10 years as supreme leader, hackers keep him in power
+  - Harvard chemist found guilty of lying about participating in China's Thousand Talents recruitment program
+- business
+  - intel mandates vax, threatens unpaid leave
+  - intel in trouble in China after asking suppliers not to use XinJiang labor 
+  - S.Korea tech giants Naver and KaKao - fintech 
+  - despite omicron, CES will press on 
+  - nikola (ev startup) settles suit for 125M - fraud
+
 12-22
 - covid
   - troops to help hospitals
