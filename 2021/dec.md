@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+12-24
+- omicron
+  - UK 120k in a day
+  - young people ending up in ICU 
+  - FDA approves second covid antiviral pill 
+  - USArmy creates single vax against all covid, sars variants
+- politics
+  - biden will run again if health allows
+  - candace owens interviews DT
+  - outspoken teacher in China disappears
+  - Saudi building missles with help from Beijing
+  - US, Japan draw up emergency taiwan defense plan
+- physics
+  - china fires up "artificial sun"
+- psych
+  - solitude helps regulate mood
+  - smartphone addiction - poor self control & negative thoughts
+  - watch lecture twice at double speed > watch once at single speed.
+- business
+  - tesla to ban games on screens in moving cars 
+  - toyota subscription plan for fob service gets bad feedback, under review
+  - micron ddr5 shortage
+  - skillsoft acquire codeacademy 525M
+- tech
+  - "bossware" - ai-driven hiring tools 
+  - world's most powerful space telescope ready to launch - James Webb Space telescope
+    - will make million-mile journey to deep space
+  - 1T growth for DEX decentralized exchanges 
+  - tech execs and engineers quitting for crypto opportunities 'once in a generation'
+  - policing system sends drones to gunshots
+
 12-23
 - covid
   - germany says 4th shot required
