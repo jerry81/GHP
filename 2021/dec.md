@@ -1,5 +1,42 @@
 [Back](./index.md)
 
+12/27
+- tech 
+  - duckduckgo queries grew 47% in 21
+  - connected cars are big tech's next big monopoly 
+  - first 3d printed home in US from habitat
+  - video game industry closer to unionization?
+  - HR employee background check errors harm workers
+  - goog scanning drive and gmail for child porn
+  - one laptop today as powerful as quadrillion of 1960s mainframes 
+    - one week of computation would take longer than age of universe
+  - fusion reactor construction by goog and bill gates begins construction - near boston?
+  - peter jackson beatles documentary
+  - webb telescope launches
+  - QOI image format - quite okay image
+    - encoding not as good as PNG
+  - log4j type issue prevention - more than just open source funding?
+  - scientists solve mystery of green comet tails
+  - nasa facilities to study xrays from black holes
+  - crypto trading 14T
+- politics 
+  - russia steps up fines on goog and meta 
+  - intel backs down on xinjiang ban 
+  - Lina Khan - FTC head, antitrust against Amzn
+  - blood banks shortage
+  - china launches 3 warships in 1 day
+- biz
+  - doordash require employees to deliver goods or perform gigs 
+  - supply down and demand high for car rentals in US
+  - matrix box office not doing well
+- covid
+  - 50k cases in NY in one day 
+  - china fails to stop spread despite zero covid rules
+- current events
+  - men getting vasetomies as "act of love"
+  - bezos looking buff
+  - woman texts bf to kill himself, man commits suicide, woman accused of manslaughter, guilty
+
 12-24
 - omicron
   - UK 120k in a day
