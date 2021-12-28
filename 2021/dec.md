@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+12/28
+- covid
+  - fauci 81 years old, time to go?
+- people
+  - zuck "colonizing" hawaii?
+- psych 
+  - women who have more sex have better developed brains?
+- tech
+  - china says spacex satellites nearly collided with station
+  - biodegradable velcro
+  - widevinedump github user uploads code to allow users to download streaming services videos (netflix, disney+, amazon)
+- biz
+  - appl hires away meta's pr head
+  - tech "darlings" stock take plunge - Vimeo (videos), Zillow (real estate), Peloton (fitness equipment), Poshmark(social commerce), Chegg (education tech) 
+  - 70% ceos worried about job security
+  - baidu "jidu" to mass produce level 4 self driving cars in 2023
+
 12/27
 - tech 
   - duckduckgo queries grew 47% in 21
