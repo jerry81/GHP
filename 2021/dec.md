@@ -1,9 +1,16 @@
 [Back](./index.md)
 
 12/31
+- covid
+  - us sets world record for cases, life may grind to halt
+  - tcells effective against omicron
+  - airlines cancel 1200 flights
+  - s. africa says wave has passed
+  - israel approves 4th dose 
 - med
   - sugar additive trehalose linked to bacterial infection
   - unexplored biology: underneath the antarctic ice shelf
+  - more microplastics found in foods
 - tech 
   - chinese hackers targeting log4j flaw
   - boston dynamics robot stretch - move 800 heavy boxes per hr
@@ -36,7 +43,9 @@
   - amzn facing competition for shopping apps, falls to 4th
   - Sweden's Northvolt - first Lithium Ion battery built in EU
   - Aapl's decision to ditch intel paying off
+  - tesla recalls 500k cars
 - politics
+  - chinese working on brian control?
   - nasa recruits religious experts to understand how humans would react to aliens
   - mexico to launch digital currency by 2024, central bank
   - china plan to become robotics powerhouse by 2025
@@ -46,6 +55,10 @@
   - china rewrites constitution, tackle climate change
   - winter storms breaking temp and snow records
   - oxygen-starved oceans
+  - wildfires in CO, 100MPH winds
+  - world population at 7.8B
+  - germany powers down 3 nuke plants as it shifts to renewables 
+  - biden and fauci would-be assassins arrested on way to whitehouse
 12/28
 - covid
   - fauci 81 years old, time to go?
