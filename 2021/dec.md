@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+12/31
+- med
+  - sugar additive trehalose linked to bacterial infection
+- tech 
+  - boston dynamics robot stretch - move 800 heavy boxes per hr
+    - looks like a crane
+  - climate change solution - store co2 in oceans?
+  - devops goof - univ of japan kyoto loses data due to backup error
+    - 77 tb data lost
+  - appl air tags used to track people, steal cars
+- business
+  - aapl partner with chinese supplier to
+    - curry favor with beijing
+    - cut costs 
+  - SK Hynix (korea) purchase of intel NAND memory biz 
 12/28
 - covid
   - fauci 81 years old, time to go?
