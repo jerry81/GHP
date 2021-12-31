@@ -17,7 +17,12 @@
   - Metaverse real estate mogule makes tenfold profits
   - james webb telescope makes successful, fuel efficient launch
   - cox media group attacked by iranian hackers
+  - airforce - lidar on robot dogs?
 - business
+  - 2021, worst ever year for games?
+  - 13 more gigafactories coming to america by 2025
+  - doordash running out of deliveryboys, using engineers
+  - appl trying to prevent talent from leaving by offering 180k bonus
   - popularity of .xyz domain due to alphabet using it (abc.xyz)
   - hyundai shuts down engine dev to focus on EV
   - aapl foxconn plant in india shut down due to conditions
@@ -39,6 +44,8 @@
   - Ireland's data grid pushed to brink by data centers
   - John madden dies 
   - china rewrites constitution, tackle climate change
+  - winter storms breaking temp and snow records
+  - oxygen-starved oceans
 12/28
 - covid
   - fauci 81 years old, time to go?
