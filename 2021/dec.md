@@ -3,18 +3,42 @@
 12/31
 - med
   - sugar additive trehalose linked to bacterial infection
+  - unexplored biology: underneath the antarctic ice shelf
 - tech 
+  - chinese hackers targeting log4j flaw
   - boston dynamics robot stretch - move 800 heavy boxes per hr
     - looks like a crane
   - climate change solution - store co2 in oceans?
   - devops goof - univ of japan kyoto loses data due to backup error
     - 77 tb data lost
   - appl air tags used to track people, steal cars
+  - MIT prototypes hovering rover
+  - MSFT defender Log4J false positives
+  - Metaverse real estate mogule makes tenfold profits
+  - james webb telescope makes successful, fuel efficient launch
+  - cox media group attacked by iranian hackers
 - business
+  - popularity of .xyz domain due to alphabet using it (abc.xyz)
+  - hyundai shuts down engine dev to focus on EV
+  - aapl foxconn plant in india shut down due to conditions
+  - spacex - humans to mars within 10 years
   - aapl partner with chinese supplier to
     - curry favor with beijing
     - cut costs 
   - SK Hynix (korea) purchase of intel NAND memory biz 
+  - Polygon - ethereum scaling business - bug put 24M at risk
+  - Axie Infinity - play to earn game popular in PH
+  - amzn facing competition for shopping apps, falls to 4th
+  - Sweden's Northvolt - first Lithium Ion battery built in EU
+  - Aapl's decision to ditch intel paying off
+- politics
+  - nasa recruits religious experts to understand how humans would react to aliens
+  - mexico to launch digital currency by 2024, central bank
+  - china plan to become robotics powerhouse by 2025
+  - korea wants appl and goog to pull play to earn games from market
+  - Ireland's data grid pushed to brink by data centers
+  - John madden dies 
+  - china rewrites constitution, tackle climate change
 12/28
 - covid
   - fauci 81 years old, time to go?
