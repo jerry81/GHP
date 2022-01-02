@@ -1,7 +1,12 @@
 [Back](./index.md)
 
 1/2
+- covid
+  - omicron doesn't affect lungs
+  - europe considering tighter rules
+  - race may be considered when distributing covid treatments
 - tech
+  - futurologist predictions: water running out, robots taking jobs
   - things scientists calculated in 2021
     - number of bubbles in half-pint glass of beer - 2M
     - weight of all SARS-CoV-2 particles - between .22 and 22 lbs
@@ -13,23 +18,38 @@
     - 1.5 years to walk around the moon
     - active satellites, 7500
     - absolute limit of human lifespan, 120-150 years
-    - world's brightest x-ray laser
-    - drones may replace fireworks for light shows
-  - business
-    - program for cheaper internet for low-income americans launches
-    - intel alder lake "lightning fast"
-      - 13.8 GBps PCIs 5.0 SSD
-    - india antitrust appl investigation 
-    - samsung foldable shipments increased 4x in 2021
-  - politics
-    - plan to capture CO2 wasted taxpayer dollars
-  - culture
-    - best book of past 125 years
-      - fellowship of the ring
-      - to kill a mockingbird
-      - 1984
-      - one hundred years of solitude
-      - beloved
+  - world's brightest x-ray laser
+  - drones may replace fireworks for light shows
+- business
+  - thousands more flights cancelled
+    - 4346 cancelled on New Year's day 
+  - program for cheaper internet for low-income americans launches
+  - red-hot housing markets sets mortgage records
+  - intel alder lake "lightning fast"
+    - 13.8 GBps PCIs 5.0 SSD
+  - india antitrust appl investigation 
+  - samsung foldable shipments increased 4x in 2021
+- politics
+  - plan to capture CO2 wasted taxpayer dollars
+  - china harvests data on western targets
+  - beverly hills residents buying guns
+    - violence 15 year high in LA
+  - china moon base plan accelerates
+- culture
+  - chicken prices put thighs on restaurant menus
+  - best book of past 125 years
+    - fellowship of the ring
+    - to kill a mockingbird
+    - 1984
+    - one hundred years of solitude
+    - beloved
+  - bill gates reading list, 2021
+    - the moon is a harsh mistress
+    - kiara and the sun
+    - project hail mary 
+    - the code breaker (about crispr)
+    - a thousand brains
+  - 17 y/o beats carlsen in rapid world champs
 1/1
 - people
   - betty white dead, 99
