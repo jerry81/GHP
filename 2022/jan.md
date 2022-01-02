@@ -2,10 +2,16 @@
 
 1/2
 - covid
+  - omicron spreading "at lightning speed"
   - omicron doesn't affect lungs
   - europe considering tighter rules
   - race may be considered when distributing covid treatments
 - tech
+  - most popular slashdot stories of 2021
+    - linus - tells antivaxxer to shut up, rust to be incorporated in linux kernel
+    - rich stallman's return to FSF
+    - who to blame in TX electrical outage
+    - Software RAID better than hardware RAID?
   - futurologist predictions: water running out, robots taking jobs
   - things scientists calculated in 2021
     - number of bubbles in half-pint glass of beer - 2M
@@ -21,6 +27,7 @@
   - world's brightest x-ray laser
   - drones may replace fireworks for light shows
 - business
+  - bank, santander accidently deposits 130Euros in client's accounts
   - thousands more flights cancelled
     - 4346 cancelled on New Year's day 
   - program for cheaper internet for low-income americans launches
@@ -30,6 +37,8 @@
   - india antitrust appl investigation 
   - samsung foldable shipments increased 4x in 2021
 - politics
+  - netflix required by RU to stream state broadcasts
+  - us gov requests 2 week delay for 5g deployment
   - plan to capture CO2 wasted taxpayer dollars
   - china harvests data on western targets
   - beverly hills residents buying guns
