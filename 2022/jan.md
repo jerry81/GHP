@@ -13,7 +13,23 @@
     - 1.5 years to walk around the moon
     - active satellites, 7500
     - absolute limit of human lifespan, 120-150 years
-
+    - world's brightest x-ray laser
+    - drones may replace fireworks for light shows
+  - business
+    - program for cheaper internet for low-income americans launches
+    - intel alder lake "lightning fast"
+      - 13.8 GBps PCIs 5.0 SSD
+    - india antitrust appl investigation 
+    - samsung foldable shipments increased 4x in 2021
+  - politics
+    - plan to capture CO2 wasted taxpayer dollars
+  - culture
+    - best book of past 125 years
+      - fellowship of the ring
+      - to kill a mockingbird
+      - 1984
+      - one hundred years of solitude
+      - beloved
 1/1
 - people
   - betty white dead, 99
