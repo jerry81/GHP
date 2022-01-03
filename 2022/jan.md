@@ -1,5 +1,13 @@
 [Back](./index.md)
 
+1/3
+- covid
+  - covid storm coming, will get worse before it gets better
+- politics
+  - demonstration ban in amsterdam, thousands gather anyway
+- tech
+- business
+
 1/2
 - covid
   - omicron spreading "at lightning speed"
