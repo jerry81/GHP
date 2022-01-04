@@ -1,12 +1,46 @@
 [Back](./index.md)
 
-1/3
+1/3 - 1/4
 - covid
   - covid storm coming, will get worse before it gets better
+  - france relaxes
+  - uk more measures face resistance
+  - millions of chinese 'starving to death' amidst lockdown
 - politics
   - demonstration ban in amsterdam, thousands gather anyway
+  - 5 nations pledge to avoid nuke war 
+    - USA, China, Russia, UK, France
+  - 140K gaming firms forced to close in China
+    - CN witholding gaming licenses needed to sell games in App Store and other mktplaces 
+  - huawei, attacked by US sanctions, sees its revenue drop 30% in 2021
 - tech
+  - "digital twin" a virtual replica of a real-world object 
+  - NY county, Erie, plans 500-mile internet backbone 
+  - medical implants have arrived
+  - Mars and Venus may be terraformed?
+  - chinese fusion reactor maintains 70M degrees C for more than 17 minutes 
+    - goal, keep 100M for 1 week
+  - samsung tv remote uses router's radio waves to recharge
 - business
+  - billionaires embracing crypto in case "money goes to hell"
+  - liz holmes found guilty on some charges
+    - jury deadlocked on 3 of 11 counts
+  - tesla blowout deliveries, set to start new year hot 
+  - IG influencer scam crimewave
+  - AAPL first US company to reach 3T
+  - delivery startup Jokr experiments with slower delivery to save costs, losing 159USD per order
+  - morgan stanley settles data-breach lawsuits by paying 60M
+- culture 
+  - did betty white die from booster shot?
+  - packers placed number 1, aaron rodgers still there
+  - assange taking asylum in mexico
+  - prince andrew may have had deal with epstein 
+  - klimt work "philosophy" recreated in color with AI 
+    - moral question - should it be done?
+- biomed
+  - stress is heart's worst enemy 
+  - ketamine as depression treatment
+  - lab-grown shrimp too expensive for market
 
 1/2
 - covid
