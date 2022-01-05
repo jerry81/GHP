@@ -3,16 +3,20 @@
 1/5
 - tech
   - robots can give injections, open bottles, and lift 65lbs
+  - aapl AR/VR headset will have 3 displays 
+  - james webb telescope sun sheild deployed
 - biomed
   - grapes good for heart, clean up cholesterol
 - covid
+  - patent-free covid vaccine from TX children's hospital and Baylor College offered as "gift to world"
+  - WHO downplays new covid variant found in france 
   - 7 straight days of record setting cases
-  - 4.5M quit jobs 
   - violent protests in germany
   - robots filling in for staff
   - 1017376 deaths in 1/3/2022
   - 201,780 deaths in 1/3/2021
 - culture
+  - people having less sex
   - while on psychadelics, people realize
     - they don't know themselves well enough
     - ego death, forget about self-importance
@@ -20,15 +24,30 @@
     - perspectives on friendships
     - less self-judgemental 
     - elves tell him that he is loved and cared for (dmt)
+  - psyclocybin "no short or long-term detrimental effects" in healthy people
 - politics
+  - french law requires car ads to recommend walking or biking instead
+  - 4.5M quit jobs in november
   - i-95 winter storm
   - amtrak passengers trapped 30+ hrs
   - manhattan DA - stop seeking prison for armed robberies, drug dealing
 - biz 
+  - Mercedes Benz 620 Mi Range EV Concept 
+  - Wordle, Josh Wardle, former Reddit programmer, word game
+  - amzn increase influence on k-12 schools for hardware
+  - Sony QD-OLED 4K TV - quantum dot organic light emitting diode 
+  - AMD Ryzen 6000 mobile cpus
+  - duckduckgo banner year 
+    - 35B search queries
+  - Nvidia RTX 3090 Ti - new flagship GPU
+  - LG TVs have builtin health app 
+  - intel alder lake 12th gen cpus, 22 desktop, 8 laptop cpus
   - musk worth 304B
   - tesla showroom in xinjiang, musk accused of "support for genocide"
   - amzn, google, deploy teams to thwart antitrust actions
   - kfc plant-based fried chicken 
+  - ASML (company) berlin fire, hurts chip supply chain
+  - popcorn time, piracy app shuts down
 1/3 - 1/4
 - covid
   - covid storm coming, will get worse before it gets better
