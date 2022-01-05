@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+1/5
+- tech
+  - robots can give injections, open bottles, and lift 65lbs
+- biomed
+  - grapes good for heart, clean up cholesterol
+- covid
+  - 7 straight days of record setting cases
+  - 4.5M quit jobs 
+  - violent protests in germany
+  - robots filling in for staff
+  - 1017376 deaths in 1/3/2022
+  - 201,780 deaths in 1/3/2021
+- culture
+  - while on psychadelics, people realize
+    - they don't know themselves well enough
+    - ego death, forget about self-importance
+    - cutting toxic people off
+    - perspectives on friendships
+    - less self-judgemental 
+    - elves tell him that he is loved and cared for (dmt)
+- politics
+  - i-95 winter storm
+  - amtrak passengers trapped 30+ hrs
+  - manhattan DA - stop seeking prison for armed robberies, drug dealing
+- biz 
+  - musk worth 304B
+  - tesla showroom in xinjiang, musk accused of "support for genocide"
+  - amzn, google, deploy teams to thwart antitrust actions
+  - kfc plant-based fried chicken 
 1/3 - 1/4
 - covid
   - covid storm coming, will get worse before it gets better
