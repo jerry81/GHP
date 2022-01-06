@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+1/6
+- Covid
+  - LA first case of flurona
+  - CDC recommends giving up testing
+  - walmart, kroger sold covid test kits increase in price
+- Politics
+  - americans already fearing trump repeat
+  - HK bans flights and shutters nightlife
+  - kosovo bans crypto mining to save electricity
+  - goog fiber workers try to unionize in Kansas City
+  - paypal venmo and cash app must report payments over 600 to IRS
+  - Chinese tech companies losing jobs and hope as crackdown continues
+    - example cited: iQiyi - 20% layoffs
+  - locked down chinese city Xi'an in chaos after covid app crash
+- Biz
+  - tampa "hottest" housing market
+  - Mercedes unveils tesla killer - only have to recharge twice a month
+  - Crypto platform ARBIX "rugpull", transferred money away, aka "exit scam"
+  - chevy Silverdo goes electric (GM goes electric)
+  - MSFT Pluton security chip to rollout to pcs this year
+  - AMZN sold more than 150M fire TV devices
+  - FB halts AR/VR OS project
+  - PSVR2 headset for PS5 previewed
+  - John Deere self-driving tractor
+- culture
+  - avg person worries about money 6 times a day
+  - 3 in 10 would give up sex to retire 
+- tech 
+  - bmw color-changing concept car paint BMW iX Flow - works like E-reader
+    - questions of durability in harsh weather 
+  - humans may still outperform ai in weather prediction 
+  - nailable solar shingles 
+  - china mars orbiter snaps selfies above mars
+
 1/5
 - tech
   - robots can give injections, open bottles, and lift 65lbs
