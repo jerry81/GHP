@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+1/9
+- covid
+  - fed up citizens learn to live with virus
+  - 5M out sick next week
+  - don't work out with covid, at home or at the gym
+  - vax make women's periods later
+  - us covid cases triple in two weeks
+- politics
+  - kamala feeling "malaise"
+  - canada may make vax mandatory
+  - kazakhstan internet shutdown affects btc mining
+  - kasparov thinks crypto enables freedom
+  - world's largest coal port in australia to go 100% renewable
+- tech
+  - are lithium ion batteries recyclable? - consensus is it is difficult
+  - blood test for cancer
+  - TIOBE report: python was language of the year
+  - james webb telescope final major deployment
+  - sony working on 3d scanner to put objects into games
+  - road salt bad for the environment
+  - meme coins crashing
+  - lava-like coating stops fires
+- business 
+  - FB 'operation tulip' - build holland's biggest data center
+  - global potato shortage threatens french fries 
+  - salesforce forced MFA for all users
+  - since new year's, 27000 US flights cancelled
+  - paypal crypto push, launches own stablecoin
+  - record number of nasdaq stocks down 50%
+  - appl chip designer jeff wilcox goes to intel
+  - signal gets crypto feature
+  - sony to enter EV biz
+- culture
+  - amazon tv fallout tv series
 1/6
 - Covid
   - LA first case of flurona
