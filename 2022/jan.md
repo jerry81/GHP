@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+1/10
+- covid
+  - deltacron discovered in cyprus greece
+  - meat and egg shortages
+  - djokovic infected, took pictures with kids day after
+  - tianjin testing all citizens after omicron discovered
+  - americans adopted millions of dogs during pandemic
+- politics 
+  - NYC bronx deadly building fire 19 killed
+  - michelle o to get back into politics
+  - what would second civil war be about?
+  - new law allows non-citizens to vote
+- culture
+  - heidi fleiss, notorious madame fleeing nevada, moving to Missouri 
+  - 106 year old credits longevity to big macs
+  - broadway michael jackson musical will be major hit if pandemic doesn't say otherwise 
+  - college trans swimmers face off
+- tech
+  - cows given VR to reduce anxiety and increase milk 
+  - OSS developer goes rogue, corrupts his own libraries 
+  - retaliate against corporations
+- business
+  - AMZN joins Lockheed to send alexa to space 
+  - Meta PR head quits, "leaving a company on fire"
+  - norton 360 criticized for installing crypto miner on customer computers
+
 1/9
 - covid
   - fed up citizens learn to live with virus
