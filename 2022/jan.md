@@ -1,5 +1,50 @@
 [Back](./index.md)
 
+1/11
+- covid
+  - boris: "living with covid" plan
+  - NJ all time high 
+  - sick staff being asked to return
+  - pfizer predicts annual shots
+- politics
+  - newsom health coverage for illegal immigrants
+  - gutfeld rising up foxnews
+- tech
+  - man gets pig heart transplant
+    - genetically altered
+  - CIA director says will be dealing with Log4j for a long time
+  - Ubuntu-based Linux Mint will sell its services to Mozilla
+  - worst-case scenarios of AI
+    - large-scale disinformation
+    - predictive control - destroying free will
+  - Ask Slashdot: why do programmers make so many mistakes?
+    - ignoring edge cases
+    - lazy, undisciplined, willfully ignore correctness
+    - programmers don't care
+    - input validation expensive
+    - cost
+    - programming by its nature requires perfrection
+    - copy-and-paste
+    - bad management - "you get what you reward", too much focus on perceived "progress"
+  - iMessage design - green color text shows message went thru
+- business
+  - luxury housing market gets hotter
+  - duckduckgo ceo on google: manipulating browser extensions to kill competition
+  - 1/4 americans plan to quit in 2022
+  - goog tries to convince employees that "unions suck"
+  - app store devs make 60B in 2021, says aapl
+  - avira, norton both have crypto miners now
+  - iCloud private relay being blocked for iphone users by some carriers, including T-Mobile/Sprint
+  - Signal founder, Moxie Marlinspike steps down as CEO
+  - BTC drops under 40K
+  - Panasonic try 4 day work-week, Japan
+  - Game company Take-two to purchase mobile gaming company Zynga, 12.7B 
+  - banks making credit cards more easily obtainable
+  - New Oriental EdTech （新东方) fires 60K, worst cuts since china crackdown
+- culture
+  - saget dead in hotel room, cause unknown
+  - children who exercise get better grades 
+
 1/10
 - covid
   - deltacron discovered in cyprus greece
