@@ -1,5 +1,35 @@
 [Back](./index.md)
 
+1/12
+- covid
+  - "living with covid" plan to treat it like the flu 
+  - red cross blood crisis
+  - 1.5M cases a day
+- biz
+  - united cuts flights 3000 workers called out sick
+  - goog thinks iMessage too influential
+  - hummer EV could pop wheelies
+- politics
+  - DOJ - domestic terror unit created
+  - ray dalio endorses "common prosperity" drive in china
+  - FTC fb antitrust case moves forward 
+  - appl to offer payment system in S. Korea
+- culture
+  - glamping on wheels to be a big trend
+  - greece acropolis gay sex scene sparks outcry
+  - saget recently batled covid
+  - no hit podcasts in years
+  - netflix "power of the dog" gets golden globe best motion picture 
+- tech
+  - warm balls as birth control?
+  - scientists test aging drugs
+  - smart guns - only can be fire by verified users, coming to USA
+  - hackentosh - custom built macs, build cpu, gpu, chipset similarly to intel mac hardware
+  - hackers can cut our lights
+  - FF update - less load on main browser thread
+  - gorse bushes may provide lots of protein
+    - found in Scotland 
+
 1/11
 - covid
   - boris: "living with covid" plan
