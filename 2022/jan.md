@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+1/13
+- politics
+  - inflation 40 year high
+  - prince andrew sex suit coming
+  - biden approval down to 33%
+  - germany may shut down telegram over hate threats
+  - nigeria lifts ban on twitter 
+- business 
+  - oil to 100
+  - TWN will have more electric scooter battery swap stations than gas stations
+  - sony deals with PS5 shortage by making more PS4s
+  - MSFT hire appl engineer to work on custom chips
+  - Kim K and Floyd mayweather jr sued for crypto scam 
+  - costa rican hydro plant becomes crypto mining base
+- tech
+  - china builds artificial moon
+  - offshore wind farm aution next month
+  - Raspberry pi detecdt malware with EM Waves
+  - "ultraRAM" combine mem and storage into one
+  - hottest ocean temps in history last year
+- culture
+  - olive oil daily tames cancer, heart disease, dimentia
+  - sunday night football makes historical ratings
+
 1/12
 - covid
   - "living with covid" plan to treat it like the flu 
