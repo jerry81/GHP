@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+1/15
+- covid
+  - higher risk of brain damage than alzheimer's
+  - face masks making people appear more attractive
+- politics
+  - newsom slams desantis over covid dead - desantis being a political opponent - florida republican ron desantis
+  - kiev, Ukraine hit by Russian cyberattack 
+  - colleges in china have Social Media Influencer majors
+- business
+  - Meta's oculus gets FTC-led probe into anticompetition
+  - john deere tractor repair monopoly
+  - game company humble moves away from mac and linux to focus on windows only
+  - Pharmaceuticals - Martin Shkreli ordered to pay for price hyper-markup
+  - netflix raises sub prices in us, canada 
+  - major delays on aapl VR/AR headset - until 2023
+  - tesla removes 2022 production date for cybertruck
+- tech
+  - blockchain city in wyoming (CityDAO)
+- culture
+  - WTF - man goes looking for date to infect him
+
+
 1/13
 - politics
   - inflation 40 year high
