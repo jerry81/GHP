@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+1/16
+- politics
+  - TX synagogue hostage situation 
+    - backpack of bombs
+  - politics making americans sick
+  - most believe democracy at risk of extinction 
+  - 1.7B in student loans cancelled
+  - germany dedicate 2% of land to wind power
+  - germany watchdogs find no evidence of censorship in Xiaomi phones
+- covid
+  - china's death count could be 17,000% higher than admitted
+  - causes more brain damage than alzheimers?
+  - cannabinoids curing covid not likely
+- culture 
+  - deranged man pushes asian woman to death at Times Sq. subway station 
+  - celine dion cancels tour dates - persistent medical issues
+  - people really want to ski, vail trying to keep up 
+- tech
+  - world cooler in 2021 than 2020, this is bad thing
+    - because many places still had hottest temperatures ever
+  - linux desktop made serious gains in 2021
+  - github restores account of dev who intentionally corrupted his libraries
+  - NVIDIA technique DLDSR deep learning dynamic super resolution uses AI 
+  - Side effects of being in space
+    - anemia
+    - bone density loss 
+- business
+  - after bill gates allegations, MSFT to investigate sexual harrassment
+  - Pichal and Zuck signed off on illegal ad deal 
+  - tesla nevada gigafactory solar array to become world's biggest 
+
 1/15
 - covid
   - higher risk of brain damage than alzheimer's
