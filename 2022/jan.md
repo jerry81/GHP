@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+1/17
+- politics
+  - trump, still involved, dogs "dull" desantis (florida republican)
+    - desantis may run for 2024 and may showdown with trump 
+  - winter olympics has gone to beijing, snowless
+  - south australia allows 1.7 M people to live a week on 100% renewable energy 
+- covid
+  - body temp maybe not a good gauge 
+  - omicron case weeks before winter games 
+- tech/sci
+  - ocean volcano erupts 
+  - the intentionally corrupted faker.js lib comes back as community project
+- biz
+  - msft finds malware on ukrainian computers
+  - do cs teachers need to know cs?
+    - scripted classes - article makes case that to really know the truth, it takes time to master
+- culture
+  - should we be mocking people who opposed vax and died of covid?
+    - perhaps they couldn't be vaxed 
+
 1/16
 - politics
   - TX synagogue hostage situation 
