@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+1/18
+- covid
+  - isreal says 4 shots not enough
+  - hawaii require booster
+  - aus worst day of deaths since start
+  - china first omicron arrived through foreign mail
+- politics
+  - americans shifting republican
+  - CA considers doubling taxes 
+- culture
+  - japanese town obsessed with aliens
+  - musk says all earthlings are doomed
+- tech
+  - astronauts' blood destroyed in space, cells damaged
+  - physics POC allowing for quantum batteries
+    - superabsorption - quantum phenomenom referring to absorption of light particles
+  - linux malware grew 35% in 2021
+  - Appl AR headset cost consumers over 2000 
+- business
+  - world's richest 10 wealth doubles during pandemic 
+  - wikipedia may drop crypto support
 1/17
 - politics
   - trump, still involved, dogs "dull" desantis (florida republican)
