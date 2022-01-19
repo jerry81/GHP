@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+1/19
+- covid
+  - predictions 50k - 300k more dead by spring
+  - 1M cases in CA in 1 week
+  - CN orders overseas mail disinfection 
+- politics
+  - desantis does not want to back trump yet
+  - Louisiana senate candidate smokes pot in campaign ad
+  - athletes advised to use burner phones in beijing winter olympics (avoid data breaches)
+  - indonesia new capital - will replace jakarta 
+  - UK to launch 4 day work week 
+- business
+  - oil prices 7 year high
+  - dow -543
+  - TX, AZ recovering lost jobs
+  - 1st felony charges against autopilot
+  - youtube originals to be scaled back
+  - ali cloud investigated by us for security risk
+  - intel - ultra low-voltage bitcoin mining ASIC - applicatioin specific integrated circuit
+- culture 
+  - psychadelic trips healing people from trauma 
+  - stephen a smith on his covid bout: "didn't know if i was going to make it"
+- tech
+  - open source developers discovering they have power
+
 1/18
 - covid
   - isreal says 4 shots not enough
