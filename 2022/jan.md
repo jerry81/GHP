@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+1/20
+- covid
+  - 50k - 100k more dead by spring
+  - mild cases linked to memory issues
+- politics 
+  - merkel turns down UN seat
+  - putin war games, nato on alert
+  - trump company significant evidence of fraud
+  - biden struggling with multiple crisises, declining popularity 
+    - 1/3 of country gives him an "f"
+  - smoking ban on balcony 
+  - china warns against political speak at games
+  - boris "on the brink"
+  - according to birth data, china population may shrink this year 
+- culture 
+  - 28 lb cat breaks world weight record 
+  - britney rant on sister
+- tech
+  - 6th mass extinction underway
+    - event that wipes 75% of species in short amount of time 
+  - europe wants to build own DNS infrastructure - DNS4EU
+    - own filtering abilities 
+  - instagrammers genetically replicating their pets
+- biz
+  - crypto.com ceo accounts hacked 
+  - better.com ceo fired 900 workers on zoom, returns as CEO - mortgage lending company 
+  - ericsson sue appl over 5g patent licensing
+  - opera launch dedicated crypto browser 
+
 1/19
 - covid
   - predictions 50k - 300k more dead by spring
