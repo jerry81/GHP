@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+1/21
+- politics 
+  - fed to release digital currency
+  - teddy roosevelt statue removed outside museum of natural history
+  - FAA and airports progress with 5g C-band
+  - london wants a daily driving charge of $2.7
+  - bank of russia full crypto ban coming
+- covid
+  - united states of infected
+- biz
+  - amzn first clothing store will be hightech
+  - 4 day work weeks, freedom to move anywhere, companies reconsidering their policies
+  - housing sales at 15 year high
+  - neuralink getting close to brain chip in humans
+  - xbox looking to revive old activision games
+  - FB and IG may get into NFT biz
+  - GOOG AR headset 
+  - samsung falls behind appl in AR/VR due to obsession with foldables
+- culture
+  - new batman 3 hrs long
+  - taking pets to acupuncture
+- tech
+  - AI has conquered poker
+
+
 1/20
 - covid
   - 50k - 100k more dead by spring
