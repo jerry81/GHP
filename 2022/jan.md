@@ -1,5 +1,50 @@
 [Back](./index.md)
 
+1/24
+- covid
+  - israel: 4th vax brings 2x protection against omicron, 3x against serious illness for over 60s
+- culture 
+  - brady's last game?
+  - disney sundance movie features cannibalism
+  - sundance sharp stick film about porn 
+  - vince mcmahon at 76 still has 3 AM workouts 
+  - meatloaf dead
+  - 2 canadians shot in cancun 
+  - film "wuhan i'm here" follows volunteers
+  - first non-binary winter olympian 
+- politics
+  - china building movie empire
+  - israel quakes 
+  - biden approval at 47
+  - food supply under pressure 
+  - iran accuses israel of exploiting holocaust to justify current crimes 
+  - charges dropped against MIT professor accused of working w/ china 
+  - el salvador buying the bitcoin dip at 35k 
+  - china mandatory olympics app has security flaws 
+- tech
+  - 22 y/o builds semiconductors in garage 
+    - thinks chipmaking should be accessible
+  - 15 months ago, an iceberg released 152B tons of water
+  - mars earthquakes leave evidence of tumbling boulders
+  - 40 quintillion black holes exist in universe 
+  - MIT all-in-one diabetes treatment 
+  - silicon-based quantum computing hits 99% accuracy, major breakthru
+    - Sydney research team UNSW university of new south wales 
+- business
+  - musk offers satellite internet to tsuanmi victim country Tonga 
+  - netflix stock dropped 41% in two months
+    - increasing competition
+    - gaining subscribers slowly 
+    - crypto droping as investors reduce risk 
+  - 5 day workweek dying?
+    - zoom giving workers choice to wfh, or hybrid
+    - bolt - startup 4 day workweek 
+    - amzn, salesforce
+  - meta AI learns through visual, written, or spoken materials
+  - GOOG - ask judge drop tx antitrust lawsuit 
+  - deepmind cofounder leaves goog 
+  - intel massive new ohio factory
+  - twitter security team shakeup 
 1/21
 - politics 
   - fed to release digital currency
