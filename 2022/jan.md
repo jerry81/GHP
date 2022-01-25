@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+1/25
+- biz
+  - bubble is bursting
+  - market plunged 10% to start year
+  - fed will attempt to rescue
+  - tesla has most productive car factory in america
+  - meta supercomputer
+  - mark cuban online pharmacy - KPI reduce stress of patients
+  - 130B crypto wiped out of markets
+- culture
+  - evan rachel wood abuse allegations against marilyn manson
+- politics
+  - china flies 39 warplanes towards taiwan, tensions
+  - heavy smog over beijing 
+  - space force satellites can "inspect" other satellites 
+- tech
+  - james web telescope arrives at orbit 
+
+
 1/24
 - covid
   - israel: 4th vax brings 2x protection against omicron, 3x against serious illness for over 60s
