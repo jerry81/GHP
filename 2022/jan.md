@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+1/28
+- biz
+  - aapl best quarter ever, 34.6B profit
+    - holiday sales
+    - big china boost
+  - musk prioritizes "the humanoid", most powerful ai 
+  - space x rocket will crash into moon
+  - Teams gets over 270M users 
+  - criminals laundered 8.6B with crypto 
+  - nvidia will prepare to abandon 40B ARM deal 
+- politics
+  - biden to ukraine: invasion certain 
+  - chip shortage fuel for conflict with china?
+  - nkorea internet downed, cyber attacks suspected
+  - SAT to be shorted to 2 hrs and all digital 
+  - fight club given new ending by china where authorities win 
+  - Tonga's undersea cable borken by volcanic erruption 
+  - biden - chip shortage will last through 2022
+- culture
+  - crowd watches window watcher's fatal plunge
+  - medieval "segmented sleep" - sleep at nightfal, wake at midnight, sleep a few hrs later until morning - industrial revolution ruined this with single block.
+- tech
+  - fracking hazardous to health - air pollution 
+  - macOS 12.3 breaks cloud-storage dropbox and onedrive 
+  - computers discover 100K viruses in old genetic data 
+  - aapl face id with mask on - look for unique features around eyes only
+  - regenerating frogs can regrow limbs in experiment 
+  - hydrogen plasma in world's largest laser 
+  - covid may reactivate latent retroviruses in DNA
+  - AI building AI
+  - Meta crypto, Diem may dissolve soon
+  - Quantum computers breaking crypto - would require much larger
+    - bitcoin has 10 minute window to decrypt - quantum computers may be large enough (1M times larger) in a decade
+
 1/25
 - biz
   - bubble is bursting
@@ -17,7 +51,6 @@
   - space force satellites can "inspect" other satellites 
 - tech
   - james web telescope arrives at orbit 
-
 
 1/24
 - covid
