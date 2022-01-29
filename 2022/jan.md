@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+1/29
+- politics
+  - world's most powerful cyberweapon
+  - blizzard in boston - biggest ever?
+  - [jill biden](https://en.wikipedia.org/wiki/Jill_Biden) reveals new white house cat 
+  - tx gov candidate wants to make tx citadel for bitcoin
+  - china county encourages leftover women to marry unemployed men 
+- covid
+  - latest variant 1.5x more contagious than omicron
+- tech
+  - blood proteins can determine longevity 
+  - 1 person controlling robot swarm of 130
+- biz
+  - samsung spills 763k gallons of sulfuric acid 
+  - MSFT defends against record-breaking DDoS aattack, 3.47Tb
+  - crypto selloff wiped 7B off corporate balance sheets 
+  - spacex plans 52 missions in 2022
+
 1/28
 - biz
   - aapl best quarter ever, 34.6B profit
