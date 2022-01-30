@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+1/30 
+- politics
+  - kansas man travels to DC to kill "antichrist" biden
+  - china: "us paying atheltes to sabatoge games"
+  - america and china race to salvage sunk F-35, worth 100M
+  - chile drafting new constitution, urging free software and user freedom
+  - IRS looking for alternatives to face scanning over privacy concerns
+  - nuke power commisioner argues nuke power isn't climate solution
+- covid
+- tech
+  - highest temperatures ever in 2021 -> catastrophic weather
+  - spacex rocket to collide with moon
+- biz 
+  - 80% NFTs created for free on OpenSea are scams
+  - sega sells arcades after 56 years 
+  - crypto co-founder revealed to be infamous fraudster, shakes investors
+    - canadian Michael Patryn, QuadrigaCX
+    - changed name twice 
+- culture
+  - brady retires?
+  - 2 feet of snow in blizzard
+  - man dies during happy ending massage
+
 1/29
 - politics
   - world's most powerful cyberweapon
