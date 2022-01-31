@@ -2,6 +2,23 @@
 
 1/31
 
+- culture
+  - la to host superbowl - bengals vs rams
+  - miss usa 2019 jumps to suicide 
+- covid
+  - 12 cases in beijing 
+  - authorities being pushed towards learning to live with covid
+- tech
+  - same-sex penguins as foster parents 
+  - cobalt's dark side
+    - was "miracle metal"
+    - caused social conflict due to rarity 
+    - increased interest in cybersec, ai, go, rust, c++
+- biz
+  - ohio gets intel 2B plant 
+  - intel still being sued for spectre, meltdown 
+
+
 1/30 
 - politics
   - kansas man travels to DC to kill "antichrist" biden
