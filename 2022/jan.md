@@ -1,5 +1,7 @@
 [Back](./index.md)
 
+1/31
+
 1/30 
 - politics
   - kansas man travels to DC to kill "antichrist" biden
