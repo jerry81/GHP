@@ -2,19 +2,36 @@
 
 2/5
 - covid
+  - caused mutations in HIV
   - jan jobs up
   - hiring spree
 - culture
+  - xckd author randall munroe book "what if? 2"
   - propagandha filled opening for winter games
   - putin falls asleep during Ukraine introduction
   - games used to "whitewash" brutal regime
   - compared to squid game
   - jackass forever the tonic we needed? 
 - politics
+  - india propose 30% income tax on crypto and nft income 
+  - isreal speeding up roll out of laser defense system 
+  - another warning against china as a innovation threat
+  - EU drafts countermeasures to Cn, US on tech rules 
   - "EARN IT" bill allow scanning all online messages
   - robot police dogs from boston dybnamics deployed on border 
   - newsom appalled by ca "third world conditions
 - biz
+  - six grocery delivery startups competing, bleeding
+  - twitter algorithm favors right 
+  - amzn warehouse manager guilty of stealing 273K worth of computer parts 
+  - MSFT wants to buy activision blizzard 
+  - dorsey "zuck should have focused on bitcoin, not diem"
+  - startup investors devesting amid tech stock rout 
+  - windows may need 8 hrs to update 
+  - Cruise - srobotaxi rides in sf without safety backup drivers 
+  - youtube ad revenue 8.6B for the quarter, beats netflix 
+  - msft warns on appl antitrust 
+  - sidewalk labs now a unicorn
   - facebook crash
     - zuck loses 31B
     - new strat: focus on video 
@@ -30,7 +47,15 @@
   - epa blocks usps plan to rollout gas-powered fleet 
   - mozilla shutting down vr web browser, firefox reality
   - fb lost users first time ever last q
+  - spacex premium starlink 500usd/month
+  - startup helps companies switch to usage based pricing
+  - fossil fuels pushing plastics industry 
+  - incoming gmail redesign 
+  - citrix (cloud and virtualization) to be aquired for 16.5B
+  - kfc meatless rollsout in usa 
 - tech 
+  - python dominating, but developers are rounding out skills
+  - deepmind ai coding engine as good as average human programer 
   - cyberattack on news corp
   - woman gang raped in metaverse 
   - new HIV strain leads to aids twice as quickly
@@ -45,8 +70,12 @@
   - new material absorbs and releases huge amounts of energy - rubber like
   - wireless ev charging road arrives in detroit, first mile
   - havana syndrome due to 'pulsed em energy'
-  
-
+  - gobal heating will cause all coral to suffer bleaaching 
+  - new material stronger than steal, light as plastic 
+  - hide teams icon to save RAM, windows 11
+  - fastest gaming monitor has 500Hz refresh rate
+  - electric wound dressing heal faster, electric fields  
+  - florida unusually cold 
 
 2/3
 - culture
