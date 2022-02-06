@@ -11,8 +11,11 @@
   - russia may seize kyiv in days, 50,000 potential civilian deaths
   - possible chinese hack of news publisher 
 - tech
+  - github sponsors-only repos 
+  - protons smaller than thought
+  - new tech remove 99% co2 from air 
   - new version of go supports generics and "fuzzing" 
-    - fuzzing - 
+    - fuzzing - automation of forming malformed data for tests 
   - pill stop sex-addicts from cheating 
   - artificial snow is resource intensive 
     - energy and water
