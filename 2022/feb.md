@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+2/6
+- culture 
+  - joe rogan controversy
+    - repeated use of the n word
+    - spotify removes episodes 
+- politics 
+  - no medals for USA on first day
+  - record low viewership
+  - russia may seize kyiv in days, 50,000 potential civilian deaths
+  - possible chinese hack of news publisher 
+- tech
+  - new version of go supports generics and "fuzzing" 
+    - fuzzing - 
+  - pill stop sex-addicts from cheating 
+  - artificial snow is resource intensive 
+    - energy and water
+  - linus is not btc creator satoshi nakamoto 
+  - MIT and Fed research possible central bank digital dollar 
+  - rogue black hole discovered in milky way 
+- biz
+  - six reasons meta might be in trouble
+    - usr growth has ceilinged out 
+    - appl limiting meta, goog stealing online ad share 
+  - AMZN huge one-day gain 
+  - FB faceplant on wall street 
+  - TED conference costs 5k to 50k to attend
+
 2/5
 - covid
   - caused mutations in HIV
