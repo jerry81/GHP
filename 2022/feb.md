@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+2/7
+- politics
+  - boris losing power?
+  - musk feud with biden?
+  - nkorea stole crypto to fund missle program 
+  - IRS privacy concerns with mandatory face scans
+  - cali nuke power plant on verge of being closed, but faces strong oppositions
+- culture
+  - alcohol returning to planes, flight attendants fearing unsafe workplace 
+  - jackass leads box office 
+  - question: what's killing new music?  
+    - old music is 70% of music market 
+    - copyright lawsuits 
+    - dead musicians being virtualized with deepfake 
+- biz 
+  - cnn zucker exit
+  - meta may pull fb and ig out of eu if it can't do targeted advertising
+  - coca-cola targeted by ransomware, fails to pay hundreds of workers
+  - GTA 6 is in active production - will be targeting an online experience 
+  - thousands of empty flights 
+- tech
+  - AI narrated audiobooks 
+
 2/6
 - culture 
   - joe rogan controversy
