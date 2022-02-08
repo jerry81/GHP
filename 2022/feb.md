@@ -1,5 +1,35 @@
 [Back](./index.md)
 
+2/8
+- politics
+  - zucker exit still makes anchors furious 
+  - EU 48B USD chip act hard to fund - goal, quadruple chip production 
+  - IRS ends facial recog  
+  - Aus pays 20M to buy copyright of aboriginal flag 
+  - "rip and replace" - removing, replacing and disposing of huawei equipment cost companies 5.6B 
+  - fight club ending restored in china after censorship backlash 
+- biz
+  - toshiba troubled, splits into 2 firms instead of 3 
+  - musk brain chip give users orgasms on demand 
+  - thiel steps down from FB board 
+  - nissan ends engine development (except US)
+  - meta adds "personal boundaries" 
+  - EV sales doubled in 2021
+  - AMZN raises salary cap - 350K
+  - MSFT end internet macro as default in Access, Excel, PPT, Visio, Word - requested by security researchers 
+  - Goog cloud adds cryptomining threat detection
+  - adult entertainers with frozen bank accounts turn to crypto  
+- tech
+  - wash state db exposed and breached 
+  - lose weight by staying in bed an extra hour
+  - spinal cord implants could allow paralyzed to walk 
+  - chimps can provide first aid to each other and themselves 
+- covid
+  - pandemic stress leading to eye problems 
+- culture 
+  - hollywood talent manager dead from suicide
+  - streaming castrations lead to 7 arrests 
+
 2/7
 - politics
   - boris losing power?
