@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+2/10
+- covid
+  - hawaii not require tourists to be boosted
+  - covid rules end?
+- culture
+  - watching tv in bed leads to better sleep?
+  - -91degrees in alaskan town?
+  - adidas bare breast ad - 25 of them
+  - joe rogan returns to standup 
+- tech
+  - psychadelics for pain releif 
+  - ditch the western diet, gain 13 years?
+  - time-shifted computing cloud - information as a battery - perform computations in advance when power is cheap 
+  - fusion breakthrough 
+  - tiny magnetic swirls -> true RNG?
+  - spinal implants to cure paralysis
+- biz
+  - trend of video games spying on you 
+  - NASA choose lockheed martin to build rocket to carry mars samples to earth
+  - disney makes up ground on netflix 
+  - nvidia worth more than meta 
+  - 1000 unicorns are worth 1B or more
+  - expressVPN offer 100K to first to hack its servers
+  - Mac M1 will be refreshed with M2 chip 
+  - jack dorsey new cash app
+  - intel new billion investment in open source RISC-V processors 
+  - ARM to NVIDIA totally collapses, ARM to IPO
+- politics
+  - 3.6B bitfinex hack seized by fed
+  - dutch watchdog fines aapl 5.7M over app store, 3rd time 
+  - tiktok shares date more than any social media app
+  - bj digital currency push at winter olympics
+  - poland army adds cyber component
+  - germany and french fine witout facebook
+  - UK will do age verification on porn sites
+
 2/8
 - politics
   - zucker exit still makes anchors furious 
