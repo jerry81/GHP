@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+2/11
+- covid
+  - masks off, pandemic pivot, end of covid rules
+  - uk to drop isolations
+  - prince charles gets covid again
+- politics
+  - windsor/detroit truck blockade at border protesting covid - biden tells them to end it 
+  - inflation up 7.5%
+  - chicken wing supply crunch
+  - china not happy with how usa handles musk satellite risks 
+  - anti-asian hate crimes break record 
+- tech
+  - pilotless black hawks
+  - Android 13 
+  - "circular economy" - conserve natural resources, recycle everything, 0 waste 
+  - third planet discovered orbiting Proxima Centauri (closest star) 
+  - NFT - stored on the blockchain, being applied to vehicle data storage
+  - diziness when standing up can be reduced with 2 leg movements - raise knees for 30 seconds, clench thighs and butt 
+- culture
+  - superbowl in LA
+- biz
+  - technical difficulties as samsung holds metaverse event for galaxy smartphones launch event
+  - intel SDSi - software-defined silicon allows purchasing features on CPU
+  - geomagnetic storm may have destroyed 40 spacex starlink satellites  (49 total) 
+
 2/10
 - covid
   - hawaii not require tourists to be boosted
