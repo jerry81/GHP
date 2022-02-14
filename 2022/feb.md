@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+2/14
+- culture
+  - rams bengals superbowl
+  - lebron passes kareem
+  - american 33 year old leaves usa for bali and lives in luxury for 2233usd/month
+    - digital nomad   
+- politics
+  - 130K russian troops on UKR border 
+  - EU trying to avoid war 
+  - olympics highlights riddled with propaganda 
+- business
+  - tesla 5.5B profit, will pay 0 federal tax 
+  - couple launders 3.6B BTC, seized by justice department
+    - cybersec world mocks security screwups 
+    - private keys stored in cloud-storage wallet 
+  - 2 23 year old texans make 4M mining btc in oil fields
+  - intel thread director goes to linux to help with adler lake performance  
+  - ID.Me has 7M americans' data, may need to destroy it
+  - payment card-skimming malware invades e-commerce sites 
+  - intel energy-efficient GPU to compete in btc mining market 
+  - xiaomi fighting for its life vs appl 
+    - CEO Lei Jun benchmarks vs appl 
+- tech
+  - openAI cofounder: "neural networks are slightly concious", mocked
+  - 52 year old hacker named bowser hacks and pirates switch games, caught and given 40 month prison sentence
+
+
 2/11
 - covid
   - masks off, pandemic pivot, end of covid rules
