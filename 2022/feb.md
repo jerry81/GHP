@@ -10,6 +10,8 @@
   - 130K russian troops on UKR border 
   - EU trying to avoid war 
   - olympics highlights riddled with propaganda 
+  - EU energy grid redesign to cut 32% from energy costs 
+  - US EV infrastructure plans - four fast chargers every 50 Miles 
 - business
   - tesla 5.5B profit, will pay 0 federal tax 
   - couple launders 3.6B BTC, seized by justice department
@@ -22,10 +24,13 @@
   - intel energy-efficient GPU to compete in btc mining market 
   - xiaomi fighting for its life vs appl 
     - CEO Lei Jun benchmarks vs appl 
+  - 2021 in big tech - bad PR year - lots of anti-competitive practices 
 - tech
   - openAI cofounder: "neural networks are slightly concious", mocked
   - 52 year old hacker named bowser hacks and pirates switch games, caught and given 40 month prison sentence
-
+  - greatest phsyics experiment ever on the moon - dropped a hammer and feather 
+  - sleep clock disturbances an early sign of alzheimers?
+  - mad science: synthetic fish can swim using human heart cells
 
 2/11
 - covid
