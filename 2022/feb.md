@@ -9,7 +9,9 @@
     - wanda sykes, amy schumer to host
   - ivan reitman, director dead 75
   - ads featured metaverse, coinbase, free 15 in bitcoin for signing up - linked webpage goes down 
+  - stephen hawking doodle-filled blackboard exhibit 
 - biz
+  - goog kills free storage for edu
   - worldle - wordle for geography
     - wordle is word-guessing game 
   - intel to acquire tower semiconductor for 6B
@@ -18,12 +20,21 @@
       - arduino vs fpga - fpga is parallel, arduino sequential 
     - Xilinx - inventor of FPGA, programmable SoC, ACAP - adaptive compute acceleration platform - software-programmable compute platform 
   - MSFT tell workers prepare return to office 
+  - tech outsourcing to latin america 
 - politics 
+  - france plans 14 new nuke reactors by 2050
+  - Sea (chinese game company) free fire (most popular game) banned in India
   - russia still ready to attack with 130K troops 
   - the don, active again, goes to war with republicans 
   - friends released with censorship
     - lgbt issues censored 
-
+  - western USA going through worst megadrought in 1200 years
+  - SEC crypto crackdown continues 
+- tech
+  - 1000s npm accounts have email addresses with expired domains
+  - panasonic factory in china reduces down to zero emissions
+    - replaced workers with robots and flourescent lights with LEDs
+  - emoji only web addresses allowed by opera browser 
 2/14
 - culture
   - rams bengals superbowl
