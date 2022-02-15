@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+2/15
+- culture
+  - superbowl went maskless 
+  - rams win, matt stafford qb
+  - eminem takes a knee 
+  - oscars to allow twitter votes 
+    - wanda sykes, amy schumer to host
+  - ivan reitman, director dead 75
+  - ads featured metaverse, coinbase, free 15 in bitcoin for signing up - linked webpage goes down 
+- biz
+  - worldle - wordle for geography
+    - wordle is word-guessing game 
+  - intel to acquire tower semiconductor for 6B
+  - AMD purchases Xilinx for 50B - can now offer CPU, GPU, FPGA
+    - FPGA - field programmable gate array - IC that is customizable 
+      - arduino vs fpga - fpga is parallel, arduino sequential 
+    - Xilinx - inventor of FPGA, programmable SoC, ACAP - adaptive compute acceleration platform - software-programmable compute platform 
+  - MSFT tell workers prepare return to office 
+- politics 
+  - russia still ready to attack with 130K troops 
+  - the don, active again, goes to war with republicans 
+  - friends released with censorship
+    - lgbt issues censored 
+
 2/14
 - culture
   - rams bengals superbowl
