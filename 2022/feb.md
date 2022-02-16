@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+2/16
+- politics
+  - russia/ukr de-escalation
+    - russia pulls troops back
+    - putin ready to talk
+  - UKR hit by DDos attack
+  - NY first offshore wind-farm 
+- culture
+  - prince andrew settles sex suit for 16M
+  - djokovic antivax
+- biz
+  - AMZN EFS (elastic file systems) sub-millisecond latencies 
+  - chrome os to pc and macs
+  - delorean revived as EV
+  - softbank CEO Masayoshi son bet on IOT depending on ARM slow to materialize 
+- tech
+  - first HIV cure on record?
+    - stem cell transplant
+  - sleep best way to prevent alzhiemers 
+  - 75% ransomware revenue goes to russian hackers
+  - by 2050, sea level will rise up a foot 
+  - investigation of space part crashing into moon - was pointed at spacex, now china suspected
+
 2/15
 - culture
   - superbowl went maskless 
