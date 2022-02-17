@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+2/17
+- politics
+  - fed still pumping, count up to 9T
+  - plus interest rate increase 
+  - helpless vs runaway inflation, $7 gas
+  - guo wengui, bannon's backer says he's bankrupt?
+  - RU 7000 more troops at border
+  - twn watching ru/ukr anxiously 
+  - ny cameras with microphones to ticket loud cars 
+  - skorea to allow delivery robots on public roads starting 2023
+- covid
+  - CDC "we're almost there" 
+  - EU lifting all virus curbs, pandemic over?
+- culture
+  - execs quitting to spend time with fam
+  - bitcoin investor mental health crisises - "ruined my life" 
+  - bob saget hit head on headboard?
+  - usa hockey team loses in olympics
+- biz
+  - NYSE to add NFT trading?
+  - roblox "beaming" - stealing and hacking
+  - indian bank warns crypto is ponzi scheme 
+  - Second Sight - bionic eye company leaves customers with obsolete and unsupported cyborg eyes 
+  - zuck to company: "we are now "metamates""
+  - virgin galactic looking for 1000 people to buy 450k spaceflight tix 
+- tech
+  - botched butt injection suspected at bronx hospital death 
+  - experiment has clock times skew due to earth's gravity 
+  - AI to control fusion from DeepMind
+
+
 2/16
 - politics
   - russia/ukr de-escalation
