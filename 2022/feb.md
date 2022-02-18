@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+2/18
+- politics
+  - yellen: "dont worry be happy"
+  - 61% americans living paycheck to paycheck
+  - gold up 
+  - trump and his children on trial
+  - iran has unbombable nuke facility 
+  - russia/ukraine chemical warfare worries
+- biz
+  - 4 day workweek gaining ground in EU, america next?
+  - tim cook gets 100M pay package 
+  - tesla loses favor in Consumer reports
+- covid
+  - 73% are immune to omicron 
+- culture
+  - people are "revenge travelling"
+  - elvis by baz luhrman
+  - behinds the scene drama at euphoria
+- tech 
+  - scientists find 162 genes related to heart disease 
+
+
+
+
 2/17
 - politics
   - fed still pumping, count up to 9T
