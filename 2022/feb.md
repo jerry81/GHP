@@ -8,21 +8,31 @@
   - trump and his children on trial
   - iran has unbombable nuke facility 
   - russia/ukraine chemical warfare worries
+  - US is now energy independent
+    - produced more petroleum than it consumed in 2020
+  - india hydrogen plan to speed shift from fossil fuels 
 - biz
   - 4 day workweek gaining ground in EU, america next?
   - tim cook gets 100M pay package 
   - tesla loses favor in Consumer reports
+  - app for insulin delivery
+  - tech companies hiring crisis
+  - amzn accept all visa cards  
+  - jp morgan first bank to open in metaverse 
+  - ericsson stock crash - CEO scandal - ties with isis 
 - covid
   - 73% are immune to omicron 
+  - CDC: covid caused 1M extra deaths during pandemic
 - culture
   - people are "revenge travelling"
   - elvis by baz luhrman
   - behinds the scene drama at euphoria
 - tech 
   - scientists find 162 genes related to heart disease 
-
-
-
+  - air pollution decrease sperm quality 
+  - version 100 bug - ff and chrome version 100 may break websites 
+  - no legs in VR yet 
+  - smart headlights - adaptive - prevent crashes by illuminating pedestrians 
 
 2/17
 - politics
