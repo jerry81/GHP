@@ -7,6 +7,7 @@
   - fbi having a cow over qr codes
   - china "beat out usa" for south america
     - investments, solar energy projects
+  - solar panels on cali canals for energy
 - culture
   - francis ford coppola new project, "megalopolis", "about utopia
   - 100 y/o woman adds a tattoo
