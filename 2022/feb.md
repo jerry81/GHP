@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+2/20
+- politics 
+  - zollensky (UKR) wants to meet with putin for talks
+  - rise of crypto -> financial crisis?
+  - fbi having a cow over qr codes
+  - china "beat out usa" for south america
+    - investments, solar energy projects
+- culture
+  - francis ford coppola new project, "megalopolis", "about utopia
+  - 100 y/o woman adds a tattoo
+  - man uses jammer to block son's internet, accidentally shuts down whole town's - faces prison
+- tech
+  - sun has been erupting all month
+  - ethanol worse for environment than gasoline
+  - brain doesn't slow down until 60s
+  - fish and mirror experiment demonstrates fish self-awareness
+  - perseverence rover 1 year anniversary - mars
+- biz
+  - goog overhaul android ads
+  - .net 20 year anniversary
+  - goog wanted to reduce compensation in 3 states, faces protests
+  - appl store workers to unionize
+  - as companies wise up to email-click triggered hacks, zero-click hacks getting more popular, hard to stop
+  - eric schmidt - USA pathetically falling behind china in 5G
+
 2/18
 - politics
   - yellen: "dont worry be happy"
