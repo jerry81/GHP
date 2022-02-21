@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+2/21
+- covid
+  - queen infected 
+  - ivermectin ineffective, says study 
+  - 4th shot in fall 
+- politics
+  - russia planning biggest war since wwii
+  - tx avoid blackouts with renewable energy 
+  - SF mayor wants return-to-work for downtown offices 
+- culture
+  - epstein pimp dead in prison, hanged
+  - ghislane family fears for her safety
+  - 500 pound bear breaks into Tahoe homes
+  - LA residents moving to spokane due to prices, but spokane already getting too expensive 
+  - games were marked by restrictions, boycotts, and doping scandals 
+  - lebron wants to play final season with son 
+  - ketamine for at-home mental care
+  - quentin almost made star trek movie, pulp fiction style
+- biz
+  - linux devs faster than aapl, msft, goog in patching bugs
+- tech
+  - rust energy-efficient?
+  - AI generated faces "more trustworthy"
+  
+
+
 2/20
 - politics 
   - zollensky (UKR) wants to meet with putin for talks
