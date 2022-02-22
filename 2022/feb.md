@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+2/22
+- covid
+- politics 
+  - RU troops enter ukraine
+    - plans military bases
+  - oil prices go up, fracking revives
+  - nixon visited china 50 years ago 
+  - tulum (mx) shootings 
+  - swissleaks - credit suisse handled dirty money 
+    - 30K accounts 108B USD
+  - US prepares retaliatory cyber attacks on russia 
+- biz
+  - FB -> meta transformation cost 500B
+  - code.org work together with coldplay
+  - trump social media app error on launch
+  - whitecastle to use 100 robots to flip burgers, ohio based 
+  - design company scams employees in with zoom call with fake (but realistic) participants 
+  - appl gets another 5.7M fine from dutch watchdog over appstore
+- culture
+  - ted turner suicidal?
+
+
+
 2/21
 - covid
   - queen infected 
@@ -23,8 +46,6 @@
 - tech
   - rust energy-efficient?
   - AI generated faces "more trustworthy"
-  
-
 
 2/20
 - politics 
