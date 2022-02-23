@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+2/23
+- politics
+  - navies are maneuvering in medditeranian
+  - germany halts pipeline 
+  - putin visits new territory 
+  - new cold war?
+  - putin reminiscent of hitler
+  - china months-long hack on taiwan financial sector 
+  - IRS use login.gov for user auth 
+- culture
+  - dubai creates "most beautiful uilding on earth"
+- covid
+  - possible to catch micron twice 
+  - infections in US down 
+  - HK mandatory tests for all residents 
+- tech
+  - msft: planet-scale AI infrastructure packing 100K GPUs
+  - David Heinemeier Hansson - rails creator says "we need crypto" after being a skeptic 
+- biz
+  - SF wanted to move to NFT, faces opposition from employees 
+  - still waiting on AMZN astro - home robot 
+  - metaverse - man city builds first metaverse football stadium 
+
 2/22
 - covid
 - politics 
