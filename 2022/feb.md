@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+2/24
+- politics
+  - 48 hrs until war?
+  - huge cyberattack on ukr banks and gov websites 
+  - tanks moving in 
+  - CN: "TWN is not UKR"
+  - weapon tech: thermobaric rocket launchers "explode lungs"
+  - UKR state of emergency 
+  - britain sending weapons to UKR
+  - methane emissions higher than official figures 
+  - RU use cyrpto to evade us sanctions 
+  - 5G affects altimeters in boeing 737, says FAA
+  - USA threatens to cut RU off tech if putin escalates 
+- culture
+  - low battery anxiety is a thing
+  - jerry lewis sex assault allegations 
+  - calorie restriction - another study highlights its benefits 
+  - three michaelangelo pietas unified (makes history)
+- biz
+  - amd value surpasses intel 
+  - waymo robotaxi safety details kept secret 
+  - intel investing in linux, acquires linutronix (linux consulting)
+  - intel 12th gen adler lake makes laptops thinner and lighter 
+  - activision next COD game delayed 
+  - frontier (ISP) offers 2 Gbps over entire network, first
+  - Tesla work on bringing Steam games to vehicles 
+
 2/23
 - politics
   - navies are maneuvering in medditeranian
