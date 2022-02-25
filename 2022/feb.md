@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+2/25
+- politics
+  - russian flag raised in ukr 
+  - "countdown wwiii"
+  - ukr fights back
+  - all-out-attack, moscow tries to "decapitate" leaders 
+  - among civilian deaths, a child
+  - trump rooting for putin 
+  - chernobyl plant captured 
+  - cn siding with RU?
+  - protests in RU followed by arrests 
+  - TWN next?  
+  - CN more crackdowns on crypto 
+  - US preps for russian cyberattacks 
+  - US ends "china initiative" - focuses on general defense against nations 
+  - UKR big supplier of neon, used in chipmaking (lasers)
+- covid
+  - 1/3 teens happier during lockdown 
+- biz
+  - condom for anal approved by FDA?
+  - volvo - start to replace PC and paper with iphone and apple watch 
+  - reddit banned 2625 subreddits in 2021, copyright
+  - broken encryption on 100M shipped samsung phones 
+  - businesses shut down ukr operations
+  - stablecoin grows, all other crypto shrinks 
+  - virgin hyperloop shifts attention from passengers to cargo 
+- culture
+  - IV vitamin injects: trendy and potentially unsafe 
+  - 16 year old beats magnus (indian)
+- tech 
+  - ACM - association of computing machinery
+
 2/24
 - politics
   - 48 hrs until war?
