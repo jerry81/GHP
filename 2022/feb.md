@@ -1,5 +1,44 @@
 [Back](./index.md)
 
+2/28
+- war
+  - zelensky "i need ammo"
+  - 4300 dead, 146 tanks destroyed 
+  - fuel and logistics issues thwart advance 
+  - kharkiv (2nd largest) fighting
+  - moscow cash runs 
+  - cyberattack on kremlin 
+  - nuke attack high alert
+  - putin may use chemical attack
+  - EU airspace closing
+  - journalists shot 
+  - RU may drop ISS from orbit
+  - in russia, "nazi" harshest insult
+  - snowden questions journalism on invasion - is he russian now?
+  - "Adolf Putin" graffiti
+  - Germany sending weapons to UKR
+- culture
+  - las vegas shooting, 14 dead
+- politics
+  - AG william barr tell-all on Don
+  - biden SOU address
+  - new CNN president: Chris Licht
+- tech
+  - multiple sclerosis linked to eating meat 
+  - swift creator Chris Lattner steps down
+- biz
+  - Aus standup vs GOOG and FB - forces them to pay up 
+  - Disney Star Wars hotel 5000 two day package
+    - generally positive reviews
+    - "Halcyon"
+    - rooms small and cramped 
+    - light saber training
+    - elaborate entertainment
+    - exploration of ship
+    - dl app, receive missions, storylines, and chat with characters on board
+    - bad for introverts
+
+
 2/25
 - politics
   - russian flag raised in ukr 
