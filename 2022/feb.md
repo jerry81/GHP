@@ -17,15 +17,31 @@
   - snowden questions journalism on invasion - is he russian now?
   - "Adolf Putin" graffiti
   - Germany sending weapons to UKR
+  - EU finding alternatives to russia for energy 
+  - Financial sanctions easier to evade thanks to Bitcoin says CNN
+  - "ghost of kyiv" - ukr fighter shooting down russian fighter
+    - a hoax created by simulator 
+  - NATO article 5: "commitment clause" attack on NATO ally is considered attack on all
+    -  cyberattacks may trigger clause 
+  - EU may cut russia off from swift payment system 
+  - chernobyl radiation spike due to vehicles stirring contaminated soil 
+  - UKR attacked by belarusian hackers 
 - culture
   - las vegas shooting, 14 dead
 - politics
   - AG william barr tell-all on Don
   - biden SOU address
   - new CNN president: Chris Licht
+  - CA starts EV battery recycling 
 - tech
   - multiple sclerosis linked to eating meat 
   - swift creator Chris Lattner steps down
+  - linux written in outdated C, may move to modern C soon
+  - Rust fun but challenging 
+    - best points, error-free, performance, security
+    - production-ready
+  - e-nose sniffs out good whiskey 
+  - low meat and meat free associated with lower cancer risk 
 - biz
   - Aus standup vs GOOG and FB - forces them to pay up 
   - Disney Star Wars hotel 5000 two day package
@@ -37,7 +53,13 @@
     - exploration of ship
     - dl app, receive missions, storylines, and chat with characters on board
     - bad for introverts
-
+  - VW cargo ship fire, 4000 vehicles, Li-ion batteries burned more than a week 
+  - Musk would save ISS, gives starlink service over UKR 
+  - FB, YT blocking russian channels from earning Ad dollars
+  - Astra - low-cost rocket company 
+  - bytedance most valuable startup 
+  - roblox currency "robux" outperforming the ruble 
+  - NVIDIA hit by cyberattack
 
 2/25
 - politics
