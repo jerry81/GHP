@@ -1,0 +1,35 @@
+[Back](./index.md)
+
+3/1
+- war
+  - putin sends militia to assassinate zelensky 
+  - invisible drones, robot tanks, robot dogs 
+  - explosions in kyiv, kharkiv
+  - vacuum bomb?  - thermobaric bomb - sucks up surrounding oxygen
+  - ruble crash, bank runs 
+  - putin threatens using 500 nukes 
+  - RU thrown out of world cup 
+  - UKR calls to freeze russians' bitcoins 
+  - UKR IT army takes down russian sites 
+- culture
+  - basquiat 1982 work sells for 70M
+  - madonna movie looking for lead actress
+  - prince andrew more sex lawsuits 
+  - new batman movie 3 hrs long 
+  - sprawling hollywood drug delivery business
+- biz
+  - nvidia hacks its hackers
+  - twitter to label tweets from russian state 
+  - enercon - german wind energy 
+  - starlink internet dishes arrive in ukr 
+  - qualcomm chips faster 5g and high quality earbud audio
+  - msft detected cyberattacks from RU on UKR before invasion 
+  - sixth dutch antitrust suit against appl 
+  - toyota hit with cyberattack 
+  - aapl ipad/macbook hybrid
+- politics
+  - brain drain danger for UK - due to brexit, lack of funding from EU
+  - US eyes faster-charging batteries to catch energy rivals 
+  - CO, NM, UT, WY to become hydrogen fuel hub
+- tech
+  - github copilot - ai-powered autocompletion tool 
