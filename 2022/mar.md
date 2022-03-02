@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+3/2
+- war
+  - zelensky makes a fearless address
+  - UKR accuse RU of war crimes for blitz on kharkiv
+  - ruble crashes futher 
+  - usa bans russian aircraft 
+  - next target moldova?
+  - kyiv on brink?
+  - ru holding back
+  - expect 10-20 yr war 
+  - oil at 106 a barrel
+  - kapersky (RU cybersec giant) tries to stay neutral 
+  - US expects cn tech firms to choke off supply 
+    - lenovo, Semiconductor manufacturing international Corp SMIC
+- politics
+  - tx shifting further right 
+  - Italy to boost chipmaking - 4.6B fund
+  - Robot dogs planned for border 
+  - germany aim for 100% renewable by 2035
+  - other risks of climate change: sicker, hungrier, poorer, gloomier
+- culture
+  - new batman "bisexual"?
+- tech
+  - nostalgia cures pain?  looking at old pictures cures aches
+  - new cowless milk uses microflora to spit out same proteins as whey  
+- covid
+  - another lockdown coming to HK? 
+- biz
+  - second life will start charging taxes for in-game purchases 
+  - sid meier speaks on gaming industry: beware losing customers due to monetization
+  - VW cargo ship with 4000 vehicles sinks, costing 155M
+  - AMZN luna cloud gaming launches in US
+  - first cashierless AMZN whole foods
+  - sony owns crunchyroll, anime company
+  - BitConnect - 2.4B crypto Ponzi scheme - founder kumbhani disappears 
+
 3/1
 - war
   - putin sends militia to assassinate zelensky 
