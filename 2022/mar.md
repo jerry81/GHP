@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+3/3
+- war
+  - RU troops running out of food and fuel
+  - RU troops surrendering
+  - kharkiv endures bombardment 
+  - ru flights banned by FAA
+  - china asked to delay war until after olympics
+  - zelensky assassination failed
+  - Russian oligarch's yacht seized by germans 
+  - UKR leaks data on 120K russian soldiers 
+  - RU cyberassault on UKR hasn't happened yet
+  - UKR receieves 33M in donations worldwide 
+- biz
+  - drunk jetblue pilot 2x over limit 
+  - housing prices to rise another 10% this year?
+  - airBNB host secretly took videos of naked guests 
+  - amzn will close physical bookstores 
+  - youtube DIY project shrinks M1 mac mini by 78%
+  - nvidia hackers - demand nvidia open source drivers else leak more data
+  - FB shuts down its college-only social network "Campus"
+- covid
+  - sprint break back
+  - china thinking about relaxing covid rules 
+  - why don't some people catch covid?
+- politics
+  - biden state of union address - will halt putin and inflation
+  - biden wants US chip making funding bill to pass thru  
+- tech
+  - space junk set to hit moon
+  - CRISPR ai-designed protein can awaken silenced genes 
+
 3/2
 - war
   - zelensky makes a fearless address
