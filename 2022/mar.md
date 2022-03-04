@@ -1,5 +1,40 @@
 [Back](./index.md)
 
+3/4
+- war
+  - RU general killed 
+  - putin thinks going according to plan
+  - putin to go martial law 
+  - UKR nuke plant fire, radiation up - shelled by russians, europe's largest, 25% UKR power generation
+  - 9000 dead soldiers?
+  - airport battle coming
+  - moscow economic collapse incoming
+  - UKR posts gory war photos 
+  - UKR navy flagship scuttled
+  - russian yachts seized around maldives
+  - UKR request to cut off russia from internet rejected 
+  - russian firms rushing to open cn bank accounts 
+  - us pushing to ensure ru cannot use crypto to avoid sanctions
+  - UKR cancels planned crypto "airdrops 
+  - UKR leak data on 120K RU soldier
+- politics
+  - smugglers breach through trump border wall, sawed thru steel 
+  - gang wars in ecuador 
+  - china having doubts about russia friendship despite previously claming "no limits" 
+- biz
+  - zuck: humans will live in metaverse and leave reality 
+  - contact lenses may replace iphones?  
+  - samsung throttling app performance?
+  - metaverse needs better cellular networks 
+  - tencent world's biggest game company 
+  - xamarin cofounder leaves msft Miguel de icaza 
+  - goog return to office from 4/4
+- culture
+  - loud sex complaints in NYC?
+  - melinda exposes bill more, many affairs, epstein meetups
+- tech
+  - physicists make biggest time crystal ever
+
 3/3
 - war
   - RU troops running out of food and fuel
