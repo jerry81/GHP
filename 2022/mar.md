@@ -1,5 +1,35 @@
 [Back](./index.md)
 
+3/5 
+- war
+  - putin "robo-ball" technology 
+  - drone enthusiasts to join fight
+  - zelensky survives 3 assassination attempts 
+  - invading troops rape ukr women
+  - RU bans facebook and twitter 
+  - ukr nuke plant seized
+  - RU threatens wikipedia
+  - US ISP cuts service in russia 
+  - Yandex, the russian google, may not be able to pay off its debts
+  - UKR 400,000 volunteerw hacking russia
+  - MSFT halts new sales in RU
+- biz
+  - spacex launches 47 starlink satellites
+  - AAPL april 11 return to office in USA
+  - NVIDA hackers want "mine crypto faster"
+  - "appl studio display" with 7K resolution in development
+  - Banana Pi Raspberry Pi alternative
+- culture
+  - batman 100M opening 
+  - netflix sued for "cuties" - child porn 
+- politics
+  - jobs up, wage growth slows
+  - waymo and Cruise (GM) get permits in california for Autonomous
+  - studies carried out on tiktok effect on kids mental health 
+- tech
+  - tall people greater risk of colon cancer
+  - crispr made 4000 times more accurate
+
 3/4
 - war
   - RU general killed 
