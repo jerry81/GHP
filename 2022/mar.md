@@ -4,6 +4,14 @@
 - war
   - putin losing 1000 troops a day
   - rumor?  putin dying of cancer
+  - WNBA player may be taken hostage?
+  - evacuees bombed
+  - pigs will be organ donors of the future
+  - zaporizhzhia nuke plant seized
+  - return of the iron curtain - disconnection of external internet 
+  - UKR receives 42M in crypto donations, plus unsolicited NFTs
+  - chernobyl staff held hostage, running plant 
+  - starlink most likely to be attacked by RU says musk
 - culture
   - agreeableness key to success in life?
     - team player most successful 
@@ -13,12 +21,17 @@
   - porn negative consequences in bed
   - solo polyamory - multiple partners simultaneously with no primary 
 - politics
+  - Cali idea: put solar panels on CA's 4000 Mi of canals 
   - oil at 130
   - dubai the tech hub of arab world 
+  - NY tech workers unionfy 
+  - state of nuke power - 10% of total world energy, 30 countries, 440 nuke plants, 55 being constructed, 19 in china, US only has 2
+  - NSA plubishes report about [how to protect IT network](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF)
 - biz
   - sony walkman comeback
-  
-
+  - fitbit recall - overheating batteries leading to burn injuries 
+- tech 
+  - two black holes collided eons ago - combine into single black hole 
 
 3/6
 - war

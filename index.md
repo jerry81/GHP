@@ -28,6 +28,8 @@
 
   [AWS Learning](/tech/aws.md)
 
+  [Git](/tech/git.md)
+
 ### demos
   
   [Frontend Mentor](/fe-mentor/index.html)
