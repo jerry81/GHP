@@ -1,5 +1,42 @@
 [Back](./index.md)
 
+3/7
+- war
+  - putin losing 1000 troops a day
+  - rumor?  putin dying of cancer
+- culture
+  - agreeableness key to success in life?
+    - team player most successful 
+    - one of the big 5 personality traits 
+      - others being conscientiousness, extraversion, openess, neuroticism 
+  - batman 130M open
+  - porn negative consequences in bed
+  - solo polyamory - multiple partners simultaneously with no primary 
+- politics
+  - oil at 130
+  - dubai the tech hub of arab world 
+- biz
+  - sony walkman comeback
+  
+
+
+3/6
+- war
+  - putin says sanctions a declaration of war 
+  - Odessa (3rd largest city in ukr) readies for push up black sea coast 
+  - zelensky plea for fighter jets, oil embargo 
+  - russia has custody of women's basketball player
+  - putin looking for allies in latin america 
+- politics
+  - gas prices rising faster than ever
+  - food prices record high 
+  - weinstein, in jail, busted for smuggling milk duds in
+- tech
+  - "revolutionary blood test" detects over 50 genetic neurological diseases 
+  - parachuting spiders infestation on east coast 
+- culture
+  - coachella coming soon, kanye legacy in question?
+
 3/5 
 - war
   - putin "robo-ball" technology 
