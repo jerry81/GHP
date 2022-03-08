@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+3/8 
+- war
+  - putin loses 1000 troops in a day 
+  - russia threatening over west sending weapons to warzone 
+  - UKR decimating invading forces
+  - zelensky compared as modern churchill
+  - some say wwiii has already started
+  - wheat prices up, ukr grain flows paralyzed 
+  - rouble record low 
+  - RU fears economic nightmare 
+  - RU, cut off from western tech, may legalize Piracy
+  - 25000 crypto wallets linked to RU users, blocked by coinbase 
+- politics
+  - watchdog: amzn suppliers linked to forced labor in China 
+  - oil $130
+  - gas all time record 
+  - Fremont one of "happiest" cities 
+  - TX to build largest green hydrogen plant 
+  - EPA - new rules targeting truck emissions 
+- biz
+  - rolls royce mini nuke reactor to start approval process 
+  - samsung galaxy source code breach 
+- culture
+  - god of war TV series on AMazon Prime
+- covid
+  - shrinks brain, says scientists 
+  - linked to brain damage 
+- tech
+  - DNA alphabet "upgraded" by researchers to expand storage 
+  - "polycoder" - open source code-generating AI model 
+  - stanford cyrptography researchers building espresso - privacy focused blockchain 
+
 3/7
 - war
   - putin losing 1000 troops a day
