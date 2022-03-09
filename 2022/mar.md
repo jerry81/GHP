@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+3/9
+- war
+  - NATO to provide jets to UKR?
+  - USA bans russian oil 
+  - nuke concerns rising 
+  - putin goes all in 
+  - Russian TV anchor quits, warns of nuke war 
+  - stealth drone fleet named "the punisher" 
+  - china may buy stakes in russian energy and commodities 
+  - Lumen (American internet backbone) cuts service to RU
+  - Redhat discontinues sales to RU and Belarus 
+- covid
+  - CDC recommends against travel to HK, thailand, NZ
+- tech
+  - nasa to study sex in space
+  - linux high-severity vunerability found "dirty pipeline" - abuse of pipes at shell level
+  - optimists live longer  
+  - AI used to decode pig cells
+- biz
+  - Better.com lays off workers by directly sending severance 
+  - 75% of people never tweet
+  - 1% watches fox, .5 to MSNBC
+  - 56% donate to charaties vs to politicians 21%
+- politics
+  - maduro of venezuela may embrace capitalism 
+  - cn hackers breach six US state agencies 
+- culture 
+  - arson in central park 
+  - britney spears sends cryptic message detailing abuse 
+  - rodgers still with packers, signs for 200M, highest paid in history 
+  - S&M dungeons of silicon valley - high tech sex parties 
+
 3/8 
 - war
   - putin loses 1000 troops in a day 
