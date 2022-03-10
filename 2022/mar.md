@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+3/10
+- war 
+  - 14th day of war - patriot missles to poland
+  - thermobaric rockets used on maternity ward
+  - putin chem weapon fear 
+  - invasion slowed
+  - a few british soldiers join war 
+  - chernobyl out of power 
+  - UKR may move sensitive data to another country 
+  - russians circumventing PUtin's internet blockade 
+- politics
+  - biden takes step towards digital dollar
+  - beef and gas prices up, export bans coming 
+  - skorea conservative Yoon wins presidential election 
+  - phoenix has a boombing tent city 
+- biz
+  - tinder adds background checks 
+  - MSFT return to office 
+  - AMZN stock split 
+- culture
+  - half of americans who quit jobs made career change
+- tech
+  - touchscreen concept - use temperature to simulate friction 
+  - first man who receieved pig heart dies
+  - ovarian and colorectal cancer cure in rats 
+  - Amazon rainforest at critical tipping point - may turn into savanna 
+
 3/9
 - war
   - NATO to provide jets to UKR?
