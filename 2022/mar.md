@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+3/11
+- war 
+  - putin moves in on kyiv again
+  - RU state tv pleads with putin to stop
+  - RU threatens to abandon american astronaut in space
+  - christians wonder if end of world 
+- politics
+  - warnings of upcoming inflation in USA 
+- biz 
+  - gold nearing record 
+  - metasex promised to be as good as the real thing
+  - tabs come to windows 11 file explorer 
+  - china led world with 500K electric vehicle exports 
+- culture
+  - "workcation" - working while traveling 
+  - 64% americans living paycheck to paycheck 
+- tech
+  - RU creates its own TLS CA to bypass sanctions 
+  - 50 year old vacum sealed sample from moon to be opened 
+
 3/10
 - war 
   - 14th day of war - patriot missles to poland
