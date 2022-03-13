@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+3/13
+- war
+  - putin may use chemical warfare 
+  - attack nato shipments
+  - biden vows to avoid ww3
+  - history: stalin was head during russian starvation 4M dead 
+- culture
+  - spring break is back
+  - 1 in 3 americans take pain meds daily 
+- biz
+  - video screens with ads replacing freezer doors in grocery stores 
+  - duckduckgo downranking russian misinfo
+  - UKR halts neon production for chips - accounts for half of global
+  - tether (stable coin) is being shorted by hedge fund
+- tech
+  - china built exascale computer out of 14nm tech 
+  - bitcoin/crypto as "digital gold" - doomsday insurance - but isn't currently booming
+  - arch linux 20 years old 
+  - JS add types syntax?
+  - company wants to dig 12 miles deep into earth, to release large amounts of energy 
+- politics
+  - india accidentally fires missile into pakistan 
+  - human control laws for self driving vehicles being relaxed in USA
+  - USA is educating tik tok stars about the war 
+
 3/11
 - war 
   - putin moves in on kyiv again
