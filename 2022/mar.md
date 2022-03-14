@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+3/14
+- war
+  - zellenski visits injured troops
+  - american troops deploy overseas
+  - china failing to appear neutral 
+  - putin seeks military aid from china
+  - RU shuts down IG
+  - UKR started to use clearview facial recog AI 
+- culture
+  - tom brady to return for 23rd season with tampa bay 
+  - william hurt dead at 71
+    - prostate cancer
+  - power of the dog wins bafta 
+- biz
+  - youtube rival vanced shuts down
+  - intel finds bug in amd's spectre fix
+- covid
+  - obama gets covid
+  - pfizer ceo recommends 4th shot
+  - shanghai makes international news
+
 3/13
 - war
   - putin may use chemical warfare 
