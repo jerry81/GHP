@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+3/15
+- war
+  - india may bail out putin 
+  - ru in america seek asylum in mx
+  - nato sends 50 warships to ru border
+  - china may emerge winner of war?
+  - musk challenges putin to fight with UKR as prize 
+  - 3M have been displaced
+  - RU liquidating crypto to buy real estate in UAE
+  - IG blocked in RU
+  - FB bans calls to assassinate putin 
+- politics
+  - usa holds intense 7 hr talks with china
+  - israeli gov victim of cyberattack
+  - china cracks down on wechat pay money laundering
+  - californians looking for alternatives to the power grid
+- covid
+  - germany alarm over surging cases 
+- tech
+  - high protein diet linked to ED and lower T?
+  - sound frequencies for healing?
+  - drone swarm makes giant hovering qr code
+- biz
+  - foxconn 9 B factory in Saudi arabia?
+  - Win 11 ads being tested
+  - ford to start selling vehicles without chips
+
 3/14
 - war
   - zellenski visits injured troops
