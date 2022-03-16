@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+3/16
+- war 
+  - 2 fox news journalists killed
+  - warning given to china not to assist putin 
+  - shelling of kyiv continues 
+  - eu leaders come to kyiv
+  - oil prices drop 
+  - model calls putin psychopath, found dead in suitcase 
+- politics
+  - senate wants daylight savings time permanent 
+  - saudi arabia may accept yuan instead of dollars for chinese oil sales 
+  - xi's economic campaign may be rolled back, cracks in power?
+- biz
+  - question remains about tesla autopilot - who would be responsible in case of accident
+  - arm will drop 15% of staff 
+  - peloton trapped in trillion-dollar fantasy
+  - debian developer of 20 years quits after being demoted, joins arch-linux 
+  - goog domain name registrar out of beta after 7 years 
+  - digitalocean acquires CSS-tricks
+  - intel 88B megafab for chipmaking in europe 
+  - pfizer stops clinical trials in RU but will continue to supply medicine
+- tech
+  - lower body temps linked to longevity
+  - linux security hole in netfilter firewall
+  - macos 12.3
+
 3/15
 - war
   - india may bail out putin 
