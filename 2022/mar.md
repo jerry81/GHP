@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+3/17
+- war
+  - ww3 already started
+  - 4th russian general killed
+  - UK dropping mask mandates 
+  - putin: west's global dominance coming to an end 
+- covid
+  - morgues overflowing in HK
+- biz
+  - ElliQ - the robot that keeps grandma company
+  - startup company Worldcoin wants to scan everyone's eyeballs
+  - zuck: NFTs coming to IG
+- politics
+  - nKorea ICBM testing from intntl airport
+  - japan 7.4 mag quake, bullet train derailed 
+  - UKR legalizes crypto 
+  - UK energy crisis, looks to extend life of nuke plant by 20 yrs 
+  - keep students in STEM by removing weed-out math classes 
+- tech
+  - quantum experiment measures antiprotons around helium ions
+  - air pollution -> autoimmune diseases 
+  - cosmic web made of dark matter shapes the universe 
+  - asteroid hits earth after being spotted only 2 hrs before impact 
+
 3/16
 - war 
   - 2 fox news journalists killed
