@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+3/18
+- war 
+  - "vlad so mad"
+  - comparisons to stalin
+  - more nuke threats
+  - soldiers shooting themselves to get off frontline
+  - invasion stalled
+  - japan sees 4 warships sailing west 
+- covid
+  - isreal new variant discovered 
+- biz
+  - moderna ceo dumped stocks during pandemic 
+  - maserati - fully electric by 2025
+- politics
+  - biden-xi set for showdown
+  - xi economic pressures in the midst of covid strategy 
+- tech
+  - stronger hands, longer life
+  - best sleep - be in bed by 9:39
+  - long naps -> sign of alzheimers?
+  - godaddy sites backdoored
+  - slashdot paging broken 
+- culture 
+  - dark empath is "most dangerous personality type"
+  - case vs ron jeremy suspended: mental health in question 
+  - go player banned for using AI during competition 
+
+
 3/17
 - war
   - ww3 already started
