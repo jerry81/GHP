@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+3/20 
+- war
+  - did russian astronauts wear yellow to support UKR?  Ru says no 
+  - an official invites biden to kyiv "if he is brave"
+  - putin to use hypersonic "dagger" weapon
+  - belarusian rail workers supporting ukr halting russian cargo
+- biz
+  - black ex-employee sues goog 
+  - heineken hosts metaverse party, poor reviews
+- tech
+  - robot trucks could replace 500K jobs
+  - M1 benchmarks reveal it doesn't compete with Nvidia and AMD gpus
+  - Golang gets a huge update
+    - adds generics, native fuzzing, and performance boost
+  - FSF (free software foundation) has LibrePlanet event live this year 
+  - eastern antarctica 70 degrees warmer than usual 
+  - OSS devs debating blacklisting Russians
+- politics 
+  - biden doesn't prioritize stock market, unlike trump
+  - finland wins happiest country 5th year in a row
+  - transgender college swimmer ends college career with last place finish
+- covid
+  - HK runs out of space for dead
+
 3/18
 - war 
   - "vlad so mad"
