@@ -9,6 +9,9 @@
 - biz
   - black ex-employee sues goog 
   - heineken hosts metaverse party, poor reviews
+  - an electric school bus fleet cheaper than diesel 
+  - goog internet lands in africa 
+  - oops: MSFT defender tags office updates as ransomware 
 - tech
   - robot trucks could replace 500K jobs
   - M1 benchmarks reveal it doesn't compete with Nvidia and AMD gpus
@@ -17,12 +20,16 @@
   - FSF (free software foundation) has LibrePlanet event live this year 
   - eastern antarctica 70 degrees warmer than usual 
   - OSS devs debating blacklisting Russians
+  - linux for m1 released 
+  - new theory - dark matter is an anti-universe running backwards in time 
 - politics 
   - biden doesn't prioritize stock market, unlike trump
   - finland wins happiest country 5th year in a row
   - transgender college swimmer ends college career with last place finish
 - covid
   - HK runs out of space for dead
+- culture
+  - halo tv show coming 
 
 3/18
 - war 
