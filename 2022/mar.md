@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+3/21
+- war
+  - headed to stalemate?
+  - mercs hunting zelensky 
+  - plots to poison putin
+  - zelensky shames israel for not helping
+  - chernobyl hostages released after 600 hrs, 64 workers
+- politics
+  - clarence thomas hospitalized
+  - biden's latest headache: gas prices
+  - china winning billionaire producing rate
+  - elon close ties with beijing makes US nervous
+  - bird flu in s. dakota 
+- culture
+  - scarface mansion on sale: 40M
+  - kanye crazy online behavior gets him cut from grammies
+  - maury finally ends
+- tech
+  - new form of ice discovered
+  - sleeping with light on harmful
+  - machine learning for better code
+  - ubuntu gets new "circle of friends" logo
+  <img src="./images/ubuntulogo.png" height="30">
 3/20 
 - war
   - did russian astronauts wear yellow to support UKR?  Ru says no 
