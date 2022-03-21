@@ -22,7 +22,7 @@
   - sleeping with light on harmful
   - machine learning for better code
   - ubuntu gets new "circle of friends" logo
-  <img src="./images/ubuntulogo.png" height="30">
+  - <img src="./images/ubuntulogo.png" height="30">
 3/20 
 - war
   - did russian astronauts wear yellow to support UKR?  Ru says no 
