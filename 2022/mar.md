@@ -23,6 +23,11 @@
   - machine learning for better code
   - ubuntu gets new "circle of friends" logo
   - <img src="./images/ubuntulogo.png" height="30">
+  - linux RNG improved
+- biz
+  - former appl employee charged with stealing 10M from aapl 
+  - self driving trucks to replace 90% truckers
+
 3/20 
 - war
   - did russian astronauts wear yellow to support UKR?  Ru says no 
