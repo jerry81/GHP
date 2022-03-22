@@ -9,8 +9,13 @@
   - vlad predicted in 1986 novel
   - biden threatens cyberattacks
   - trump delayed weapon shipments to UKR and praised putin - was this part of vlad's impetus?
+  - ru citizens downloading wikipedia before it gets banned
 - politics
   - biden: "america will lead new world order
+  - brazil banned telegram and then redacted order 
+  - SMART copyright act from US senators, combat privacy 
+  - india tax on crypto transactions: 30%
+  - china plane crash - 132 people - southern china, wuozhou, guangxi, kunming to guangzhou 
 - culture
   - shootings rock spring break in miami 
   - miami airport busiest day in history
@@ -20,6 +25,10 @@
 - biz
   - AAPL goes down
   - data analyst and accountaint rank top of most boring jobs 
+  - new appl storage has 64GB of storage
+  - MSFT source code may have been hacked, being investigated
+  - tesla new plans to expand tesla "master plan part 3" - euro factory opens 
+  - Energy Vault - gravitational potential energy as batteries
 - tech
   - study: medical marijuana ineffective for pain, anxiety, and depression
   - apes have their own language 
