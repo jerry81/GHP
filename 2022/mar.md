@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+3/22
+- war 
+  - putin quotes jesus
+  - morgues overrun 
+  - AI driven drones pick tarkets and suicide bomb them 
+  - fighting for sugar
+  - vlad predicted in 1986 novel
+  - biden threatens cyberattacks
+  - trump delayed weapon shipments to UKR and praised putin - was this part of vlad's impetus?
+- politics
+  - biden: "america will lead new world order
+- culture
+  - shootings rock spring break in miami 
+  - miami airport busiest day in history
+  - nyc heading back to crime-riddled days
+  - teachers still getting burnt out and leaving
+  - warhol marilyn work goes NFT for 200M
+- biz
+  - AAPL goes down
+  - data analyst and accountaint rank top of most boring jobs 
+- tech
+  - study: medical marijuana ineffective for pain, anxiety, and depression
+  - apes have their own language 
+  - scientists watch a memory form in the brain 
+  - metaverse to introduce "real life pain"
+
 3/21
 - war
   - headed to stalemate?
