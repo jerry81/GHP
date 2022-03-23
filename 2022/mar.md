@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+3/23
+- war
+  - biden travels to europe to bolster western alliance
+  - ru troops to run out food in days
+  - belarus may join war soon
+- politics
+  - putin's wealth revealed
+  - 1/3 american workers making less than 15 an hour
+  - $6 gas in LA
+  - hillary positive for covid
+  - frustration between biden and harris camps
+  - china crash being investigated 
+- biz
+  - aapl worth 11 times disney
+  - ethereum founder looks down on NFTs
+  - nvidia new gpu architecture - hopper
+  - okta (authenticaton) digital breach 
+  - grubhub sued for hidden fees and high prices
+- culture
+  - mel gibson passion:ressurection to be his magnum opus 
+  - daredevil selfies trending 
+  - several tv series about failed tech startups
+  - teens struggling to quit smoking/vaping
+  - us college edu close to collapsing 
+- tech
+  - nasal spray for alzheimers?
+  - brain implant partially cures paralysis 
+  - nasa discovers 5000 exoplanets 
 3/22
 - war 
   - putin quotes jesus
