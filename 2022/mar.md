@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+3/24
+- war 
+  - putin defense minister "vanishes"
+  - RU troops turning on each other 
+  - death toll 40K
+  - losses exceed war in afghanistan 
+  - biden meets in warsaw, brussels 
+  - young ukr escapes with usb stick holding 40% of his life savings in crypto 
+  - ukr has destroyed 10% of russian tanks (270)
+- politics
+  - gas price stimulus check coming? - 100 a month
+  - 570K chickens destroyed to prevent bird flu 
+  - idaho law: ban abortions after 6 wks
+  - flooding in kenya 
+- culture
+  - mdma as cure for ptsd
+- covid
+  - hk went from 0 to world's highest death rate 
+- biz
+  - cashio (stablecoin based on solana) crashes to zero after hack
+  - nvidia considers using intel as foundry 
+  - msft plans to fill 3.5M cybersec jobs 
+- tech
+  - historically hot arctic and antactic, low sea levels
+
 3/23
 - war
   - biden travels to europe to bolster western alliance
