@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+3/25
+- war
+  - usa threatens retlation if putin uses chem or bio weapons
+  - zelensky may show up at the oscars
+  - 402K people may have been forcibly moved to RU
+  - ivanka helping ukr refugees with 1M meals
+  - putin may be assassinated by own daughter 
+  - poland prepares for invasion 
+- politics
+  - biden says there wiill be food shortages 
+  - population decline leaders: SF and manhattan
+  - newsom may give 400 to CA car owners 
+  - spring break out of control - miami bans alcohol sales after 6 PM
+- biz
+  - AMZN no longer a sponsor of pride parade seattle 
+- covid
+  - broccoli and spinach vs omicron
+
 3/24
 - war 
   - putin defense minister "vanishes"
