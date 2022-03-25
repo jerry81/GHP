@@ -13,10 +13,20 @@
   - population decline leaders: SF and manhattan
   - newsom may give 400 to CA car owners 
   - spring break out of control - miami bans alcohol sales after 6 PM
+  - EU digital act aims at big tech 
 - biz
   - AMZN no longer a sponsor of pride parade seattle 
+  - startup working on real pain in the metaverse 
+  - complaints about github algorithmic news feed and recommendations 
+  - goog cyberattacked by n. korea, fended it off 
+  - GOOG all hands meeting draws into question goog execs pay 
+  - toshiba future unclear 
+  - mozilla paid subscrpitions launch
+  - aapl working on iphone hardware subscriptions
 - covid
   - broccoli and spinach vs omicron
+- tech
+  - okra to drinking water removes microplastics 
 
 3/24
 - war 
