@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+3/26
+- covid
+  - oscars covid crisis
+  - china spreading consipracy: moderna created covid
+- war
+  - RU using white phosphorus
+  - kapersky placed on security risk software
+- politics
+  - CAians turning to tijauana for gas
+  - RU to accept btc for oil and gas?
+- culture
+  - americans fleeing CA and moving to TX
+  - cursing eases pain
+  - music improves well being and quality of life
+- tech
+  - food wrappers may contain dangerous chemicals
+  - a CDC coding error overcounts covid counts
+- biz
+  - sony troubled gran turismo 7 launch 
+  - goog fiber workers unionize in KC
+  - aapl 15inch macbook air
+  - netflix to charge password-sharing accounts extra fees, could garner extra 1.6B
+
 3/25
 - war
   - usa threatens retlation if putin uses chem or bio weapons
