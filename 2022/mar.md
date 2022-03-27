@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+3/27
+- war
+  - biden escalates
+  - ru troops fire at nuke reactor
+  - 7th russian general dies
+  - kremlin about to lose, death toll 16k 
+  - usa keeps a nuke in germany
+  - deepfakes may influence course of war?
+- culture
+  - foo fighters drummer dead
+    - drug od, taylor hawkins, 50
+  - warhol resurgence
+  - big tech exodus out of ca didn't actually happen 
+- politics
+  - manhattan loses 7% of its population in 1 year
+  - NYC students hacked 820k records leaked 
+  - first openly trans judge appointed
+  - keanu reeves disappeared from China for supporting tibet 
+- tech
+  - lawrence lessig's creative commons opposes SMART act (anti piracy)
+  - ice shelf collapses in south pole
+- biz
+  - aapl giving 100k - 200k bonuses to retain workers
+  - could vw play big role in electrifying of vehicles in US?
+
+
+
+
 3/26
 - covid
   - oscars covid crisis
