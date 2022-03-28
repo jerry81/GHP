@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+3/28
+- war
+  - 90k american soldiers go to nato frontlines
+  - zelensky challenge to west: afraid of moscow?
+  - last train out of RU to helsinki 
+  - russia wants to split ukr 
+- politics 
+  - isis attack on israel 
+  - el salvador state of emergency vs armed gangs 
+  - biden to introduce billionaire tax 
+- culture
+  - "hot new gym class" - sleeping
+- biz
+  - history: crazy eddie defauded americans by lying about its numbers 
+  - web trend - retro plain text (plain text sports)
+  - rolling rhino tool may convert ubuntu to rolling release 
+    - rolling release: frequent deliveries like continuous deployment 
+  
+- tech
+  - KDE linux swipe is much better than windows 
+  - cure for type 1 diabetes - stem cells?
+
+
 3/27
 - war
   - biden escalates
