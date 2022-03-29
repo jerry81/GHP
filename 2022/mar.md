@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+3/29
+- war 
+  - putin troops on the run near kyiv
+  - UKR ISP gets cyberattacked
+  - dirty bomb ingredients go missing from chernobyl
+    - spreads contamination over large area  
+  - RU troops using unsecure lines to communicate 
+- culture
+  - dune and appl tv big winners at oscars 
+    - coda wins best picture 
+  - will smith apologizes 
+    - staged?
+  - 2nd lowest rated oscars in history 
+  - 10 years ago, will smith slapped a reporter 
+  - NFL to require every team to have a minority coach
+  - massacre at cockfight - 20 dead
+- politics
+  - japan approves nuke power for first time since fukushima 
+- covid
+  - 52% say they had it 
+  - shanghai new lockdown makes headlines 
+  - covid plus flu could be deadly combo - double death rate 
+- tech
+  - quantum computing "overhyped"?
+  - gas made from light, trapped photons
+- biz
+  - HP buys teleconferencing software, Poly
+  - chicken-free egg whites hit market 
+
 3/28
 - war
   - 90k american soldiers go to nato frontlines
