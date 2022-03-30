@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+3/30
+- war
+  - putin withdraws troops from kyiv, not a ceasefire, aerial bombing continues 
+  - ukr first strike on russian soil 
+  - us training ukr soldiers in poland
+  - war causing saudi arabia to reroute oil, raise prices
+  - drone operators and ukr special forces team up to halt convoy to kyiv (infamous)
+- covid
+  - nasal spray to arrive by fall
+- culture
+  - 2 out of 3 think will smith should be charged with assault 
+  - chris rock ticket sales soar 
+  - woman harrassing tim cook for sex
+  - new top gun - val kilmer's iceman may return
+- politics
+  - MIT to require SAT and ACT again
+- tech
+  - log4shell backdoor
+  - chrome 100 released
+  - pluto peaks are ice volcanoes 
+- biz
+  - workers selling their personal data 
+  - sony new subscription gaming service for ps 
+
 3/29
 - war 
   - putin troops on the run near kyiv
