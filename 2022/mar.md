@@ -1,5 +1,40 @@
 [Back](./index.md)
 
+3/31
+- war
+  - 4 M ukrainians have now fled
+  - US deploys drones to war
+- culture
+  - chris rock still in shock
+  - academy deciding how to handle smith
+  - bruce willis retires, age 67
+    - cognitive issues 
+- politics
+  - NYC to soon get casinos, new vegas
+  - 1 in 5 now run out of money before payday 
+  - CN using boston dynamics looking robot dogs to announce covid instructions 
+  - israel terror attack worst in decades 
+  - investigation into hunter biden - insider deals with china energy companies 
+  - canadan in 2035 - ban gas cars
+  - lawmakers want tiktok and snap to give more control to parents 
+  - lawmakers questioning school surveillance 
+- tech
+  - love hormone turns lions into kittens
+  - coffee as cure for ADHD
+  - avacado vs heart disease 
+  - bridge playing AI
+  - fuel cell breakthrough - carbon-coated nickel
+  - code changes to drop energy-hungry bitcoin code?
+- biz
+  - Boston dynamics logistics robot hits markets 
+  - walgreens using robots to fill rx
+  - tmobile shutting down 3g network 
+  - intel enters GPU market: Arc A-series
+  - waymo robotaxis for SF opens operations
+  - dyson airpurifiers in headphones 
+  - 1/3 netflix subscribers share passwords
+
+
 3/30
 - war
   - putin withdraws troops from kyiv, not a ceasefire, aerial bombing continues 
