@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+4/2
+- war
+  - now UKR attacks RU
+  - CN accused of hack
+- culture
+  - will smith resigns from Academy 
+    - has aapl tv movie coming 
+  - jim carrey resigning 
+- biz 
+  - amazon workers in NYC unionize 
+  - clearview ai wants to expand out of just police 
+  - food delivery stocks down 24B in 3 months 
+  - father-son duo helps people brute force bitcoin wallets 
+- covid
+  - mild cases may cause lingering brain damage 
+- politics
+  - new vehicles must average 40 MPG by 2026, previously 26
+  - man gets 150 hrs community service for offensive tweet "the only good british soldier is a dead one"
+  - RU seeing tech brain drain
+- tech
+  - earthworms are invasive 
+  - genetic testing to personalize drug Rx
+  - fish can learn arithmetic 
+
+
+
 4/1
 - politics
   - recession coming?
