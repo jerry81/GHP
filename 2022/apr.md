@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+4/3
+- war 
+  - russia to back out of ISS space program
+- biz
+  - bird flu causes egg price to rise 
+  - amzn CEO 212M payday 
+- culture
+  - denzel has will smith's back 
+  - study: cat owners are better looking and have more sex
+- tech 
+  - fish oil key to curing cancer
+- politics 
+  - bj backs off on "common prosperity" movement to continue growth 
+
+
 4/2
 - war
   - now UKR attacks RU
