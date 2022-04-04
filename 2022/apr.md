@@ -14,10 +14,12 @@
   - Intel Arc GPUs beat nvidia and AMD
   - unionization in Seattle - verizon, amzn, starbucks 
   - Chinese trading company shorts nickel, nickel grows hugely 
+  - E3 2022 cancelled.
 - tech
   - sound travels slower on mars 
   - 19M bitcoins mined, 21M limit 
   - snake-like robot slithers into lungs and discovers cancer 
+  - gitlab vunerabilty lets hackers take over accts 
 
 4/3
 - war 
