@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+4/4
+- war 
+  - RU suspected of war crimes as they leave Kyiv
+  - RU threatens suspending space ops over sanctions 
+- politics
+  - zelensky makes suprise appearance at grammys 
+- culture
+  - santa barbara becoming spring break destination 
+  - trailer for 6th star trek series "strange new worlds"
+- biz
+  - Goog security experts:  Gov reliance on MSFT is a security flaw
+  - Intel Arc GPUs beat nvidia and AMD
+  - unionization in Seattle - verizon, amzn, starbucks 
+  - Chinese trading company shorts nickel, nickel grows hugely 
+- tech
+  - sound travels slower on mars 
+  - 19M bitcoins mined, 21M limit 
+  - snake-like robot slithers into lungs and discovers cancer 
+
 4/3
 - war 
   - russia to back out of ISS space program
