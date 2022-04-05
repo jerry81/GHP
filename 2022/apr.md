@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+4/5
+- tech
+  - alzhiemers study - 40+ genes linked 
+  - WHO: billions still breathe unhealthy air 
+  - climate report: emissions must be cut by half by end of decade 
+- biz
+  - goog tests drone deliveries 
+  - Azure supports arm VMs
+  - Goog offers employees free electric scooters to get them back to office
+  - mercedes benz chip shortage causes them to put 5000 workers in brazil on vacation 
+  - hertz buys 65K polestars EV - acquired by Geely 
+  - mailchimp breach - by internal tool
+  - axie infinity - play to earn game 
+  - almost half of crypto earners started last year 
+  - productivity peaks just before and after lunch 
+    - third peak at 9PM 
+  - elon becomes twitter's largest sharehold 
+    - denied access in berlin sex club 
+- politics
+  - le pen (woman) may give macron a run in french election 
+  - trump "truth" branded a disaster 
+  - book banning jumped four-fold
+  - UK four day work-week trials 
+  - spain invest 12B in chips & semiconductors 
+  - china "breathtaking" nuke expansion 
+- war
+  - kremlin largest media company hacked
+  - biden wants putin tried for war crimes 
+
 4/4
 - war 
   - RU suspected of war crimes as they leave Kyiv
