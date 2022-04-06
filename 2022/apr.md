@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+4/6
+- war
+  - top us general encourages troops to the eastern front 
+  - RU soldiers execute village mayor 
+- politics
+  - musk will bring trump back on twitter 
+  - woman in SH has 16 hr bus ride into quarantine 
+  - special treatment for non-binaries and trans - they get universal income 
+- culture
+- tech
+  - 7000 steps is a sweet spot for health 
+  - x-ray analyzing AI in EU 
+  - unreal engine 5
+  - Ai-Da - first painting robot 
+- biz 
+  - fintech startup Fast shuts down 
+  - revamped win 11 file explorer gets tabs, favorites 
+  - word "union" banned in Amzn worker chat app 
+  - alphabet "wing" drone delivery coming to TX
+
 4/5
 - tech
   - alzhiemers study - 40+ genes linked 
