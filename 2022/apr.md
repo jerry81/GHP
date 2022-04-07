@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+4/7
+- war
+  - putin's daughters sanctioned by US
+  - putin wants to build empire to portugal 
+  - mobile cremation units covering up civilian deaths
+  - kremlin threatens internal anti-war movement with threat of death
+  - us neo-nazis go to front to seek combat experience 
+  - Intel suspends ops in RU
+- culture
+  - libraries gain popularity
+- covid
+  - china breaking its own records 
+  - new variant - XE found in india 
+- tech
+  - bird flu spreading in NA
+  - standford: new solar panel tech generates electricity at night - uses difference in temparatures between panel and air 
+- politics
+  - Kanter continues to be active vs china
+  - MIT grad students unionize 
+  - German plan to accelerate green energy 
+  - no one in SF wants to work in an office 
+- biz 
+  - IBM mainframe for AI 
+  - Uber wants travel superapp - include planes, trains, rental cars
+  - article: netflix should sell ads - tiered service - pay for no ads, more subscribers
+  - Olive, 4B health care startup, fails
+
 4/6
 - war
   - top us general encourages troops to the eastern front 
