@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+4/8
+- covid
+  - outbreak in DC, pelosi infected 
+  - LA, SD, SF
+  - what would happen if half congress died?
+  - shanghai citizen unrest makes headlines 
+- war
+  - mutiny RU
+  - ruble gaining again
+- politics
+  - "strong measures" from china if pelosi visits twn
+  - more terror in tel aviv
+  - mortgages rising, home sellers thinking its time to cash in 
+  - while newsom urged californians to conserve water 15% they only saved 1%
+  - usa life expectatancy falls 2nd year in a row
+  - UK builds 8 new nuke reactors - new energy strategy 
+- tech
+  - licorice as anti-cancer 
+  - precise measurement of W Boson made - standard model may need revamp 
+  - chinese hack VLC player
+  - accurate blood test predicting stroke, heart attack 
+- biz
+  - Better.com (morgage industry) layoffs, lost 200M, admints CEO Vishal Garg 
+  - UK startup - projectile fusion "First light fusion" shooting gas at 
+  - blizzard to upgrade all qa workers to full-time emps
+  - bill nye sells out to coca cola 
+  - meta to make zuck bucks 
+  - AMZN project kuiper contracts with companies including Blue origin to deploy 3236 satellites 
+
 4/7
 - war
   - putin's daughters sanctioned by US
