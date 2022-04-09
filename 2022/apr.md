@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+4/9
+- culture
+  - will smith banned from oscars 
+- war
+  - train station massacre - moscow missle kills 50 civilians wanting to evacuate 
+    - missle had writing: "four our children" 
+- politics
+  - BoA warns recession incoming
+  - food prices up 
+  - biden may be positive
+  - boston mayor michelle wu 
+  - Shanghai to open 50K bed makeshift hopsital to deal with climbing infections 
+  - rutgers business school scandal - created fake jobs for grads to boost rankings 
+  - taiwan hunts down chinese chip talent poachers 
+- biz
+  - the great resignation - 1 in 4 have quit job over mental health issues 
+  - blue collar workers being recruited for tech jobs, no degree necessary 
+  - Nissan to work with NASA on solid-state batteries 
+  - twitter new feature, unmention - remove self from a conversation 
+  - raspberry pi default "pi" account to be ditched for security reasons
+  - tesla gigafactory in TX opens 
+  - managers want workers to return to office
+  - global it spending in 2022: 4.4 T
+  - tesla, block, blockstream team up - mine btc with solar panels 
+- tech 
+  - VR roleplay to be used in therapy 
+  - anti ageing research - reprogram skin cells to behave 30 years younger 
+
 4/8
 - covid
   - outbreak in DC, pelosi infected 
