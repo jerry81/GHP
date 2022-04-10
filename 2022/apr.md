@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+4/10
+- war 
+  - moscow poised to default 
+  - lax ukr soldiers entered most nuclear contaminated area in world (chernobyl) 
+- politics
+  - france to decide, close race 
+  - americans upset with dems 
+  - china building up more nukes, fears us conflict 
+- culture
+  - steelers QB killed in car accident 
+  - pink floyd releases first song in 28 years, inspired by ukr soldier's IG post
+- tech
+  - devices for insmonia:  (WSJ paywalled)
+  - first integrated laser on lithium niobate chip 
+  - shards of asteroid that killed dinosaurs discovered near fossil site 
+  - motors can suck pollutans from air and harvest precious metals
+  - farthest object in universe discovered - 13.5B light years away 
+- biz
+  - french startup raises 2M to sail on sunlight 
+
 4/9
 - culture
   - will smith banned from oscars 
@@ -25,7 +45,7 @@
   - global it spending in 2022: 4.4 T
   - tesla, block, blockstream team up - mine btc with solar panels 
 - tech 
-  - VR roleplay to be used in therapy 
+  - VR roleplay to be used in therapy (cure agoraphobia)
   - anti ageing research - reprogram skin cells to behave 30 years younger 
 
 4/8
