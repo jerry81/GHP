@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+4/11
+- war 
+  - ukr begs for weapons as war enters new phase 
+  - putin calls on retired soldiers 
+  - john lennon son performs imagine 
+  - 1300 librarians scramble to backup ukr data archives 
+- politics
+  - macron vs lepen duel
+  - shanghai residents questioning "human cost" of quarantines 
+    - jumping from balconies
+    - 130K cases, no deaths
+  - TX woman faces murder charge for self-induced abortion 
+  - US making significant effort in quantum resistant cryptography 
+- covid 
+  - queen: horrible virus left her exhausted 
+- biz
+  - elon new plans for twitter, change name to titter, convert HQ to homeless shelter since nobody shows up anyway
+  - IMF - crypto more prevalent in corrupt countries 
+- tech
+  - AI powered artificial fingertip 
+  - AI to grade CS hw assignments, train machine learning...
+
 4/10
 - war 
   - moscow poised to default 
