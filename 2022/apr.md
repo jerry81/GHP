@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+4/12
+- War
+  - Russia, putin don't think they're losing
+  - finland, sweden may join NATO 
+- covid
+  - mask mandate back in philly
+  - anderson cooper infected 
+  - NJ, NY, CA handled poorly, florida among best 
+  - irreparable damage to brain 
+- biz
+  - tesla customer waited 2 years for refund
+  - insider trading at newswire
+  - AAPL begin manufacturing iphone in india - foxconn, shifting from China 
+  - epic, sony land funding for metaverse
+  - peter thiel speaks for bitcoin, says warren buffet and other old people holding it back 
+  - elon won't join twitter board  
+  - bitcoin on child-porn site 
+- politics
+  - CA may mandate 4 day workweek 
+  - EU investing in trains
+- culture 
+  - over 60% say stress at all time high, 56% feeling lonely
+- tech
+  - psilocybin can free up the depressed brain, study shows
+  - rats born from stem cells artificially 
+  - dark matter are gravitons from other dimensions?
+
 4/11
 - war 
   - ukr begs for weapons as war enters new phase 
