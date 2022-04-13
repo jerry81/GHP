@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+4/13
+- war
+  - putin vows to continue to fight
+- politics
+  - NYC subway shooting 29 injured
+  - bird poops on biden during his speech 
+  - twn issues wartime suvival book 
+  - inflation to 8.5% in march - 4-decade high 
+- culture
+  - STDs at record high
+  - personality traits of "assholes" discovered 
+  - gilbert gottfried dead 67
+- biz
+  - space baloon company unveils luxury cabins 
+  - AMZN workers made up half of all warehouse injuries last year 
+  - dell trials for 4 day workweek in netherlands 
+  - duckduckgo browser arrives on Mac
+- tech
+  - researchers create bacteria that could protect gut from antibiotics 
+  - scientists attempt to make correlation between "energy use" and "happiness" finds it is lower than the average american 
+
+
 4/12
 - War
   - Russia, putin don't think they're losing
