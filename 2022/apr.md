@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+4/14
+- politics
+  - biden approval crashes to 33% 
+  - ca weighs shift to 32 hr work week for larger companies 
+  - climate change plans getting things under control 
+- war
+  - russian flagship badly damaged 
+  - 82% think putin is war criminal 
+  - RU tech faces brain drain - workers flee 
+  - RU hackers attempting blackout on UKR power grid 
+- covid
+  - masks required on planes 
+  - utah handled ovid well 
+  - HK - mental health crisis 
+  - costs mounting in china to preserve zero-covid 
+- tech
+  - being bilingual reduces brain aging?
+  - git (windows) issues update - fix vunerability 
+  - NFT created for jack dorsey's first tweet 
+- biz
+  - ca startup - brain nanorobots 
+  - amzn - 5% fee for sellers for inflation/fuel
+  - appl M1 chip combines two processors into one, "Ultrafusion", M1 ultra 
+  - atlassian longest outage of all time, 9th day 
+  - meta AR glasses to be released 2024 
+  - goog invest 9.5B in data centers and US offices this year 
+  - wework releases app, wework workplace 
+  - Meta's "horizon worlds" will take 50% cut of creator's earnings 
+
 4/13
 - war
   - putin vows to continue to fight
