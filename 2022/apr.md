@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+4/15
+- war
+  - RU black sea flagship sunk
+- covid
+  - drudge headline: covid police in shanghai brutal, resistance at covid camps
+  - xi will persist despite costs 
+- culture
+  - 105 year old gets tattoos, oldest ever
+  - cronenberg new body horror film "crimes of the future"
+  - people tired of seeing "doodle" dogs
+- politics 
+  - nyc subway shooter worked for amzn and doordash 
+  - wind power eclipses coal and nuclear in USA
+- tech
+  - scientists rejuvenate 53 year old woman's skin to be 23 again
+  - puzzle, neptune cooling when it should be warming 
+- biz
+  - AAPL cleaning up emissions
+  - musk claims twitter purchase was not to make money 
+  - metaverse company, somnium space will offer "immortality" allow talking to loved ones even after death
+  - juul (vaping company) settles vaping suit with WA state for 22.5M
+  - musk may buy twitter for 41B
+
 4/14
 - politics
   - biden approval crashes to 33% 
