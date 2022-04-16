@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+4/16
+- war
+  - Ru troop losses hit 20K 
+- biz
+  - twitter blocks elon from increasing stake
+    - "poison pill" in business, is a clause that allows existing stakeholders to buy additional shares at a discount
+  - mercedes new electric supercar 
+    - 600 Miles on one charge
+  - duck duck go removes pirate sites and youtube-dl from search results 
+  - most executives think workers who turn cams off during meetings dont have long-term futures at company 
+  - developer burnout fueling great resignation 
+    - nigerian banks hit by great resignation of tech talent 
+  - goog 3rd emergency for chrome this year 
+  - aapl getting ready to use next-gen M2 chips 
+- culture
+  - TX beach-goers try to ride dolphin, dolphin dies 
+- tech
+  - koalas endangered
+- politics
+  - CA almost ran on 100% energy this month 
+- 
+
 4/15
 - war
   - RU black sea flagship sunk
