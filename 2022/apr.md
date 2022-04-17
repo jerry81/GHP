@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+4/17
+- war
+  - UKR boosted by sinking of RU warship 
+  - state tv: "ww3 has already begun"
+- politics
+  - avian flu has spread to 27 states
+  - man didn't want birthday party, sues, wins 450K
+- culture
+  - kindness good for brain health 
+  - video games as treatment for cognitive disorders?
+- tech
+  - github security aleart - stolen tokens being misused 
+  - crypto linked with the "ransomware epidemic"
+- biz 
+  - debate should "edit tweet" preserve history?
+
 4/16
 - war
   - Ru troop losses hit 20K 
