@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+4/18
+- war
+  - pope warns of nukes
+  - zelensky urges anti-rad pills 
+- culture
+  - easter bunny hands out condoms... at elementary school
+  - student dies during jesus crucifixion reenactment - audience thinks its part of the show 
+  - romance with robots has arrived 
+  - sculpture of xi in CA park, called "CCP virus"  - and it was burned down 
+  - the comeback of travel has been chaotic 
+- politics
+  - shanghai covid camp lights on 24/7, no showers 
+  - saudi model tests gender norms
+- biz
+  - tesla owner claims his car was stuck going 83MPH on highway 
+  - alex jones faces bankruptcy 
+  - Github suspending accounts of sacntioned russian businesses?
+  - honda cracks down on 3d printing their parts 
+  - razer releases linux laptop, but not for gamers, rather for deep-learning 
+  - win 11 may be less popular than 20 year old xp 
+- tech
+  - chinese scientists teach two monkeys to play pacman 
+
+
 4/17
 - war
   - UKR boosted by sinking of RU warship 
