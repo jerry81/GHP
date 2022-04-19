@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+4/19
+- war
+  - RU military on full display in goog maps satellite view 
+- covid
+  - bare face legal in USA
+- politics
+  - clashes near israeli holy site
+  - france, final sprint, macron vs le pen 
+  - after colleges started ignoring standardized test scores, applications surged 
+- culture
+  - 58% think they may go to hell 
+- biz 
+  - bezos to challenge musk for space dominance 
+  - goldman puts resession ods at 35% 
+  - alex jones infowars files for bankruptcy 
+  - zuck really wants to create AR "iphone moment" - 
+  - startups laying off - investors urge founders to conserve cash 
+  - project beanstalk (defi) loses 182M in attack 
+    - "flash loan" - loan without collateral or credit check (loaned in stablecoins)
+- tech
+  - classroom surveilance - AI can monitor emotions
+  - researchers break record for quantum-encrypted comms (distance) 
+
 4/18
 - war
   - pope warns of nukes
