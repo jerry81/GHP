@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+4/20
+- biz
+  - netflix loses subs and stock crashes (down 20%)
+  - tesla factory workers forced to sleep on floor (shanghai) 
+  - musk says he could make "catgirl" sex robots 
+  - rolls royce seeking approval from UK for small nuke reactors
+  - fb working on fibre optics in nigeria 
+  - bosses hypocritically not returning to office 
+  - nvidia and AMD gpus return to shelves, prices finally drop 
+  - duckduckgo insists it won't block piracy sites 
+- covid
+  - in US, bareface makes a comeback after 700 days 
+- culture
+  - depp takes the stand 
+  - first college behind bars opens 
+  - scots voted best lovers in the world 
+    - italians, french, english, spanish, americans, protugese, irish, swedish, welsh
+  - jon stewart streaming talk show flops 
+- tech
+  - volla phone 22 runs ubuntu touch 
+  - 100 lenovo devices infected by malware
+  - japan - electric chopsticks, bring out the umami 
+
 4/19
 - war
   - RU military on full display in goog maps satellite view 
