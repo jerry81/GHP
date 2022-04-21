@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+4/21
+- politics
+  - trump storms out of piers chat "meltdown"
+  - israel adds yuan to reserves 
+- biz
+  - musk talking about twitter to distract from china tesla troubles 
+  - golden age of pot in NYC
+  - aapl atlanta first to seek a union 
+  - AMZN EU paid 0 tax on 55B sales 
+  - HP 17in foldable PC
+  - sony will advertise on PS games 
+  - netflix aftermath - lost 1/3 of their value, in all fell 37% 
+    - may respond with ad-supported plans 
+- tech
+  - china takes lead in quantum computing?
+
 4/20
 - biz
   - netflix loses subs and stock crashes (down 20%)
