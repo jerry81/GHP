@@ -15,6 +15,7 @@
     - may respond with ad-supported plans 
 - tech
   - china takes lead in quantum computing?
+  - brave browser skips goog AMP - go straight to original site 
 
 4/20
 - biz
