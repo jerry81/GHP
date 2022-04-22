@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+4/22
+- politics
+  - florida strips disney's priveleged tax status 
+  - republicans fed up with trump 
+  - 500 lbs of weed spilt on interstate on 4/20 
+  - macron says le pen risks civil war 
+  - youtube blocks john lee HK leader for pushing BJ agenda 
+- tech
+  - half of world's population has headaches 
+- covid
+  - masks back on in LA
+- culture
+  - rio carnival is back, people itching to party 
+  - tyson punches man on plane repeatedly, bloodying face 
+  - queen is 96 y/o, 70 year reign 
+- war
+  - RU bans US VP harris, zuck and other us officials and figures 
+- biz
+  - CNN Plus (streaming) shuts down
+  - canonical hopes for IPO (ubuntu maker) 
+  - musk offers 46.5B for twitter 
+  - AMZN opens up prime delivery to other retailers 
+  - chip manufacturers scavenging silicon from washing machines
+  - delta working with spacex to test starlink
+
 4/21
 - politics
   - trump storms out of piers chat "meltdown"
