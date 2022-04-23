@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+4/23
+- politics
+  - cawthorne (good looking politician) photo in drag revealed 
+  - Military testing drone swarms over Utah
+  - biden ratings slump continues 
+  - macron in lead
+  - EU content rules may fine big tech billions
+- biz
+  - stocks plunge, worst day in years 
+  - netflix now a takeover target
+  - coinbase comlains about appl antitrust behavior 
+  - goog messages bug might be draining battery 
+- war 
+  - putin cancer rumors 
+- culture
+  - dubai most luxurious hotel ever has 92 pools, snow sauna, salt caves 
+  - bodyguards in crime-riddled venezuela considered a status symbol 
+- tech
+  - LHC restarted to search for dark matter 
+- covid
+  - just 17 covid deaths in shanghai
+
 4/22
 - politics
   - florida strips disney's priveleged tax status 
