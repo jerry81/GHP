@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+4/24
+- politics
+  - macron currently in lead 
+  - biden ratings slump second lowest in modern era
+- covid
+  - beijing warns of "grim" situation 
+- culture
+  - elon compares gatesß to pregnant man emoji ß
+  - depp shows up to court with ice cream going down legs
+  - will smith emerges for first time since slap 
+- biz
+  - EU faster than USA in regulating big tech 
+- tech
+  - will world run out of food in 27 years?
+- war
+  - brit special forces in UKR 
+
 4/23
 - politics
   - cawthorne (good looking politician) photo in drag revealed 
