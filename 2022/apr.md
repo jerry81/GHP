@@ -4,6 +4,7 @@
 - politics
   - macron currently in lead 
   - biden ratings slump second lowest in modern era
+  - US invests 6B in financially distressed nuke reactors
 - covid
   - beijing warns of "grim" situation 
 - culture
@@ -12,8 +13,10 @@
   - will smith emerges for first time since slap 
 - biz
   - EU faster than USA in regulating big tech 
+  - zoombombing - hackers hack into zoom calls - zoom pays out 65M
 - tech
   - will world run out of food in 27 years?
+  - openBSD 7.1 released with appl m1 support (security focused OS)
 - war
   - brit special forces in UKR 
 
