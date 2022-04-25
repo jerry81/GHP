@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+4/25
+- politics
+  - macron wins 
+    - landslide
+- culture
+  - 3 legged dog with cancer jumps into water to save baby otter 
+  - "anti-sex" movement growing
+  - skydiving stunt: switch planes mid-air
+- war
+  - enters 3rd month, putin looking unsteading
+  - 21800 invading troops kiled 
+- biz
+  - michigan tries in-road charging test for EVs
+
 4/24
 - politics
   - macron currently in lead 
