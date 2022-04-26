@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+4/26
+- biz
+  - musk takes twitter 
+    - bezos pokes at his china ties
+    - twitter emps fear for future 
+    - 44B
+  - argentina inflation
+  - half of teslas use cobalt-free batteries  (Iron phosphate aka LFP)
+  - not enough lawyers in crypto industry 
+  - potential MSFT-activision deal - call of duty
+  - starlink to hawaiian airlines 
+  - employee morale shot at netflix 
+- covid
+  - BJ epxands mass testing
+- war
+  - RU warns of WWIII
+- tech 
+  - UK experiments push for crab and lobster rights
+  - passwordless cons
+    - sms can be intercepted
+    - hackers can trick fingerprint/facial recog systems 
+- politics
+  - GOOG, meta to explain their algorithms in new EU legislation 
+
+
 4/25
 - politics
   - macron wins 
