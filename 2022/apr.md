@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+4/27
+- biz
+  - down -809, tesla wipes out 114B
+  - musk bullied his way into twitter?
+    - will have reprecussions in EU regulations
+  - half of videoconference participants disengaged?
+  - fidelity 401k management will allow investors to access bitcoin
+  - india wants tesla to make EVs locally 
+  - M3 processor in iMac set for 2023
+- covid
+  - kamala catches covid
+  - china builds cages around homes
+  - more than half americans infected at least once
+- politics
+  - china first case of bird flu H3N8
+  - harvard pays up 100M to atone for "role in slavery"
+  - india heatwave threatens wheat harvest
+  - Maine may get an aerospace industry 
+  - MX nationalizes lithium industry 
+  - chess.com banned in russia 
+- war
+  - USA restarts diplomatic activity in ukr, pledges more aid
+  - world military expenditure passes 2T, first time ever
+- tech
+  - chip startups focus on chips using light instead of wires
+
+
 4/26
 - biz
   - musk takes twitter 
