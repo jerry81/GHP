@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+4/28
+
+- war
+  - RU cuts gas
+  - putin nuke warnings
+  - MSFT says RU constantly trying to hack UKR
+- covid
+  - fauci:  america "out of pandemic phase"
+  - CN lockdown outrage
+- biz
+  - paypal to close SF office
+  - prince harry has a silicon valley gig  
+  - thousands sign up for mastadon (twitter rival) after elon takeover
+  - silicon carbide chip plant opens in NY - semiconduxtors
+  - MSFT linux desktop flaw  
+  - MSFT to compete as a CDN
+  - robinhood layoffs 
+  - youtube shorts - tiktok clone
+- politics
+  - US army to invest in hololens, 22B
+- tech 
+  - copper wires could carry gigabit speed internet 
+
 4/27
 - biz
   - down -809, tesla wipes out 114B
