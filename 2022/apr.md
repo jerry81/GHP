@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+4/29
+- politics
+  - gdp down 1.4%
+  - suicides on USS George Washington, difficult working conditions
+  - FDA menthol cigarrette ban?
+  - nkoreas jailbreaking phones to access banned sites 
+  - BTC becomes official currency in Central Africa
+- biz
+  - amazon and big tech crash
+  - layoffs at netflix
+  - tesla stock crash puts musk twitter acquisition in jeaopardy 
+  - crypto a giant ponzi scheme?
+  - qualcomm m1-class chips late 2023
+  - aapl best march ever
+  - snap - pixy - mini-drone 
+    - evan spiegel
+    - snapchat 
+- tech
+  - kissing in the metaverse - sensations in mouth lips and tounge 
+  - benefits of sleeping on left side?
+  - one of largest ddos attacks in history on crypto platform 
+  - eric schmidt interested in web 3.0
+  - meteorites contain all bases for DNA and RNA 
+  - MIT develops paper-thin loudspeaker 
+- culture
+  - avatar sequel footage released 
+
 4/28
 
 - war
