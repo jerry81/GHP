@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+4/30 
+- biz
+  - down down almost 1000 points
+  - big tech slump 
+    - amzn biggest drop in a month since 2014
+  - worst since wwii?
+  - epic (games) purchases bandcamp
+  - airbnb goes fully remote - live and work anywhere  
+- culture
+  - beckham owns miami soccer team 
+  - disco needle attacks in EU
+  - longest tenure at a company - 80+ years, 100 year old man 
+- war
+  - first american casualty in UKR
+- tech
+  - yet another sleep study finds 7 hrs ideal 
+  - mass extinction event in ocean may occur due to global warming 
+- politics
+  - usps sold for using gas guzzling mail trucks
+  - newsom considers closing diablo canyon nuke plant 
+  - india will try e-commerce platform to compete with amazon
+  - pro labor laws vs amazon in NY
+  - nigeria phone security crackdown  
+- covid
+  - in light of slumping economy, gov crackdown on tech companies paused
+
 4/29
 - politics
   - gdp down 1.4%
