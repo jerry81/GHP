@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+5/3
+- politics
+  - report - roe vs wade overturned
+    - alito backs roe  
+    - roe vs wade result - abortion rights, jane roe wins 
+    - don lemon was accused of sexual assault but case dropped 
+    - ca population drops 2 years in a row 
+    - biden 3B electric car battery plan 
+- biz
+  - fertilizer crunch - resort to pee?
+  - bird flu locking down chickens worldwide 
+  - goog 100k worth of free tech training for every us business 
+  - bargaining to work at home at london law firm: 20% pay cut 
+  - rocket lab captures falling rocket with helicopter 
+  - square enix sells 
+  - FB podcasts to shut down 
+  - startup Rivos accused of stealing AAPL chip secrets 
+  - Meta headsets by 2024 
+  - firings at google AI
+- war
+  - cn invasion of twn coming? 
+- tech 
+  - ubuntu unity and ubuntu cinnamon releases  
+
 - 5/2
 - war
   - putin health drama continues 
