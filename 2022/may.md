@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+5/4
+- politics
+  - abortion saga continues 
+    - 26 states will make it illegal 
+    - ruling leaked
+- biz
+  - stocks and bonds falling at unprecedented rate 
+  - energy prices spike - electric bills up 
+  - record number quits, openings surpass unemployed by 5.6M
+  - ireland data centers consuming more energy than homes 
+  - edge becomes second most popular browser surpassing safari, chrome remains first 
+  - streaming wars - paramount+ grows to 40M subs
+  - elon criticizes app store tax - "tax on internet"
+  - aapl workers complain about only being allowed 2 days wfh per week 
+  - paypal egging on EU antitrust vs appl pay 
+  - coinbase CEO: 1B crypto users in a decade 
+- war
+  - france on brink of joining ukr conflict 
+  - coup rumors in moscow 
+  - ru may force prisoners to do it work 
+- culture
+  - heard's nurse testifies against her 
+- tech
+  - snake and spider venom may cure ailments 
+  - covid side effect - 20 years of ageing of brain 
+  - james webb telescope completely initialized 
+
 5/3
 - politics
   - report - roe vs wade overturned
