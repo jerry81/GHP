@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+5/5
+- culture
+  - chappelle attacked onstage
+- covid
+  - 1M covid deaths in america 
+- biz
+  - 170M miami beach home becomes FL's priciest ever 
+  - all 2023 volvos will at least be hybrid
+  - NYT happy with their wordle purchase 
+  - GOOG twice a year performance review process is time consuming and employees criticise it 
+  - AMZN targets 20B in exports from india by 2025
+  - venture capital was hot in 2021, but now, suddenly stops 
+  - starbucks to enter NFTs
+- politics 
+  - world hunger up 
+  - abortion rallies in LA 
+  - china demanded to scrub statue of liberty from spiderman but sony rejected.
+- tech
+  - github to require all code contributors to use 2FA 
+
 5/4
 - politics
   - abortion saga continues 
