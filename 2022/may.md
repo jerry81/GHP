@@ -1,5 +1,38 @@
 [Back](./index.md)
 
+5/6
+- politics
+  - Cawthorn (congressman) scandal
+  - abortion ruling divides reds and blues even further 
+  - TX population boom 
+  - chris wallace to hbo max 
+  - NY bitcoin crackdown 
+  - VPN companies vs India 
+  - white house going to get their hands in quantum computing 
+  - birth rate bouncing back 
+- biz
+  - dow down 1063 points
+  - tech continues collapse 
+  - streaming stagnates 
+  - baby formula shortage 
+  - musk to serve as twitter ceo 
+  - unretirement trending
+  - wordle bought by AppLovin
+  - MSFT and VW -> hololens in cars 
+  - AMD chromebooks - doubles number of cpu cores offered 
+  - AAPL music will add itself to the dock
+  - ARM china CEO Allen Wu ousted - refuses to pack up 
+- tech
+  - massive groundwater system discovered below antarctica 
+  - followup - pig heart given to patient infected with pig virus 
+  - AAPL GOOG MSFT push for passkeys:  passkeys use FIDO scheme 
+    - FIDO alliance - wants to reduce overreliance on passwords 
+    - multiple methods, biometrics, fingerprint, facial recog, iris, voice, 
+    - Fast Identity Online 
+  - SE Asia heatwave (120F) 
+  - summer has arrived way early 
+- 
+
 5/5
 - culture
   - chappelle attacked onstage
