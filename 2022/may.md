@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+5/7
+- war
+  - italy seizes putin's yacht 
+- biz
+  - stocks still continuing spiral 
+  - tesla expenses workers seeking abortion travel costs 
+  - buy now, pay leader, causing many youngsters debt 
+- politics
+  - havana large hotel explosion kills 9 
+  - BJ installs security chief as HK leader 
+  - chicago plans huge casino 
+  - CN gov ordered to dump foreign PCs
+- culture
+  - elvis film gets good reviews, directed by baz luhrman 
+- tech
+  - space brain seems real 
+  - molten salt battery 
+  - goog docs bug on strange string 
+  - M1 DMP (data memory-dependent prefetcher aka augury) vunerability found
+  - WiFi 7 routers to hit 33Gbps 
+- covid
+  - WHO: covid death toll 15M worldwide 
+
 5/6
 - politics
   - Cawthorn (congressman) scandal
