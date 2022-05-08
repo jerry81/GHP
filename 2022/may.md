@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+5/8
+- politics
+  - CN eyeing twn invasion, says CIA
+  - wealthy emigrating from USA, buying second passports
+  - plastics recycling actually a myth?
+  - cali population shrinks last year  
+  - LSAT for law students may be repealed 
+  - UK set to target big tech with competition rules 
+- war
+  - putin set to escalate, UKR braces
+- covid
+  - cali numbers highest since feb, bay area bad
+  - xi wants to silence zero critics in the midst of brewing turmoil 
+- biz
+  - thriving during pandemic: employee-monitoring software 
+  - Mercedes level 3 self driving 
+- tech
+  - new trend in containers: js containers, replacing linux containers
+ 
+
 5/7
 - war
   - italy seizes putin's yacht 
