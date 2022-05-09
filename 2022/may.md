@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+5/9
+- politics
+  - jill biden goes to UKR
+- war
+  - putin leaning towards ww3 vs accepting defeat 
+- biz
+  - musk may ban twitter porn 
+  - crypto down 50% since last nov, markets drop 200B - btc at 34K 
+  - apple back to work drama - AI expert quits.  aapl hybrid work scheme - M, T, TH go to work, up from 1 day a week, then two days a week 
+  - crisis of Software Engineering
+    - daily standup looked as surveillance 
+    - retrospectives filled with accusations 
+    - commidifying developer's work (knowledge workers)
+- covid
+  - BJ to SH - stop asking why 
+
 5/8
 - politics
   - CN eyeing twn invasion, says CIA
