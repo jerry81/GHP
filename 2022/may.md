@@ -15,7 +15,7 @@
 - tech
   - brain cancer drug could switch off tumors
   - hacker new attack vector, hide malware in windows event logs 
-  - java popularity sliding 
+  - java popularity sliding (reported by new relic)
 - culture
   - avatar: way of water first trailer 
 - politics
