@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+5/10
+- biz
+  - musk mysterious tweet:  "if i die of mysterious causes, it's been nice knowing you"
+    - probably threats from russia 
+  - netflix 71% down this year
+    - but other losers, snap -50, facebook 42, uber 47, amzn 36, disney 32, tesla 34, goog 21
+  - 40% of investors underwater
+  - the tech run ran 2 years 
+  - eu first psychadelic drug trial firm in london 
+  - worst sell-offs since 2008 crash 
+- war
+  - vlad may have same fate as adloph?
+- tech
+  - brain cancer drug could switch off tumors
+  - hacker new attack vector, hide malware in windows event logs 
+  - java popularity sliding 
+- culture
+  - avatar: way of water first trailer 
+- politics
+  - biden internet program - cheap internet to low wagers
+  - an illinois college shuts down due to ransomware attack 
+
 5/9
 - politics
   - jill biden goes to UKR
