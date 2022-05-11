@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+5/11
+- biz
+  - bubble has burst
+  - netflix may need to start using ads
+    - end of 2022 
+  - palantir drops 
+  - amzn lost all its pandemic gains
+  - podcasting to be worth 4B by 2024 
+  - bolt startup built on inflated metrics and eager investors 
+    - one click checkout 
+  - ibm targets 4000 qubit quantum computers by 2025 
+- politics
+  - amid btc crash, el salvador reveals its BTC city 
+  - germans pushing hard to regulate FB 
+  - china wants youth to stop giving livestreamers money 
+- covid 
+  - WHO: zero-covid is unsustainable 
+  - zero covid economic toll 10 x more severe than wuhan 
+  - thousands sleeping on street 
+- culture
+  - mario batali accused of sex misconduct 
+  - mike tyson not charged for punching someone on plane 
+- tech
+  - webb telescope pictures very sharp 
+
+
 5/10
 - biz
   - musk mysterious tweet:  "if i die of mysterious causes, it's been nice knowing you"
