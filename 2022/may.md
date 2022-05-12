@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+5/12
+- biz
+  - bitcoin crisis 
+  - coinbase warning about bankruptcy
+  - loses half value in a week 
+  - looking for a bailout 
+  - tesla slide makes musk twitter purchase questionable 
+  - inflation up 
+  - goog message group chats will get e2e encryption 
+  - nvidia to transition into official open source linux GPU kernel driver
+    - away from proprietary driver stack
+- culture
+  - drug ods reach record 
+- politics
+  - putin misses a beloved hockey match.  health concerns 
+  - WHO chief censored in China
+  - al jazeera journalist assassinated by israeli troops in west bank
+    - qatar state owned radio broadcaster 
+
 5/11
 - biz
   - bubble has burst
