@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+5/13
+- politics
+  - kathy barnette surging towards PA senate seat (alt-right)
+    - beating mitch mcconnell 
+  - stop asian hate rally at LA, man arrested for saying "go back to china" 
+  - rumors: "xi will step down" 
+  - finland wants to join nato 
+  - as crime rises, facial recog bans get put on pause 
+  - Janet Yellen: inflation be fixed without recession 
+  - el salvador president - Nayib Bukele has lost 28% on Bitcoin, but buys more 
+- biz
+  - housing market to crash next?
+  - suicide threats after btc crash 
+  - aapl overtaken as world's most valuable company, surpassed by Saudi Aramco - 2.43 T
+  - there is a social media app called Yik Yak
+  - Disney+ addes 8M subscribers 
+  - there are two hot terraforms - one does crypto (terraform labs), the other is hashicorp terraform
+  - twitter CEO pushes out top execs and freezes hiring 
+    - CEO Parag Agrawal 
+  - luna crypto almost worthless 
+  - new google cloud db: alloyDB - managed Postgres 
+- culture 
+  - tiktok "blackout challenge" - choke self 
+    - parents of 10 year old who died doing it sues tiktok
+- tech 
+  - picture taken of supermassive black hole 4M suns at center of Milky way 
+
 5/12
 - biz
   - bitcoin crisis 
