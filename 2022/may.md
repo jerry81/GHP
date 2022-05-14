@@ -1,4 +1,26 @@
-[Back](./index.md)
+
+
+5/14
+- biz
+  - luna drops to 0
+  - coinbase customers sue 
+  - samsung to raise chip prices 20%
+  - smart gun startup 17M funding - biofire - fingerprint sensor to unlock 
+  - twitter deal on hold due to spam 
+  - Meta hardware division to cut staff 
+  - iphones with usb coming?
+  - msft pay raises to stay competitive 
+    - to keep up with other tech giants raising salaries 
+- politics
+  - xi: brain aneurysm?
+  - LA drought again 
+  - SF police using driverless cars as surveillance 
+  - UK deems calling man bald sexual harrassment 
+  - cypto sold after one year in germany is tax-free 
+- tech
+  - goog releases flutter 3 
+  - monitors to upgrade from 360Hz to 480Hz 
+  - largest LSD trial testing for anxiety yeilds promising results 
 
 5/13
 - politics
