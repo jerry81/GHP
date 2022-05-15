@@ -1,4 +1,20 @@
-
+5/15
+- politics
+  - pro abortion protests
+  - buffalo supermarket shooting, 10 dead 
+    - ranted about mass immigration 
+  - coup to remove cancer stricken putin underway 
+  - house of representatives get free peloton memberships, using tax money 
+- biz
+  - baby formula shortage in US 
+  - netflix to start live streaming
+- covid
+  - bj may start their first lockdown 
+- culture
+  - anti-nuke power book, atoms and ashes: from bikini atoli to fukushima 
+- tech 
+  - centOS successor Rocky Linux gets 26M fund 
+  - run python code in browser soon?
 
 5/14
 - biz
