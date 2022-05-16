@@ -1,3 +1,24 @@
+5/16
+- war
+  - ru has lost 1/3 of its forces 
+  - troops deliberately wound selves to get out of war 
+  - russian fighter jets have gps taped to dashboards 
+  - Facial recog used to id dead soldiers 
+- politics
+  - terrified shoppers jumped in freezers 
+  - gov calls for social media crackdown "instruments of evil"
+  - another shooting at a CA taiwanese church 
+  - environmentalists against desalination - destroy salt water ecosystems?
+  - TX energy crunch 
+- culture
+  - portugal is now an expat heaven 
+  - ellen tv farewell coming 
+- biz
+  - underwater raves in battery-powered subs 
+  - Hyundai 7B EV facility in Georgia, second in Georgia after Rivian 
+  - MSFT uses an internal use only linux distro 
+  - best alternatives to goog search - duckduckgo, brave search, startpage 
+
 5/15
 - politics
   - pro abortion protests
