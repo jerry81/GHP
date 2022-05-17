@@ -1,3 +1,21 @@
+5/17
+- politics
+  - chinese born attacks twn church in CA 
+  - CN aircraft carrier spotted off of TWN 
+  - china economy collapsing under Xi policy?
+  - CA tried to pass law requiring women on corporate boards
+- biz
+  - luna dropped from 1.6 B to 3k 
+  - aapl new patches have over 50 security fixes
+  - uber launches robot delivery 
+  - 0 cars sold in shanghai last month 
+- culture
+  - having more than 2 kids bad for brain?
+  - black mirror season 6 coming netflix 
+- tech
+  - AI can recognize race from x-rays 
+  - python speed boost coming with 3.11
+
 5/16
 - war
   - ru has lost 1/3 of its forces 
