@@ -1,3 +1,19 @@
+5/18
+- politics
+  - PA senate showdown 
+  - china eastern crash drama: black box shows it was intentional 
+  - zelensky opens cannes film festival 
+  - HK mulling blocking telegram 
+- culture
+  - harrison ford to star in tv show: yellowstone prequel 
+  - huntsville AL named best place to live
+  - an indian couple sues their son for not giving them grandchildren 
+  - johnny depp sexually assaulted amber with bottle?
+- biz
+  - housing market finally slowing down
+  - musk twitter deal cancelled 
+  - netflix layoffs
+
 5/17
 - politics
   - chinese born attacks twn church in CA 
