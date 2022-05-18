@@ -4,6 +4,7 @@
   - china eastern crash drama: black box shows it was intentional 
   - zelensky opens cannes film festival 
   - HK mulling blocking telegram 
+  - fed: intrest rates should have gone up sooner 
 - culture
   - harrison ford to star in tv show: yellowstone prequel 
   - huntsville AL named best place to live
@@ -13,6 +14,12 @@
   - housing market finally slowing down
   - musk twitter deal cancelled 
   - netflix layoffs
+  - NYC - more bnb listings than apartments for rent
+  - china chipmaker SMIC: "Phone and PC demand has dropped"
+  - angry DBA wipes employer's db's gets 7 years 
+  - aapl postpones its 3 day at office workweek plan 
+- tech 
+  - time playing video games linked with boosting intelligence?
 
 5/17
 - politics
