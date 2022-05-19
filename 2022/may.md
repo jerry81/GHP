@@ -1,3 +1,19 @@
+5/19
+- biz
+  - goog claim: close to human level AI 
+  - impostor syndrome fueling burnout 
+- tech
+  - US military also building its own metaverse?
+  - first experimental dosage of cancer-killing virus 
+- politics
+  - if anti-abortion law passes, then how will they enforce?  surveilance?
+  - china anti-censorship technique - revealing user locations 
+  - putin emitting strange smells 
+  - large areas of US in danger of summer blackouts 
+  - sex allegations vs boris johnson's party 
+- culture
+  - 7 out of 10 rather have pets than kids 
+
 5/18
 - politics
   - PA senate showdown 
