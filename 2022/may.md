@@ -2,9 +2,16 @@
 - biz
   - goog claim: close to human level AI 
   - impostor syndrome fueling burnout 
+  - dollar surging 
+  - dow down 1164
+  - upcoming foldable apple device with e-ink display 
+  - china making btc mining comeback despite gov ban 
 - tech
   - US military also building its own metaverse?
   - first experimental dosage of cancer-killing virus 
+  - MIT solar-powered desalination device wins a MIT competition 
+  - CEO passwords "startlingly dumb"
+  - glaucoma treating contact lens may be able to release drug 
 - politics
   - if anti-abortion law passes, then how will they enforce?  surveilance?
   - china anti-censorship technique - revealing user locations 
