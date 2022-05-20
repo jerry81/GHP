@@ -1,3 +1,20 @@
+5/20
+- biz
+  - musk sex harrassment, cash payoff 
+  - stocks on brink of bear market 
+  - elasticsearch and aws are now good friends 
+  - whatsapp launches cloud api 
+  - aapl reverses remote work poicy after AI head decamps to alphabet 
+- culture 
+  - top gun at cannes get standing ovation 
+- war
+  - russia claims they have laser weapon - derided as propaganda 
+- tech
+  - giant farm vehicles threaten 20% of world's crops - by damaging soil 
+- politics 
+  - canada to ban huawei from 5g 
+  - bing helping to censor politically sensitive chinese names 
+
 5/19
 - biz
   - goog claim: close to human level AI 
