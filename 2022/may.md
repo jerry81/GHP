@@ -1,3 +1,18 @@
+5/21
+- biz
+  - musk saga: elon made accuser sign nda, flight attendant 
+  - musks' stocks down 44% for year 
+  - nflx layoffs target SJW 
+- politics
+  - bezos for office?
+- covid
+  - one more month for shanghai to resume normal life 
+- culture
+  - depp flirting with his lawyer?
+- tech
+  - goog ai can now understand your humor 
+  - china constructing an entire dam with 3d printing and with robots only 
+
 5/20
 - biz
   - musk sex harrassment, cash payoff 
