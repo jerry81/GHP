@@ -1,3 +1,17 @@
+5/22
+- politics
+  - aus elects new PM from the left
+  - monkeypox cases in EU and USA 
+- covid
+  - bj sends negative covid residents to quarantine 
+- biz
+  - mitsubishi - tech for 3d printing in outer space
+  - online spider market actually huge 
+- tech
+  - gov.uk moved away from jquery because of improvements in vanilla 
+  - hp chooses ubuntu-based Pop!_OS for Dev One Laptop 
+
+
 5/21
 - biz
   - musk saga: elon made accuser sign nda, flight attendant 
