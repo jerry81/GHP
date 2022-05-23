@@ -1,3 +1,15 @@
+5/23
+- politics
+  - monkeypox spotted in florida, an STD?
+  - belgium quarantines 
+- war 
+  - st. petersberg revolt - thousands "fuck the war" 
+- biz
+  - netflix most expensive release yet, "the gray man" 
+- culture
+  - sharon stone still looking good at 64
+  - world's worst cannibal necrophiliac killer had 53 victims "red ripper" andrei chikatilo, Ukrainian 
+
 5/22
 - politics
   - aus elects new PM from the left
