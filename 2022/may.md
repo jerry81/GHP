@@ -2,13 +2,20 @@
 - politics
   - monkeypox spotted in florida, an STD?
   - belgium quarantines 
+  - question - can tech prevent violent videos from circulating on the internet
 - war 
   - st. petersberg revolt - thousands "fuck the war" 
 - biz
   - netflix most expensive release yet, "the gray man" 
+  - NFT leader admits 97% of projects will lose value up through 2024 
+  - wells fargo - 2016 - create phony accounts scandals, 2017 - 1.4M more fake accounts, now - fake job interviews?
 - culture
   - sharon stone still looking good at 64
   - world's worst cannibal necrophiliac killer had 53 victims "red ripper" andrei chikatilo, Ukrainian 
+  - val kilmer lost voice to voice cancer in 2015, top gun maverick brings his voice back through AI 
+- tech
+  - another developer survey - js and python on top, rust rising 
+  - hubble "magnum opus" - 30 year analysis of universe's expansion 
 
 5/22
 - politics
