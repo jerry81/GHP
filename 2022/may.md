@@ -1,3 +1,21 @@
+5/24
+- politics
+  - conspiracy theories in china that monkeypox deliberately leaked by USA
+  - spotted in florida 
+  - danger for gay and bi men 
+  - white supremacists causing trouble in beverly hills 
+  - CA covid cases double in many areas 
+  - EPA 5B clean school bus program 
+  - pakistan heatwave 120 F 
+- biz
+  - top 50 richest have lost over 500B this past year 
+  - AirBNB shutting down in China 
+  - senior staff at goldman gets unlimited PTO 
+  - coinbase app lets employees grade each other during meetings 
+- tech
+  - rust for linux updated 
+
+
 5/23
 - politics
   - monkeypox spotted in florida, an STD?
