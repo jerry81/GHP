@@ -1,3 +1,19 @@
+5/25
+- politics 
+  - TX elementary school shooting, biggest since sandy hook 
+    - 18 year old， shot grandma before, dead
+  - MZX shooting 11 rampage through hotel and bars 
+  - biden in tokyo: "gaffe" on taiwan - "promise to act militarily" to defend twn in case of chinese attack 
+- culture
+  - cronenberg new film "disgusting", graphic surgery scenes 
+  - future of drugs: combination of caffeine, fentanyl, heroin etc 
+- tech
+  - deepfake used by dutch police to generate new leads 
+- biz 
+  - amzn workers quitting at twice the rate
+  - MSFT Arm AI chips to windows 
+
+
 5/24
 - politics
   - conspiracy theories in china that monkeypox deliberately leaked by USA
