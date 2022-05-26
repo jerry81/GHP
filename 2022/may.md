@@ -1,3 +1,28 @@
+5/26
+- politics
+  - tx gov pressured 
+  - cops took 90 mins to take down killer 
+  - killer Rolando Ramos lost video game, was bullied 
+  - boris johnson "partygate"
+  - CN prepping missles to destroy musk's starlink?
+  - spain invests 13B in chip industry 
+  - NY state robot companions for elderly 
+- culture
+  - elvis at cannes gets standing o 
+- biz
+  - nft bubble bursting?
+  - sex assault case in metaverse?
+  - dorsey steps out of twitter board 
+  - metaverse bleeding money 
+  - samsung looking to take down appl m1 
+  - amzn brick and mortar clothing store near LA 
+  - dyson working on robots for household chores 
+- tech
+  - advances in "data teleportation" makes quantum internet more possible 
+  - gel material pulls water out of thin air 
+  - china "drone mothership"
+  - tesla researching new battery tech that could last 100 years 
+
 5/25
 - politics 
   - TX elementary school shooting, biggest since sandy hook 
@@ -12,7 +37,6 @@
 - biz 
   - amzn workers quitting at twice the rate
   - MSFT Arm AI chips to windows 
-
 
 5/24
 - politics
