@@ -1,3 +1,18 @@
+5/27
+- politics
+  - why was tx gunman inside school for over an hour?
+  - student covered self with bodies
+  - US bill would bar goog, aapl from hosting apps using china digitual yuan 
+- culture
+  - spacey more sex allegations, in UK 
+  - ray liotta dead 67 
+  - amber heard getting death threats
+- tech
+  - linux 5.19 - adds 500K lines of graphics driver code 
+- biz
+  - verizon hacked, employee db 
+  - chinese sellers leaving amzn
+
 5/26
 - politics
   - tx gov pressured 
