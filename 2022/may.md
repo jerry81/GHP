@@ -1,3 +1,13 @@
+5/28
+- politics
+  - guns now the leading cause of death for american children
+- culture
+  - tarantino book to be released 
+- tech
+  - nanoparticles vs brian cancer
+  - airbus hydrogen planes 
+  - HDs breaking 30TB 
+
 5/27
 - politics
   - why was tx gunman inside school for over an hour?
