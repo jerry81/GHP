@@ -1,3 +1,28 @@
+5/30
+- politics
+  - christian nationalism on rise 
+  - hurricane agatha, mx tourist towns
+  - kamala wants assault weapons ban 
+  - resident physicians, burnt out by 80 hr workweeks, unionize 
+  - israeli nationalists chant "death to arabs"
+- biz
+  - beef, chicken at record highs 
+  - netflix ceo Sarandos: horrified by stock drop of 75% 
+  - musk welcomes the recession as way to bankrupt the "losers" 
+  - EV impact on workforce - auto mechanic jobs to be replaced - EV need far less maintenence and repair 
+  - windows subsystem for linux 2 comes to win server 2022
+- war 
+  - food/water crisis in UKR 
+  - dissent from russians grows 
+  - kremlin lifts age limit for troops 
+- tech
+  - gene editing turns hamsters into agressive rage monsters 
+  - minor leagues using AI umpires 
+  - 25 Gbps fiber demoed in NZ
+- culture 
+  - great opening for top gun 
+  - obiwan on disney+ 
+
 5/28
 - politics
   - guns now the leading cause of death for american children
