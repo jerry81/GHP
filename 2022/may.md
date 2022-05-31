@@ -1,3 +1,18 @@
+5/31
+- politics
+  - agatha hits mx cat 2 
+  - uvalde fallout continues, biden anti-gun tirade 
+  - thiel rising as political power player 
+  - mona lisa smeared in cake 
+  - japan to revitalize its research 
+  - right to repair bill rejected in ca 
+- tech
+  - walking the secret to a long life 
+- biz
+  - silicon valley startups prepare for survival mode 
+  - fintech startups troubled 
+  - robot orders up 40% 
+
 5/30
 - politics
   - christian nationalism on rise 
