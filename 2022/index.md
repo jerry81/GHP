@@ -11,3 +11,5 @@
 [April](apr.md)
 
 [May](may.md)
+
+[June](june.md)
