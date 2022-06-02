@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+- 6/2
+- culture 
+  - johnny wins case, 10M
+    - lost in UK but won in US?
+  - bradley cooper new role has him in "jewface" makeup 
+- politics
+  - janet yellen admits inflation out of control 
+  - another shooting, tulsa medical building 4 killed
+  - saudi plans largest building ever 500B project
+  - EU vs loot boxes
+- biz
+  - sheryl sandberg leaves FB, to do politics?
+  - capital one enterprises into B2B sector
+  - goog to combine meet and duo into single app 
+  - new appl museum in poland
+  - chrome and safari only browsers with over 1B users
+- war 
+  - taiwan sacntions on cpus shipped to ru and belarus 
+
 - 6/1
 - politics
   - uk monkey pox cases hit 190
