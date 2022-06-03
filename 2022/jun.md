@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 6/3
+- war
+  - zelensky says 20% of UKR under RU control 
+  - putin was treated for cancer in april
+- politics
+  - oil crisis - gas prices up to $9
+  - masks back on in LA
+- culture
+  - lebron becomes first nba billionaire 
+- biz
+  - columbus OH new tech hub
+  - winklevoss twins' crypto startup, gemini fires 10% of staff 
+- tech
+  - dogs detect covid accurately 
+
+
 - 6/2
 - culture 
   - johnny wins case, 10M
