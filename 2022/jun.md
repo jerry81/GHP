@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 6/4
+  - war
+    - 100 days of war 
+    - black sea dolphins casualities of war?
+  - politics
+    - turkey inflation high 
+    - china big solar, wind plans 
+    - NY bill limits bitcoin mining 
+  - biz
+    - tesla in trouble
+    - driverless taxis to SF
+  - tech
+    - 3d printed ear transplanted
+    - there is tech to use nuclear waste to power for 100 years, but never commercialized
+    - transmission speed record Pb/sec
+
 - 6/3
 - war
   - zelensky says 20% of UKR under RU control 
