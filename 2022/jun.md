@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 6/5
+  - war
+    - macron says "don't humiliate russia", gets ukr anger
+    - putin supporter says "nuke war coming" 
+    - japan may join nato?
+  - politics
+    - trump may run '24?
+    - taser-armed drones to stop school shootings?
+    - uyghurs living in giant prison camp?
+  - biz
+    - companies having issues enforcing return-to-office 
+      - appl - commute time an issue 
+    - insider trading in NFTs?
+    - Meta may not have replacement for Sheryl Sandberg 
+    - aapl about to create satellite based IoT biz
+  - tech
+    - 35 countries collaborating on fusion energy research 
+    - msft word zero-day found on 4/21 still has no patch 
+    - goog wants to make chip dev like oss 
+    - question round waste generation of modular nuke reactors 
+    - aging reversed in mice 
+
 - 6/4
   - war
     - 100 days of war 
