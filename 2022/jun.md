@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 6/7
+- war
+  - putin warns against west sending weapons 
+- culture
+  - NFL first trans cheerleader 
+- biz
+  - musk may walk away from twitter deal 
+  - buzzfeed down 40%
+  - improvements to iPad, multitasking more like mac 
+  - aapl redesigned macbook air - m2 chip 
+  - "AI" startup was actually low cost data entry workers in philipines 
+  - skorea capacitor company Speefox has 75% automated factory 
+- politics
+  - uk trying 4 day work week - 100% pay, 80% time 
+
 - 6/5
   - war
     - macron says "don't humiliate russia", gets ukr anger
