@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+-6/8
+- politics
+  - la, sf turn right, politically?
+  - 300 monkeypox cases in USA
+  - China crackdown on "disorderly capital" 
+  - tensions between nkorea and korea/usa
+  - saudi to spend 1B on anti-aging 
+- tech
+  - social robots could alleviate "loneliness epidemic" 
+  - python 3.11 performance benchmarks look good 
+  - rust is hard - need much knowledge of language 
+  - mongoDB 6.0 brings encrypted queries and time-series data collections 
+- biz
+  - uber waymo teamup on autonomous trucking 
+  - winklevoss twins gemeni sued by investor over security failures 
+
 - 6/7
 - war
   - putin warns against west sending weapons 
