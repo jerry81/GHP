@@ -1,6 +1,28 @@
 [Back](./index.md)
 
--6/8
+- 6/9
+- politics
+  - kavanaugh - supreme court justice threatened at home, man was upset over abortion and guns
+  - military plan crash kills 5 marines
+  - phx 115 degrees 
+  - article: SF "failed city" 
+  - UK will not copy EU charging cable policy
+  - heat waves may be named 
+- biz
+  - great resignation reaches white house staff 
+  - 22 year low mortgage demand 
+  - HK most expensive city for expats 
+  - grubhub free lunch promo overloaded NYC restaurants - need to refund customers for undelivered food orders 
+- culture
+  - jennifer garner offered madonna role in biopic 
+  - joker sequel greenlit 
+  - optimists live longer
+  - ridley scott show "raised by wolves" cancelled after 2 seasons 
+- tech
+  - plasma ignition system increase engine efficiency by 20%
+  - NYC cancer trial total remission for all participants - 12 total patients - early cancer
+
+- 6/8
 - politics
   - la, sf turn right, politically?
   - 300 monkeypox cases in USA
