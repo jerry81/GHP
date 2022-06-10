@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+- 6/10
+- politics
+  - trump: pence should be hanged
+  - biden pushing EV charging stations on fed highways, every 50 miles 
+- biz
+  - 95 USD to fill up a car
+  - tech companies freezing hiring, intel joines the fray 
+- tech
+  - living skin for robots
+  - a paper blows up btc's claim to anonymity 
+  - github sunsets atom, its text editor 
+    - was the foundation for electron fx 
+  - google cloud calculates pi to 100 trillion digits 
+  - microplastics found in antarctic snow
+- culture
+  - youth cage fighting?
+
+
+
 - 6/9
 - politics
   - kavanaugh - supreme court justice threatened at home, man was upset over abortion and guns
