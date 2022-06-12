@@ -12,4 +12,4 @@
 
 [May](may.md)
 
-[June](june.md)
+[June](jun.md)

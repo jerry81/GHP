@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+- 6/12
+  - politics
+    - dems dont want bidne back for 24
+    - monkeypox cases double
+    - near-sightedness becoming ubiquitous in Asia
+  - tech
+    - GOOG engineer: AI is now sentient
+    - history - human genome project sequenced every dna in 2003
+    - now: every gene has been mapped to its function
+    - new PACMAN threat similar to spectre - may affect M1s
+    - robot finger covered with human skin 
+  - biz 
+    - Axie Infinity NFT based game from maxis fails miserably 
+    - wickr - amazn chat app
+    - telegram working on paid service 
+  - culture
+    - bieber face paralyzed by virus 
+  
+
 - 6/10
 - politics
   - trump: pence should be hanged
