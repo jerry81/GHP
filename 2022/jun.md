@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 6/13
+  - tech
+    - goog ai "whistleblower" put on hold
+      - says AI acts like 6-7 year old 
+  - politics
+    - death valley reaches 120 degrees
+    - cali exodus: many fleeing to mexico 
+  - biz
+    - gas at 5USD
+    - warren buffet backing a 4B wind farm project, Iowa
+      - GOOG FB MSFT oppose? 
+  - culture
+    - ET (movie) is 40 years old
+    - adults sleep better together than alone 
+  
+
 - 6/12
   - politics
     - dems dont want bidne back for 24
