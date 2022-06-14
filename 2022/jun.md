@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 6/14
+  - biz
+    - fed nightmare - inflation or recession 
+    - down -876
+    - bitcoin plunge
+    - stocks back to bear
+    - ps subscription service 
+    - crypto market sinks below 1T
+    - amazon - start drone delivery in cali 
+  - politics
+    - putin shaking uncontrollably in video 
+    - yen down to 24 year low against dollar 
+  - culture
+    - world first exorcism center 
+    - bieber health struggles - joins a list of stars
+
 - 6/13
   - tech
     - goog ai "whistleblower" put on hold
