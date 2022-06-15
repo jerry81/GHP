@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+- 6/15
+  - biz
+    - fed raises rate
+    - crypto winter
+    - the richest lose 1.4 t 
+    - 10.8% inflation 
+    - dow may dip below 30K 
+    - el salvador fucked?
+    - musk participates in twitter all-hands 
+    - coinbase lays off 18%
+  - politics
+    - airlines have a pilot murder-suicide problem
+    - japan outlaws online insults 
+  - culture
+    - drugs back in EU?
+    - serena returns to wimbledon
+    - 80% men insecure about looks 
+  - tech
+    - LHC back in business?
+
 - 6/14
   - biz
     - fed nightmare - inflation or recession 
