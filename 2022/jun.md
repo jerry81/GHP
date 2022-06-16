@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+- 6/16
+  - biz
+    - samsung cheated on tv benchmarks?
+    - adobe plans free PS on Web
+    - youtube shorts tops 1.5B monthly users 
+    - stock crash reminds of lehman - 2007 stock crashed 93%
+    - bill gates compares crypto to "greater fool theory"
+      - buying overpriced assets can turn profit b/c someone will pay even more for it later 
+  - culture
+    - vince mcmahon involved in secret 3M hush payment 
+    - just 40 mins relaxation per day
+  - tech 
+    - exercise pill to replace exercise?
+    - IE retired
+    - nothing has been found 10 years since finding the higgs 
+  - politics
+    - WHO warnings about monkeypox 
+    - UK wants to become crypto hub 
+    - installing rooftop solar is a breeze, australia shows it 
+
 - 6/15
   - biz
     - fed raises rate
