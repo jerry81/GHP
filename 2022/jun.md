@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+- 6/20
+  - politics
+    - big decision in supremes on abortion 
+    - uk troops filmed having an orghy 
+    - columbia elects first progressive president 
+    - Qatar world cup sex ban 
+      - one night stand -> years in jail 
+    - 100M americans urged to stay indoors for extreme heat and humidity 
+    - dems want a common charger for USA too 
+    - india unbans mastercard 
+    - fed raises interest rates by .75 points 
+  - biz
+    - BTC dips below 18K 
+    - seattle startup, Avalanche Energy Designs wants to launch fusion reactor into space 
+    - crypto fraud growing exponentially 
+    - spacex 3 launches and landings in 36 hrs 
+    - appl workers unionize 
+    - travis ci may have leaked 10,000s of user tokens 
+    - ETH mining dips below profitability 
+    - boring company may expand to downtown LV
+    - AMZN running out of hires for amzn warehouses?
+    - tiktok moves user data to oracle servers
+    - tsmc 2nm node revealed 
+  - war
+    - could last years...
+  - tech
+    - silicon not the only material to make solar cells 
+    - chemistry: palladium, expensive, toxic, but necessary catalyst 
+      - used in cars 
+      - palladium pollution is omnipresent 
+    - ubuntu core 22 - real time linux options to IoT
+  - culture
+    - mt everest base camp to be moved from melting glacier 
+
 - 6/16
   - biz
     - samsung cheated on tv benchmarks?
