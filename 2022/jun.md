@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+- 6/21
+  - politics
+    - supremes making dicisions on abortion, climate, guns, immigration
+    - prince william turns 40 
+    - china wants all social media to be prereviewed before publish 
+  - biz
+    - massive amount of flight cancellations 
+    - goog dying?
+    - tencent forms "extended reality" unit
+    - volvo trucks with hydrogen fuel cells 
+    - FF was flying high in 2008, now just .5% market share 
+    - telegram reaches 700M active users, creates "premium" tier 
+  - culture
+    - portland addicts problem 
+    - homeless dying in streets from heat 
+  - tech 
+    - rutgers scientist microbial plantbased food wrap to replace plastic
+    - first crispr trial still 100% effective 3 years later after treatment 
+  
+
 - 6/20
   - politics
     - big decision in supremes on abortion 
