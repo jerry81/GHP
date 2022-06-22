@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+- 6/22
+  - politics
+    - gun deal in senate
+    - UK to offer gay and bi men monkeypox virus 
+  - covid
+    - many infected a third time, continued reports of neurological problems 
+  - culture
+    - study shows multivitamins mostly a waste of money 
+    - CA cities opening weed cafes  
+  - biz
+    - more layoffs coming for netflix 
+    - eric schmidt advises US to lean on TSMC, Samsung for chip security 
+    - china chip industry growing fastest in world.  domestic innovation spurred by sanctions on Huawei and Hikvision 
+    - wikimedia B2B gets goog and internet archive as customers 
+    - aus heavy industries may create jobs and slash emissions by 80%
+    - MSFT will eliminate face analysis tools in "responsible ai" movement 
+  - tech
+    - physicists build "atom laser" that can "run forever"
+    - MSFT, FB founding metaverse open standards group 
+    - AMZN to focus on quantum networking 
+    - dark web selling 24.6 credentials 
+  - war 
+    - war and inflation cause DRAM prices to drop 3-8%
+
 - 6/21
   - politics
     - supremes making dicisions on abortion, climate, guns, immigration
@@ -19,7 +43,6 @@
     - rutgers scientist microbial plantbased food wrap to replace plastic
     - first crispr trial still 100% effective 3 years later after treatment 
   
-
 - 6/20
   - politics
     - big decision in supremes on abortion 
