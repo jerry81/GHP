@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 6/23
+  - politics
+    - monkeypox in US hits 142 cases
+    - constant cycle of restrictions is china's future
+    - dems want age limits for "geriatric politicians pandemic"
+    - 50% of UK backs genome editing to prevent disease
+    - china wants "healthy" development of fintech
+    - youtube compelled to boost domestic content 
+  - biz
+    - jp morgan laying off hundreds 
+    - companies rescinding job offers 
+    - Juul e-cigs banned from US shelves 
+    - spacex promises big things for 5G 
+    - coinbase stock drops 10%
+    - alexa read stores as your dead grandma 
+    - brave search passes 2.5 B queries 
+  - tech 
+    - china builds "mind reading device" detecting when men watch porn?
+    - The iss stinks from farts
+    - standing on one leg good test for longevity 
+    - saltier oceans would prevent earth from freezing 
+    - NASA to shut down voyager 
+
 - 6/22
   - politics
     - gun deal in senate
