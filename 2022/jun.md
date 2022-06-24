@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+- 6/24
+  - pollitics
+    - supremes epxand gun rights, nation shocked 
+    - concealed carry law repealed in NYC, by clarence thomas 
+    - WHO may declare state of emergency on monkeypox 
+      - passed thru sex, bedding, towels, skin 
+    - gavin newsom to go national?
+    - 31 live streaming behaviors banned by China, curb booming digital econ 
+      - e.g. post content that weakens or distorts leadership of CCP
+      - no showing off wealth 
+      - deepfakes 
+    - white house aims to speed construction of offshore wind farms 
+  - culture
+    - world's most fertile woman, 44 kids 
+    - weed getting more potent, causing vomiting, psychosis, addiction 
+    - ibiza reopens 
+    - massive floods and heat hit china 
+  - war
+    - russia crimps gas flows
+    - german rationing fuel?
+    - dutch, DE, Austria revert to coal in the midst of energy crisis 
+  - tech
+    - biggest bacteria is visible to naked eye - 1 cm in length 
+    - robo-fish to remove microplastics form ocean 
+    - rust for linux kernel could be merged for linux 5.2 (says linus)
+  - biz
+    - netflix starts 2nd round of layoffs 
+    - AMZN - codewhisperer - like github copilot 
+    - GOOG search dying?
+    - broadcom bought VMWare for 69B 
+  
 - 6/23
   - politics
     - monkeypox in US hits 142 cases
