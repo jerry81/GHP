@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 6/27
+  - politics
+    - S.Dakota gov bans abortion
+  - culture
+    - hotels providing IV drips?
+    - S. Africa nightclub stampede, 22 partiers dead 
+  - biz
+    - tesla wants powerwall owners to form virtual power plant 
+    - solar cars coming 
+    - github copilot available for 100USD/year 
+    - crypto exchange bitpanda cuts staff by 100s 
+    - aapl "gamechanger" AR/VR headset by 1/2023
+    - blockchain startup Harmony - had 100M stolen  in crypto hack 
+  - tech
+    - china: stem cell breakthru in mice?
+    - air taxis getting closer?
+    - modern programmers: too much code bloat?
+    - dev survey from SO: developers like rust, python, js, remote work
+    - AI-enhanced brain scan diagnose alzheimers' 
+    - pig heart transplant experiment was a failure: at first ok but after 2 months, failed, leading to death of patient.
+    - study shows sleep debt causes lasting damage to brain 
+
 - 6/24
   - pollitics
     - supremes epxand gun rights, nation shocked 
