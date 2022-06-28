@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 6/28
+  - politics
+    - TX: 46 migrants found dead 
+    - cops clock a speeder going 169 MPH
+  - culture
+    - july 4th cookouts hit by food price increase of 36%
+    - weed users 25% more likely to need emergency care and hospitalization 
+    - Nashville luxury tourism booming 
+    - NYC, DC, SF - worst run cities 
+    - tokyo heat wave, power crunch coming
+  - covid
+    - monkeypox vax maxxed out in DC and NYC 
+      - usa 201 cases
+  - biz
+    - robinhood almost imploded during gamestop meme stock chaos 
+    - FTX seeking deal to buy robinhood 
+    - goog hangouts shutting down
+    - Svelte - js fx gaining publicity with Svelte origins docu 
+    - FB pushing unproven treatments for cancer patients 
+    - hedge funds betting against Tether (crypto)
+
 - 6/27
   - politics
     - S.Dakota gov bans abortion
