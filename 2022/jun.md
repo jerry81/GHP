@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 6/29
+  - culture
+    - ghislaine sentenced, 20 years 
+    - tiktok streamers finding star power fades quickly 
+    - woody allen to retire, last film 
+  - politics
+    - wealthy fled NYC
+    - cause of migrants' death, heat
+    - musk twitter silence 
+    - "biblical" swarms of crickets in west destroying crops 
+    - UK says AI cannot patent inventions 
+    - deepfakes used to apply to remote jobs?
+    - UK crypto scams up 
+  - biz
+    - airbnb bans parties 
+    - tsmc may surpass Intel in Q revenue 
+    - fintechs in dire straits as funding rounds dry up 
+  - tech
+    - city dwellers have less gut microbes?
+    - DALL-E Mini AI generates memes 
+    - brain machine interface helps man with paralysis to feed himself with robotic arms 
+    - linus cautiously optimistic about rust to linux 
+
 - 6/28
   - politics
     - TX: 46 migrants found dead 
