@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+- 6/30
+  - culture
+    - beer made from recycled toilet water
+    - new WFH: working from tropical island 
+  - sickness
+    - superbug found in pigs can jump to humans 
+  - politics
+    - heat deaths in latin american cities - may be linked to 1M deaths 
+    - brazil may make usbc mandatory for iphones 
+    - SEC only recognizes bitcoin as the commodity (out of all the coins)
+  - biz 
+    - unity layoffs 
+    - AirBNB permabans parties 
+
 - 6/29
   - culture
     - ghislaine sentenced, 20 years 
