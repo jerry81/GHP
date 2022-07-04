@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+7/4 
+- politics
+  - only 38% proud to be american 
+  - 10 y/o girl denied abortion in ohio 
+  - Akron: another black man killed by police caught on video 
+  - el salvador bitcoin experiment = authoritarian propaganda?
+- culture
+  - caterpillars as snack?
+  - legalization of pot becoming public health nightmare
+  - prince andrew and ghislaine close relationship?
+  - elon breaks twitter silence, poses for photo with the Pope
+  - amzn prime spent 465M on first season of lord of the rings series
+  - 23yo youtuber dies of cancer, Technoblade 
+- war
+  - RU captures key city in east 
+- tech
+  - berlin builds "giant thermos" to heat homes this winter
+  - food plants grown without sunlight 
+  - quantum - objective reality doesn't actually exist - exists only when observer measures it
+  - NASA exploring caves of mars with robot 
+  - BMW switches from linux to android auto 
+  - smart contact lens prototype - led display on top of the eye 
+- biz
+  - tiktok promises US servers
+    - confirms some chinese employees can access US user data
+  - meta to close its crypto projecdt Novi 
+    - FB cryptocoin libra turned into diem
+    - novi digital wallet, formerly calibra
+  - countries form NATO-like mineral security alliance to secure EV supply chain 
+  - Radioshack turned into wild crypto company 
+  - sprint LTE network retired officially 
+
 7/1
 - politics
   - 13M tune in to watch testimony from white house aide, 25 year old cassidy hutchinson 
