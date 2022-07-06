@@ -1,5 +1,35 @@
 [Back](./index.md)
 
+7/6
+- politics 
+  - boris days numbered?
+  - shooting on jul 4
+    - harris: "end this horror" 
+  - newsom has stronger '24 case than kamala 
+  - unusual iranian military activity in Red Sea reported by Israel 
+  - twitter sues indian gov for takedown orders 
+- biz
+  - ubsoft to shut down multiplayer for older games 
+  - tesla not number one EV producer 
+    - BYD overtakes, backed by buffet
+  - interview questions that are important (interviewee to interviewer) 
+    - does the company have product-market fit?  
+    - daily active users
+    - current sal and salary a year ago 
+- covid
+  - could screw you up worse with each reinfection
+  - pfizer, biontech to test universal vax for covid strains 
+- tech
+  - mice cloned from freeze-dried skin cells
+  - sand battery could solve green energy problem - year round supply is the problem 
+    - store with low-grade sand - heat circulated in sand - effective medium for storing heat 
+  - LHC finds 3 new particles - pentaquark, tetraquarks 
+  - hacker steals 1B data points on chinese citizens from police 
+- culture
+  - more dogs in neighborhoods = less crime 
+  - subtitling a dying art?
+    - squid game had famously bad english subs?
+
 7/4 
 - politics
   - only 38% proud to be american 
