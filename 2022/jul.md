@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+7/7
+- politics
+  - boris refuses to leave 
+  - july 4 shooting happened in highland park 
+    - 7 dead, robert bobby crimo still alive 
+  - nancy pelosi cleavage shot 
+  - japan will jail people for online insults 
+- culture
+  - FL beach: shark capital of the world
+  - musk has 9 known children 
+  - brad pitt has "face blindness?"
+  - working out only on weekends as beneficial as exercising daily?
+- biz
+  - dollar continues rising 
+  - MSFT recruits systemd creator 
+  - 2022 - outlook for startups: valuations continue to drop - top up rounds - adding 6-18 months of runway to power thru recession
+- tech
+  - china police DB open to attack for over a year 
+  - swiss "water battery" - 2 B euro project - 2000 feet underground in swiss alps - 2 large pools of water at diff heights
+    - uses power surplus to move water to higher pool 
+
 7/6
 - politics 
   - boris days numbered?
