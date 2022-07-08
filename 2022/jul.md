@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+7/8
+- politics
+  - boris brexit drags on 
+    - this queen has seen 14 prime ministers in 70 years
+  - EU targets high speed rail network to replace airplanes  
+- culture
+  - book about harvey weinstein: Hollywood Ending
+  - pet owners are happier 
+  - james caan dead 82
+- biz
+  - netflix feuding with its techies
+    - doesn't want feedback from engis anymore 
+  - VW invests 20B to build own EV batteries 
+  - Twitter must remove 1M spam accounts per day 
+  - yandex (RU's coolest company) massive decline since start of war 
+    - RU's defacto search 
+- tech
+  - airbus solar powered zephyr S has been flying nonstop for 17 Days 
+  
+
 7/7
 - politics
   - boris refuses to leave 
