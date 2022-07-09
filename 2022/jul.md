@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+7/9
+- biz
+  - musk pulls out of twitter deal
+    - twitter thretens to sue
+  - tom ford looking to sell
+  - tesla to expand supercharger network 
+- politics
+  - vegas may respond to shootings with curfew 
+  - abe assassinated while giving speech
+    - shot by navy vet... with homemade gun
+  - xi warns hackers about selling the stolen data 
+  - AZ outlaws recording cops at close range 
+  - boris steps down 
+- tech
+  - scientists to test alzhiemers treatments on people woth downs
+  - AI experiment tries to divvy up american wealth
+- covid
+  - "ninja" variant most dangerous yet 
+
 7/8
 - politics
   - boris brexit drags on 
