@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+7/10
+- politics
+  - christians currying favor in supremes
+  - us life expectancy falls behind china
+- biz 
+  - consipiracy:  musk twitter saga was just a cover for him to dump tesla stocks
+  - housing market seems to cool off
+  - GM "cruise" self-driving 1 crash and 60 lost server connections
+  - tesla to open superchargers to other cars late this year 
+- tech 
+  - plant based meat could really benefit environment
+
 7/9
 - biz
   - musk pulls out of twitter deal
