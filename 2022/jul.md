@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+7/11
+- biz
+  - Elon got 400M tax break from walking away from twitter deal
+  - twitter pursues lawsuit 
+  - workplace study:  shorter workweeks and less collaboration = thriving workers?
+- politics
+  - gulf of mexico has "floating" abortion clinic to bypass ban
+  - fears always present that 79 yo biden may trip 
+  - abe killer had grudge about mom's financial ruin 
+  - britain looks for replacement
+    - Liz Truss, 48 
+  - production slowly being moved back to american factories  
+- culture
+  - djokovic not allowed to play US Open b/c of virus
+- tech
+  - AMZN AWS getting better at contributing to open source 
+  - Bun, fast new JS runtime 
+  - Quantum entanglement breakthrough - 20 Mi distance 
+
 7/10
 - politics
   - christians currying favor in supremes
