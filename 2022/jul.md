@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+7/12
+- politics
+  - jail for musk? - used deal as cover to cash stock 
+    - 3 reasons for calling off twitter acquisition:  - twitter wouldn't disclose bot info 
+    - offered weakened API rate limit to musk for 8 deeloper apis 
+    - misrepresentatin of monetary figures 
+  - sri lanka organic farming went badly 
+- tech
+  - passing star could cause solar system to collapse 
+  - PyPI - python package index - giving away 4000 Goog titan security keys 
+  - MIT: space bubbles to deflect solar radiation 
+- culture
+  - yosemite wildfire rages on, doubles in size 
+- biz
+  - Klarna bank loses 39B due to fintech rout 
+    - EU startup 
+
 7/11
 - biz
   - Elon got 400M tax break from walking away from twitter deal
