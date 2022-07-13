@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+7/13
+- politics
+  - half of republicans abandon don 
+  - world pop to reach 8 B this year 
+    - india to become most populous in 2023 
+      - india and china each 1.4B
+  - putin travels to iran 
+- war
+  - RU working on laser weapon targetting satellites 
+- culture
+  - emys - succession gets lots of noms, yellowstone snubbed
+  - americans tuning out of news
+- biz
+  - 70% americans think recession is coming
+  - magic leap 2 AR headset $3299
+  - MSFT layoffs 
+  - BMW heated seat subscriptions 
+  - peloton outsources manufacturing 
+  - EUR, USD about to reach parity 
+- sickness
+  - monkeypox cases double in NYC
+  - UK infections to 1735
+  - another covid subvariant 
+  - virus survives on frozen meat 
+
 7/12
 - politics
   - jail for musk? - used deal as cover to cash stock 
