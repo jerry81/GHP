@@ -1,5 +1,61 @@
 [Back](./index.md)
 
+7/15
+- politics
+  - ivana trump dead 73, heart attack
+  - DOJ will sue GOOG, antitrust 
+- culture
+  - the grey man, another flop from netflix (gosling and evans)
+  - baby born on 7/11 at 7-eleven
+  - tattooed man carves 6 6 6 in head
+- tech
+  - alzhiemers starts in mouth with gum disease, oral bacteria?
+  - 2-3 beers a week may cause cognitive decline?
+- biz
+  - costco sticks to their 1.50 USD hot dog combo 
+  - MSFT new windows dev cycle - 3 year release cycle for major versions 
+  - macbook air with m2 has slower ssd speeds in benchmarks 
+  - panasonic 4B battery plant in kansas to meet tesla demand 
+  - NFT marketplace OpenSea lays off 20%
+  - stripe cuts internal value of shares by 28% - down to 74B 
+- health
+  - beijing travelers asked to wear covid monitoring bracelets 
+
+7/14
+- biz
+  - price of living goes higher 
+  - superstar designer jony ive ends contract with aapl
+  - gates donates 20B to his foundation 
+  - 6 hour workdays?
+  - namco (who made elden ring) may have been hacked 
+  - system76 new keyboard 
+  - global PC shipments down because of china production crunch
+  - amzn gave footage to police without warrant or consent 
+  - sri lanka warns against crypto 
+  - new startup searches china internet for IP theft 
+  - Goog wary of tiktok and IG stealing biz from google search and maps 
+  - unity to acquire ironsource for 4.4B 
+    - ironsource israeli sw group allowing mobile content creators to scale up 
+  - Red Hat has new CEO 
+  - controversial privacy update coming to Tiktok 
+- politics
+  - poll 18% say biden should run again 
+  - North Carolina # 1 for business
+  - clinton endorses weed 
+  - heathrow major slowdowns 
+- health
+  - WHO says bring back the masks 
+  - worst variant has arrived
+    - deaths in LA rise 
+    - very contagious 
+- culture
+  - south park is still going
+    - takes aim at crypto 
+  - eat the rich popsicles shaped like bezos 
+- tech
+  - pig hearts transplanted to dead people for practice 
+  - new possible attack on amd and intel processors 
+
 7/13
 - politics
   - half of republicans abandon don 
