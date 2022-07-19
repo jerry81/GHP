@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+7/19
+- politics
+  - rogan accuses trump of using drugs while in office 
+    - adderall
+  - republicans pushing for karrin taylor robson 
+  - harris 32% approval 
+  - nyc odor complaints reach all time high 
+  - democrats push for net neutrality bill 
+  - india wants to ban cryptocurrencies 
+  - putin bans all crypto payments 
+  - beijing covid monitoring bracelets?
+- culture
+  - bennifer marriage 
+  - avg person just 3800 steps a day 
+  - feral chicken epidemic in oahu 
+  - comicon is on, with masks 
+  - brazillian butt lift is liposuction from one place and injecting into butt, super dangerous 
+- biz
+  - lost luggage epidemic 
+  - strong dollar has americans splurging in EU 
+  - appl to slow hiring 
+  - snapchat coming to web 
+  - fintechs lost 500B
+  - US crypto mining surging 
+    - lawmakers want full disclosure of emissions and energy data 
+  - iphones banned in columbia 
+  - remote work study: nobody wants to be in office on fridays 
+  - tiktok cybersec head to step down amid privacy issues 
+  - MSFT may ban commercial open-source apps
+- tech
+  - concerns about webassembly increasing browser's attack surface 
+  - webassembly top languages: rust, c++, blazor, go, js??
+  - cali "virtual power plant" made of 1500 tesla powerwall owners
+  - tor borwser bypasses censorship 
+  - working in vr all day does not improve quality of life 
+  
 7/15
 - politics
   - ivana trump dead 73, heart attack
