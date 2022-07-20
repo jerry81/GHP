@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+7/20
+- culture
+  - uk hottest day ever
+- health 
+  - monkeypox hits chitown
+  - vitamin B6 as cure for depression?
+- biz
+  - musk vaca in greece?
+  - neuralink cofounder departs project 
+- politics
+  - china threats if pelosi visits taiwan 
+  - beijing dumps 100B worth of treasuries 
+  - shrooms legalized in more states 
+- tech
+  - cloudflare DNS 1.1.1.1
+  - first Brain-computer interface implant for startup company 
+
+
 7/19
 - politics
   - rogan accuses trump of using drugs while in office 
