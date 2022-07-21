@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+7/21
+- politics
+  - biden possible gaffe, admits he has cancer
+  - britain PM race down to woman and indian man 
+    - Rishi Sunak and Liz Truss
+  - cuba issues: blackouts, food shortage, dengue fever 
+  - AUS environment in "shocking" decline 
+- culture
+  - tx heatwave, 115F
+  - chappelle cancelled by minneapolis trans 
+  - magnus gives up chess?
+- biz
+  - ceo pay 324 times higher than employees 
+  - tesla dumps 75% of btc - 963M
+  - Goog hiring freeze
+  - Lyft layoffs 
+  - ford 8000 layoffs, to fund EV
+  - bytedance may do its own chips
+  - Goog AR glasses public testing starts 
+  - aapl announces self as major force in healthcare world 
+  - netflix subscribers in US/CAN drop 1.3M in last 3 months 
+
 7/20
 - culture
   - uk hottest day ever
