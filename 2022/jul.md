@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+7/25
+- politics
+  - china issues military warning over pelosi visit
+  - 17 haitian migrants found dead at bahamas coast
+  - a new player arrives in england: kemi badenoch - the "tory obama"
+  - 79B bill to boost US semiconnductors opposed by 31 republican senators and bernie
+  - TX famously "pro business"
+    - became a safehaven for bitcoin mining
+    - huge power drain
+    - already strained power grid
+- biz
+  - musk and brin nerd drama - musk may have had affair with brin's wife, nicole shanahan
+  - details on goog firing: leaked details about product information
+- tech
+  - goog new PL "carbon" replacement for c++/rust?
+  - solar powered tower converts CO2, water, sunlight to jet fuel, in other words, a plant
+  - python has 5 steering council members, creator guido van rossum stepped down
+
 7/24
 - politics
   - WHO declares monkeypox state of emergency
