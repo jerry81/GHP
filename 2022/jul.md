@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+7/26
+- biz
+  - zuck sells SF home for 31M
+  - job switchers outearn loyal employees
+  - workers not showing up, either vaca or calling in sick
+  - detroit chip shortage leaves city short of cars
+  - HSBC first bank to get a CCP committee
+  - global shortage of fibre optic cable
+  - TIL porsche owned by VW
+    - CEO herbert diess ousted after buggy software postponed porsches audis and bentleys
+- culture
+  - americans moving out of LA
+- health
+  - omicron symptoms - low libdo, hair loss
+- tech
+  - coding mistake made intel gpus 100X slower in ray tracing
+  - "leap second" - occasional extra tick that keeps clocks in sync with earth's rotation
+
+
 7/25
 - politics
   - china issues military warning over pelosi visit
