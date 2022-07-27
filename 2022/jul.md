@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+7/27
+- health
+  - air pollution causes dementia
+- biz
+  - zuck shows frustration over worker's vacation question
+  - AMZN EU prime price hike of 43%
+  - Titanium (Blockchain) CEO 21M crypto scam
+  - HR strat: keep employees 90 days and they are likely to stay long term
+  - shopify 10% layoff
+- tech
+  - chewing gum that reduces saliva
+- politics
+  - saudi arabia plans 500B megacity 'neom'
+  - uzbekistan internet blackout
+
 7/26
 - biz
   - zuck sells SF home for 31M
