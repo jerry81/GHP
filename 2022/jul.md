@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+7/28
+- war
+  - wnba star is taken hostage in RU?
+  - putin has torture camps
+- biz
+  - inflation hits bacon eggs and cheese the most
+  - FB first revenue drop in history
+  - siemens new home ev charger
+  - goog nest to provide data to police without warrant
+- politics
+  - red states may form a nation within nation
+- culture
+  - guillermo del toro pinnochio with a dark twist
+  - sean mendes depression
+  - GTA 6 will have female main char, in miami
+- health
+  - chocolate good for heart
+  - 4th person in history cured of HIV
+    - treatment risky
+- tech
+  - avg data breach costs record 4.4M
+
+
 7/27
 - health
   - air pollution causes dementia
