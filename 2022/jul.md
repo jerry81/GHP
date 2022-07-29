@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+7/29
+- biz
+  - GDP drops for second straight time
+  - recession is on
+  - 100 wealthiest lose 622 B
+  - tech giants "bloodbath"
+  - amzn has glimmer of hope
+  - intel continuing to move towards discrete GPUs
+    - scales back support for Integrated
+  - IG rolls back some changes after negative feedback
+  - PS5 to support folders and support for 1440p displays
+  - jack ma to step down of ant group
+  - el salvador's btc bet is working
+- culture
+  - ana de armas marilyn monroe nc17 marilyn monroe film
+  - oppenheimer teaser trailer (nolan)
+- health
+  - SF has the monkey pox problem
+- tech
+  - paper batteries?
+  - dead spider acts a robot gripper? - actuator - a component in machine that moves - "necrobotics"
+  - the risky HIV treatment: stem cell transplant
+
 7/28
 - war
   - wnba star is taken hostage in RU?
