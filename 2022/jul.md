@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+7/30
+- politics
+  - china ready to shoot down pelosi's plane, brink of war
+  - liz truss 90% chance to be PM in UK
+- biz
+  - walmart selling used goods
+  - japan sends 1000 people to si valley, to foster startups
+  - intel loses 500M in Q2
+  - iran wants to be drone player
+  - goog, fb continue to slow hiring
+  - AMZN shutting down AMZN drive (cloud storage)
+- culture
+  - DC journalists doing magic mushrooms for performance boosting brain boost
+  - 8 years prison for shakira?  tax evasion
+  - marvel movies are no longer guaranteed blockbusters
+- health
+  - vitamin d actually doesn't do anything for bone health
+- tech
+  - MIT, autodesk build AI that can build lego
+
 7/29
 - biz
   - GDP drops for second straight time
