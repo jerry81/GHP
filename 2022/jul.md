@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+7/31
+- politics
+  - will pelosi fly?
+  - us and china warships facing off in s. china sea
+  - biden covid again
+  - jersey city most expensive
+- health
+  - monkeypox cases in US pass 5000
+- tech
+  - goog in house linux: goobuntu -> gLinux, based on Debian
+  - balding traced to single chemical, TGF-beta
+
+
 7/30
 - politics
   - china ready to shoot down pelosi's plane, brink of war
