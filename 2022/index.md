@@ -15,3 +15,5 @@
 [June](jun.md)
 
 [July](jul.md)
+
+[August](aug.md)
