@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 8/2
+- politics
+  - pelosi's going!
+  - twn ready for conflict
+  - china military warning
+  - biden operating with zoom and facetime
+  - USA NYSE may delist Alibaba
+- health
+  - monkeypox state of emergency in CA
+- culture
+  - beyonce sales down
+  - musk father to him: take diet pills, not proud
+- biz
+  - estee lauder may buy tom ford
+  - 61% living paycheck to paycheck
+  - US, world investing big in chpis
+  - bolt mobility, ebike company vanishes, leaving e-bikes behind
+- tech
+  - intel to introduce wifi 7, appl to move to wifi 6E
+
+
 - 8/1
 - war
   - putin says usa is the biggest threat to russia
