@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+- 8/3
+- politics
+  - pelosi assassination fears
+  - UN warns nuke war
+  - attacks on TWN websites by cn "hacktivists"
+  - US to stop TSMC, intel from adding factories in China
+- culture
+  - brad pitt bullet train poor review
+- biz
+  - CNN profits slump
+  - Microstrategy (enterprise software) CEO steps down after 1B loss.  Will focus on bitcoin
+- tech
+  - SSD carbon footprint larger than HDD
+
 - 8/2
 - politics
   - pelosi's going!
