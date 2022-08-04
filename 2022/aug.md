@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 8/4
+- TW
+  - US/TW/CN drama continues: "china deserves to be disrespected"
+- politics
+  - kansas keeps abortion law
+  - red state
+- tech
+  - scientists revive organs in dead pigs
+  - cross discipline breakthru - solution to building breakthrough superconductor found in DNA
+- health
+  - monkeypox cases hit 6326 in USA
+- biz
+  - Robinhood fire 25%
+  - tinder had plan to add metaverse dating integration, backs out
+  - TSMC warns about china-tw war - inoperable factory, relies on global supply chains
+
 - 8/3
 - politics
   - pelosi assassination fears
