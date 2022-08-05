@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+8/5
+- politics
+  - china missle strikes in tw strait
+  - drudge: coming war...
+  - seaweed epidemic in caribbean
+- culture
+  - how to embrace doing nothing... absolute idleness hard and rewarding
+- health
+  - US declares monkeypox health emergency
+- biz
+  - tencent seeking to increase it's hold on ubisoft
+
 - 8/4
 - TW
   - US/TW/CN drama continues: "china deserves to be disrespected"
