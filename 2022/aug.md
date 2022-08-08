@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+8/8
+- taiwan
+  - USA summons Chinese ambassador
+  - xi builds security fortress
+- culture
+  - anne heche hospitalized, car carsh
+  - serial killer in NM, killing muslims
+- health
+  - only one drug cures monkeypox, very difficult to get
+- politics
+  - Miami wants to move homeless to an island
+  - great barrier reef regrowing
+  - skorea makes lunar mission, its first
+  - methane leaks speed up climate change.  oil and gas operations
+  - AAPL implores suppliers to respect china's rules on taiwan labeling
+- biz
+  - tech company unionization efforts picking up
+  - US cancelling thousands of flights
+  - Gitlab retracts controversial decision to delete dormant projects
+  - meta releases latest chatbot
+  - AMZN to buy irobot for 1.7B
+  - soundcloud layoffs, 20%
+  - Red Hat new CEO, matt hicks
+- tech
+  - switchblade flying car
+  - Cadmium telluride CdTe solar cells - more effective and cheaper, beig explored
+
 8/5
 - politics
   - china missle strikes in tw strait
