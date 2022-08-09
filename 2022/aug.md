@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+8/9
+- politics
+  - trump raided by FBI
+  - mar-a-lago under seige
+  - patent law: inventors must be human
+- culture
+  - anne heche in critical condition
+  - lars von trier parkinsons diagnosis
+  - olivia newton john dead
+- tech
+  - vr for psychadelic effects
+  - fighter helmets train with AR helmets
+  - douglas crockford, inventor of JSON: js has slowed down and become barrier to progress.
+    - we should focus on futuristic languages like "e"
+- biz
+  - US car production shut down due to chip shortage
+  - denmark 711 cyberattack
+  - amazon buying irobot to map homes?
+  - twilio hacked
+  - only one percent netflix customers have tried their games
+  - we are in a "startup winter" - and it will keep going says softbank - unicorn founders unwilling to cut valuations
+
+
 8/8
 - taiwan
   - USA summons Chinese ambassador
