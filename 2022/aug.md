@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+8/10
+- culture
+  - serena retires
+  - more rich eating at ihop, applebees
+  - trey parker/matt stone wanted to make trump movie
+  - italy hates dominoes
+- politics
+  - talks of a rat in the trump raid
+  - DOJ to sue goog
+  - biden signs anti china competition bill
+- health
+  - new "langya" virus in china, alarm sounded, 35 infected
+- biz
+  - coinbase lost 1B in crypto meltdown
+  - NYC: $15 french fries, $18 sandwich inflation!
+  - groupon job cuts, 500 staff
+  - goog shames apple into adopting rcs - cross-platform messaging protocol- successor to sms and mms
+  - applovin offers 17.54B for unity
+- tech
+  - nvidia transitioning to open source gpu kernel driver, publishes 73k lines
+
 8/9
 - politics
   - trump raided by FBI
