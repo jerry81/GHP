@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+8/11
+- politics
+  - the don pleads 5th
+  - ironically said "if you're innocent why are you taking the fifth"
+  - nigeria curious about crypto
+- biz
+  - disney beats out netflix
+  - musk offloaded 7B tesla stocks in twitter fight
+  - egg prices up
+  - amzn palm print-based system for checkout at whole foods
+  - msft to open source its emojis from github and figma
+  - groupon cuts 500 staff
+  - burger king bug - emails blank orders
+- health
+  - langya virus carried by shrews
+- culture
+  - super punch out 2 player mode discovered
+- tech
+  - nvidia publishes 73k lines of Fermi through ampere GPUs
+    - ampere - RTX 30 gpu
+    - fermi old processors GeForce 400/500
+
 8/10
 - culture
   - serena retires
