@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+8/12
+- politics
+  - fbi informant in trump's camp?
+  - heatwaves in usa continue
+  - CN overtakes US in scientific research output
+  - china has "failed to achieve its semiconductor goals" (20 year plan)
+- biz
+  - linked in layoffs
+  - people will pay 1K for a "perfect" linkedin profile pic s
+- tech
+  - Aircon is bad for environment
+- culture
+  - 20% US teens use Youtube/Tiktok constantly
+
 8/11
 - politics
   - the don pleads 5th
