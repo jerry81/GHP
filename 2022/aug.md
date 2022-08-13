@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+8/13
+- culture
+  - heche dead at 53
+- politics
+  - liz warren: if i had penis i'd be president
+  - population at 8B
+  - india bans VLC media player because chinese hackers used it
+- health
+  - monkeypox human to dog transfer
+- biz
+  - driverless in China: Baidu gets first robotaxi license
+  - mark cuban's voyager crypto startup, a ponzi scheme?
+  - crypto developer of mixer tornado cash arrested
+  - china smartphone market cooling
+- tech
+  - cogitate def: to think hard - study on how thinking drains your brain for the day
+  - not caused by lack of glucose, but lack of glutamate - signal to stop working to restore balance
+
 8/12
 - politics
   - fbi informant in trump's camp?
