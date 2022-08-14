@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+8/14
+- politics
+  - trump could be indicted
+    - espionage
+    - obstruction of justice
+- culture
+  - jk rowling death threat
+- biz
+  - ford f150 lightning - electric pickup
+- tech
+  - fusion breakthrough in ca, lawrence livermore
+  - python still more popular than c and java
+
 8/13
 - culture
   - heche dead at 53
