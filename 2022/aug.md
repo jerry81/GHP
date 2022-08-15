@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+8/15
+- politics
+  - crazy guy crashes into us capitol barricade, shoots himself
+  - germany to take up nuke power again
+- tech
+  - rust 1.63 adds scoped threads
+- biz
+  - theives steal from youtube in scam 23M
+  - alphabet "smart city" in toronto failed
+- culture
+  - rodolfo castro hits HR in first 5 at bats, making history
+
+
 8/14
 - politics
   - trump could be indicted
