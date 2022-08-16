@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+8/16
+- politics
+  - musk writes column for ccp, woo beijing
+  - liz truss, new PM UK
+  - water shortage threatens tomato, sauce supplies
+  - beijing interest rate cut
+  - US bans export of 3nm chips
+  - UAE (desert) turns to hydroponics
+- biz
+  - ntfx to sublease entire bay area campus
+  - hbo layoffs
+  - pfizer ceo infected with covid
+  - amzn job walkoffs
+  - adam neumann, formerly wework (which failed to go public) new startup in real estate
+  - AT&T workers fight return to office push: we can do the same from home
+  - xbox sales were half of the ps4
+  - unity turns down applovin's acquisition offer
+  - disney subs surpass NFLX
+- war
+  - rpg strapped robot dog in moscow
+- tech
+  - linux 6 coming, more rust support
+  - biology experiments without animals could be real
+
+
 8/15
 - politics
   - crazy guy crashes into us capitol barricade, shoots himself
