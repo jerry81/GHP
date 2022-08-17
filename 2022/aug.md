@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+8/17
+- politics
+  - liz cheney running, didn't do well in wyoming Primaries
+    - primary election - narrow field of candidates
+  - giuliani just wants to die a free man
+  - jill biden Covid
+  - china vessel docks in sri lanka despite us, india objections
+  - xi makes trip to saudi A
+  - germany will keep last 3 nuke power plants running
+  - tesla public superchargers illegal in germany (no kwh counter)
+  - most us tech exports to china are approved
+- culture
+  - musk says he will buy manchester united
+- biz
+  - six new expat hotspots:
+    - Kuala Lumpur
+    - Libson
+    - Dubai
+    - Bangalore
+    - Mexico City
+    - Rio DJ
+  - twitch streamers get anxiety past 200 viewers
+  - amzn to increase seller fees for the holidays
+  - ali, bytedance share details of algorithms with beijing for first time
+  - goog has soda fetching robots
+  - american airlines buys 20 Supersonic planes from boom
+  - aapl hiring freeze continues, lays off recruiters
+- health
+  - track mental health through skin
+  - FDA approve OTC hearing aids
+- tech
+  - earth, 6th hottest july ever
+  - eye implant made from pigskin proteins restores sight in 14 blind peope
+
 8/16
 - politics
   - musk writes column for ccp, woo beijing
