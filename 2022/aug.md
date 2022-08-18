@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+8/18
+- politics
+  - cheney down and out in wyoming
+  - suit: drugs are religious
+  - china econ stumbling, homeowners boycott mortgage payments
+  - wind and solar provided US with 67% of electricity in 2022 so far
+- culture
+  - gray man numbers not good, netflix troubles
+  - avg person spends 1/3 of life online
+- health
+  - monkeypox rots noses
+  - new molecule fights 300 different drug-resistant bacteria, fabimycin
+- tech
+  - sf restaurant completely run by robots
+  - ios vpns have leaked traffic more than 2 years
+  - oxygen on mars possible with plasma reactors
+- biz
+  - airbnb anti-party tech for unapproved gatherings
+  - google investing in blockchain
+  - amzn tests tiktok like feed
+
 8/17
 - politics
   - liz cheney running, didn't do well in wyoming Primaries
