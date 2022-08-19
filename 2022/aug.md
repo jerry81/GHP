@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+8/19
+- politics
+  - trump admits to 15 felonies
+  - Finland PM: sanna marin - basklash after leaked dancing video
+  - japan social issue: young people not drinking enough alcohol
+- biz
+  - goog workers press company to stop collecting data
+  - vietnam to start manufacturing appl watch, macbook, first time ever
+  - GOOG to attempt to reduce low-quality unoriginal content in search results
+  - qualcomm to reenter server market with new chip
+  - crypto.com lays off 260, lets 100s more go
+  - GOOG still all-in on kotlin
+  - TSMC to begin 3nm chip production
+- tech
+  - james webb space telescope - runs JS
+  - rocketlab to search for life in clouds of venus
+
 8/18
 - politics
   - cheney down and out in wyoming
