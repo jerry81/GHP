@@ -1,5 +1,15 @@
 [Back](./index.md)
 
+8/20
+- war
+  - fighting near nuke facility
+- health
+  - monkeypox cases double in LA
+- politics
+  - cocaine usage in colorado high
+  - xi to meet vlad?
+
+
 8/19
 - politics
   - trump admits to 15 felonies
