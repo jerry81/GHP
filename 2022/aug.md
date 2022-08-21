@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+8/21
+- biz
+  - record number of jobs being brought back to america
+  - zuck promises better graphics for metaverse
+  - lyft driverless taxi service on LV strip
+  - aapl demands employees return to office 3 days a week
+- tech
+  - robot quarterback, future of football practice?
+  - finland solves nuke waste disposal problem - crystalline bedrock
+  - james webb telescope may disprove big bang?
+  - hackers steal session cookies to bypass MFA
+  - ubuntu upgrades made simpler
+
 8/20
 - war
   - fighting near nuke facility
@@ -8,7 +21,6 @@
 - politics
   - cocaine usage in colorado high
   - xi to meet vlad?
-
 
 8/19
 - politics
