@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+8/22
+- politics
+  - most believe US best days behind them
+  - princess di been dead 25 yrs
+- war
+  - hits six month mark
+- culture
+  - stephen king says drudge is doomscroll
+  - father takes photos of naked toddler for doc, goog flags him as criminal
+  - weed cocktails a thing
+- biz
+  - meta ai and wikimedia: ML-powered, citation-checking bot
+  - goog cloud blocks largest DDOS attack
+    - targeted HTTP/S load balancer - encryption needed to be terminated to inspect traffic to mitigate attack.  attack blocked at edge of goog network
+
 8/21
 - biz
   - record number of jobs being brought back to america
