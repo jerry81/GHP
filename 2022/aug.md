@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+8/23
+- politics
+  - don "would be good if nuke codes at mar-a-lago"
+  - don hid 300 documents in florida
+  - UK economy historical shrinkage
+  - flooding in dallas
+  - fauci to step down in dec
+- culture
+  - HBO dragon 10M viewers
+    - GoT prequel
+  - snoring fix, tape over mouth
+- tech
+  - hyundai sec flaw: using example keys for encryption
+  - electrical currents to brain to improve memory
+  - chip design: groups of chips stacked like pancakes
+    - meteor lake
+  - minoxidil cheap and effective
+- biz
+  - euro falls below dollar
+  - ford cuts 3000
+  - mac allows selfrepair on macbooks
+
 8/22
 - politics
   - most believe US best days behind them
