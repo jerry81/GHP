@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+8/24
+- politics
+  - trump struggling without presidential protection
+  - pelosi husband 5 days in jail for DUI crash
+  - china punishes people over "tragically ugly" illustrations in maths textbook
+  - FR offer 4000 eur for people who trade in car for bike
+- war
+  - flesh melting thermite bombs in UKR
+- culture
+  - marijuana, hallucinogen use all time high
+  - dogs cry tears of joy when reunited with owners
+- tech
+  - pot use in 20s permanent brain damage?
+  - GOOG research AI noise reduction from pictures is good
+  - AI detect parkinsons from breathing patterns
+- biz
+  - quest vr owners use meta logins now instead of FB
+  - aapl employee pleads guilty to stealing auto secrets
+  - terrible year for IPOs
+  - MSFT finds chrome OS secuirty hole
+  - intel 30B partnership with brookfield for chip-factory expansion
+
 8/23
 - politics
   - don "would be good if nuke codes at mar-a-lago"
