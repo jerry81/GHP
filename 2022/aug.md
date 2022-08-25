@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+8/25
+- health
+  - 3 children diagnosed with monkeypox, developing
+- WAR
+  - getting more dangerous
+  - pope praying against nukes
+  - russian missle hits passenger train
+- politics
+  - cali set to ban gas cars - aiming to go all electric
+  - will FL continue to be swing state?
+  - CNN pivots center
+- culture
+  - serena farewell tour US open
+  - news addiction is a thing
+  - sleepless nights make eople asocial and selfish
+- tech
+  - jersey shore water temps in 80s (F)
+  - new Al-S battery offers full charging in under a minute
+  - EU spyware scandal epidemic
+  - insects could be turned to meat flavors, helping environment
+- biz
+  - goog pixel gets huge sales growth, now has 2% of NA market
+  - bay area call center aims to have workers sound "white and american"
+  - samsung 990 pro series SSD - speed and efficiency improvements
+  - UK bank: 4 day workweek is the future
+
 8/24
 - politics
   - trump struggling without presidential protection
