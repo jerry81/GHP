@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+8/26
+- politics
+  - biden approval up again, 44, summer turnaround
+  - US-CN reaching deal to allow auditing of CN companies
+- health
+  - CDC: mutations impaired vax effectiveness
+  - 80% teens lacking sleep
+  - psychadelics aiding in treating alcoholism
+- biz
+  - zuck: meta more fun than FB
+  - GOOG tracks more types of personal data than appl
+  - Pinduoduo will take on amzn in USA
+  - baidu first quantum computer, Qianshi
+  - duckduckgo first free email privacy service opens up
+  - Goog third major OS, Fuschia OS taking over smart displays GOOG Nest Hub Max
+  - gpu shortage over, gpu surplus has arrived (span of one year)
+  - bytedance launches search in china
+  - PS5 price increase outside US
+- culture
+  - lebouf converts to catholicism
+  - korea fertility rate at all time low
+- tech
+  - world's first hydrogen powered trains
+  - linux 6.1 makes it easier to spot faulty cpus
+- War
+  - UKR largest nuke plant cut off from grid
+
 8/25
 - health
   - 3 children diagnosed with monkeypox, developing
