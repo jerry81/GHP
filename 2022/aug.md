@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+8/27
+- politics
+  - nobody is paying NYC parking fines
+- biz
+  - dow down 1000+ points
+  - GOOG covid outbreaks frustrating
+  - 4M americans kept out of workforce
+  - heroku to eliminate free plans blaming fraud and abuse
+  - zuck on rogan: being ceo of meta is like being punched in the stomach
+  - dorsey biggest regret: twitter becoming company, would receive 978M from elon if deal goes through
+  - msft largest software ever shipped: C/C++ compiler with documentation, 40lbs
+  - AMZN may buy EA games
+- culture
+  - burning man is back on
+- health
+  - newest disease: tomato flu
+- tech
+  - rain seeding drones to end drought in sichuan
+  - getting plants drunk: ethanol drought-proofs plants
+  - synthetic mouse embryo with brain and heart grown
+
+
+
 8/26
 - politics
   - biden approval up again, 44, summer turnaround
