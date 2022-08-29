@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+8/29
+- politics
+  - trump indictment saga continues
+  - riots if prosecuted?
+  - mole in the secret service?
+- health
+  - new covid boosters not even tested
+  - only 1 in 10 adults get optimal sleep
+  - monkeypox in sex workers
+  - major covid relapse coming?
+- tech
+  - electric cars could charge faster than iphones
+    - charge to 90 in just 10 minutes
+  - half of bitcoin trades fake?
+  - IEEE: top PL of 2022 - python, closely followed by C, SQL rising
+    - many job listings have "plus SQL"
+  - cost is the factor holding back nuke fusion revolution
+- biz
+  - meta misinformation predicted to be worse than FB
+- culture
+  - dead star trek actors' ashes will be carried into space
+
 8/27
 - politics
   - nobody is paying NYC parking fines
