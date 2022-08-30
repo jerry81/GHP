@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+8/30
+- politics
+  - the don calls for an uprising
+  - gun companies moving from blue to red states
+- culture
+  - oregon shopping market shooting
+  - do deep breaths actually make you more stressed
+- biz
+  - amd zen 4 ryzen 7000 CPUs
+  - twitter shifting to podcast app
+  - nft trading on marketplace opensea down 99% since may
+  - honda looking to build US battery factory
+  - elon: world needs more oil and gas to bridge to renewables
+
 8/29
 - politics
   - trump indictment saga continues
