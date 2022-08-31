@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+8/31
+- politics
+  - "demented don" demands a new election
+  - brags about having intel on macron's sex life
+  - 40% believe civil war coming
+  - gorbachev dead
+  - chinese DB spilled online (faces and license plates)
+- health
+  - cn new lockdown
+- culture
+  - more mericans smoke mj than cigarettes
+  - gen z moving away from hookup culture due to pandemic (missed out on fundamentals of dating)
+    - self-care became # 1
+- tech
+  - brain surgery quells craving in binge eaters
+  - cancer drug emerges as the "fountain of youth" treatment
+  - smart glass (transitions for buildings) energy efficient buildings
+- biz
+  - snap chief business officer leaving to run ads on ntflx
+  - snap to layoff 20%
+  - FB gaming app to shut down in oct
+  - tesla new virutal power plant in japan
+    - distributed powerwalls
+
 8/30
 - politics
   - the don calls for an uprising
