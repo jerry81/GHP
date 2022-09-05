@@ -1,5 +1,49 @@
 [Back](./index.md)
 
+9/5
+- politics
+  - trump calls biden enemy of the state
+  - liz truss about to rise up to power
+  - pound at lowest level in 30 yrs
+  - canada stabbing, 10 dead, 15 injured
+  - greece, turkey tensions
+  - el salvador's bitcoin revolution update: hardly anyone showed up
+  - hottest recorded september day
+  - Cali law: company must post salary range on job listing
+  - liz holmes (theranos) guilty verdict overturned
+  - cai yingwen - looking forward to producing "democracy chips" with us
+    - TSMC 12B plant in AZ
+  - tree-planting schemes not as successful as hoped
+- culture
+  - saudi arabia wants to be next tourist hotspot, invests 1 T
+  - burning man hit by sandstorm
+  - cannabis researchers: drop the lazy stoner stereotype
+- biz
+  - bed bath beyond exec jumps to death in NYC
+  - msft mistakenly flags chromium based apps as malware
+  - IG removes pornhub's account
+  - 3$ movie tickets offered today
+  - shanghai AI Expo: china woos us tech giants aapl, qualcomm, meta
+  - ntflx laucnhes ad tier to compete with disney
+  - tmobile sprint merger: hasn't created jobs, instead it has cut thousands
+  - underwater datacenter Subsea Cloud operates off coast of US in gulf of mexico and north sea
+  - royal carribean cruise ships to be equipped with starlink
+- tech
+  - gnu grep released saturday
+    - cmd line args -f and -e to replace egrep and fgrep
+  - sci applying machine learning to try to understand animal languages
+  - environmentalist: Advanced Nuke tech essential to decarbonization efforts
+  - scis major breakthru in saving carribean coral - growing coral
+  - Wine: lets windows software run on unix systems (including games)
+  - sea fishing created 75% of the great pacific garbage patch
+  - attacks on linux servers up 75% last year
+  - after CentOS discontinued by RHEL, they started on Rocky Linux
+  - the brain is 3 lbs, thousand times faster than fastest supercoputer, thousand times more info than laptop
+    - can chips behave like neurons?
+  - plastic turned into diamonds?  - nanodiamonds from styrofoam
+  - intel 12th gen core SoCs
+
+
 9/2
 - politics
   - biden warns against maga
