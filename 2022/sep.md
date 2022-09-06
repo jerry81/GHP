@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+9/6
+- politics
+  - UK makes history with no white men in high office, liz truss is up
+  - building in britain is difficult, throttles economy
+- tech
+  - contact lens to replace phone screens?
+  - children born from frozen embryos cancer risk?
+- biz
+  - stock funds down 17.3 in '22
+  - cloudflare, under pressure, blocks hate sites
+  - crypto mining firm poolin freezes withdrawals "liquidity problems"
+  - ireland fines IG 400M over children's data
+  - LG add NFTs to smart tvs
+  - EV manufacturing -> fewer auto-parts manufacturing jobs?
+  - co-creator of lets encrypt, peter eckersley, dies at 43, cancer
+- health
+  - new covid vax that you inhale available in china
+
 9/5
 - politics
   - trump calls biden enemy of the state
