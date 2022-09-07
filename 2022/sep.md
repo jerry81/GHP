@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+9/7
+  - politics
+    - the don had nuke docs
+    - queen elizabeth meets liz truss
+    - bukele: el salvador's authoritarian president
+    - banned US AI chips in demand at chinese state institutes
+  - culture
+    - bieber cancels world tour
+    - crushing western heatwave, blackouts in LA?
+    - colin farrell new banshees film gets good reviews
+  - Health
+    - US to use annual covid vax like flu shots
+    - the human gut microbiome recreated from scratch
+  - biz
+    - iphones to be manufactured outside china for first time ever
+    - tiktok hacked?  denies
+  - tech
+    - CERN supercollider stressed by europe energy crunch
+    - chrome zero-day patched
+
 9/6
 - politics
   - UK makes history with no white men in high office, liz truss is up
