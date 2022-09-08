@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+9/8
+  - politics
+    - americans see maga as threat to democracy
+    - IRS to move to free e-filing
+    - india will tax online gambling winnings
+  - biz
+    - 258B dogecoin lawsuit
+    - virtual sex suit debuts
+    - snap trying to turn biz around
+    - twitter to allow edit tweet up to 5 times
+    - aapl remove iphone 14 models' SIM card tray
+    - FB engis: no idea where personal data is stored
+    - MSFT figma popularity threatens MSFT adobe relationship
+  - culture
+    - "funny girl" rave reviews
+  - health
+    - stress and anxiety exaserbate covid
+
+
 9/7
   - politics
     - the don had nuke docs
