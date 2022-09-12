@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+9/12
+- war
+  - russia retreats
+- biz
+  - disney big plans for metaverse
+  - drought leaves rice farmers dry
+- politics
+  - kamala stepdaughter a exhibitionist model
+  - sweden shifting left
+- culture
+  - aaron rodgers upset with CA
+- health
+  - light dinner with big breakfast doesn't burn more calories
+
 9/8
   - politics
     - americans see maga as threat to democracy
