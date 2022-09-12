@@ -6,13 +6,35 @@
 - biz
   - disney big plans for metaverse
   - drought leaves rice farmers dry
+  - comcast 2Gb dl speeds
+  - tron ride finally will arrive in orlando disney world
+  - patreon security staff cuts
+  - tesla lithium refinery in tx
+  - goog cafeteria workers unionize
+  - nvidia AI chip performance improvements
+    - Tensor Core GPU
+  - many want AMZN iRobot aqcuisition nixed
+  - Intel Arc GPU
 - politics
   - kamala stepdaughter a exhibitionist model
   - sweden shifting left
+  - antarctica glacier melting quicker than expected
+  - EU energy crisis calls for 5 minute showers
+  - NKorea declares self Nuke state
+  - SF decriminalizes psychadelics
 - culture
   - aaron rodgers upset with CA
+  - Disney+ first AR short film
 - health
   - light dinner with big breakfast doesn't burn more calories
+  - groundbreaking study links tumors to air pollution
+- tech
+  - study: computer science not correlated with better math
+  - china claim: new mineral found on moon
+  - nasa adopts RISC-V
+  - massive changes to perl
+  - android 13 min system requirements 2GB ram 16GB storage
+  - horrifying AI woman loab keeps appearing
 
 9/8
   - politics
