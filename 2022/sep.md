@@ -1,5 +1,38 @@
 [Back](./index.md)
 
+9/13
+- war
+  - UKR greatest counteroffensive since wwii
+- culture
+  - avatar took 13 years to make?
+  - next tennis star, carlos alcaraz?
+  - elon has 19K tweets
+- politics
+  - more chip export curbs from us to china
+  - imperial college ends relationship with chinese defense partners
+  - Gates-funded "green revolution" in africa has failed
+- biz
+  - uber eats replaces delivery drivers with self-driving cars
+  - GOOG shuts down pixelbook and its team
+  - coinbase exec guilty of crypto insider trading
+  - IOS 16 to get "clean energy charging" option
+    - optimize time that it charges (when grid is clean)
+  - uber eats to team up with nuro robots
+  - peloton founders leaving company
+  - books using cheaper lighter paper due to inflation
+  - netflix partner with ubisoft to bolster gaming startup project
+  - bezos rocket experiment crashes
+  - IG trying to mimic tiktok, stumbles
+  - meta "quest pro" vr headset leaks before launch
+  - zipline (drone delivery startup) hires tesla CFO
+- health
+  - new blood test spots multiple cancers without symptoms
+  - NZ covid battle winds down, giving up
+  - plastics connected to obesity (chemical balance issues)
+- tech
+  - pytorch (AI) joins linux foundation
+  - intel 8GHz raptor lake breaks world record
+
 9/12
 - war
   - russia retreats
