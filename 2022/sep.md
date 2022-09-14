@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+9/14
+- biz
+  - worst inflation day of year
+  - influx of american workers in mex city
+  - EA goes kernel-level for anti-cheat systems
+  - john deere 10% revenues from software (smart vehicles)
+  - GOOG 25B legal action in EU
+  - SWIFT (financial-messaging) to try blockchain project
+- politics
+  - hottie meloni to be first italy leader
+    - far right, giorgia meloni prime minister
+  - ken starr dead, 76 (clinton investigator)
+  - alex jones 2nd sandy hook trial
+    - called sandy hook shooting a hoax
+    - already paid 50M
+  - china accuses NSA of hacking top uni
+- culture
+  - nfl doing well
+  - picasso 50 years since death
+  - new zelda game, tears of kingdom, may 12
+  - emmys: HBO succession beats netflix
+
 9/13
 - war
   - UKR greatest counteroffensive since wwii
