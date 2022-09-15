@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+9/15
+- politics
+  - argentina inflation at 79%
+  - rush limbaugh book radio's greatest of all time
+  - sweeden elects populist leader (right wing)
+  - woman reports rape, gets arrested for unrelated case (dna from rape kit used)
+- war
+  - will putin do a last ditch nuke attack
+- tech
+  - deepmind researcher writes paper - "AI will eliminate humanity"
+  - SSDs more reliable than HDDs
+  - plantetary defense test: NASA probe to slam into asteroid this month
+- biz
+  - goog slashing projects in intenral R&D (Area 120), cut workforce in half
+  - msft teams oops: auth tokens sotred as cleartext
+  - cali antitrust vs amzn
+  - intel GPU having issues
+  - Goog, Meta fined billions by SKorea over privacy violations
+  - Do Kwon (terraform labs) arrest (blockchain, not devops tool)
+  - twilio cut 11% staff "grew too fast"
+- culture
+  - eggplant emoji makes you less likeable, along with angry face, pile of poo
+    - smiling face with hearts, smiling face with heart-eyes, blowing kiss likeable
+
 9/14
 - biz
   - worst inflation day of year
