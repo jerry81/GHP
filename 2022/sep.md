@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+9/16
+- politics
+  - peter thiel in the political race
+  - argentina interest rake to rise 75%, inflation 100%
+  - the don: will run again even if indicted
+  - man wore "camp auschwitz" shirt to jan 6 riot, gets 75 days in jail
+    - jan 6, 2021 - capitol riots
+  - hispanics pass whites in tx
+  - charles urged to abdicate (resign a throne) at 75
+- biz
+  - adderral shortages
+  - "booming" leg lengthening industry
+  - adobe buys figma 20B
+  - spacex in Antarctica
+- culture
+  - blade runner tv series ridley scott
+- tech
+  - ethereum shifts to more environmentally sustainable fx, "merge"
+
+
 9/15
 - politics
   - argentina inflation at 79%
