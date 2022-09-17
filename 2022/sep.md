@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+9/17
+- politics
+  - more attempts to ban books happening, including a rainbow colored "this book is gay"
+  - new orleans #1 murder rate
+- biz
+  - pork prices in china expensive, beans in mexico
+  - nanoracks, space company, cuts metal in space
+  - lastpass breach
+  - uber hacked
+  - youtube displayed 5 to 10 unskippable ads in a row, users mad
+- culture
+  - pat sajak eyes requirement
+  - dahmer, netflix
+  - china youth turning back on "hustle culture"
+- health
+  - intense workouts worsen memory increase stress??
+  - CRISPR gene editing droubs show promise
+- tech
+  - ameca, the world's most advanced, and creepiest robot
+    - scientists trying to teach robots to laugh at the right time
+  - TGV - high speed rail - train a grand vitesse, 350 kpm, double decker, french 2.7B Euro
+  - after ethereum merge, GPU mining no longer profitable
+
 9/16
 - politics
   - peter thiel in the political race
