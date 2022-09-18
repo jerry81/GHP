@@ -1,5 +1,9 @@
 [Back](./index.md)
 
+9/18
+- culture
+  - "blonde" shows marilyn gets raped by jfk
+
 9/17
 - politics
   - more attempts to ban books happening, including a rainbow colored "this book is gay"
