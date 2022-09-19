@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+9/19
+- politics
+  - US treasury recommends "digital dollar"
+- biz
+  - less than half manhattan workers returned to office
+  - GOOG/META advertising duopoly worth 300B
+  - apple design star: jony Ive thinks car buyers will demand return of physical buttons
+- tech
+  - no-code, low-code tools - github copilot, aws codewhisperer, tab9
+    - ceo of stack overflow: prashanth Chandrasekar likes ACG tools
+
 9/18
 - culture
   - "blonde" shows marilyn gets raped by jfk
