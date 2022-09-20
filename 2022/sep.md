@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+9/20
+- politics
+  - queen liz funeral
+  - newsom will run for prez is biden doesn't
+  - biden - covid19 pandemic over
+- culture
+  - surfer drowns after having seizure in water
+  - frugal new "cool" in china youth
+  - magnus "protests" by resigning after one move, vs hans niemann
+  - gta VI leak
+- tech
+  - flying bike makes us debut - 62 mph
+  - linus says rust will enter linux 6.1
+  - silicon boost EV Lithium-ion batteries
+- health
+  - eating after 9 could increase cancer risk
+  - STDs up, syphillis 26% HIV 16%
+  - children lose one night sleep a week from social media
+- biz
+  - AMZN owns thursday night football? - prime video sports
+  - adobe figma will attract anti-trust scrutiny
+  - zuck lost 71B - meta woes in spotlight
+  - china robotics push - shrink factory workforce
+
 9/19
 - politics
   - US treasury recommends "digital dollar"
