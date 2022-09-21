@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+9.21
+- politics
+  - the don asks qanon to "stand by"
+  - nyc to install 6400 security cams
+- biz
+  - zuck lost over 71B
+  - ftc may block AMZN/Roomba
+  - nvidia next gen rtx 4090 and 4080
+- culture
+  - big shock: hawaii happiest state
+  - tech workers paying to get taller
+    - 70k to 150k
+    - increase height 3 inches
+    - break both femurs, insert nails
+- tech
+  - Germany Data retenttion law deemed illegal, lately major cyber attacks in France, Beligum and britain by islamists
+  - ios 16 "annoying" copy and paste prompt - not expected behavior
+  - DALL-E2 - allow users to edit faces
+  - ecology: earth has 20 Quadrillion ants
+  - when AI asks dumb questions, it gets smart fast
+
 9/20
 - politics
   - queen liz funeral
