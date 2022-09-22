@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+9.22
+- politics
+  - NY sues trump clan for fraud
+    - inflated net worth by bilions
+  - putin threatened west with nukes
+    - prepares 300K more troops
+    - poland distributes antiradiation tablets
+  - germany and denmark building world's longest immersed tunnel
+- culture
+  - ana de armas nude scenes going viral
+- biz
+  - Tesla will release optimus robot
+  - huge job losses coming
+  - Kraken CEO (crypto) jessee powell steps down
+  - iphone 14 pro has "dynamic island" - ditched the "notch" - pill shaped cutout used to show info
+  - appl effort to cut reliance on china, move 25% iphone prod to india
+  - meta goog both cutting staff
+  - twitch to cut earnings from subscribers
+- tech
+  - antidepressants only slightly better than placebos
+  - website tells you if your photos were used to train AI
+- health
+  - bad dreams in mid-age dementia risk?
+
 9.21
 - politics
   - the don asks qanon to "stand by"
