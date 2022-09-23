@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+9.23
+- politics
+  - RU moving "i dont want to die"
+  - RU military breaking arm to avoid service
+  - heat is on trump
+  - florida storm coming
+  - dark side of anti-abortion
+    - LA. (louisiana) woman with defective fetus forced to travel to NY for abortion
+  - italy meloni most right-wing gov since wwii musollini
+  - japan allows visa-free travel after 2.5 years of closed borders
+  - iran restricts IG, Whatasapp as unrest grows
+- biz
+  - amzn prime nfl gets 13M viewers
+  - "crypto king" of canada has 5 luxury cars seized after filing bankruptcy
+  - 25% ntflx subscribers planning to leave service
+  - 4 day workweek doesn't lose productivity
+  - msft activision deal
+  - tmobile 5g wildfire detecting ai cameras
+- health
+  - more covid brain studies
+  - bizarre fda warning, don't cook chicekn in nyquill
+    - recent viral "challenge"
+- tech
+  - james webb telescope photos neptune rings
+
 9.22
 - politics
   - NY sues trump clan for fraud
