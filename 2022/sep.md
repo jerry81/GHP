@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+9.24
+- politics
+  - putins generals will kill him if he uses nukes
+  - columbia may legalize cocaine ?
+  - cuban mass exodus to america
+  - bird flu back
+  - carbon removal program project bison moves to WY
+  - NYC installs subway surveilance
+  - GTA VI hacker arrested in UK
+  - chinese scientist exodus from US universities
+- biz
+  - pichar in heated allhands meeting about budget cuts
+  - electric vehicles influencing power grid
+  - another crypto bites the dust, crypto north
+  - bosses think workers do less from home
+- tech
+  - nvidia huang - moores law is dead
+
 9.23
 - politics
   - RU moving "i dont want to die"
