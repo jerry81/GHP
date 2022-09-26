@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+9.26
+- politics
+  - meloni about to win
+  - 2/3 oppose supremes ruling on abortion
+  - english pound at record low vs dollar
+  - putin escapes to forest
+  - cali bans natural gas heaters and furnaces
+- biz
+  - tech stocks face another 10% drop or more
+  - pfizer ceo positive... again
+  - half of industrial robots in cn
+  - tiktok ban political fundraising
+  - phones best for privacy?  - not appl - they sell data, not pixel, not samsung
+    - IOS still lesser of the evils
+- culture
+  - post malone hospitalized, stage fall
+  - silicon valley back into "bro" culture
+- tech
+  - openAI open sources "Whisper" multilingual speech recog
+  - Metaverse faces a new hurdle, cybersickness
+  - hunga tonga underwater volcano put 50B kg of water into stratosphere
+  - vultures hugely reduce carbon emissions - because decaying animals release greenhouse gases
+
 9.24
 - politics
   - putins generals will kill him if he uses nukes
