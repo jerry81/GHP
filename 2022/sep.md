@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+9.27
+- politics
+  - florida flooding, hurricane, evacuations, hurricaine ian
+  - chinese, ru naval ships spotted off alaskan coast
+  - meloni wins
+  - RU gives snowden citizenship
+- culture
+  - switzerland named world's best country, usa #4
+- health
+  - brain health hinges on 3 factors - exercise, social activities, hobbies
+- biz
+  - half americans will leave job in next year
+  - bear market
+  - factory jobs booming
+  - appl starts making iphone 14 in india
+  - NYC empty offices
+  - cloudflare launches eSim
+- tech
+  - "oceans of water hidden deep in earth" - deduced from ultra rare diamond
+
 9.26
 - politics
   - meloni about to win
