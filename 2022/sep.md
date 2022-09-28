@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+9.28
+- politics
+  - cuba power knocked out by ian
+  - ian about to reach florida
+  - all fifty states allowed to build ev charging stations
+- biz
+  - zuck falls out of top 10 richest
+  - tech elite lose 315B
+  - ntflx building game studio
+- tech
+  - slidable PC from intel and samsung
+  - 13 -> 17 inch monitor
+  - intel raptor lake cpus - 13th-gen, launch 10/20
+
 9.27
 - politics
   - florida flooding, hurricane, evacuations, hurricaine ian
