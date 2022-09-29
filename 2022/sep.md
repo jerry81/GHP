@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+9.29
+- politics
+  - ian the horrible, 1.6 without power, still going, flooding
+  - most corrupt countries - RU, iran, columbia top 3, china not in top 10, many latin-american, middle eastern
+  - china opening police stations in canada?
+  - nkorea mass vax plan
+  - huge wall street fines in message-keeping probe
+- biz
+  - tesla AI day - optimus to debut?
+    - elon plans to deploy thousands of optimuses in factories
+  - docusign cuts workforce by 9%
+  - goog fiber - 20Gbps d/l speed in test, promises eventual 100Gbps
+  - NFT trading has dropped 97% from january peak
+  - cloudflare wants to replace captcha with "turnstile" new project
+  - "useless meetings" waste time and 100M a year for big companies
+- tech
+  - dogs can smell when owner's stressed out
+  - idle minds have "sinister effect"
+  - AI laser turret kills cockroaches
+  - bipedal sprinting robot sets 100M sprint world record - for robots - looks like ostrich legs - 25 seconds
+    - usain bolt, under 10 seconds
+  - OpenAI DALL-E will give anyone immediate access on release - ai for artists
+  - alzheimers drug slows cog decline in study
+
 9.28
 - politics
   - cuba power knocked out by ian
