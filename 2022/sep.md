@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+9.30
+- biz
+  - musk, dorsey private texts leaked
+  - neuralink experimenting on monkeys
+  - tesla AI day - shows how bots have come a long way
+  - meta hiring freeze, restructuring coming?
+  - GOOG shuts down stadia
+  - ARM founder says UK has no chance of tech supremacy
+  - goog will make it easier to find search results from reddit and forums
+- health
+  - 2-3 cups of coffee a day for heart health
+  - antidepressants increase heart disease risk?
+- tech
+  - supersonic plane London to MYC 80 minutes
+  - asahi lina reverse engineers the m1 gpu, runs GNOME on M1
+  - all-electric passenger plane successful test flight
+- culture
+  - physician burnout epidemic
+- politics
+  - europe power cuts causing mobile blackouts
+  - saudi arabia invests 37B in gaming
+  - japan mulling medical cannabis
+
 9.29
 - politics
   - ian the horrible, 1.6 without power, still going, flooding
