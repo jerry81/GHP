@@ -6,10 +6,22 @@
   - Ian death toll 70
 - culture
   - all gay movie, bros, flops at box office
+  - bruce willis parts filled in with deepfakes
+  - aus has a gambling problem, it is now online
 - biz
   - optimus debuts, doesn't perform complex tasks
     - fans want sex robot
   - tesla has 160K customers running self driving beta
   - also presented Dojo supercomputer
+  - Intel mobileeye files for IPO
+  - appl vp caught saying sexist things, leaves company
+  - food delivery drone crashes into power lines, causes blackout
+  - crypto thriving in subsaharan africa
+  - app can detect covid from sound of cough
 - tech
   - netherlands solar cells reach 30% conversion efficiency
+  - genome sequencing has become fast and cheap
+  - black chernobyl frogs.  accellerated evolution theorized
+  - NYPD may encrypt scanner broadcasts
+  - rewritten opengl makes amd gpus 70% faster
+  - wind and solar at 10% of global supply
