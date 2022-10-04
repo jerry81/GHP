@@ -1,5 +1,22 @@
 [back](./index.md)
 
+10/4
+- politics
+  - nkorea shoots nuke
+  - biden will run for reelection
+  - india's space expedition ends in failure
+  - UN warns against central banks increasing intrest rates
+- biz
+  - appl trying to challenge qualcomm patents
+  - amzn dedicated hub for affordable shopping, amazon access
+  - walgreens perscription filling robots
+- health
+  - bird flu spreading
+- tech
+  - linux 6 released with support for new chips
+  - nobel prize winner in medicine sequenced neandrethals' genome
+  - ps5 jailbroken
+
 - 10-3
 - politics
   - brazil elections
