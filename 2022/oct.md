@@ -1,5 +1,28 @@
 [back](./index.md)
 
+10/5
+- culture
+  - tom brady divorce coming
+  - pitt allegedly choked kid
+  - howard stern a germaphobe
+  - best bar in the world hidden in barcelona
+- politics
+  - israel installs ai powered gun at west bank
+  - bangaladesh biggest blackout ever - 140M
+  - AI bill of rights unveiled
+  - EU votes for appl to use usbc charger
+- biz
+  - ARM loses 40% UK staff
+  - micron 100B computer chip factory in NY
+  - Richmond ca, 100 Pb of archived internet pages
+  - AMZN hiring freeze
+  - musk proceeds with twitter deal
+  - goog translate shuts down in china
+- tech
+  - wax worm saliva breaks down plastic bags
+  - nobel prize in physics goes to quantum research, entanglement
+  - britain to build nuke fusion plant
+
 10/4
 - politics
   - nkorea shoots nuke
