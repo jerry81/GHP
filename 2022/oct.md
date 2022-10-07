@@ -6,7 +6,17 @@
   - white flags from russia, will xi help?
 - culture
   - vegas mass stabbing on strip, strippers stabbed
-
+- tech
+  - climate change caused drought to be more likely
+- biz
+  - showtime, paramount plus may merge
+  - boston dynamics will not weaponize robots
+  - princeton needs no financial support at all
+  - goog pixel 7
+  - FB "quiet layoffs" by encouraging more PIPs
+  - AAPL encourages airpod and beats production to shift to india
+    - diversification from china
+  - goog cloud expands to africa, picks south africa as first region
 
 10/5
 - culture
