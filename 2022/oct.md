@@ -8,6 +8,8 @@
   - vegas mass stabbing on strip, strippers stabbed
 - tech
   - climate change caused drought to be more likely
+  - robots make french fries better than humans
+  - rust support in linux 6.1
 - biz
   - showtime, paramount plus may merge
   - boston dynamics will not weaponize robots
@@ -17,6 +19,7 @@
   - AAPL encourages airpod and beats production to shift to india
     - diversification from china
   - goog cloud expands to africa, picks south africa as first region
+  - tim cook questions the metaverse
 
 10/5
 - culture
