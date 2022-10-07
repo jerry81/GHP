@@ -1,5 +1,13 @@
 [back](./index.md)
 
+10/7
+- politics
+  - US stockpiling anti-rad pills for nuke armageddon
+  - white flags from russia, will xi help?
+- culture
+  - vegas mass stabbing on strip, strippers stabbed
+
+
 10/5
 - culture
   - tom brady divorce coming
