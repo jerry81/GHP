@@ -1,5 +1,24 @@
 [back](./index.md)
 
+10/8
+- culture
+  - draymond green sucker punch
+  - kpop BTS may have to do military service
+  - wealthy live 4 years longer than poor
+  - adam driver stars in ferrari
+  - kevin spacey sex abuse trial begins
+- politics
+  - biden pardons thousands of convicted merijuana possession charges
+  - americans would rather cut foot costs than cut streaming services
+- tech
+  - ARM thinks they have a foothold in datacenters, but Chinese will push for RISC-V
+- biz
+  - tesla starts producing electric semi trucks
+  - samsung electronics sales down
+  - goog opens first japan data center, pushing into Asia
+  - michigan becoming battery producing center
+  - AMZN kills home delivery robot project, cutting costs
+
 10/7
 - politics
   - US stockpiling anti-rad pills for nuke armageddon
