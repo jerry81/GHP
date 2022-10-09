@@ -1,5 +1,19 @@
 [back](./index.md)
 
+10/9
+- war
+  - vlad backed into corner
+  - russian bridge destroyed
+- culture
+  - best ideas come while bathing
+  - the weather channel shutting down
+  - trip to space filled will shatner with overwhelming sadness
+- tech
+  - vpn, tor use increases
+  - rust forms code style team
+- politics
+  - hurricaine ian killed over 100 people
+
 10/8
 - culture
   - draymond green sucker punch
