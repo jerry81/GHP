@@ -1,5 +1,17 @@
 [back](./index.md)
 
+10/10
+- politics
+  - putin prepping society for nukes?
+  - cali's bullet train, approved in 2008, just starting construction
+- culture
+  - future of late night talk shows questioned
+  - organge full moon tonight
+- biz
+  - intel alder lake bios source leaked
+- tech
+  - ubuntu pro, by canonical launches free tier.  "security focused"
+
 10/9
 - war
   - vlad backed into corner
