@@ -1,5 +1,32 @@
 [back](./index.md)
 
+10/11
+- war
+  - putin attacks ukr, biggest since start
+  - zelensky pleads for help
+- biz
+  - jp morgan jamie dimon warns about the economy
+  - toyota data leak after access key exposed on github
+  - AMZN invest a B in euro electric van/trucks
+  - metaverse 1.3B ecosystem, only has 38 daily active users
+  - UA hopes for electric planes for short flights by 2030
+- culture
+  - kanye going crazy again, saying diddy controlled by jewish people
+  - musk has a trans daughter
+  - man takes mushrooms before attacking flight attendants
+- health
+  - shanghai worries about lockdown again
+  - ALS drug has 158K price tag
+  - india pandemic of antibiotic resistant superbugs
+- tech
+  - AI diagnose illness based on voice
+  - 4 in 10 pcs can't upgrade to win 11 due to hardware requirements
+  - doom runs at 60FPS in notepad - created by Sam Chiet
+- politics
+  - worries about china econ taking over USA in xi's next term
+  - dutch court rules against webcam monitoring of workers
+  - cali bans single-use plastic grocery bags - 2025 deadline
+
 10/10
 - politics
   - putin prepping society for nukes?
