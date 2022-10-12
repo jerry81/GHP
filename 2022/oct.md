@@ -1,5 +1,28 @@
 [back](./index.md)
 
+10/12
+- war
+  - uae and putin meet
+  - brutal missle assaults continue
+  - nato anti-nuke exercises
+- culture
+  - tom cruise scheduled for space walk
+  - kanye backs out on jew remarks
+  - dahmer netflix 2nd biggest series ever
+- health
+  - ketamine reduces depression
+  - killer nurse injects babies with air and insulin, killed 7
+- politics
+  - tulsi gabbard leaves dems "elitist cabal"
+  - NZ may tax cow burps, farmers angered
+- biz
+  - meta vr headset 1500 USD Quest Pro
+  - meta will give avatars legs
+  - MSFT partner with meta to bring teams, office, windows, xbox to VR
+  - westinghouse to be sold for 7.9B (nuke plant equipment maker)
+  - intel and goog launch new chip to improve data center performance; E2000 chip
+  - starlink debuts in Asia, with japan service
+
 10/11
 - war
   - putin attacks ukr, biggest since start
