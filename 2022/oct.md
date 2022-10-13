@@ -1,5 +1,27 @@
 [back](./index.md)
 
+10/13
+- culture
+  - alex jones sued 1B
+  - fake Joe rogan interviews fake steve jobs
+- biz
+  - musk take on putin/china - appeasement
+    - "let russia keep territory" - china interpreted as letting them take control of taiwan
+  - honda 4.4B EV battery plant Ohio
+  - surface pro 9 has options for ARM or intel
+  - GM new energy business to sell solar panels and batteries
+  - goog testing holographic video chats in their offices
+  - old samsung phones are blowing up - galaxy note 7 flashbacks
+  - MSFT brings DALL-E 2 to the masses - designer and image creator
+  - MSFT surface studio 2 plus - 4299 - high end graphics card
+  - intel plans thosands of job cuts - PC slowdown
+- politics
+  - US sees china as only other nation capable of shaping global order
+  - india building private space empire
+  - iran protests cause stronger internet controls
+- tech
+  - lab grown brain cells play pong
+
 10/12
 - war
   - uae and putin meet
