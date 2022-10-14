@@ -1,5 +1,28 @@
 [back](./index.md)
 
+10/14
+- politics
+  - trump subpeona 1/6
+  - countries stockpiling iodine
+  - cali legalizes digital license plates
+  - trade war: chip equipment suppliers halt biz with china
+  - greece 100% renewble first time ever?
+- biz
+  - crazy inflation, high mortgage rates
+  - Honda and sony team up for EV
+  - Goog testing video chat booths
+  - tether, world's largest stable coin
+  - spacex will run 2nd private flight to moon
+- culture
+  - "depraved" horror movie, terrifier 2
+  - parkland school shooter gets life in prison, for killing 17, nikolas cruz
+  - "god forbid" film explores the jerry falwell jr scandal
+  - mother lets 10 year old get tattoo, arrested
+- tech
+  - virtuabox gets first ARM mac client
+  - carmack "grumpy" about VR, thinks quest pro too expensive
+  - brooklyn testing site for quantum network
+
 10/13
 - culture
   - alex jones sued 1B
