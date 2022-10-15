@@ -1,5 +1,23 @@
 [back](./index.md)
 
+10/15
+- politics
+  - liz truss in trouble?
+  - LA city hall rampant corruption
+  - xi prepping for war with USA
+  - Alaskan snow crabs disappearing
+  - white house research reflecting sun back to cool the earth
+- biz
+  - tesla stock plummets
+  - Nikola founder (electric trucks) found guilty of fraud
+- health
+  - cancer vax, first ever
+  - FDA: shortage of adderall
+- war
+  - RU running out of weapons
+- tech
+  - metaverse review: terrible
+
 10/14
 - politics
   - trump subpeona 1/6
