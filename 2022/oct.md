@@ -1,5 +1,27 @@
 [back](./index.md)
 
+10/17
+- politics
+  - xi announcing china not backing down
+  - may forcefully take twn
+  - kanye slams jewish media
+  - trump also lashes out at jews
+  - thiel shoots for maltese citizenship
+  - DC lots of homeless tent cities
+  - biden stock market not doing as well as trumps' or obamas'
+- health
+  - cancer vax by 2030
+- culture
+  - hbomax the penguin batman spinoff
+- tech
+  - quantum encryptions in EU by 2024?
+  - black holes may provide insight into quantum gravity
+  - mini human brains grown and implanted into rats
+- biz
+  - meta internal: "metaverse sad and empty"
+  - musk boring company to sell perfume 100USD a bottle, burnt hair?
+  - this year 3B stolen in crypto already
+
 10/15
 - politics
   - liz truss in trouble?
