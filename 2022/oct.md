@@ -1,5 +1,28 @@
 [back](./index.md)
 
+10/18
+- politics
+  - forecast: 100% chance of recession within year
+  - feds want bannon locked up 6 months
+  - LA running out of water
+- biz
+  - Uber to deliver weed
+  - skorea top two web giants: Naver, Kakao taken out by datacenter fire
+    - DC operated by SK C&C
+  - new wave of chinese state spending caused by xi's call to win tech race
+  - chip supply crunch ending, shipping times reducing
+  - suit against coinbase: reimburse 21M lost to crypto scammers
+- culture
+  - eminem 50 y/o
+  - stars moving out of Hollywood
+  - spacey defense: dad was neo-nazi
+  - bernard arnault, world's second richest
+- tech
+  - AI accurately predicts future by 99%
+  - linus to devs: grow up, stop pulling all nighters before deadline
+  - it took more than 1 hr to mine a block of bitcoin, blocking transactions
+  - spacex has flown more astronauts than anyone since dragon's debut
+
 10/17
 - politics
   - xi announcing china not backing down
@@ -12,7 +35,7 @@
 - health
   - cancer vax by 2030
 - culture
-  - hbomax the penguin batman spinoff
+  - hbomax the penguin batman spinoff - directed by homestar runner co-creator
 - tech
   - quantum encryptions in EU by 2024?
   - black holes may provide insight into quantum gravity
