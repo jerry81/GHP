@@ -1,5 +1,22 @@
 [back](./index.md)
 
+10/19
+- biz
+  - worst year for stocks and bonds since 69
+  - deutsche bank raided, tax fraud probe
+  - netflix set to crack down on password sharing
+  - msft staff cuts
+  - macOS ventura, iPadOS 16 release on 10/24
+  - ipad pro with m2 chip and wifi 6E
+  - Duckduckgo releases privacyfocused browser on mac
+- culture
+  - kanye being sued by george floyd daughter for 250M
+  - qatar world cup
+- health
+  - soda chips and hotdogs take years off your life
+- war
+  - 1000s of ukr towns left without power
+
 10/18
 - politics
   - forecast: 100% chance of recession within year
