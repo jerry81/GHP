@@ -1,5 +1,29 @@
 [back](./index.md)
 
+10/20
+- politics
+  - truss's short reign about to end
+  - failure rate of china chips increased 1900% in recent months
+- covid
+  - rebound in Manhattan
+- culture
+  - howard stern says kanye like hitler
+  - smiles key to happiness
+  - millenials in sexless marriages - porn to blame
+  - debate: do ntfx movies belong in theatres?
+- biz
+  - amazon Ring used to surveil delivery workers
+  - bread prices up
+  - BMW build 1.7M battery factory in S. Carolina
+  - uber canada now delivers cannabis
+  - starlink starts plane service
+- tech
+  - github copilot - trained from public source code on net
+  - waymo self driving taxis coming to LA
+  - usb-c new spec usb4 v2.0 can hit 120Gbps
+- health
+  - 5 hrs sleep is the tipping point for bad health
+
 10/19
 - biz
   - worst year for stocks and bonds since 69
