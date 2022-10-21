@@ -1,5 +1,25 @@
 [back](./index.md)
 
+10/21
+- politics
+  - truss out, back to boris?
+    - rebellion within party, historically brief, financial markets, economic policies
+    - 45 days
+  - china invade taiwan this year？
+  - indonisia bans cough syrups after children's deaths
+- culture
+  - kevin spacey cleared by jury
+  - hans niemann sues magnus for 100M over the cheating accusation
+- biz
+  - musk: tesla will be worth more than appl and saudi aramco combined
+  - musk will cut 75% twitter staff
+  - in UK, amzn sued 1B for favoring its own products
+  - 54 more starlink sats launched
+  - stripe layoffs coming
+- tech
+  - OpenBSD 7.2 released
+  - transparent wood to replace plastic?
+
 10/20
 - politics
   - truss's short reign about to end
