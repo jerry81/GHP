@@ -1,5 +1,29 @@
 [back](./index.md)
 
+10/24
+- politics
+  - boris johnson will not be replacement PM
+  - putin seen with IV, cancer rumors, crippling pain
+  - xi beginning third term, admist anti-xi protests in china
+  - israel in west bank using AI powered guns to track targets
+  - solar banned on england farmland?
+- war
+  - russia threatens dirty bomb
+- biz
+  - psychologist says musk psychopathic with no empathy, washington worried about his rising power
+  - forbes accuses bytedance of planning to use tiktok to monitor American Citizen locations
+  - screen-less smartphone?
+  - aapl testing macos for M2 ipad pro
+- health
+  - covid subvariants in CA
+- tech
+  - laundry folding robot hard to create
+  - fastcharging EV batteries use nickel foil
+  - redmonk PL rankings:
+    1.  js
+    2.  python
+    3.  java
+
 10/21
 - politics
   - truss out, back to boris?
