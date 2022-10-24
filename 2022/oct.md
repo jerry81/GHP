@@ -14,8 +14,10 @@
   - forbes accuses bytedance of planning to use tiktok to monitor American Citizen locations
   - screen-less smartphone?
   - aapl testing macos for M2 ipad pro
+  - US may extend China tech ban to quantum computing and AI
 - health
   - covid subvariants in CA
+  - some people really are mosquito magnets, depend on how they smell
 - tech
   - laundry folding robot hard to create
   - fastcharging EV batteries use nickel foil
@@ -23,6 +25,7 @@
     1.  js
     2.  python
     3.  java
+  - james webb tele snaps "pillars of creation" - place new stars are forming from dust clouds
 
 10/21
 - politics
