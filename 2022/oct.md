@@ -1,5 +1,27 @@
 [back](./index.md)
 
+10/25
+- politics
+  - UK chooses next PM, rishi sunak, first asian PM
+  - FL swinging right
+  - dirty bomb - explodes radioactive material - primary target, civilians
+  - stockholm thinks they can have free electric bikeshare program
+  - US alleges huawei investigation was targeted by chinese spies
+- biz
+  - starbucks automated tech causes staff complaints
+  - goog schmidt helps make AI laws in DC
+  - elon to demo brain chip
+  - kanye has adidas deal, deal in danger
+  - AAPL only allows alternative payment systems in certain countries, disallows in-app purchases with apps' own mechanisms
+  - MSFT "Project Volterra" - arm powered mini PC
+- culture
+  - anderson cooper in CNN lobby ambushed by cameraman: "get the fuck away from me"
+  - country getting stupider?  math, reading down
+- health
+  - tripledemic: RSV (respiratory syncytial virus, in infants), flu, covid
+- tech
+  - one chip transmits 1.84 petabits/sec - amount that traffic that flows through internet backbone per second.  230M photographs
+
 10/24
 - politics
   - boris johnson will not be replacement PM
