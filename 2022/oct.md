@@ -1,5 +1,20 @@
 [back](./index.md)
 
+10/26
+- culture
+  - kanye loses adidas deal
+  - deepfakes of celebs used in ads, with or without permissions
+- politics
+  - sf 5.1 mag quake
+  - rishi sunak is crypto enthusiast
+  - india fines goog 113M, orders them to permit 3P payment systems in play store
+  - japan moves towards digital ids
+- biz
+  - nvidia RTX 4090 power draw too much for its power connector
+  - msft, aapl, goog buy into passkeys
+  - shutterstock - AI generated stock imagery
+  - bumble will use AI that detects unsolicited nudes
+
 10/25
 - politics
   - UK chooses next PM, rishi sunak, first asian PM
