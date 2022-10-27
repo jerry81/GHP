@@ -1,5 +1,21 @@
 [back](./index.md)
 
+10/27
+- biz
+  - FB stock drops another 20%, earnings collapsing
+  - elon now a "geopolitical chaos agent"
+  - goog profits down 27% in Q3
+  - Argo AI, ford, vw backed selfdriving car startup shutting down
+  - seagate to cut 3000 jobs.  biggest computer hard drive maker
+- culture
+  - terrifier 2 box office success
+- politics
+  - tx removes permit law for guns.  cops face armed public
+  - EPA awards 1B for electric buses
+- tech
+  - swarming bees actually produce electricity, may change weather
+  - 3 greenhouse gases at all time high - methane, co2, nitrous oxide
+
 10/26
 - culture
   - kanye loses adidas deal
