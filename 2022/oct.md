@@ -1,5 +1,25 @@
 [back](./index.md)
 
+10/28
+- culture
+  - living paycheck to paycheck is new norm
+  - NYC subway crimes up again
+  - kanye suicide watch?
+- politics
+  - 100M americans didn't work this month - half retired, but also covid/sickness
+  - mexico scraps daylight savings, except at US border
+- biz
+  - FB freefall continues.  out of world top 20, shares -70% this year
+  - amzn dips below 1T market value
+  - goog cloud based blockchain for ethereum
+  - EU natural gas prices dip below zero due to overwhelming supply
+- covid
+  - wuhan back in lockdown, 800K quarantine
+- tech
+  - openssl upcoming patch may have critical security vunerability
+  - new material made like plastic but conducts like metal
+  - funny: "conan the bacterium" is a super microbe that could survive on mars for hundreds of millions of years
+
 10/27
 - biz
   - FB stock drops another 20%, earnings collapsing
