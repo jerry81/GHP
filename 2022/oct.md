@@ -1,5 +1,16 @@
 [back](./index.md)
 
+10/29
+- politics
+  - pelosi's husband attempted murder
+- health
+  - polio epidemic in nyc 
+- biz
+  - elon musk at twitter day 1: fires execs
+  - exxon profits up
+  - more sex workers as costs rise
+  - teleport - solana based rideshare uber rival 
+
 10/28
 - culture
   - living paycheck to paycheck is new norm
