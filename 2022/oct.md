@@ -1,5 +1,16 @@
 [back](./index.md)
 
+10/30
+- politics
+  - brazil elections
+- biz
+  - musk twitter day 2 - more job cuts
+    - dogecoin surges 70%
+- culture
+  - seoul halloween stampede kills 153
+  - new avatar way over 3 hrs
+  - disney+ tales of the jedi animated series
+
 10/28
 - culture
   - living paycheck to paycheck is new norm
