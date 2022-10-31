@@ -1,5 +1,15 @@
 [back](./index.md)
 
+10/31
+- politics
+  - brazil's lula beats bolsonaro, close race, brazil turns left
+  - xi's reign described as unpredictable
+- biz
+  - global helium shortage
+    - used in MRIs, 2000 liters liquid helium for cooling
+- tech
+  - ai learning to talk to animals?
+
 10/30
 - politics
   - brazil elections
