@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+11/4
+- biz
+  - bank of england alarm - longest recession in history
+  - layoffs, hiring freezes, in tech sector still a story
+    - coinbase, robinhood, lyft, stripe
+    - stripe cuts 14% headcount
+    - amzn freeze in corporate
+  - IG tries NFTs features
+  - foxconn partnering with saudi funders to build EVs
+  - openAI give 10 AI startups 1M each with early access
+- culture
+  - nets suspend kyrie - antisemitic hate
+- war
+  - evolving into drone combat
+  - this war has spurred cybersec attacks
+- politics
+  - the onion and babylon bee fighting law that makes parody a felony
+- tech
+  - zap clouds with electricity to make it rain
+  - egypt a internet chokepoint
+  - offshore wind/solar pilot in china
+
 11/2
 - politics
   - tesla crash trial
