@@ -10,6 +10,8 @@
   - IG tries NFTs features
   - foxconn partnering with saudi funders to build EVs
   - openAI give 10 AI startups 1M each with early access
+  - wharton, berkeley, nyu, offering online MBAs for first time
+  - Meta AI powered audio codec promises 10x compression over mp3
 - culture
   - nets suspend kyrie - antisemitic hate
 - war
@@ -17,10 +19,15 @@
   - this war has spurred cybersec attacks
 - politics
   - the onion and babylon bee fighting law that makes parody a felony
+  - new state job: high-speed internet network director
+  - US wants japan to join china chip curbs
+  - cvs, walgreens pays out 10B in opioid lawsuits
+  - lithium batteries might power china's submarines
 - tech
   - zap clouds with electricity to make it rain
   - egypt a internet chokepoint
   - offshore wind/solar pilot in china
+  - black holes may behave like quantum particles
 
 11/2
 - politics
