@@ -7,11 +7,14 @@
   - LA infections up 25%
 - biz
   - musk, whose biggest investor is saudi arabia lost lots of revenue, 1M twitter users gone since takeover
+  - half of staff fired, lawsuits galore
   - hyperinflation "looming"
 - health
   - avg person hits peak health at 34
 - culture
   - honolulu overrun by chickens
+  - nike suspends relations with kyrie
+
 11/4
 - biz
   - bank of england alarm - longest recession in history
