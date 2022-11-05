@@ -3,6 +3,8 @@
 11/5
 - politics
   - biden can't energize crowds
+  - nyc sky will fill with advertising drones
+  - avg american owes 25K
 - covid
   - LA infections up 25%
 - biz
@@ -14,6 +16,10 @@
 - culture
   - honolulu overrun by chickens
   - nike suspends relations with kyrie
+  - westworld shockingly cancelled
+- tech
+  - web3 refers to blockchain internet
+  - europe warming faster than rest of world
 
 11/4
 - biz
