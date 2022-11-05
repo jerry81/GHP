@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+11/5
+- politics
+  - biden can't energize crowds
+- covid
+  - LA infections up 25%
+- biz
+  - musk, whose biggest investor is saudi arabia lost lots of revenue, 1M twitter users gone since takeover
+  - hyperinflation "looming"
+- health
+  - avg person hits peak health at 34
+- culture
+  - honolulu overrun by chickens
 11/4
 - biz
   - bank of england alarm - longest recession in history
