@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+11/6
+- politics
+  - xi warns putin not to use nukes
+  - world population hits 8 b
+- biz
+  - NYC cracks down on airbnb hosts
+  - github copilot sued over software privacy
+- culture
+  - another study supporting shrooms for stubborn depression
+- tech
+  - wired calls rust "viral secure PL that is taking over tech"
+  - rust gets generic associated types (GATs)
+
 11/5
 - politics
   - biden can't energize crowds
