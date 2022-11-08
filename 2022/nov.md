@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+11/8
+- health
+  - lab grown blood to be given to humans in first trial
+- biz
+  - bad weekend for world's richest
+  - aapl AR glasses may be delayed until 2026
+  - meta preps large scale layoffs
+  - "Hey Siri" -> "Siri"
+  - resurgence of manual transmission cars, despite EVs
+- politics
+  - china thinks about zero-covid exit
+  - japan wants power to turn off home air conditioning remotely
+  - chinese chipmakers slow down processors to dodge us sanctions
+  - UN boss : we're on our way to climate hell
+  - 3.36B silk road crypto sting
+- culture
+  - low notes make people want to dance
+
 11/6
 - politics
   - xi warns putin not to use nukes
