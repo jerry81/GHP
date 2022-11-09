@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+11/9
+- politics
+  - elections in US, senate, demos lose 28 house seats, 4 senate
+  - 15% identify as MAGA
+- biz
+  - btc tanks, Sam Bankman-Fried (SBF)'s 16B in fortunes dissolved, lost 93%
+  - musk cashes 4B out of tesla
+  - disney+ 164.2M subs, launches ad-supported tier
+  - zoom has its own conference: zoomtopia, and are adding email and calendar features
+  - salesforce cuts hundreds
+  - msft/activision deal faces legal scrutiny
+  - sword art online, really, if you die in the game you die in real life?
+- culture
+  - national parks warn against licking psychadelic toads
+
 11/8
 - health
   - lab grown blood to be given to humans in first trial
