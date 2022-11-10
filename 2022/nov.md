@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+11/10
+- biz
+  - FB 11K layoffs
+  - TSMC - 2nd arizona plant
+  - BTC dips below 16K
+  - IBM osprey quantum computer
+  - Goog providing desktop VPN for paying users
+- politics
+  - large parking lots required to be covered by solar panels
+- tech
+  - cloudflare has 1.1.1.1 dns resolver
+
 11/9
 - politics
   - elections in US, senate, demos lose 28 house seats, 4 senate
