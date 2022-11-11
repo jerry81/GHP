@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+11/11
+- biz
+  - stocks shockingly rally, dow up 1200
+  - appl up 191B in 1 day
+  - wework to close 40 locations
+  - AMZN sparrow: robotic arm
+  - AMZN loses 1T?
+- politics
+  - airdrop used to spread protest in China, apple imposes limits
+  - NSA advises memory safe languages: C#, Go, Java, Ruby, or Swift
+  - france testing flying taxis - targets 2024 olympics
+- health
+  - new concussion-reversing drug
+
 11/10
 - biz
   - FB 11K layoffs
