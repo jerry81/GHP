@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+11/13
+- politics
+  - dems keep senate
+  - japan invests in advanced chip tech
+- culture
+  - dana white creating slap fighting league - slapping faces
+  - 3 body problem animated series next month
+- biz
+  - NVIDIA mulls not using C
+  - MSFT to spend 1B on  north carolina servers
+  - aapl 191B stock market surge
+
 11/11
 - biz
   - stocks shockingly rally, dow up 1200
