@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+11/14
+- politics
+  - pelosi has no plans to step down
+  - istanbul street explosion, 4 killed, 38 injured
+  - japan brace for war with china?
+  - us military's X-37B space plane lands after 908 days in orbit
+- covid
+  - beijing record covid counts
+- biz
+  - AI market - connecting with deceased loved ones
+- culture
+  - chappelle ow key antisemitism
+  - most and least-regretted majors: - journalism, sociology, communications, education most
+    - computer science, criminology, engineering, nursing, biz, finance least
+- tech
+  - developer survey - java, python, kotlin, rust, growing rapidly
+  - quantum-safe cryptography with "lattice cryptography"
+
+
+
 11/13
 - politics
   - dems keep senate
