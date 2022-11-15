@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+11/15
+- culture
+  - yellowstone ratings record
+  - mark wahlberg wakes up at 3:30 am
+    - intermittent fasting, cryotherapy, go to bed at 7:30, tumeric for inflammation
+- biz
+  - musk: "app doing > 1000 poorly batched RPCs to render a timeline"
+    - worker calls him out, musk fires publicly
+  - crypto meltdown continuing after FTX
+  - paris stock market passes london
+  - amzn plans to layoff 10k
+    - bezos will give away most of wealth to charity
+
+
 11/14
 - politics
   - pelosi has no plans to step down
