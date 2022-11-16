@@ -1,5 +1,15 @@
 [Back](./index.md)
 
+11/16
+- war
+  - RU bombs over poland
+  - biden emergency meeting
+  - nato scrambles
+- politics
+  - 721 days until election
+- culture
+  - adderall perscriptions kyrocket
+
 11/15
 - culture
   - yellowstone ratings record
