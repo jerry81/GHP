@@ -7,8 +7,25 @@
   - nato scrambles
 - politics
   - 721 days until election
+  - biden-xi talks
+  - chaos in chinese city, covid unrest
+  - chinese aircraft near okinawa
+  - UK gov getting bullied on its own discord
+  - aus may ban ransomware payments
 - culture
-  - adderall perscriptions kyrocket
+  - adderall perscriptions skyrocket
+  - killer in idaho - stabbed 4 students
+  - sperm counts declining
+- biz
+  - amzn irtual healthcare clinic
+  - ftx owes more than 1M people money
+  - SG company Sea slashes 7000 jobs
+  - meta employees: slow death - lash out at zuck
+  - addicted to entrepreneurship, sam bankman-fried attempts to raise fresh cash despite bankruptcy
+  - waymo selfdriving taxis helping to create realtime weather maps
+- tech
+  - self driving: auto braking could cut crashes 40%
+  - largest floating wind farm starts producing power
 
 11/15
 - culture
