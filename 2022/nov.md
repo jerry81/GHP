@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+11/17
+- politics
+  - almost 9M watch trump speech
+    - 5M trump, 2.5M cnn, 1.1M newsmax
+    - may proceed campaign from jail cell
+  - UK inflation 11.1%
+  - germany prostitution legal
+  - world population 1B, grew 1B in 12 years, india pass china within a year
+- culture
+  - quake rocks texas
+  - hippie hawaii nudist camp exposed?
+  - backlash already: jewish cemetery vandalized with swatstikas "kanye was rite"
+  - mr beast passes pewdiepie as #1 youtuber
+- tech
+  - lab grown meat cleared for consumption
+  - fentanyl vax - eliminate drug high
+- biz
+  - intel deepfake detector - 95% accuracy
+  - MSFT, nvidia partner to build AI supercomputer on cloud
+  - AWS hiring freeze extends to 2023
+  - Winklevoss Gemini delays withdrawals
+
 11/16
 - war
   - RU bombs over poland
