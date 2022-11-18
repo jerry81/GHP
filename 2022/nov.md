@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+11/18
+- biz
+  - starbucks strike.
+    - workers: "mentally and physically abusive"
+  - 50% mac malware comes from a single app, mackeeper
+  - ford CEO says EVs take 40% less labor
+  - record number of parents miss work as illnesses spike in kids
+  - 10K goog emps could be rated as low performers
+  - netease, blizzard to end deal that brought warcraft to china
+  - 5G takes 50% of telecom market, thanks to open source
+- politics
+  - pelosi steps down
+    - hakeem jeffries may succeed
+  - LA strongly recommends masks
+  - SF: guarunteed income for trans
+  - el salvador, which lost millions already, will buy MORE BTC
+  - India to require USB-C for all devices
+- culture
+  - ayahuasca causes long-lasting mental health problems
+    - blamed for aaron rodgers' poor performance
+  - fast and furious 10 - budget over 340M
+  - cows fed hemp produced milk with thc
+- tech
+  - 1Password will embrace passwordless "passkey support"
+    - developed by FIDO alliance - replace passwords with device's own auth i.e. iphone with faceID
+
 11/17
 - politics
   - almost 9M watch trump speech
