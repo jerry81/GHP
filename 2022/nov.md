@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+11/21
+- politics
+  - gay club shooting in colorado springs - 5 dead, 18 injured
+  - biden turns 80
+  - Kim Jong Un shows off his daughter
+- biz
+  - pandemic changed our attitdues of work?
+    - highest quit rate since 1970s, though down from peak
+    - white collars don't want to give up remote work
+  - Nvidia RTX 4090 power cables melting
+  - liz holmes gets 11 years in prison
+  - vmware fusion 13 gets native support for apple silicon macs
+  - AMZN warns of more layoffs in 2023
+  - japan inflation 40 year high
+- culture
+  - controversial: do screens before bed actually improve sleep?
+  - fred brooks dead
+- tech
+  - (health) vax prolongs life of aggressive brain cancer patients
+
 11/18
 - biz
   - starbucks strike.
