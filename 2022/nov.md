@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+11/22
+- biz
+  - musk meltdown, tesla down 55% for the year
+  - iger back at disney
+  - elon will not let alex jones back on twitter
+  - beyond meat slumping a bit
+  - 50% btc addresses at a loss
+  - tsmc arizona plant
+  - amzn alexa collosal failure, loses 10B this year
+  - quantum computing transitioning from theory to startups?
+  - waymo to offer free driverless rides in SF
+- culture
+  - elton john concert beating
+  - apple store car ramming incident
+- politics
+  - will biden run again, and he should get new vp
+  - science stagnation slowing growth
+- health
+  - "good" cholesterol not so great after all
+
 11/21
 - politics
   - gay club shooting in colorado springs - 5 dead, 18 injured
