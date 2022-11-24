@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+11/24
+- politics
+  - violent protests at china aapl plant
+    - workers beaten
+  - cn moon base to be powered by nuclear
+  - SF police want permission for robots to use deadly force
+  - china fixed children's game addiction issues
+  - US renewables to surpass coal and nuke by year end
+  - china social credit law
+- biz
+  - iger may sell disney to appl?
+  - amzn spends 1B a year on theatrical film releases
+  - GPU sales nosedive, lowest in decade
+  - mercedes paywalls faster accelleration, 1200 per year
+  - zoom stock plunges
+  - amzn second cloud region in india, 4.4B investment
+  - HP cuts 6000 jobs
+- culture
+  - former boxer bought ak47, planned to shoot up gym
+  - netflix Kaleidoscope: watched in any order
+  - avatar 2 extremely expensive - must be 4th highest grossing to break even
+- health
+  - anti-intermittent fasting study: raise early death risk
+
 11/22
 - biz
   - musk meltdown, tesla down 55% for the year
