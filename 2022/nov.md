@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+11/25
+- politics
+  - china record covid, dissent spreading, xi under pressure
+  - 3rd straight year USa has 600 mass shootings
+  - ru war going poorly
+  - saudi floods
+- culture
+  - england vs usa
+  - jamaica mushroom tourism
+- biz
+  - amzn protests, black friday
+  - intel pay as you go chip licensing
+  - MSFT activision takeover likely to be challenged
+- health
+  - most expensive drug ever, 3.5M per does gene therapy for hemophilia
+- tech
+  - GOOG secret project AI write and fix code
+
 11/24
 - politics
   - violent protests at china aapl plant
