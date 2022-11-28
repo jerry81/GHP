@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+11/28
+- politics
+  - china covid uprising
+  - calls for xi to resign
+  - supremes considering amending first amendment
+  - n korea kim wants world's strongest nuke force
+  - iran riots
+- biz
+  - black friday tops 9B sales
+  - iphone supply could be strained due to violent revolt in china factory
+  - ntfx working on AAA pc game
+- health
+  - next covid strain may be even more dangerous
+- tech
+  - linux kernel more infra for rust
+  - hydrogen fuel using light to convert ammonia
+  - "60% of internet is duplicate" says google
+
 11/25
 - politics
   - china record covid, dissent spreading, xi under pressure
