@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+11/29
+- politics
+  - china covid revolution - "biggest protest since tiananmen", xi coup?
+    - protesters used airdrop - appl complies and limits
+  - cuts maskless fans out of world cup broadcast
+  - cocaine cartel busted near dubai/eu
+- biz
+  - biggest bubble in history? housing price collapse coming
+  - aapl threatened to withhold twitter from app store says musk
+  - meta fined 277M for leak of .5B users
+  - UK companies sign up for 4 day workweek with no loss of pay
+- culture
+  - fentanyl scourge on LA streets
+  - morning people are "smarter"
+  - word of year for 2022: "gaslighting"
+- tech
+  - sg manages tree with IOT monitoring
+
 11/28
 - politics
   - china covid uprising
