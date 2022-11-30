@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+11/30
+- politics
+  - india try digital currency
+- biz
+  - tech layoffs reach great recession levels
+  - iphone 14 pro shipments fall short of estimates
+  - snap demands employees 80% work in office
+  - rolls royce hydro powered jet engine
+- culture
+  - jack ma moved to tokyo since china crackdown, collecting art
+  - jew hating crisis
+  - iranian players' families threatend with torture
+
 11/29
 - politics
   - china covid revolution - "biggest protest since tiananmen", xi coup?
