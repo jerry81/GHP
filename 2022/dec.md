@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+12/2
+- biz
+  - musk experimenting on monkeys
+  - inflation easing
+  - telegram to get into crypto
+- culture
+  - will smith film: "emancipation"
+- covid
+  - pandemic stress caused teen brains to age faster
+- tech
+  - rust popularity grows, android sec vunerabilities decrease
+
 12/1
 - biz
   - sam bankman fried pleads innocence
