@@ -1,4 +1,18 @@
 [Back](./index.md)
+
+12/5
+- culture
+  - jewish ufc fighter wants to take on kanye
+  - pornstar at world cup may be executed for revealing outfit
+    - astrid wett
+- politics
+  - cs as a requirement?
+  - germany thinks future is in heat pumps
+- tech
+  - amzn new drone, but falling behind other drones
+- biz
+  - driverless tractors powered by nvidia ai chips
+
 12/4
 - world cup
   - usa eliminated
