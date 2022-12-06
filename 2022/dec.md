@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+12/6
+- politics
+  - musk under fire for animal tests - may face federal probe
+  - chinese hackers stole us covid releif money
+- culture
+  - 125% increase in NYC antisemitic hate crimes, kanye effect?
+  - workout trend: working out while high
+  - oxford word of the year: "goblin mode" - lazy, self-indulgent
+    - used in context: "People are embracing their inner goblin"
+- tech
+  - stratego, originaly thought difficult for ai, conquered by ai
+- biz
+  - McD's overworking youths?
+  - Gemini, the winklevoss crypto company wants to recover 900M from genesis, who got screwed by FTX
+  - stackoverflow bans AI-generated answers temporarily
+
 12/5
 - culture
   - jewish ufc fighter wants to take on kanye
