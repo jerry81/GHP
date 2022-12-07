@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+12/7
+- politics
+  - GA decision
+  - trump org found guilty of 17 counts of tax dodging
+  - indonesia outlaws sex outside of marriage, even for tourists
+- culture
+  - avatar 2 great reviews
+- biz
+  - neuralink animal experimentation: 1500 dead sheep, pigs, monkeys shocked
+  - remote work guts downtowns, costs cities 453B
+  - AMZN luna cloud gaming with lots of ubisoft titles
+  - MSFT backed startup Heirloom, uses limestome to capture co2
+- health
+  - LA facing full blown corona surge
+  - china wave coming
+
 12/6
 - politics
   - musk under fire for animal tests - may face federal probe
