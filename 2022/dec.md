@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+12/8
+- biz
+  - musk no longer world's richest
+  - twitter uses hq for staff bedrooms
+  - msft and nintendo 10 year deal for call of duty
+  - final boeing 747 rolls out of factory, 50 year production run
+- politics
+  - ted cruz daughter suicide attempt
+  - germany arrests 25 - planned coup
+  - xi humiliating covid climbdown, faces overthrow
+  - usa 1.5B to jumpstart huawei alternatives - core cellular network techs
+- culture
+  - time person of the year: zelensky
+
+
 12/7
 - politics
   - GA decision
