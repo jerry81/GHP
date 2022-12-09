@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+12/9
+- culture
+  - prince harry vs prince william
+  - utah drivers worst in nation
+  - celine dion incurable neuro disease
+- war
+  - ru still has WNBA star hostage
+- politics
+  - iranian forces shoot at genitals of female protesters
+  - fbi worried about appl expansion of e2e encryption
+  - FTC may block MSFT activision blizzard acquisition (69B)
+  - EU deadline in move to USB-C: 12/28
+  - UN warns against nature's decline, again
+  - pacific island vanatu loses internet for more than a month
+  - pentagon contract shared between 4 firms, AMZN, MSFT, GOOG, Oracle
+- tech
+  - bioengineer in harvard creates "vagina on chip"
+  - "stunning" advance in code-writing AI
+- biz
+  - GM installs first of 40K EV chargers
+  - sam bankman-fried admits fraud?
+  - samsung galaxy s22 hacked multiple times
+  - goog combines waze (mapping service) and maps
+    - pressure to cut costs
+    - "recession unlike any other" coming
+  - coinbase ceo sees revenue fall 50%
+
 12/8
 - biz
   - musk no longer world's richest
@@ -13,7 +40,6 @@
   - usa 1.5B to jumpstart huawei alternatives - core cellular network techs
 - culture
   - time person of the year: zelensky
-
 
 12/7
 - politics
