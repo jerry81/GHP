@@ -1,5 +1,15 @@
 [Back](./index.md)
 
+12/10
+- politics
+  - masks back on in nyc
+  - saudi scifi megacity underway
+- culture
+  - brazil out of world cup, eliminated by croatia
+  - taylor swift will direct
+- science
+  - mars may have active volcanos
+
 12/9
 - culture
   - prince harry vs prince william
