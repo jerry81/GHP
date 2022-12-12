@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+12/12
+- tech
+  - major fusion breakthrough coming?
+  - futurism: humans 2100: may be ageless cyborgs
+  - Linux 6.1 with support for rust kernel development
+  - dna editing cancert treatment beats previously incruable leukemia
+  - 2022 scientific breakthroughs:
+    - reverse death in dead animals?
+    - many cancer breakthroughs
+    - small scale nuke reactors (NuScale)
+    - RF beam drilling
+    - labgrown meat
+  - EV : "virtual" manual transmission
+- politics
+  - most mericans dont want neither joe nor trump
+- biz
+  - miami holds on to crypto dreams
+  - sam bankman-fried wants to pay people back
+
+
 12/10
 - politics
   - masks back on in nyc
