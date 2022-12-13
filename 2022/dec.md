@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+12/13
+- biz
+  - sam bankman fried arrested in bahamas
+  - diablo 4 devs working long hrs bracing for release 6/6/23 release date
+  - artly startup: bringing robotic arms to stores and coffee shops
+- politics
+  - federal debt at 31Trillion
+  - chinese and indian forces hand-to-hand clashes at border
+  - china bans deepfakes "used for evil"
+  - japan to join us chip embargo against china
+- tech
+  - UK big dna study on newborns - looking for diseases
+  - c++ surpasses java popularity
+  - the fusion breakthrough reported yesterday: fusion reaction with net energy gain
+
 12/12
 - tech
   - major fusion breakthrough coming?
