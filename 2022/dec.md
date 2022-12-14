@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+12/14
+- biz
+  - "crypto creep" sam bankman fried denied bail
+  - world's first "artificial womb facility" - parents pick baby traits of grown children
+  - robots to sew blue jeans
+- politics
+  - biden: "you don't think i don't know how fucking old i am?"
+  - china counter to us chip sanctions: 143B stimulus, disputes at WTO
+  - nz strict anti smoking law
+- culture
+  - suzanne scott, fox news, named most influential in news
+  - ntflx - 28M tune into harry & meghan
+  - vinnie mcmahon accused, sex abuse
+- tech
+  - ChatGPL super hype
+  - nuke fusion breakthru took 192 lasers
+  - gold nano-coating over glasses acts as anti-fog
+
 12/13
 - biz
   - sam bankman fried arrested in bahamas
