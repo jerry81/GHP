@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+12/15
+- culture
+  - porn addiction skyrocketing
+- biz
+  - tesla stock continues its plunge
+  - jack dorsey give 1M per year to signal app
+  - tim cook admits iphones use sony cameras
+- health
+  - moderna mRNA cancer vax reduces melanoma return by 44%
+
+
 12/14
 - biz
   - "crypto creep" sam bankman fried denied bail
