@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+12/16
+- politics
+  - jill biden prez?
+    - amy schumer and pelosi like it
+  - elpaso floods
+  - anti tiktok passes legislation in senate
+  - laptops and liquids flying rules to be eased in UK 2024
+  - anti-laundering for digital assets
+- culture
+  - 65% americans living paycheck to paycheck
+  - 2'11" man crowned world's shortest
+  - 1/5 americans struggle with reading
+- biz
+  - wealth bubble popping, dow down 765 points
+  - big tech gang up on goog maps, meta msft aws
+  - uber eats miami: robot delivery
+  - synchron brain implants backed by bezos  and gates
+  - msft ban crypto on its servers
+- tech
+  - chatgpt writes terrible article
+
 12/15
 - culture
   - porn addiction skyrocketing
@@ -9,7 +30,6 @@
   - tim cook admits iphones use sony cameras
 - health
   - moderna mRNA cancer vax reduces melanoma return by 44%
-
 
 12/14
 - biz
