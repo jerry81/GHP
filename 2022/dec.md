@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+12/19
+- politics
+  - putin facing coup
+  - AMZN workers in UK first formal strike
+- culture
+  - avatar struggling at box office?
+  - SF "the most deserted downtown" in USA - 40% office occupancy
+  - AMZN buys warhammer rights
+- biz
+  - 74% of devs open to finding a new job on stack overflow survey
+  - github free scanning for sec vunerabilities
+  - github plans to retire its editor, atom, but open source pulsar will continue legacy
+  - john carmack quits meta, "inefficient"
+
 12/16
 - politics
   - jill biden prez?
