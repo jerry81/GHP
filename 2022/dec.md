@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+12/21
+- politics
+  - trump indictment continues with tax evasion
+    - trump financials released
+  - bill in CA: decriminalize magic mushrooms
+- biz
+  - tesla loses 65% of wealth
+  - disney stock worst since 1974
+    - iger urged to sell abc, espn
+  - musk twitter problems multiplying
+  - economisists: recession 70% chance
+  - rocket lab first mission delayed
+- culture
+  - cali happiest in usa
+  - cocaine golden age ..
+  - priest invites pope to threesome
+- war
+  - warzone moves to russia
+  - zelensky visit usa
+
 12/19
 - politics
   - putin facing coup
