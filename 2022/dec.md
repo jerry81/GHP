@@ -5,13 +5,25 @@
   - trump indictment continues with tax evasion
     - trump financials released
   - bill in CA: decriminalize magic mushrooms
+  - sam bankman to be extradited back to the states from the bahamas
+  - senate considers banning crypto
 - biz
+  - gmail gets e2e encryption
   - tesla loses 65% of wealth
   - disney stock worst since 1974
     - iger urged to sell abc, espn
   - musk twitter problems multiplying
   - economisists: recession 70% chance
   - rocket lab first mission delayed
+  - MSFT eyes acquiring ntflx
+  - raspberry pi 5 after 2023
+  - portion of 2023 macbooks to be made in vietnam
+  - audi fasing out gas cars, converts factories to all EV
+  - delta free in flight wifi
+  - one-coin crypto pleads guilty: 4B fraud
+    - "bitcoin killer"
+  - AWS gets Navy contract worth 700M
+  - FB Meta to spend 20% of budget on metaverse next year
 - culture
   - cali happiest in usa
   - cocaine golden age ..
@@ -19,6 +31,8 @@
 - war
   - warzone moves to russia
   - zelensky visit usa
+- tech
+  - wind power could support habitats on mars
 
 12/19
 - politics
