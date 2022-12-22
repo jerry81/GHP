@@ -4,12 +4,18 @@
 - politics
   - zelensky gets hero welcome
   - netanhayu new far right gov
+  - digital dollar still far away
+  - russian military researching anti-starlink
 - covid
   - surge in shanghai, full hospitals,
   - some patients never smell again
+  - WHO concerned about china
 - biz
   -suddenly everyone looking for alternative to USD
   - 1/5 adults in debt
+  - roomba leaks intimate fotos
+  - intel p series "a step back"
+  netflix really wants to curb password sharing
 - tech
   - male and female cells created from single person
 - culture
