@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+12/22
+- politics
+  - zelensky gets hero welcome
+  - netanhayu new far right gov
+- covid
+  - surge in shanghai, full hospitals,
+  - some patients never smell again
+- biz
+  -suddenly everyone looking for alternative to USD
+  - 1/5 adults in debt
+- tech
+  - male and female cells created from single person
+- culture
+  - avatar crashes movie theatre equiment in japan
+
+
 12/21
 - politics
   - trump indictment continues with tax evasion
