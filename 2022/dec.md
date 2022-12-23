@@ -6,8 +6,15 @@
     - cold front
   - simon cowell weird new face
   - oregon mushrooms club
+- politics
+  - universities begin to ban tiktok
+  - US has 51 attorney generals. all say spam is out of control
+  - japan new plan: maximize nuke energy
+  - Chris Inglis, biden's cybersec advisor.  plans to leave gov
 - biz
   - SBF free on 250M bail
+  - goog publishes video blurring tool
+  - quora Poe: chatgpl integration
 - war
   - 100K russians dead, but putin wont stop
 
