@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+12/23
+- culture
+  - cold xmas in usa
+    - cold front
+  - simon cowell weird new face
+  - oregon mushrooms club
+- biz
+  - SBF free on 250M bail
+- war
+  - 100K russians dead, but putin wont stop
+
 12/22
 - politics
   - zelensky gets hero welcome
