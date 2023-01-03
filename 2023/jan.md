@@ -1,5 +1,16 @@
 [Back](index.md)
 
+1.3
+- culture
+  - billionaires looking for cure for old age
+  - william and harry fueding
+  - world's tallest man 9'6"
+- politics
+  - blackouts in us south
+- biz
+  - 1/3 of world economy to hit recession in 2023 - IMF
+  - in china, hire virtual person for 14K a year
+
 1.2
 - culture
   - machete attack, times square
