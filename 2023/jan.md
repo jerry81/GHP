@@ -1,5 +1,21 @@
 [Back](index.md)
 
+1.4
+- culture
+  - bills player collapses on field
+  - dana white slaps wife, calls for him to step down
+  - oregon starts legal hallucinogenic mushrooms
+- biz
+  - tech layoffs faster than anytime during covid
+  - biggest union in gaming formed by doom/fallout testers
+- covid
+  - crematoriums overwhelmed in china
+- politics
+  - japan offering money to leave tokyo
+  - US south blackouts
+- health
+  - armored CAR T therapy best hope to cure cancer
+
 1.3
 - culture
   - billionaires looking for cure for old age
