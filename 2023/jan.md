@@ -1,5 +1,21 @@
 [Back](index.md)
 
+1.5
+- tech
+  - AI lawyer to defend person for first time
+- culture
+  - procrastinators tend to be depressed
+- biz
+  - workers still quitting at high rates
+  - amzn layoffs 18K
+  - panasonic stop making rice cookers
+  - salesforce layoff 10%
+  - msft working on chat-gpt powered bing to compete with goog
+- covid
+  - mask mandates back in NJ schools
+- politics
+  - NYC bans chat gpt from students and teachers
+
 1.4
 - culture
   - bills player collapses on field
