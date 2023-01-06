@@ -1,5 +1,23 @@
 [Back](index.md)
 
+1.6
+- politics
+  - CA storm continues
+  - dell to purge chinese chips from products
+- biz
+  - AMZN slashes 18K jobs
+  - mercedes benz build EV charging network
+  - Chat GPT valued at 29 B?
+  - New AMD laptop 30HR battery life, 30% faster than M1
+  - slack github repos stolen
+  - circleCI hacked
+- culture
+  - prince harry book
+- covid
+  - china underreporting covid deaths
+- tech
+  - chinese researchers break encryption using quantum computers
+
 1.5
 - tech
   - AI lawyer to defend person for first time
