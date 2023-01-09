@@ -1,5 +1,21 @@
 [Back](index.md)
 
+1.9
+- politics
+  - brazil insurrection
+  - CA storm - cutting power
+  - FDA approves treatment for early alzheimers
+- culture
+  - hollywood shooting
+- tech
+  - linux malware spotted in wild
+  - CES has "worst in show" ceremony
+  - TIOBE index: C++, C, Python up in popularity in 2022
+  - huge plasma cloud explodes from sun
+- biz
+  - mercedes benz approved for level 3 driving tech in nevada
+  - AMZN S3 encrypt with AES-256 by default
+
 1.6
 - politics
   - CA storm continues
