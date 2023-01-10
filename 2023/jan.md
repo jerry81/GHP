@@ -1,5 +1,23 @@
 [Back](index.md)
 
+1.10
+- politics
+  - mayhem in brazil
+- biz
+  - eggs $7 a dozen?
+  - appl - all-in-one chip with cell, wifi, bluetooth
+  - raspberry pi improves its camera
+  - msft looking to incorporate openai chat into everyday apps
+- culture
+  - prince harry 60 mins interview
+  - happiest, least stressful jobs: lumberjacks - agriculture, logging, forestry
+    - finance, insurance, education, lawyers, most stressful
+- tech
+  - genetic reprogramming extends mice life
+  - ai to create human proteins
+  - 500 people have been put into cryogenic stasis after legal death
+  - wheat provides 20% of calories in world - wheat gene discovery will keep wheat alive despite global warming
+
 1.9
 - politics
   - brazil insurrection
