@@ -1,5 +1,25 @@
 [Back](index.md)
 
+1.12
+- biz
+  - self driving car causes 8 car pileup
+  - appl working on touchscreen macs
+  - directTV layoffs of managers - cord cutting accelerating
+  - MSFT gives employees unlimited time off
+  - moderna increases covid vax price 400%
+  - first insider crypto case
+  - meta abandons quest vr headset
+  - MSFT simulate voice with just 3 seconds of samples
+  - MSFT to invest 10B in chatgpt owner
+- culture
+  - best cure for anxiety and depression is kindness
+  - EMS: whole-body electrical muscle stimuation gives you a workout
+    - side effects: muscle damage and burns
+- tech
+  - openai begins rolling out chatgpt professional
+  - china major quant computer breakthru?
+  - anthropic startup claude seems to be improved chatGPT (ex-openai employees)
+
 1.10
 - politics
   - mayhem in brazil
