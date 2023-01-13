@@ -1,5 +1,19 @@
 [Back](index.md)
 
+1.13
+- culture
+  - lisa marie dead
+- biz
+  - inflation slowing
+  - canadian woman ordered to repay employer for time theft
+  - goog allow rust code in chromium browser
+- health
+  - cancer deaths down 33 % in 30 years
+- politics
+  - japan wants to bring semiconductor manufacturing back home
+- tech
+  - chat gpt-3 based replika getting too "horny"
+
 1.12
 - biz
   - self driving car causes 8 car pileup
