@@ -1,5 +1,26 @@
 [Back](index.md)
 
+
+1.16
+- tech
+  - 90% of online content will be ai generated?
+    - CNET has been using AI to write articles
+  - contrails from planes are very bad for environment - trap heat that should be released into space
+    - ice clouds behind flying jets
+  - digital signatures replace handwritten ones?
+    - cursive eliminated from school curriculum
+  - deepfake eyes to make one look at camera
+- biz
+  - boring company gives free rides through its underground vegas tunnel during CES
+  - JS, java, python most in-demand skills
+  - BTC back at 20K
+  - climate startup removes co2 from air first time ever
+  - FTX drama: gary wang, SBF's cofounder created backdoor to allow firm to borrow clients' money without permission.  65B
+  - crypto.com 20% job cuts
+- politics
+  - 2022 was one of hottest years
+
+
 1.13
 - culture
   - lisa marie dead
@@ -13,6 +34,7 @@
   - japan wants to bring semiconductor manufacturing back home
 - tech
   - chat gpt-3 based replika getting too "horny"
+
 
 1.12
 - biz
