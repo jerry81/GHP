@@ -7,20 +7,59 @@
   - russia "making gains"
 - politics
   - china prepping for twn blitz?
+  - coal in us overtaken 99% by renewables
+  - gitlab blocked in china/hk?
+  - japan falling birth rate becoming emergency - 65 and over population 28% - trails monaco
+  - greenland getting historically hot
+  - china population declined in 2022!
 - biz
   - exxon 59B profit, smashes records
   - paypal, hubspot layoffs
   - frontier bringing 5G fiber across country
   - impossible foods plans 20% layoffs
   - phillips cut 13% of jobs
+  - china smartphone market slump
+  - UK ev startup "arrival" lay off 50%
+  - amzn sells 29 acre bay area property
+  - Goog after 12000 layoffs: executive paycuts
+  - 2nd largest steelmaker arcelorMittal invests 120M in "green steel"
+  - github reaches 100M devs
+  - msft cloud outage hits millions of users
+  - benz first level 3 certified auto driving in USA
+  - intel loses 8B, historic collapse
+  - buzzfeed stock jumps 150% after it announces it will use AI to generate content
+  - goog fuschia os hit hard by layoffs
+  - spotify 6% layoff
+  - MSFT huge investment in openai
+  - tiktok employees can decide what goes viral
+  - msft huge layoffs in AR and VR
+  - AMZN spend 35B on virginia data centers
+  - goog working on ai search chatbot - feels pressure from chat gpt
+  - amzn to layoff 18000
+  - aapl m2 pro and m2 max chips in macbooks announced
+  - msft azure openai service generally available, chatgpt on the way
 - culture
   - woman stole 1.5N worth of chicken wings from school district - purchasing department
   - welsh mcdonalds after anti-social behavior: plays classical music
+  - avatar 2 becomes 4th highest grossing ever, (unadjusted for inflation) 1.  avatar 1, 2.  titanic, 3.  star wars, 4.  endgame
+  - china lifts ban on marvel movies
 - tech
+  - boston dynamics' atlas can now run, jump, grab, and throw
+  - usb-c speeds hit 120Gbps
   - openai: tool detects machine-written text
   - endless ai generted seinfeld episode "nothing, forever"
   - hackers cloned code-signing certs in breached github repo
   - hacker breaks FB 2FA - switch off
+  - baidu to launch ChatGPT style bot
+  - openai hires army of contractors
+  - wine 8.0 - allows windows apps to run on linux (open source compatibility layer)
+  - uk sci - method to reduce steelmaking co2 emissions by 90%
+  - goog fluter 3.7 released
+  - hackers threaten leak of LOL source code
+  - chatgpt passes mba exam
+  - msft edge new feature, split screen
+  - china launches 100MPH hydrogen/supercapacitor train - zero emissions - hydro fuel cells
+  - bjarne defends c++: rust safety not superior
 - covid
   - biden will end covid emergency declaration on may 11
   - students lost 1/3 of school year to pandemic
