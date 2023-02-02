@@ -18,7 +18,7 @@
   - ukr denied fighter jets
 - tech
   - china mutant supercows
-
+a
 2/1
 - war
   - war still going
