@@ -1,5 +1,24 @@
 [Back](index.md)
 
+2/2
+- politics
+  - fbi searching biden home.
+- culture
+  - tom brady retires
+  - eagles in superbowl, eagle john sills accused of rape
+- biz
+  - power outage LAX
+  - meta lost 13.7B on metaverse bet
+  - snap - future AR glasses powered by generative AI
+  - samsung - galaxy book 3 - samsung's shot at macbook pro
+  - netflix getting serious about cracking down on pswd sharing
+  - AMD purposefully undershipping chips to keep prices high
+  - EA in trouble?  cancels apex legends mobile, battlefield games
+- war
+  - ukr denied fighter jets
+- tech
+  - china mutant supercows
+
 2/1
 - war
   - war still going
