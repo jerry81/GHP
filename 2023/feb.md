@@ -1,5 +1,23 @@
 [Back](index.md)
 
+2/3
+- politics
+  - chinese spy balloon spotted, shot down, elected not to, over montana
+  - arkansas will ban drag shows
+  - glaring lack of tech skills
+  - dangerous fungi spreading in USA due to climate change
+- biz
+  - 86% of tether controlled by 4 people
+  - sergey brin back at goog
+  - razer lightest mouse ever
+- culture
+  - "psychadelic" churches
+- tech
+  - scientists grow mini human guts inside mice
+  - AI used to paint netflix show backgrounds
+  - chatgpt - fastest growing user base
+  - more correlations between air polltion and mental health
+
 2/2
 - politics
   - fbi searching biden home.
@@ -18,7 +36,7 @@
   - ukr denied fighter jets
 - tech
   - china mutant supercows
-a
+
 2/1
 - war
   - war still going
