@@ -1,5 +1,26 @@
 [Back](index.md)
 
+2/6
+- politics
+  - chinese spy baloon blown up (montana)
+    - there was another one off coast of hawaii
+    - why baloons when you have satellites and drones?
+- biz
+  - musk back pain, trouble sleeping
+    - sleep at 3AM sleep 6 hrs, then check phones for emergencies
+  - bitc 2023 price rise - "suspicious"
+  - startup companies store CO2 in concrete
+  - goog chatgpt competitor to unveil next week
+- culture
+  - aus to allow Rx of mdma and psilocybin
+- tech
+  - chatgpt passes goog coding interview
+  - new corbonyl web browser forked from chromium for linux
+  - "a link to the past" reverse engineered for linux
+  - "blobs" of human brain planted in rats
+  - red hat makes openshift generally available, gaining more support for ARM archi
+
+
 2/3
 - politics
   - chinese spy balloon spotted, shot down, elected not to, over montana
