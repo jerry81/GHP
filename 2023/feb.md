@@ -1,5 +1,23 @@
 [Back](index.md)
 
+2/7
+- politics
+  - quake in turkey - 1000s killed
+  - single use plastic production rose 2019 to 2021
+  - pakistan unblocks wikipedia
+  - gov turns against crypto
+- biz
+  - musk twitter just 180K subscribers
+  - amzn data center in oregon uses fuel cells for power
+  - galaxy s23 full of bloatware, 60GB
+  - superbowl has no crypto ads
+  - goog chat gpt rival Bard
+  - dell to cut 6650 jobs
+- culture
+  - yellowstone will end
+- tech
+  - baidu chatgpt "ernie bot"
+
 2/6
 - politics
   - chinese spy baloon blown up (montana)
