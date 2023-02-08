@@ -1,5 +1,24 @@
 [Back](index.md)
 
+2/8
+- politics
+  - biden for re-election at 43% approval
+  - turkey EQ: 7700 dead
+  - CA looks with worry
+  - saudi arabia: pivot from big oil to big tech
+- culture
+  - rogan: "jews into money"
+  - rampant sex at ABCNEWS - TJ Holmes
+  - LOL: winnie the pooh blood and honey
+- biz
+  - zoom to layoff 1,300, 15%
+  - meta to ask managers to become individual contributors or leave
+  - MSFT new bing and edge powered by upgraded Chatgpt
+  - GOOG all hands to test bard
+- tech
+  - devs create AI to create police sketches.  experts horrified.
+  - 30% steam users run win 11
+
 2/7
 - politics
   - quake in turkey - 1000s killed
