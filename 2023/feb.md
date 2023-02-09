@@ -1,5 +1,18 @@
 [Back](index.md)
 
+2/9
+- politics
+  - AI race - goog bot making errors, china jumps in
+  - deathtoll hits 15K
+  - biden wants antitrust laws to rein in big tech
+- tech
+  - nestle tried to make penut allergy pill - it was a dud
+  - github claims source code search engine is game changer
+- biz
+  - disney 7K layoffs, disney+ lost subscribers
+  - goog shows new AI search features, but chatgpt rivals still weeks away
+  - everwind will build world's first green hydrogen facility
+
 2/8
 - politics
   - biden for re-election at 43% approval
