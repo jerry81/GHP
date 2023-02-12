@@ -7,9 +7,17 @@
 - biz
   - wozniak calls musk dishonest
   - Goog AI chatbot mistake causes stock to drop 100B
+  - also joining the chatgpt rush: ali, tencent, baidu
+  - indian IT consulting to be hit by chatgpt
+  - MSFT layoffs in hololens, surface, xbox
+  - yahoo layoff 20%
+  - gitlab cut 7%
+  - github cut 10%, reduce office space
 - tech
   - bing  chat injection attack
   - GNU core utils reimplemented in rust.
+  - goog Go may add telemtry by default
+  - jailbroken chatGPT becomes reckless
 - health
   - cut calories to extend life
   - vibrating pill to treat constipation
