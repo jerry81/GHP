@@ -1,5 +1,20 @@
 [Back](index.md)
 
+2/12
+- politics
+  - flying objects getting downed over Canada
+  - burnt out by covid, chinese taking up nomadic life
+- biz
+  - wozniak calls musk dishonest
+  - Goog AI chatbot mistake causes stock to drop 100B
+- tech
+  - bing  chat injection attack
+  - GNU core utils reimplemented in rust.
+- health
+  - cut calories to extend life
+  - vibrating pill to treat constipation
+
+
 2/9
 - politics
   - AI race - goog bot making errors, china jumps in
