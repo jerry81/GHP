@@ -4,7 +4,10 @@
 - politics
   - ufo shootdowns in america, biden stays silent
   - doubts that shot down objects are chinese in origin
+    - 4th object shot down near michigan
   - 1 in 6 americans 65 or older
+  - DARPA - AI pilots fighter jet
+  - give ocean antacid to fight climate change?
 - biz
   - prices continue to rise
   - bezos, musk space race to mars
@@ -13,8 +16,14 @@
   - AMZN invest in physical grocery stores
   - india struggling producing quality iphone casings
   - ford issues with F-150 lightning - battery issues
+  - twilio laoff 17% of workforce, 1500 employees
+  - goog employees criticise ceo for rushed botched Bard
 - culture
   - tiktok "kia challenge" teaches masses how to steal cars.  ki
+- tech
+  - rust "most loved" programming language
+  - bing ai makes dumb mistakes like google's first demo
+  - quantum computing may bring "cryptocalypse"
 
 2/12
 - politics
