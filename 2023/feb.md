@@ -1,5 +1,21 @@
 [Back](index.md)
 
+2/15
+- politics
+  - ufo shootdowns in america, biden stays silent
+  - doubts that shot down objects are chinese in origin
+  - 1 in 6 americans 65 or older
+- biz
+  - prices continue to rise
+  - bezos, musk space race to mars
+  - dozen eggs more expensive than pound of beef
+  - tesla workers unionizing
+  - AMZN invest in physical grocery stores
+  - india struggling producing quality iphone casings
+  - ford issues with F-150 lightning - battery issues
+- culture
+  - tiktok "kia challenge" teaches masses how to steal cars.  ki
+
 2/12
 - politics
   - flying objects getting downed over Canada
