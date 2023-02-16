@@ -1,5 +1,28 @@
 [Back](index.md)
 
+2/16
+- culture
+  - raquel welch dead, 82
+- biz
+  - streaming tops traditional tv
+  - aapl ar/vr headset to debut
+  - sundar pichal - all hands on deck for Bard
+  - AMZN owns twitch
+  - Adobe purchase Figma, 20B
+  - NTFLX "suprise me" button
+  - Goog fiber 5Gbps service
+- politics
+  - china warnings over the balloons
+  - iran drone downed in syria
+  - WHO abandons looking for origins of COVID-19
+- tech
+  - whales washing up on shores linked to offshore wind?
+  - bing ai is emotionally manipulative liar..
+- war
+  - one year of war
+  - putin uses viagra?
+  - RU deployed 97% of army in UKR
+
 2/15
 - politics
   - ufo shootdowns in america, biden stays silent
