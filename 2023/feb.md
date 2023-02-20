@@ -1,5 +1,44 @@
 [Back](index.md)
 
+2/20
+- biz
+  - real estate prices falling
+  - EV could power your home for 3 days
+  - AMZN currently requires emps to be in office 3 days a week
+  - godaddy hacked
+  - tencent seeing failure of metaverse, scraps vr hardware plans
+  - msft backed openAI to let users customize ChatGPT
+  - binance CEO Zhao moved 400M to firm managed by him
+  - APPL Silicon to support win 11?
+  - susan wojcicki (youtube) to step down
+    - youtube ads more than 10% of alphabet revenue.  29.2B
+- politics
+  - white baloon spotted over hawaii
+  - abraham lincoln tried to get black people to leave usa?
+  - netherlands to build nuke reactor to create medical isotopes
+  - japan has over 14,125 islands
+  - EPA 27B "green bank" for clean energy projects
+- culture
+  - cnn don lemon benched? (sexist comments)
+  - chick fila - tests cauliflower sandwich
+  - "diet weed" to cure munchies
+  - new street drug, xylazine "tranq"
+  - the term for staring at screens posture: "tech neck"
+- tech
+  - ask slashdot: should prod networks avoid win 11?
+  - health - DNA discovered that spreads cancer "bond villain" dn
+  - rogue supermassive black hole hurtles through space
+  - what happened to ruby?
+    - rails released in 2005
+    - was going to be successor to java
+    - unforseen rise of js ecosystem
+    - python has leg up on data science due to tensorflow and keras
+  - asphalt additive could keep roads ice-free
+  - MIT: carbon capture from seawater
+  - humans may need extra sleep during winter
+  - genetically modified trees grow 50% faster
+  - black holes the source of dark energy?
+
 2/16
 - culture
   - raquel welch dead, 82
