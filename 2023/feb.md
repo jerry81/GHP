@@ -1,5 +1,16 @@
 [Back](index.md)
 
+2/21
+- politics
+  - biden in kyiv
+  - turkey another earthquake
+  - UK staff shortages, tries to get over-50s back to work
+- biz
+  - AMZN shares slip, workers face pay reduction
+- tech
+  - man cured of HIV after stem cell transplant
+  - chrome tries to address memory hog problems
+
 2/20
 - biz
   - real estate prices falling
