@@ -1,5 +1,20 @@
 [Back](index.md)
 
+2/22
+- politics
+  - biden "firey" speech in ukr
+  - xi to moscow
+- culture
+  - sunnyvale ca named happiest city
+  - FL may ban dogs sticking heads out windows
+- biz
+  - restaurants subscription programs?
+  - 4day work week "major breakthru" UK
+- health
+  - drinking cola boosts testosterone?
+  - 5 people cured of HIV already
+
+
 2/21
 - politics
   - biden in kyiv
