@@ -1,5 +1,23 @@
 [Back](index.md)
 
+2/23
+- politics
+  - with xi's visit to moscow, china's claim to neutrality cancelled
+  - senators never punished for ethics violations
+  - beijing doesn't want big tech to go for chatgpt due to uncensored replies
+- culture
+  - jake paul vs tyson fury?
+- biz
+  - NPR huge layoff, 10%
+  - another AMZN acquisition: amzn buys one medical
+  - appl watch: wants to bring no-prick glucose monitoring
+  - AMZN pay reduction after shares slip
+  - meta plans to fire thousands
+  - jp morgan restricts staff usage of chatgpt
+  - wilson 3d printed basketball - never goes flat - covered with holesallowing air to pass thru
+  - Subway fast food: Subway Oasis: ev charging station
+  - MSFT and Nvidia game deal
+
 2/22
 - politics
   - biden "firey" speech in ukr
