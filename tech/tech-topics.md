@@ -1,0 +1,32 @@
+# example tech topics for knowledge transfer
+
+- chat gpt applications in business
+- Memory: can it be improved? techniques to improve
+- how to stay motivated at work
+- how to improve sleep
+- Anything work related where you can train or give an overview: for example SAP techniques in XYZ
+- Book review (something that collegaues can benefit from) (7 habits of highly effective people)
+- best programming language to learn in 2023 for beginners
+- overview of Business Applications department's daily work
+- overview of Infrastructure department's daily work
+- overview of full stack + devops daily work
+- management techniques
+- tech trends
+  - robotics
+  - AI
+  - machine learning
+  - data mining
+  - new apps
+- is Elon Musk a great leader?
+- Hot new companies and their core technology
+- Bitcoin's rise and fall - can it still succeed?
+- Current news in business
+  - lots of layoffs in American big tech
+  - why is there a global recession right now?
+  - 4 day work week experiments in UK
+  - work from home controversy - pros and cons
+  - covid's effect on working and the rise of Zoom and other teleconferencing apps
+- How does xyz work?
+  - how does a router work?
+  - how does the public cloud work?
+  - how does VMWare work?

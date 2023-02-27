@@ -1,5 +1,18 @@
 [Back](index.md)
 
+2/27
+- politics
+  - usa warns china: dont help russia
+  - s. cali gets white snow
+- culture
+  - jake paul loses
+  - madonna's brother dies
+  - yoko ono lived in NYC for 50 yrs
+  - dilbert's scott adams racist rant?
+- biz
+  - trader joe's vows against self-checkout
+  - survey: companies already replacing workers with chatGPT
+
 2/23
 - politics
   - with xi's visit to moscow, china's claim to neutrality cancelled
