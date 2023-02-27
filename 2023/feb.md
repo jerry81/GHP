@@ -4,14 +4,43 @@
 - politics
   - usa warns china: dont help russia
   - s. cali gets white snow
+  - DOJ to shut down Adobe/Figma deal
 - culture
   - jake paul loses
   - madonna's brother dies
   - yoko ono lived in NYC for 50 yrs
   - dilbert's scott adams racist rant?
+  - WB revamping lord of the rings
+  - italian starbucks - olive oil in coffee?
 - biz
   - trader joe's vows against self-checkout
   - survey: companies already replacing workers with chatGPT
+  - AMZN: 10K dogs registered for workplace visits
+    - AMZN dogs at work program
+      - dog parks, unlimited treats from receptions, events
+  - also AMZN: back to office edict - CEO: Andy Jassy since 2020 Q4
+  - TWN: Battery swapping EVs are all the rage
+  - MSFT testing ChatGPT ability to control robots
+  - WuLing Micro EV to be exported
+  - Goog, in bid to cut costs, asks emps to share desk, work alternate days
+  - TSMC expanding to Arizonia plant, sparks tensions
+  - MSFT worked on chatbot, "sydney" for years
+  - in 10 years, 40 % of domestic tasks could be done by robots
+  - Ericsson 8500 layoffs
+  - tesla new engineering HQ in Cali - was in Austin for 2 yrs - will now move to Old HP home, palo alto
+  - Nvidia still making billions despite pc demand drop
+  - ali reduced workforce by 19K in 2022 (covid)
+- tech
+  - "direct air capture" suck carbon out of sky - remove from atmosphere and store deep underground
+  - aiven study: top open source contributors are all companies: AWS, Intel, Red Hat, goog, msft
+  - best CS podcast: lex fridman?  Github, Red Hat, stack overflow, linux foundation
+    - corecursive
+    - changelog
+    - software engineering daily
+  - .NET 8 will bolster linux support
+  - GCC: new frontend for rust
+  - electrodes grown in living tissue
+    - electrode: electrical conductor
 
 2/23
 - politics
