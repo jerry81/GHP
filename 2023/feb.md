@@ -1,5 +1,26 @@
 [Back](index.md)
 
+2/28
+- politics
+  - SF: reparations for blacks? - decades of discrimination
+  - TN may ban drag shows
+  - janet yellen battling inflation
+  - olaf shultz - german chancellor since 2021
+  - some states considering 4day workweek
+- health
+  - 0-cal sweetner linked to heart attack and stroke
+- culture
+  - everything everywhere wins nearly all the SAG awards
+  - tom brady to standup?
+- biz
+  - meta: AI personas for IG, Messenger, whatsapp
+  - snap - ai chatbot powered by chatgpt
+  - xiaomi AR glasses
+- tech
+  - lastpass hacked
+  - chrome improves page zoom
+  - asahi linux support for apple m1 chips
+
 2/27
 - politics
   - usa warns china: dont help russia
