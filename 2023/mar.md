@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+3/2
+- biz
+  - musk "out of gas"?
+  - 40% software engineers only work remotely
+  - openai to let chatgpt into developer's apps
+    - will not use customer data to train models by default
+  - bluesky twitter alternative
+- culture
+  - netflix pornhub documentary
+  - keto and paleo bad?
+  - bieber face paralysis, cancels 2023 tour
+- politics
+  - "havana syndrome" not caused by energy weapon
+- tech
+  - gmail gets client-side encryption
+
 - 3/1
 - tech
   - scientists want to create AI using real human brain cells
