@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+3/6
+- politics
+  - CN military buildup
+  - 2 drug companies in Canada can legally produce coke, heroin, and MDMA
+  - UK during covid, was prepared to kill all pet cats
+- culture
+  - hallucinogens fundamental part of prince harry's life
+  - chris rock on will smith: wife affair with son's friend
+  - half of humans will be obese by 2035?
+  - english major is out
+  - USA: retirement without savings?
+- biz
+  - meta slashes prices on vr headsets
+  - AMZN fights about returning to office
+  - Universal Hydrogen: 40-Passenger hydrogen electric plane completes flight
+  - zoom fires president, former goog Greg Tomb after just 10 months
+  - AMZN halts construction on 2nd HQ in VA
+  - JPMorgan: require tech workers to give 6 months notice before quitting
+  - foxconn india 700M plant, shifting away from china
+  - tesla MX gigafactory, Nuevo Leon
+- tech
+  - ai problems: orders screwed up in mcdonalds
+  - c++ 23: feature complete, next would be c++ 26
+  - china leads usa in some key techs: synthetic biology - 1/3 of all research (monopoly), electric batteries, 5G, nano manufacturing
+    - defence, space, robotics, energy, environment, biotech, AI, advanced materials, quantum tech
+
 3/2
 - biz
   - musk "out of gas"?
