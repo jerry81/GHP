@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+3/7
+- politics
+  - xi speech: aims at USA?
+  - biden trips on way up air force one again
+  - nat debt at 31T
+  - LA to LV high speed rail, 10B
+- biz
+  - AMZN closes 8 cashierless stores
+  - goog building 1000 language AI model
+  - AMZN alexa, failure?
+
 3/6
 - politics
   - CN military buildup
