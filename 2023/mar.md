@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+3/8
+- politics
+  - paris violence - strikes, retirement age raising
+  - georgia, usa nuke plant
+- culture
+  - cindi lauper makes controversial hitler statements - compares anti-lgbtq to hitler
+- tech
+  - goog trains robot with Chatgpt style ai
+- biz
+  - meta thousands more layoffs
+  - FL startup wants to build data centers on the moon: Lonestar
+
 3/7
 - politics
   - xi speech: aims at USA?
