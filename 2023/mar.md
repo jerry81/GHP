@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+3/9
+- culture
+  - slap fighting hits the news
+  - wwe to legalize betting -- on scripted matches??
+- tech
+  - AI turns thoughts into images with accuracy!
+  - danger of fake sugars: affect gut and heart health
+- biz
+  - VW controversy: refused to use connected car service to track stolen car with 2 y/o still on board
+  - moderna criticised over covid shots pricing plans - 110 to 130 USD a dose
+  - goog limits senior roles
+  - MSFT to license call of duty to sony for 10 years
+  - duckduckgo wants to add AI search
+  - Amzn engi loses suit over expensing work from home internet
+  - geothermal startup: wells used like giant underground battery
+- politics
+  - netherlands, pressured by USA: imposes chip sanctions on china
+  - TWN thinks china cut internet cables
+
 3/8
 - politics
   - paris violence - strikes, retirement age raising
