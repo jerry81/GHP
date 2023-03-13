@@ -1,5 +1,53 @@
 [Back](./index.md)
 
+3/13
+- politics
+  - yellen says no bank bailout
+  - fed may come save
+  - china campaign to steal american secrets exposed
+    - 5 computer hackers breached over 100 orgs
+    - Qu Hui 2017 on linkedin - led to investigation into icloud account which led to search warrants
+      - aerospace tech IP
+  - SVB - silicon valley bank is an actual bank
+  - FBI bought US location data
+- biz
+  - Si value shockwaves
+    - UK tech sector at risk
+  - GM wants Chatgpt in cars
+  - tech layoffs - caused by over-hiring by managers for "fake work" - hitting hiring metrics "out of vanity"
+  - disney star wars space cruises struggling, 4800
+  - relativity space (3d printed rocket) launch aborted
+- culture
+  - panic and partying at SXSW
+  - more americans skipping college
+- tech
+  - Go back in top 10 PL (populatrity)
+    - python
+    - c
+    - java
+    - c++
+    - c#
+    - VB
+    - js
+    - sql
+    - php
+    - go
+  - Zig, modern alternative to C
+  - green!  turn carbon pollution into baking soda and store in oceans
+
+3/11
+- biz
+  - tech bust feared, bank "bust"
+  - starbucks selling nfts
+- culture
+  - baseball turf linked to cancer?
+- tech
+  - fruit fly's brain mapped
+  - 25th birthday of curl
+  - ChatGPT 4 to be released by MSFT, with AI video
+- politics
+  - CA congressman tries to reintroduce 32hr workweek law
+
 3/9
 - culture
   - slap fighting hits the news
