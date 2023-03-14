@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+3/14
+- biz
+  - bank "bloodbath"
+    - 100BN wiped
+    - first republic
+    - chain reaction
+    - "anyone can create a bank run"
+    - credit suisse falls to record low
+    - regional banks hit hard - megabanks failproof?
+  - meta stop supporting NFTs
+  - US minerals industries booming
+  - metaverse is actually offering courses
+  - tim cook betting on apple Mixed Reality headset
+  - HSBC to buy UK arm of SVB for $1.2 (1 pound)
+  - meta may pursue twitter rival
+- politics
+  - chinese satellite spying hawaii
+  - china could do a pearl harbor-like strike
+  - russians lose 1000+ soldiers in deadliest day of war
+  - biden on SVB: "that's how capitalism works"
+- nature
+  - giant seaweed blob twice width of usa
+- culture
+  - 'eeaao' sweeps oscars, michelle yeow, best pic
+  - iq scores dropped, first time in a century
+  - toxic TP?
+- tech
+  - github to rollout mandatory 2fa?
+  - Stack overflow: proven techs: open source, cloud computing, machine learning
+
+
 3/13
 - politics
   - yellen says no bank bailout
