@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+3/15
+- politics
+  - Si Valley: too big to fail?
+  - credit suisse in danger
+  - newsom cheers the bailout
+  - bank run was fueled by twitter
+  - inflation 6%
+  - stocks rally again
+  - cali flooding
+- culture
+  - tarantino: back for one last run "the movie critic"
+- tech
+  - singularity in 2045? guess futurists
+  - open ai: gpt4 announced
+- biz
+  - tiktok may split from bytedance
+  - gitlab rough quarter - loses 1/3 of value
+  - zuck wants em back in office!
+  - goog foldable in june
+  - meta to cut another 10K jobs
+  - spacex satellite to phone service
+
 3/14
 - biz
   - bank "bloodbath"
