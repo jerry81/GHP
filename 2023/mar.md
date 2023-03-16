@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+3/16
+- biz
+  - saudis pull funding from credit suisse
+    - ntnl bank offers support
+    - shares sink
+  - chat gpt predicts crash
+  - samsung to invest 230B into skorea mega chip factory
+  - startup tells new hires they need to know chatgpt for a job
+  - amzn project kuiper satellite internet dishes, 2024 launch
+- tech
+  - ask slashdot: hhow are you using chatGPT?
+    - 3.5 was trained on 175B parameters
+    - 4.0 scored 88th percentile in uniform bar exam, LSAT, SAT Math, SAT reading and writing
+      - able to receive images as basis for interaction instead of just text
+    - responses
+      - boring and useless, not creative
+      - doesn't trust open ai with phone numbe
+      - draw ascii art
+- politics
+  - UK treasury giving money to older people to keep working
+- health
+  - caffeine linked to reducing body fat and reducing type 2 diabetes
+
 3/15
 - politics
   - Si Valley: too big to fail?
