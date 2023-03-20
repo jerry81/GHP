@@ -1,5 +1,44 @@
 [Back](./index.md)
 
+3/20
+- War
+  - russia using chinese ammunition
+  - xi embraces vlad
+- politics
+  - MN: 400K gallons of radioactive water leaked from nuke plant, minnesota
+  - ransomware releases nude medical photos of cancer patient, she sues hospital
+  - water demand to outstrip supply by 40% by 2030
+  - silicon valley wants to build anti-china alliance with gov
+  - s korea tried 69 hour working week - youth backlash, current cap, 52
+  - china crackdown, bans 1100 scientists from UK
+- biz
+  - SVB parent company files for bankruptcy
+  - amzn building ai-powered web browser?
+  - SVB blames remote work for bank failure
+    - Thiel had 50M frozen in SVB
+  - AWS release fedora based amazon linux 2023
+  - elon, twitter to open source its recommendation engine on 3/31, promised to open source twitter
+  - public pool uses free data center heat
+  - goog employees want pichal to handle job cuts better
+  - sam bankman-fried took 2.2B, says FTX
+  - twitter CEO emmett Shear to resign
+  - chinese game company made a bot its CEO, stock outperformed some competitors
+  - meta has AI that decrypts proteins
+  - youtube TV sub is 72.99/Month
+  - shanghai developers working on ethereum
+  - MSFT copilot for office
+  - baidu ernie AI chatbot demo disappoints
+- tech
+  - ken thompson of unix fame says he will use linux over mac in future
+  - codon: compiles python into machine code, faster than c
+  - quantum:  future affects past?
+    - 2 pillars of theories don't talk to each other
+      - space-time
+      - quantum wave functino
+    - temporary solution: quantize gravity
+    - new idea: fit quantum theory in space and time
+  - UK sinks 900M into building own supercomputer, britGPT
+
 3/16
 - biz
   - saudis pull funding from credit suisse
