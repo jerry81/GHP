@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+3/21
+- politics
+  - trump takes a mugshot
+  - idaho legalizes firing squad executions
+  - iowa turns right?
+- biz
+  - chatgpt has a ceo, says it could be used for disinfo, cyberattacks
+  - twitch layoffs 400 emps
+  - ntflx plans 40 more games this year
+  - zippyshare, free storage, shuts down after 17 years due to no profit
+  - credit suisse loses
+  - amzn cuts another 9000 jobs
+  - stats about the recent layoffs:
+    - still good time to work in tech
+    - 80% found job within 3 months of layoff
+    - 375K more positions than people to fill
+    - FAANG is a thing
+    - every company is a tech company
+- tech
+  - AI develops cancer treatment
+  - next frontier for AI: generative video
+- culture
+  - finland happiest country, 6 years in a row
+  - good reviews for blackberry film
+
 3/20
 - War
   - russia using chinese ammunition
