@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+3/22
+- politics
+  - 118MPH winds in CA
+- culture
+  - paltrow on trial for "hit and run" ski crash
+  - there's a joke somewhere in there: man slapped wife in face with a slice of pizza
+  - damon and affleck reunite, "Air" film
+  - ayahuasca (DMT) brain scans
+    - breaks down networks of the brain
+- biz
+  - goog bard chatbot opens up
+  - adobe gets into AI game with Firefly - new family of AI models
+  - Nvidia DGX cloud - offers hardware to train ChatGPT
+  - OpenAi and MSFT are partners, but what about when they compete for customers
+  - MSFT brings DALL-E to new bing
+  - SVB Collapse aftermath: 8T mortgage debt market nervous, mortgage debt (backed by fannie mae and freddy mac) was biggest investment of SVB
+  - AAPL pay launches in S Korea
+
 3/21
 - politics
   - trump takes a mugshot
