@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+3/23
+- culture
+  - 6ix9ine jumped in gym
+- biz
+  - bill gates calls AI revolutionary
+  - dominos exits italy...
+- politics
+  - american iq scores falling?
+  - twn prepping satellite internet to prepare chinese invasion
+- tech
+  - researcher builds a right wing chatgpt to prove bias in Chatbots
+  - explosive usb sticks
+  - github copilot to add openai chat
+  - 3d printed cake
+
+
 3/22
 - politics
   - 118MPH winds in CA
