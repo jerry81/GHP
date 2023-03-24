@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+3/24
+- politics
+  - trump trial continues
+  - in TN, michaelangelo's david deemed pornographic, principal ousted
+  - FDA: lab grown chicken is safe to eat
+- tech
+  - openai really wants chatgpt to be able to browse the web
+  - there are Bitcoin ATMs - they were hacked due to 0day
+- biz
+  - accenture cut 19K jobs
+  - jpmorgan plam/face pay
+  - aapl to invest 1B per year on films
+
 3/23
 - culture
   - 6ix9ine jumped in gym
