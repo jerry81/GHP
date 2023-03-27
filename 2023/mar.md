@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+3/27
+- tech
+  - AI could affect 80% of jobs
+  - typescript 5.0 out - uses ecmascript module, modernizes decorators (upcoming es feature)
+  - gates: "age of AI has begun"
+  - orange pi 5 alternative to raspberry pi 4
+  - 400 undersea cables carry 95% of world internet traffic
+    - awkwardness in that China has invested in some of the companies building them
+  - Chat GPT already has scandals - leaked some payment data - blames an open source lib - bug was showed titles from other active user's chat history
+  - moore's law's moore dies, age 94
+  - github exposed an ssh key, but rotates it
+- politics
+  - zelensky a "homo weirdo"?
+  - deep south tornadoes kill 26
+- biz
+  - tim cook praises relationship with china
+  - under musk, twitter value drops to 20B
+  - aapl emps worried about AR headset flopping (3k price tag)
+  - tik tok ceo Shou zi chew, testified
+  - IBM world's first Quantum computer for speeding up healthcare research
+  - AMZN rejects petition from 30K workers opposing return to office mandate
+  - huawei builds 14nm chip design suite
+  - there is a payment platform for sex workers: spankpay, part of blockchain spankchain
+  - goog bard gets compared to chatgpt, "worse"
+  - docker deleting free accounts for open source orgs
+  - tech jobs still pay 120/hr despite the layoffs
+- culture
+  - keanu is 58
+  - american children stopped reading why?
+    - smartphones by the age of 11
+
 3/24
 - politics
   - trump trial continues
