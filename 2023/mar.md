@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+3/28
+- politics
+  - 6 dead in nashville, trans shooter
+  - world population to top out at 8.5B by 2050
+- biz
+  - neuralink looks for human trials
+  - jack ma returns to china after a year away
+  - msft, goog set to showdown over AI tools
+  - goog claims AI chip layout, gets scrutinized
+  - new msft teams 2x faster
+  - nvidia: "crypto brings nothing good to society"
+  - lithium prices falling, electric cars more affordable
+- culture
+  - melbourne VR exhibit simulates death
+- health
+  - cancer test may detect cancer a year before tumors grow
+
 3/27
 - tech
   - AI could affect 80% of jobs
