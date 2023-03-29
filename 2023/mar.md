@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+3/29
+- politics
+  - pension protests escalate to violence in france
+  - mass school shootings from columbine to nashville death toll at 175
+    - nashville shooter audrey hale has emotional disorders
+  - fire kills 40 migrants near el paso
+  - EU 2035 phaseout of gas cars
+- culture
+  - charles barkley to cnn?
+  - wes anderson new film, asteroid city, 21 stars
+    - hanks, norton, swinton, cranston, scarjo, margot, goldblum, dillon, carrell
+- biz
+  - disney 7000 layoffs, cuts its metaverse unit
+  - goog wants to take on github copilot
+  - github india team axed - just 100 jobs
+  - AMZN sidewalk - iot network (long range, low bandwidth)
+  - Ali major shakeup, will split into 6 companies, pursue ipos
+    - current CEO, daniel Zhang
+- tech
+  - ubuntu cinnamon remix becomes official ubuntu flavor
+  - generative AI may affect 300M jobs - quarter of work done in us and eurozone
+
 3/28
 - politics
   - 6 dead in nashville, trans shooter
