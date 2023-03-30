@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+3/30
+- culture
+  - pope hospitalized, trouble breathing
+- biz
+  - metaverse -> "meh"-taverse
+  - egg producer profits up 718%
+  - bytedance IG rival lemon8 hits app store's top 10
+  - EA cuts 800 jobs (6%)
+  - M1 version of Autodesk Maya, and AutoCAD
+  - Intel power-efficient Sierra Forest will be delivered 2024 H1
+  - WWDC - worldwide developer conference - appl to debut Mixed-Reality headset, 6/5
+  - Lockheed martin: building moon-to-earth satellite connex
+  - global rice crisis
+- politics
+  - 4 day workweek gaining traction in some states
+- tech
+  - bold claim: humans to find immortality in 8 years
+  - AI leaders make petition to halt training models more powerful than chatgpt to make safety preparations
+
 3/29
 - politics
   - pension protests escalate to violence in france
