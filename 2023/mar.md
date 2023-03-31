@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+3/31
+- politics
+  - UKR gets air raid warnings from mark hamil playing as luke skywalker
+  - trump charged 34 counts
+    - biz fraud
+    - first ex president charged with crime
+  - chinese manga site, B9Good shut down following piracy complaint from japan
+  - MI state defunds public libraries
+  - FTC should stop OpenAi from launching new GPT models says AI Policy group
+- tech
+  - stressed plants emit sounds, though frequency out of human ears' range
+  - half of new npm packages are seo spam
+  - skin implant manages type 1 diabetes - releases gluclose
+  - more calls to shut ai down by ai leaders
+- biz
+  - goog reorgs goog assistant to focus on bard
+  - roku cut 200 jobs
+    - digital media players hardware
+  - E3 2023 cancelled
+  - ai image generator midjourney stops free trials - "abuse"
+  - goog complains MSFT cloud anti-competitive
+  - Goog denies bard trained with ChatGPT data
+  - ai bing chat gets ads
+
 3/30
 - culture
   - pope hospitalized, trouble breathing
