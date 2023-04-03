@@ -7,6 +7,7 @@
   - 2000 fiber optic cables in CT cut by vandals - 16K offline
   - america preparing for space warfare
   - SF seeing tax funds go down due to work from home
+  - marlene schiappa, french politician will be on playboy?
 - culture
   - composer for "last emperor" sakamoto dead at 71
   - finland's secret to happiness?  happy with what you have
