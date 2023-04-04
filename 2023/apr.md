@@ -1,5 +1,16 @@
 [back](./index.md)
 
+4/4
+- politics
+  - trump 34 felony indictments
+  - the chinese spy balloon was real
+- biz
+  - goog guarantees flight prices
+  - goog majorly cutting costs, saving on office cupplies, including laptops
+  - jimmy wales considering letting wikipedia be written by ai
+- tech
+  - social engineering attacks coincide with rise of chatgpt
+
 4/3
 - politics
   - define arraignment: formal reading of a criminal charging
