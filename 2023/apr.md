@@ -1,5 +1,34 @@
 [back](./index.md)
 
+4/7
+- politics
+  - trans allowed to compete on women's teams
+  - china will ban exporting rare earth magnet tech for nat. security reasons
+    - used in EV
+  - china plans 500M subsea cable to rival US
+    - link CN, Mid east, EU
+  - india will not regulate AI growth
+- biz
+  - bankruptcy epidemic
+  - bosses, wanting hard workers, hire old people
+  - starbucks new coffee causing stomach issues?
+  - sundar pichal, goog search will include chat AI
+  - workers willing to pay cut for remote work
+  - cisco leaves RU, destroys 10s of millions worth of equipment and components
+  - Goog says its AI supercomputer faster, greener than NVidia's A100
+  - bob lee, cto of square, stabbed to death
+  - meta: ad-creating generative AI
+  - amzn gaming 100 layoffs
+- culture
+  - 50 years since picasso's deat
+- war
+  - UKR to strike back at ru
+- tech
+  - DALL-E rolling out to Edge
+  - AI model "cuts out" objects within image - image segmentation
+  - chrome 112 released, wasm GC, CSS nesting
+  - next chrome, 113, will ship webgpu support - nextgen high perf 3d graphics api for web
+
 4/4
 - politics
   - trump 34 felony indictments
