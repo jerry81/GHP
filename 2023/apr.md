@@ -1,5 +1,28 @@
 [back](./index.md)
 
+4/11
+- politics
+  - china "ready to fight"
+    - showdown with us navy
+  - louisville bank: 5 dead 9 injured
+    - disgruntled ex-worker, live-streamed
+  - dalai lama asks boy to suck his tounge??
+  - epa new rules will drive electric cars sales up 10x
+- biz
+  - musk struggling with twitter
+  - tesla shanghai megapack battery factory
+  - samsung profits plunge 96%, cut chip prod
+- culture
+  - flynn effect: iq scores increase steadily over time
+    - america undergoing reverse flynn effect
+  - super mario movie record for highest grossing animated movie ever
+  - nakamura becomes chess world champion
+- tech
+  - raspberry pi launches online code editor
+  - C rival Zig (general purpose PL)
+  - chatgpt sued for lying
+  - samsung employees busted for pasting propriertary code into chatgpt
+
 4/7
 - politics
   - trans allowed to compete on women's teams
