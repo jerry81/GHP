@@ -1,5 +1,31 @@
 [back](./index.md)
 
+4/13
+- politics
+  - fed predicts recession
+  - use to propose 56% vehicle emissions cut by 2032
+  - china mandates security reviews for AI services like chatgpt
+  - UK gov offer 1M vapes to cut smoking rates
+- culture
+  - bali doesn't like bad tourists anymore
+    - drunken australians
+    - ukr and RU since war started
+  - schwarzenegger fills pothole himself
+  =- NYT "digits" math version of wordle
+- tech
+  - wind and solar now at 12% of global electricity
+  - "self-healing" programs fix themselves thru AI
+    - "wolverine" on github
+    - [https://github.com/biobootloader/wolverine](https://github.com/biobootloader/wolverine)
+    - til: neovim editor
+- biz
+  - hbo max will be released with discovery+ content
+  - GOOG AOSS (assured open source software) helps devs defend against supply chain security attacks - will hit general availability
+  - intel work with ARM on chip manufacture compatibility?  make e/o chips in e/o factories?
+  - linkedin allow useres to verify job
+  - what made entire starlink fleet go down?
+    - aurora (solar wind)
+
 4/11
 - politics
   - china "ready to fight"
