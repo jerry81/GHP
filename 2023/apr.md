@@ -7,11 +7,27 @@
   - EU largest Nuke reactor starts outputting
   - great salt lake drying
   - europe may get green energy boost from solar in north africa
+  - germany shuts down nuke power permanently
+  - montana may ban tiktok
+  - skorea may give $490 allowance to reclusive youths to leave house
 - culture
   - bullfighting back in fashion in spain
+  - millenials play more games than genz and teens
 - tech
   - chrome gets emergency security update
 - biz
+  - amzn competes with copilot with codewhisperer
+  - degree not required for IT positions?
+  - musk new AI company, X.AI
+  - AI put into rpg town like the "sims"
+  - sega to acquire rovio (angry birds) for 1B
+  - china becomes largest buyer of chipmaking machines
+  - meta mass layoffs 21K over 6 months
+    - employee morale devastated
+    - 43% stock drop in 19 months
+  - nvidia top AI chips sell more than 40K on ebay
+  - red hat, largest linux company, pushing to become cloud power
+  - AMZN bedrock - chatgpt and dall-e rival
 
 4/13
 - politics
