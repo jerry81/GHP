@@ -10,11 +10,13 @@
   - germany shuts down nuke power permanently
   - montana may ban tiktok
   - skorea may give $490 allowance to reclusive youths to leave house
+  - sea levels rising threatining shanghai
 - culture
   - bullfighting back in fashion in spain
   - millenials play more games than genz and teens
 - tech
   - chrome gets emergency security update
+  - ethereum blockchain completes "shanghai" software upgrade
 - biz
   - amzn competes with copilot with codewhisperer
   - degree not required for IT positions?
@@ -28,6 +30,8 @@
   - nvidia top AI chips sell more than 40K on ebay
   - red hat, largest linux company, pushing to become cloud power
   - AMZN bedrock - chatgpt and dall-e rival
+  - didi targets robotaxis by 2025
+  - twitter partners with eToro for stock/crypto trading
 
 4/13
 - politics
