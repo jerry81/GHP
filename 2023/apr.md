@@ -1,5 +1,18 @@
 [back](./index.md)
 
+4/17
+- politics
+  - NY legal weed turning workers into zombies
+  - 4 dead 20 injured in Alabama
+  - EU largest Nuke reactor starts outputting
+  - great salt lake drying
+  - europe may get green energy boost from solar in north africa
+- culture
+  - bullfighting back in fashion in spain
+- tech
+  - chrome gets emergency security update
+- biz
+
 4/13
 - politics
   - fed predicts recession
