@@ -1,5 +1,15 @@
 [back](./index.md)
 
+4/18
+- politics
+  - fox trials?  billions at stake
+  - real problem: deepfake porn
+- culture
+  - highest paid nfl player ever: jalen hurts, 51M a season, QB went to SB
+- biz
+  - duckduckgo - AI generated answers into search engine
+  - aapl cards savings accounts 4.15 interest rate
+
 4/17
 - politics
   - NY legal weed turning workers into zombies
