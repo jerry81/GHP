@@ -1,5 +1,27 @@
 [back](./index.md)
 
+4/19
+- politics
+  - fox settles, 787M, fox murdoch owned?
+- culture
+  - frank ocean booed off coachella stage
+  - NYC wealthiest city on planet?
+- biz
+  - netflix password sharing crackdown to extend to US in Q2
+  - aapl the only big tech company without clear chatgpt plan
+  - reddit wants payment for training Big AI systems
+    - begins charging for API
+  - musk working on truth seeking ai, TruthGPT
+    - his angle: OpenAI profit incentives may interfere with ethics of AI models
+    - X.AI - his new company
+- tech
+  - gpt4 will hunt for trends in medical records
+    - chatgpt for health
+  - dump iron nanoparticles into ocean to trigger plankton growth?
+    - discovered by observing iron-rich volcanic eruptions
+  - medical dogma: cancer tissue is sterile
+  - new uranium isotope discovered, u-241 - 92 protons 149 neutrons
+
 4/18
 - politics
   - fox trials?  billions at stake
