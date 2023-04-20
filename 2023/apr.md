@@ -1,5 +1,22 @@
 [back](./index.md)
 
+4/20
+- politics
+  - House Rep Eric Swalwell (CA) had affair with chinese spy Christine Fang? Fang Fang
+  - twn civilians training for invasion
+  - india has passed china as most populous nation - 1.4286B - china 1.4257B says UN
+    - point of controvesy - didn't include Twn, HK, Macau
+    - India - half of pop under 30
+- biz
+  - tesla cuts prices 6th time this year
+  - ESPN layoffs
+  - Goog emps questioning company ethics amidst AI race
+  - goog cell service: google fi - renamed google fi wireless
+  - video editors using davinci resolve
+    - adobe final cut pro x had a rocky launch
+  - disney huge layoffs starting nxt week
+  - "post-pandemic slowdown" - companies dropping tons of office space - vacancies in commercial real estate
+
 4/19
 - politics
   - fox settles, 787M, fox murdoch owned?
