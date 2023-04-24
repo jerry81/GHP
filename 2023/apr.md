@@ -1,5 +1,23 @@
 [back](./index.md)
 
+4/21
+- politics
+  - biden final campaign
+  - nuke fusion to be regulated differently as nuke fission, fusion looser
+  - dept. homeland security studying how to make use of AI
+- culture
+  - phil jackson doesn't watch anymore - "too political"
+  - charles barkley will get a primetime cnn show
+- biz
+  - fire at disney theme park
+  - bed bath beyond bankrupt
+  - sundar pichal pay soars to 226M despite layoffs 800x median employee salary
+  - china beats musk to hyperloop?
+  - msft, amzn cloud profits slowing
+  - arm advanced chip coming, ipo later this year
+- tech
+  - pypl - python package repo
+
 4/20
 - politics
   - House Rep Eric Swalwell (CA) had affair with chinese spy Christine Fang? Fang Fang
