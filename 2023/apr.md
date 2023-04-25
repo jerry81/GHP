@@ -1,5 +1,28 @@
 [back](./index.md)
 
+4/25
+- culture
+  - aaron rodgers now on the jets
+- biz
+  - target locks product range behind security glass
+  - red hat begins cutting jobs 100s
+  - 1.5M EVs bought in CA
+  - snapchat "my ai" a big fail
+  - msft/amzn profits may be slowing in cloud sector
+- politics
+  - fox tucker carlson 2.6M viewers in final airing
+    - oreilly had 3.7M
+  - don lemon, after 17 yrs, out at CNN
+  - US prepping for conflict on island south of TWN
+  - china pushing digital yuan project
+- covid
+  - is back, new variant iteches eyes
+- health
+  - fried snacks cause depression?
+- tech
+  - sex in space -> sperm mutations?
+  - moths better at pollination than bees
+
 4/21
 - politics
   - biden final campaign
