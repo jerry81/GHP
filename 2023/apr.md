@@ -1,5 +1,46 @@
 [back](./index.md)
 
+4/27
+- biz
+  - fox rivals getting excited at opportunity
+    - tucker carlson called colleagues the c word
+  - face book stock bounce back
+    - saved by chinese retailers buying ads?
+    - metaverse lost 4B in first quarter
+  - cruise robotaxis run all day in SF
+  - amzn shuts down halo division (health focused)
+  - amzn layoffs start, HR and cloud units
+  - ntflx password policing cause big subscriber loss in Spain
+  - FB Clegg (global affairs) invokes anti-china rhetoric against tiktok
+- politics
+   - china mediating peace, xi calls zelensky
+   - yuan overtakes USD to become most used currency in cross-border transactions
+- culture
+  - spielberg speaks out against sensitive audiences
+  - inmates learning real world skills with vr
+  - indiana jones 5 - de-aged harrison ford
+- tech
+  - Linux kernel 6.3 - rust support (Miguel Ojeda)
+    - power management drivers for ARM, RISC-V
+
+4/26
+- politics
+  - tucker carlson run for prez?
+  - italy reducing gay rights
+    - giorgia meloni PM
+  - vegas to cali bullet train gets bipartisan backing
+  - 'delete act' - block data tracking
+- biz
+  - fox looking for replacement for tucker
+  - summer of pain for Si Valley startups
+  - GM - killing off chevy bolt and bolt euv
+  - skorea crypto: daniel shin (terra crypto cofounder) convicted of fraud
+- tech
+  - new openAI option: withold chatgpt conversation from training
+  - NASA new material: 3d printable high-temp materials - GRX-810
+- culture
+  - joe russo: movies will be made by AI soon
+
 4/25
 - culture
   - aaron rodgers now on the jets
