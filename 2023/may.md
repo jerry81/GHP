@@ -12,6 +12,24 @@
   - TSMC - 30% more for chips made in US
   - stripe signs deal with uber, despite partnership with lyft
   - gmail verify senders with blue checkmark
+  - unity layoffs
+  - passwordless goog accounts live
+  - intel begging investors wait for them to catch up to competition
+  - amd posts loss - chip sales falling
+  - reddit pressured to shut down nsfw stuff
+  - eli lily making experimental alzhiemers drugs
+  - Pi chatbot from deepmind and linkedin co-founders
+  - samsung bans chatgpt for employees after code leak
+  - pornhub blocks utah
+  - msft take on appl with custom ARM chips
+  - IBM had plan to replace 7800 jobs with AI
+  - ben and jerry's ben goes cannibis biz
 - culture
   - saudi soccer: 400M per year for players
   - UC davis serial killer?
+  - 48% spend more time socializing online than off
+- tech
+  - chatgpt-related malware on rise - meta
+  - JWT finds water vapor around exo-planet
+  - doctors using chatgpt for answering patient questions
+  - su and sudo rewritten in rust for mem safety
