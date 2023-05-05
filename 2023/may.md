@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+5/5
+- biz
+  - banks stressed
+  - waymo doubles robotaxi fleet in phx
+  - goog changes strategy on AI after rise of ChatGPT
+    - more defensive
+  - goog pixel fold
+  - shopify layoff 20%
+  - ibm threatens remote workers: career suffers
+    - ceo, arvind krishna
+- politics
+  - MX may shorten workweek from 48 to 40
+- culture
+  - porn VPN searches soar in utah
+- tech
+  - bing chat ai open to everyone - GPT-4
+
 - 5/4
 - politics
   - putin survives assassination?
