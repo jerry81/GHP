@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+5/8
+- politics
+  - biden's mental physical health in doubt
+  - tx shooting, 8 dead, white supremacist?
+  - recycling spews microplastics?
+  - 30% tax on electricity for crypto mining proposed
+  - WHO declares end to covid
+- biz
+  - berkshire jumps in earnings
+  - chatgpt powered by $15/hr contractors
+    - ai trainers
+  - open ai valued at 30B, ceo criticizes fully remote work for startups
+  - browser rankings:
+    - chrome - 66%
+    - safari - 11.87%
+    - edge - 11%
+    - ff 5%
+  - benz goes subscription model for better EV engine performance, learning from BMW
+  - app store workers want tips
+  - openai changes plans - no longer uses customer data to train
+  - westinghouse debuts small modular nuke reactor
+  - european companies band to form starlink competitor
+- culture
+  - clint eastwood not seen for 450 days
+  - even after death, epstein saga continues, with more name dropping
+- tech
+  - ruby on rails creator likes dynamic typing
+    - David Heinemeier Hansson, Danish, rips typescript
+  - EV charging on highway with induction?
+    - induction - producing emf accross conductor with changing magnetic field
+  - swift creator makes new PL, "mojo" - python superset
+  - pizza commercial generated with ai - runway gen2, chatgpt4, eleven labs, midjourne, soundraw AI
+  - scifi - build "dyson spehere" using jupiter's materials around sun - freeman dyson, physicist, 1960
+  - astronomers observe star swallowing planet, first time ever
+
+
 5/5
 - biz
   - banks stressed
