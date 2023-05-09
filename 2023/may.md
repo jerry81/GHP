@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+5/9
+- politics
+  - ai replace 80% jobs in "next few years"
+  - us owes 7T foreign debts
+  - tx mall shooter had nazi tattoos
+    - us passes 200 shootings this year
+  - singapore wants more policing of online content
+- biz
+  - another crypto exchange, bittrex bites the dust, bankrupt
+  - fb has 3B users? - most old
+  - intel another round of layoffs
+  - Chatgpt fever - investors pouring millions into AI startups, no biz plan required
+- tech
+  - codon - python compiler
+
 5/8
 - politics
   - biden's mental physical health in doubt
