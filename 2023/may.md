@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+5/10
+- politics
+  - trump sexually abused jean carroll, journalist?
+- culture
+  - 6'4" soccer star erling haaland most exciting man city player, norwegian
+  - deniro set to have a child at 79
+  - study: prehistoric migrations from china to america
+- biz
+  - metaverse predicted to contribute 2.4% of us gdp by 2035, study commissioned by meta...
+  - anthropic - alphabet backed ai startup - working on Claude product
+  - linkedin cut jobs, back out of china
+- tech
+  - ai will detect cancer soon (few years)
+  - another tool from openAI: analyzes LLM: large language models
+  - researchers create edible battery
+  - fifth state of matter - linked to photosynthesis? similar to state when atoms cool down to absolute zero
+
 5/9
 - politics
   - ai replace 80% jobs in "next few years"
