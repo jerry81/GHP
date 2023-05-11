@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+5/11
+- politics
+  - cnn town hall with trump, challenges him to admit he lost 2020 election
+  - 10,000 daily mexico border crossings
+  - argentina trying to prevent total currency collapse
+- biz
+  - economic slowdown affects wealthy most
+  - coinbase PM 2 years for insider trading
+  - ridiculous?  tipping at self-checkout?
+  - msft bets on fusion power
+  - goog pixel fold late june, 1799USD
+  - youtube blocking ad blockers
+  - goog waitlist for Bard
+  - turbotax sued for steering low-income citizens away from free tax services
+- tech
+  - what, baby born from 3 people's dna - in UK first
+    - IVF procedure - in vitro fertilization
+   - goog announces PaLM 2 - next gen language model
+     - multilinguality
+     - reasoning
+     - coding
+
 5/10
 - politics
   - trump sexually abused jean carroll, journalist?
