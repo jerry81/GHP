@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+5/12
+- politics
+  - in UK wind surpasses gas for energy
+- biz
+  - musk finds woman to run twitter, will step down?
+  - AAPL mkt capitalization 2.7T bigger than 3rd biggest stock mkt in world, UK
+  - MSFT emps dont get salary increase this year
+  - stackoverflow a chatgpt casualty
+  - goog launches AI coding bot for android devs - studio bot
+  - robinhood laucnhes 24 hour weekday stock traiding
+  - goog search gets "AI snapshots" - appear at top of search results page - AI-generated summary about your query
+  - wendy's replace drive thru staff with AI chat bots
+- culture
+  - world's oldest dog is 31
+- tech
+  - will we see end of spinning disk HDs?
+  - rust shows up on win 11 kernel
+  - pancreatic cancer vax shows promise
+
 5/11
 - politics
   - cnn town hall with trump, challenges him to admit he lost 2020 election
