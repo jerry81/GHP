@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+5/15
+- politics
+  - ergodan about to be out in turkey
+  - UK aviation: wants to do what spacex, virgin galactic wants to do, london to sydney in 2hrs via space
+- culture
+  - AM Radio about to be elimiated in some cars
+  - EuroVision - "biggest music party" sweden, loreen, wins 2023
+  - chappelle on SF: WTF happened to this place?
+    - homeless man sprayed with hose last year
+- biz
+  - appl testing M3 chips - 12 CPU cores?? speedy
+  - AWS's Opensearch (fork of ES) a suprise success
+  - goog tools may be like clippy "it looks like you are xyz, would you like some help with that"
+  - open source and linux skills in demand
+  - Goog MusicLM - description -> generate a music peice
+  - aapl silicon natively supports Unreal 5
+  - Anthropic Claude AI digest Great Gatspy in seconds
+  - musk names Linda Yaccarino as twitter CEO
+  - netflix cut spending 300M
+  - spacex plans commercial space station 2025
+- tech
+  - drone deliveries continue expanding, pizza deliveries in seattle
+  - solar can be on or off grid
+    - in indonesian villages, solar extends the day
+  - virtual romantic chatbot trained on conversations with men starts talking mostly about sex
+    - Forever Voices - offers pay by the minute conversations with steve jobs, taylor swift, donald trump
+  - philosophy: will AI turn all of human knowledge into proprietary products?
+  - Li Ion battery fires happening more frequently on aircrafts
+  - 62 more moons discovered on saturn
+  - quantum experimentation - two refrigeration systems 30M apart behave as one thru entaglement
+
 5/12
 - politics
   - in UK wind surpasses gas for energy
