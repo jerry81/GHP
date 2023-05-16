@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+5/16
+- politics
+  - rudy giuliani hit with sex harrassment
+  - newsmax prime time viewership passes cnn
+- health
+  - WHO against artificial sweeteners
+- biz
+  - goog to pay 8M
+  - vice files for bankruptcy
+  - redhat layoffs, 4%
+- culture
+  - coastal cities like SF, boston, LA, washington, pricing out low-wage workers and college grads
+
 5/15
 - politics
   - ergodan about to be out in turkey
