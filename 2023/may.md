@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+5/17
+- politics
+  - china wants to make yuan global currency
+- biz
+  - MSFT: new AI shows ability to human reason
+  - musk takes jab at soros
+  - big tech hires foreign workers after layoffs
+  - zoom to use anthropic chatbot, claude
+  - vodafone job cuts (11K)
+    - british telecom
+- culture
+  - pinball booming in america
+- tech
+  - environmental dna - dna that floats in the air
+  - TIL: malware can be hidden in zip files
+    - msft analyzes even password protected zips
+  - record set for man living underwater without depressurization - 74 days
+
 5/16
 - politics
   - rudy giuliani hit with sex harrassment
