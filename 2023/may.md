@@ -17,6 +17,8 @@
   - TIL: malware can be hidden in zip files
     - msft analyzes even password protected zips
   - record set for man living underwater without depressurization - 74 days
+    - Jules Undersea Lodge - 30 feet deep in ocean, Key Largo, FL
+      - guests scuba dive to get to room.
 
 5/16
 - politics
