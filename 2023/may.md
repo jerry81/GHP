@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+5/18
+- politics
+  - is NYC sinking under weight of buildings?
+  - montana bans tiktok
+  - example of good ai regulation: human must be responsible for medical diagnosis
+- culture
+  - depression at record high
+  - professor fails half of class after chatgpt falsely claims it wrote their final papers.
+- biz
+  - goog pixel phones will double as dashcams
+  - tears of kingdom sells 10M in 3 days
+  - logitech partners with ifixit
+  - IBM and google invest 150M in usa/japan quantum push
+  - AMZN echo product line - brings chatgpt like chat to alexa
+- tech
+  - mojo: exciting new python like language
+
 5/17
 - politics
   - china wants to make yuan global currency
