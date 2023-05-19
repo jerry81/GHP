@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+5/19
+- biz
+  - secret meeting discussing AI in lisbon
+  - uber nixes entire office building in SF
+  - startup of fabric (software platforms for retail commerce)
+    -  ex-CFO fired, embezzled money
+  - free chatgpt app for ios
+  - ali huge restructuring: 6 independent companies - cloud intelligence group = AWS+Slack+OpenAI
+  - aws to invest 12.7B in india
+  - BT (broadband, UK) to cut 55K jobs
+  - Hippocratic AI - build LLM for healthcare
+  - goog fiber test 20G internet
+- politics
+  - 9 suicides on aircraft carrier
+    - toughest living conditions in military
+  - china "corporate crackdown" on foreign companies
+    - state security czar ChenYixin in charge
+    - formerly technocrat Liu He
+- tech
+  - scientists create biggest schrodinger's cat - sapphire crystal superposition of 2 vibrational states
+  - AR laptop ditches screen for 100Inch Virtual display
+  - 61%: AI threatens humanity's future
+
 5/18
 - politics
   - is NYC sinking under weight of buildings?
