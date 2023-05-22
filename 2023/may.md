@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+5/20
+- politics
+  - us debt at 32T which is 250K per taxpayer
+  - china bans us chipmaker Micron "security threats"
+  - india has most digital payments in world
+  - of course: tx charges high fees to register EVß
+- biz
+  - epstein was to blackmail gates over affair
+  - chrome detects typos in urls
+  - goog promises free ai-powered coding
+  - "online catfishing" on an industrial scale ß
+  - meta inhouse ai chip to compete
+  - workers at bandcamp (music streaming) unionize
+- tech
+  - pypi (package repo) halts new signups, too much malware
+
 5/19
 - biz
   - secret meeting discussing AI in lisbon
