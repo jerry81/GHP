@@ -1,6 +1,22 @@
 [Back](./index.md)
 
-5/20
+5/23
+- culture
+  - jeff bezos finally engaged
+  - seance: communication with the dead
+- biz
+  - hyundai suddenly cool
+  - tiktok sue state of montana for ban
+  - more bad luck for meta - 1.3B by EU over data transfers
+- politics
+  - hillary says biden's age is an issue
+  - spain wants to ban e2e encryption
+  - CS majors up, fewer humanities
+- tech
+  - meta ai models very multilingual - 1000 languages
+
+
+5/22
 - politics
   - us debt at 32T which is 250K per taxpayer
   - china bans us chipmaker Micron "security threats"
