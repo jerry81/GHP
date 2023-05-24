@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+5/24
+- politics
+  - Ron Desantis will launch presidential bid with Elon
+    - florida gov
+  - france to cut greenhouse gases by 50% by 2030
+- biz
+  - cable news undergoing existential crisis
+  - FB may make deal with magic leap over AR
+  - goog bard adds images in responses - more visual
+  - NTFLX psw crackdown finally hits us customers
+  - MSFT windows copilot - personal assistant for win 11
+  - bing search coming to chatgpt (integration)
+  - meta sells giphy to shutterstock at a loss, 53M deal
+    - acquired for 315M
+- culture
+  - lily rose depp and the weeknd star in HBOs the idol
+    - "grim gross vulgar"
+
 5/23
 - culture
   - jeff bezos finally engaged
