@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+5/26
+- politics
+  - "oath keeper" founder sentenced to 18 years
+  - canada "euthanasia free-for-all" - 25% back lethal injections for poor and homeless
+    - world's most permissive program - 10K deaths per year
+  - desantis on trump: added 8T to debt in 4 years
+  - EPA power reduced by supreme court
+- biz
+  - elon spotted at rave, mx, touting msushroom, mdma benefits
+  - neuralink fda approval for in-human studies
+  - model y world's best selling car
+  - jp morgan cgpt-like ai service for investment advice
+  - ibm 100K q-bit quantum computer
+  - nvidia stock soars, many short sold them, 27% jump
+  - amzn china app store to close
+  - germany recession
+  - sony ps q - handheld ps for streaming ps5 games
+  - lenovo profits sink 75%, pc demand nosedive
+    - largest pc maker, ceo yanqing yang
+  - uber waymo teamup for robotaxis
+  - amzn answer to cgpt, coda, seen as incomplete
+- culture
+  - tadao ando - 81 year old architect is all the rage among celebs
+    - "brutalist"
+- tech
+  - brain and spine implants cure paralyzed man
+  - gates: ai kill goog search and amzn as we know it?
+  - brain waves identify pain level
+
 5/24
 - politics
   - Ron Desantis will launch presidential bid with Elon
