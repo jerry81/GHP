@@ -16,11 +16,18 @@
   - jp try beam solar power from space
   - mars crust thicker than earth's
   - future war: autonomous robot soldiers
+  - Peplum - ruby distributed, parallel computing
+  - turn energy from air using nearly any material
 - politics
   - cn deletes 1.4M social media posts in crackdown
+  - senators, for national security, issued satellite phones
 - biz
   - star wars theme hotel closing down sept 30 after barely 1 year
   - win11 better arm support
+  - seattle amazn workers plan walkout over return to office
+  - neuralink FDA approval of in-human studies
+  - hyundai and lg 4.3 b plant in georgia - ev batteries
+  - ford ceo: tesla superchargers become standard for ev charging
 
 5/26
 - politics
