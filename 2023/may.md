@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+5/29
+- health
+  - mobile phones - 60% increase in brain cancer risk?
+  - porn causing testosterone to plummet in men
+  - houseplants lower risk of cancer
+- culture
+  - bezos mid life crisis
+  - woke little mermaid a box office hit
+  - latest piar, elemental, is letdown
+- war
+  - russian pow camp - torture and electrocute prisoners
+  - kyiv hit by massive drone attack
+- tech
+  - jp try beam solar power from space
+  - mars crust thicker than earth's
+  - future war: autonomous robot soldiers
+- politics
+  - cn deletes 1.4M social media posts in crackdown
+- biz
+  - star wars theme hotel closing down sept 30 after barely 1 year
+  - win11 better arm support
+
 5/26
 - politics
   - "oath keeper" founder sentenced to 18 years
