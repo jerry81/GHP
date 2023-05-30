@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+5/30
+- politics
+  - china rebuff us request for meeting between defense chiefs
+    - rebuff - reject
+  - US wont tolerate China ban on micron
+- culture
+  - vegas casinos tip scales in their favor more
+- tech
+  - multiple myeloma - bone marrow cancer - 90% success rate treatment
+- biz
+  - new in "share apps" - rent out swimming pool
+  - nvidia chief - AI means everyone can be a programmer
+  - intel - AI overwhelming CPU, GPU, clouds, Meteor Lakes get VPU -
+  - game dev - tears of kingdom bridge physics wow devs:
+    - "hardest part is when two systems and features start touching each other"
+  - bob lee, SF tech mogul murdered, drugs in system, frequenter of swingers parties
+
 5/29
 - health
   - mobile phones - 60% increase in brain cancer risk?
