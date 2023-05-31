@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+5/31
+- culture
+ - it is pride month, traditionally june
+ - brands war - target rainbow displays protested by conservatives
+   - north face - drag queen
+   - bud light - boycott, 30% down
+   - LA elementary schol burns pride flag
+  - vegas "like warzone"
+  - pacino makes someone pregnant at age 82...
+  - when did the raiders move to vegas?!
+- politics
+  - 9 shot on hollywood florida beach
+  - lawyer in trouble - he used chatgpt to write court filings - 6 nonexistent cases
+- biz
+  - ARM cortex X4 - flagship cpu
+  - liz holmes 11 year prison sentence begins
+  - german startup gets funding for revolutionary fusion energy machine
+  - corporate VCs ride AI startup wave
+  - NVIDIA hits 1T riding the AI train
+
 5/30
 - politics
   - china rebuff us request for meeting between defense chiefs
