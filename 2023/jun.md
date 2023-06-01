@@ -1,0 +1,24 @@
+[Back](./index.md)
+
+- 6/1
+  - politics
+    - trump desantis battle
+    - chinese spies pose as tourists to infiltrate Alaskan military bases
+    - JP Morgan boss, jamie dimon may run for president
+    - amzn will pay 30M for alexa, ring privacy violations
+    - india cuts periodic table and evolution from txtbooks
+  - health
+    - study: junk food prevents deep sleep
+  - tech
+    - xray of xingle atom taken
+      - history - 2008 - electron microscope
+      - 2013 - quantum microscope
+      - 2023 - x-ray
+  - biz
+    - DoE: 46M fund to 8 nuke fusion companies
+    - ransomware attack on dental insurance giant Managed Care of North America
+      - 9M patient records exposed
+    - brave search API released
+    - amzn kills 37 projects -
+      - ceo andy jassy
+      - slowing sales
