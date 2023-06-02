@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 6/2
+  - politics
+    - biden 3 public stumbles this year
+    - air force drone goes rogue kills human operator in test
+    - US proposal: new cars have automatic braking systems
+  - biz
+    - poor FB: may have to pull news due to potential CA bill
+    - mac m2 and m2 ultra chips coming soo, in testing
+    - meta quest 3 vr headset, 500USD
+  - culture
+    - lizzo, pro musician threatens to quit music if she gets more fat insults
+    - nolan's oppenheimer gets R rating
+    - mafia may take over brazil's amazon
+  - tech
+    - new device generate electric power from thin air (humidity)
+    - china drilling super deep (10KM) hole, reasons unknown
+    - hubble network wants to connect 1B devices with space-based bluetooth network
+
 - 6/1
   - politics
     - trump desantis battle
