@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 6/3
+  - biz
+    - stocks soar, end of bear market?
+    - ketamine startups aid business working environments
+    - msft to unplug cortana
+    - unicorns -> unicorpses
+    - meta not dogfooding metaverse
+    - meta requires return to desk 3 days a week
+    - fidelity cuts reddit funding 41%
+    - moto razr+ - 4th gen foldable
+  - culture
+    - idol (hbo show) described as shocking
+      - rotten tomatoes 9-25%
+  - politics
+    - epstein before his death - 10 sex partners and std
+    - quarter of us children are latino
+    - AZ water crisis - phx limits constructions
+  - tech
+    - babies with dna from 3 people
+    - japan launch satellite made of wood
+
 - 6/2
   - politics
     - biden 3 public stumbles this year
