@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+- 6/5
+  - biz
+    - "saudi greed" - slashing oil production for summer
+    - musk preaches "the grind" - anti work life balance
+    - financial watchdog: money stored in paypal, venmo, cashapp not federally insured.
+    - AMZN AWS retiring open source and github documentation
+    - Meta's LLM - LLaMA, was released to open source
+    - first victims of cgpt - marketing content and social media content makers
+    - uber eats - 2k autonomous delivery robots
+  - culture
+    - paul oakenfold hit with sex harrassment suit
+    - bill gates recommends: "tommorrow, tomorrow, tomorrow" - book about video games
+  - tech
+    - GPS not working well in Hawaii
+    - new lung cancer pill - cut risk of death by half
+    - NYT reports how AI spells end of Computer programming as we know it
+    - ARM joins linux foundation in Open Programmable Infrstructure Project
+    - harvard's CS50 most popular online cs course, will be aided by chatgpt
+    - switzerland - gap between train cars turning into solar panels
+
 - 6/3
   - biz
     - stocks soar, end of bear market?
