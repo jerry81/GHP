@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 6/6
+  - culture
+    - mondays evil: most fatal heart attacks happen on monday
+    - vapes a big problem on flights
+    - paradox: bad movie reviews = big box office and vice versa
+  - biz
+    - aapl first major product in a decade - vision pro - vr headset, 3499 USD
+      - m2 ultra mac pro - 6999USD
+      - world's thinnest 15 inch macbook air
+    - weed dispensaries selling psilocybin extract products, safety concerns
+  - politics
+    - war: deepfake putin declaring martial law
+    - war: nuke bombers off coast of scotland
+    - war: ukr soldiers wearing nazi iconography?!
+    - UK trial 2000/month UBI - on 30 people
+  - tech
+    - fungi a big carbon storage medium - 36% emissions
+
 - 6/5
   - biz
     - "saudi greed" - slashing oil production for summer
