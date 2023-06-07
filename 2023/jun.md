@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+- 6/7
+  - politics
+    - canada wildfire smoke reaches new york
+    - syphilis surge - 75 year high
+    - cia - mixed LSD at SF brothel
+      - tested LSD on unsuspecting residents
+      - operation midnight climax
+    - japan invests 107B into hydrogen energy
+  - biz
+    - AAPL makes developer betas free - previously required the $99 account
+    - reddit layoffs - slowing hiring
+    - MSFT hit with 20M fine - illegally collecting children's data
+
 - 6/6
   - culture
     - mondays evil: most fatal heart attacks happen on monday
