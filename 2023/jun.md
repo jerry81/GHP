@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 6/8
+- politics
+  - NYC smoke everywhere
+- culture
+  - mel gibson : documentary about eptstein?
+- biz
+  - self driving cars actually making traffic worse?
+  - united airlines adds 4K OLED TVs for in flight entertainment
+  - open AI CEO: international agency similar to UN could oversee AI
+  - gamestop fires CEO, meme stock investor takes over
+  - AWS new server: "snowblade" - on prem hardware - for US military
+  - pornhub vs VA, MS (mississippi), AR
+  - open AI: no plans to rollout more consumer facing products other than CGPT
+    - not training gpt5 yet
+  - goog cloud partner with mayo clinic
+  - new mac tool run windows games on mac (proton-like)
+  - healthcare org, carbon health uses GPT4 to generate medical records
+- tech
+
+  - new mac
+
 - 6/7
   - politics
     - canada wildfire smoke reaches new york
