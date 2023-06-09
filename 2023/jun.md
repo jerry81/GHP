@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 6/9
+- politics
+  - trump update: first us president to be idicted on federal criminal charges
+    - retaining documents violating espionage act
+    - obstruction of justice
+  - east coast health warnings
+- culture
+  - puerto rico 125-degree heat index breaking record
+- biz
+  - housing crisis - climate driven disasters - lack of insurance for homeowners
+  - zuck: apple vision pro doesn't innovate
+- tech
+  - taurine: slow aging?
+  - AI improves sorting for the first time in over a decade.
+  - key to colonizing space - artificial photosynthesis
+
 - 6/8
 - politics
   - NYC smoke everywhere
