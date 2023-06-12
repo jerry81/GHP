@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+- 6/12
+- biz
+  - tesla autopilot statistics looking bad
+    - 17 fatalities, 736 crashes,
+  - tech layoffs -> unionization
+  - intel open sources font for developers, 'one mono'
+  - waymo car runs over dog in sf
+  - tesla planning to produce 375K cybertrucks per year
+  - US building factories at very fast rate.
+  - bard's twist on chatbots - not just output code but run code and show output of code.
+  - nvidia NeMo, chatbot tricked to leaking private info
+  - mercedes benz first eyeless, handless self driving vehicles
+- culture
+  - hbo "idol" has x-rated sex scene in 2nd episode
+  - unabomber dies in jail
+  - black mirror creator asks chatgpt to write an episode, it was terrible
+- politics
+  - US offers citizenship for joining military
+  - putin "little stalin"
+  - saudis getting into golf
+- tech
+  - debian 12 bookworm released
+  - future of development - self-healing code
+  - octopuses can "rewire RNA" on the fly
+  - space brain causes cavities in brains to enlarge
+
 - 6/9
 - politics
   - trump update: first us president to be idicted on federal criminal charges
