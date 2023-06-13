@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 6/13
+- culture
+  - sf downtown dying
+  - pat sajak retiring from wheel of fortune
+- politics
+  - trade war: us "allows" s korea, twn chip makers to operate to china
+  - nyc - charge toll for drivers going to lower manhattan
+  - openai opens up models to uk gov for research
+- biz
+  - robinhood crypto trading volume drops 68%
+  - reddit drops new api pricing terms, in protest, subreddits go dark.  reddit crashing.
+  - robotic pizza startup, zume, shutting down (got 375M from softbank)
+  - intel - submerge server racks in clear bath made of motor oil-like petrochems - they dont conduct electricity
+  - 14 year old about to grad from college and work at space x, jumped from 3rd grade to community college
+
 - 6/12
 - biz
   - tesla autopilot statistics looking bad
