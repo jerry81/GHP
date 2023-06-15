@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 6/15
+  - culture
+    - kevin spacey interview
+  - biz
+    - starbucks manager fired for being White, wins 25M
+    - 204M mansion in dubai - most expensive house for sale
+    - msft launched bing chatbot despite openAI warning that wasn't ready
+      - partnership becoming "awkward"
+    - goog lens search for skin conditions
+    - generative AI could add up to 4.4T a year to global econ
+    - llogitech ceo bracken darrell resigns
+    - sony cloud streaming ps5
+    - aws considering AMD's new AI chips
+    - meta open sources AI powered music generator
+    - AMZN using generative ai to summarize product reviews
+    - trade war takes to undersea internet cables
+    - AI startup raises 113M in europe - trio of former meta and goog AI researchers
+  - politics
+    - quebec expands euthanasia
+  - tech
+    - synthetic human embryos created using stem cells
+    - ocean temperatures off the charts
+
 - 6/13
 - culture
   - sf downtown dying
