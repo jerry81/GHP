@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+- 6/19
+- politics
+  - 20 shot at IL shopping mall
+  - bali bans "bonking" - unmarried cohabitation
+  - gas stoves pollute homes with benzene - linked to cancer (leukemia)
+  - xi jinping to bill gates: US AI tech in china is welcome
+- biz
+  - finnish startup - gas turbine in reverse - electric motor spins turbine
+    - turbine fed gas or liquid
+    - liquid speeds and slows quickly
+    - kinetic becomes heat
+    - no co2 produced
+  - reddit dying?
+  - chatgpt generated pitches 3x more likely to get funding
+  - mac m1 ultra same perf as m2 max, m2 ultra nearly double perf
+  - intel to start shipping quantum processor
+  - mercedes to add chatgpt to cartainment system
+- tech
+  - ANN (artificial neural networks) power hungry
+    - hyperdimensional computing (i.e. lots of dimensions in vector) could be new approach to AI
+  - interesting
+  ```
+  "Don't learn to code. Soon GUIs will do it all for you." — 1985
+
+  "Don't learn to code. Soon that will all be done offshore for pennies." — 2003
+
+  "Don't learn to code. Soon nocode tools will do it all for you." — 2015
+
+  "Don't learn to code. Soon AI will do it all for you." — 2023
+```
+  - 92% devs use ai tools
+
 - 6/15
   - culture
     - kevin spacey interview
