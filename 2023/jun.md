@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 6/20
+- politics
+  - secretary of state - antony blinken - visit xi, want to bury hatchet on spy balloons
+  - tx heatwave
+  - france takes stand against "overtourism"
+- biz
+  - intel 25B investment in israel factory
+    - 33B expansion in germany
+  - meta new AI Model Voicebox - speech generation
+    - application: "natural authentic translation"
+  - goog building a "company town" near hq - 153 Acres
+- tech
+  - growing seaweed to remove co2
+  - postgres current process model - multiple process pool waiting for connections - they considering change
+
 - 6/19
 - politics
   - 20 shot at IL shopping mall
