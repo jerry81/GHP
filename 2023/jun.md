@@ -1,5 +1,43 @@
 [Back](./index.md)
 
+
+- 6/27
+- politics
+  - trump video leak - conversation about documents
+  - diwali becomes public school holiday
+  - ouch: kamala harris "most unpopular VP in history"?
+  - China EV "dominance", ford gets 9.2B to catch up
+  - US to ease visas for skilled indian workers
+    - narendra Modi, PM visiting USA
+- culture
+  - "idol" cancelled early
+- biz
+  - Xbox admits defeat to Nintendo and ps
+  - BTC up to 31,400, highest in a year
+  - WFH looks to be a "permanent shift"
+  - avg american 54K USD in debt
+  - chatbots based on Meta's LLaMA open, but out of control
+    - chatGPT "heavily censored"
+  - meta vr subscription service - Meta Quest+ 7.99 a month 2 games a month
+  - goog deepmind claims next bot will surpass chatgpt
+  - blizzard ddos attacked, diablo IV, WoW downed
+  - 3M 10.3B payout for contaminated water systems
+  - amzn invest another 15B in india
+  - intel one-mono font causing controversy
+  - Ant (jack ma) making LLM
+  - tesla and starlink set to debut in india.
+- tech
+  - small nap during daytime keeps brain from aging?
+  - china molten salt nuke reactor
+  - RHEL7 and CentOS 7 reach EOL in a year and a week.
+  - AI killing old web
+    - stack overflow mods on strike
+    - redditors staging blackouts
+    - wikipedia affected
+    - layoffs gutting online media
+    - AI editor expects output of 200 to 250 articles per week.
+    - irony: people paid to train AI are outsourcing work to AI
+
 - 6/20
 - politics
   - secretary of state - antony blinken - visit xi, want to bury hatchet on spy balloons
