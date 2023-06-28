@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+- 6/28
+- culture
+  - rosanne cancels herself - anti-semitic remarks on theo vonn show
+  - silicon valley powered by shrooms, lsd, ketamine
+  - meat eating hits low in germany
+  - pickleball one of the fastest growing sports
+- politics
+  - UN: cocaine use surging
+  - worst air quality in world?  chicago
+- health
+  - resistant gonorrhea shot gets FDA Fast track
+- biz
+  - openAI and msft want to record doctor's visits
+  - bitcoin surge: fidelity made exchange traded fund filing
+  - volvo agrees to adopt tesla's charge port
+  - figma design tools free on chromebooks for all us students
+  - msft plan: move windows fully to cloud?  - stream OS to device?
 
 - 6/27
 - politics
