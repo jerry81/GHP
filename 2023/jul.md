@@ -42,3 +42,24 @@
     - wayland - GUI for linux
     - AI "Junk" polluting internet
     - drones reach stratosphere, fly higher, longer
+
+- 7/26
+  - climate
+    - florida ocean temps - 101 degrees
+  - culture
+    - lebron son cardiac arrest during workout
+    - jagger turns 80
+  - politics
+    - dan wooten - GB news - catfishing scandal
+    - EU ambition - produce 20% of world's chips, 48B invested
+  - biz
+    - NETFLIX - 900K AI job
+    - musk "kills" twitter
+    - tsmc invest 2.9B in advanced chip plan, wants to take on AI
+    - rental cars the new Airbnb - "car sharing services" - turo, getaround
+  - tech
+    - speed standard (25Mbps Down, 3Mbps up) not good enough anymore
+    - openAI shuts down AI detection tool
+    - geology mystery - gravity hole in indian ocean - reason: earth is not perfect sphere.
+    - AI watches cars and tells cops if you might be a criminal - following traffic routes
+    - the paradox: AI increasing intensity of work
