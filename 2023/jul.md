@@ -1,5 +1,53 @@
 [Back](./index.md)
 
+- 7/31
+  - politics
+    - phx hottest month in history
+    - americans to require visa to visit europe?
+  - war
+    - UKR fights back: drone atk on russia
+    - kremlin threatens nuke retaliation
+  - culture
+    - daredevil dies after falling from 68-story skyscraper
+    - bill gates new podcast: "unconfuse me"
+      - first epsiode with seth rogen
+  - biz
+    - musk's twitter now known as "X" - glowing "X" in SF marks place where it used to be - Market St. HQ
+    - 30K more high-speed chargers planned in NA by 2030 from 7 major automakers
+    - meta new twitter competitor: threads - most stopped using it
+    - samsung huge profits decline- 95% - from 11.06B down to 523.5 M
+      - decline in smartphone shipments
+      - hopes galaxy z flip 5 and fold 5 will save them
+    - chatgpt for android released
+    - intel back in green after two Q of losses
+    - unsafe lithium ebike batteries
+    - linkedin ai coach for job applications
+    - 40M ps5 sold
+  - tech
+    - blood of young mice extends life of old
+    - health warning: red meat allergy caused by ticks
+
+- 7/26
+  - climate
+    - florida ocean temps - 101 degrees
+  - culture
+    - lebron son cardiac arrest during workout
+    - jagger turns 80
+  - politics
+    - dan wooten - GB news - catfishing scandal
+    - EU ambition - produce 20% of world's chips, 48B invested
+  - biz
+    - NETFLIX - 900K AI job
+    - musk "kills" twitter
+    - tsmc invest 2.9B in advanced chip plan, wants to take on AI
+    - rental cars the new Airbnb - "car sharing services" - turo, getaround
+  - tech
+    - speed standard (25Mbps Down, 3Mbps up) not good enough anymore
+    - openAI shuts down AI detection tool
+    - geology mystery - gravity hole in indian ocean - reason: earth is not perfect sphere.
+    - AI watches cars and tells cops if you might be a criminal - following traffic routes
+    - the paradox: AI increasing intensity of work
+
 - 7/24
   - politics
     - israel protests, on brink of civil war
@@ -42,24 +90,3 @@
     - wayland - GUI for linux
     - AI "Junk" polluting internet
     - drones reach stratosphere, fly higher, longer
-
-- 7/26
-  - climate
-    - florida ocean temps - 101 degrees
-  - culture
-    - lebron son cardiac arrest during workout
-    - jagger turns 80
-  - politics
-    - dan wooten - GB news - catfishing scandal
-    - EU ambition - produce 20% of world's chips, 48B invested
-  - biz
-    - NETFLIX - 900K AI job
-    - musk "kills" twitter
-    - tsmc invest 2.9B in advanced chip plan, wants to take on AI
-    - rental cars the new Airbnb - "car sharing services" - turo, getaround
-  - tech
-    - speed standard (25Mbps Down, 3Mbps up) not good enough anymore
-    - openAI shuts down AI detection tool
-    - geology mystery - gravity hole in indian ocean - reason: earth is not perfect sphere.
-    - AI watches cars and tells cops if you might be a criminal - following traffic routes
-    - the paradox: AI increasing intensity of work
