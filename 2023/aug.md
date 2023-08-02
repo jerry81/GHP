@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+8/2
+
+- politics
+  - trump case assigned to obama appointee, tanya chutkan
+    - was a tough punisher of capitol rioters
+    - charges: undo election loss, subvert transfer of power
+    - trump: usa like nazi germany
+  - belarus helping russia in the war
+- health
+  - loneliness shrinks brain
+  - cancer pill annihilates solid tumors
+- tech
+  - nvidia ai image generator so small it fits in 100 kb and takes 4 minutes to train.
+- biz
+  - new term: employee attrition: turnover
+    - emp attrition up in return to work policies
+
 8/1
 
 - politics
