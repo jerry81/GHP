@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+8/7
+
+- politics
+  - aus going cashless
+  - usa 2nd claim at fusion breakthru
+  - offshore wind power huge and untapped
+- culture
+  - barbie 1B worldwide - first for woman director
+  - jaime foxx, antisemite?
+- biz
+  - moon "open for business"
+  - every startup is an AI company now - bubble fears
+  - development advice:  throw away your first draft and start over
+  - zoom demand: in office 2 days/week
+- health
+  - worst of the worst - #1 alcohol, # 2 tobacco, # 3 mj
+- tech
+  - airTag tracked lost luggage better than United
+  - deep learning-powered acoustic attack steals data from keystrokes 95% accurate
+    - defenses: software-based keystroke audio filters
+    - pswrd managers
+    - biometric
+  - vim for encrypted pwd manager
+
 8/2
 
 - politics
