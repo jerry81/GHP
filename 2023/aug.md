@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+8/8
+
+- biz
+  - raspberry pi 4Bs found in abandoned Spin scooter rental services, seattle
+  - berkshire shares hit a high
+  - paypal launches dollar-backed stablecoin - shares climb
+  - goog search gets grammar check
+- culture
+  - zuck vs elon - elon bragging about lifting 45lbs weights friday - now may need mri on back and neck
+    - maybe need surgery
+  - neuralink 280M investment to develop brain implants
+- tech
+  - physics: gamma ray detected from sun - highest energy light
+
+
 8/7
 
 - politics
