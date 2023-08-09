@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+8/9
+
+- poli
+  - floods, fire, rains bedevil europe
+- culture
+  - heat causing nocturnalness - 1AM dog walks
+  - "the tetris effect" writer (Editor of Gizmodo) sues apple for tetris movie
+- biz
+  - disney AI task force to cut costs.
+  - GM Ultium platform - bidirectional charging
+  - germany spends 11B to win TSMC plant, Dresden
+    - subsidiary, ESMC
+  - AMZN owns more than half arm server CPUs in world
+  - nvidia asserts AI dominance with another fast chip
+  - goog asked to remove 1B pirate links in 9 months
+- tech
+  - openai allows websites to block webcrawler from scraping sites
+
 8/8
 
 - biz
