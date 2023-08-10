@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+8/10
+
+- politics
+  - ecuador - prez candidate shot dead
+  - fox doing better after tucker carlson firing
+  - 1100 indictments for 1/6 riots
+  - beijing to keep tight leash on mobile apps industry
+- tech
+  - solar flare knocks out radio across USA
+  - chatgpt getting dumber at math
+- health
+  - more you walk lower your risk of death
+    - world's largest study
+  - covid spike
+  - young adults getting more heart attacks
+- biz
+  - disney screwed: streaming and TV decline
+    - raises prices for streaming 27%
+  - world's largest cruise ship set to sail - industry rebounds
+    - royal carribean, Finland
+  - wework worries about its future
+
 8/9
 
 - poli
