@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+8/13
+- politics
+  - maui 89 dead
+  - book banning in tx
+  - china begins banning more USA tech
+  - USA wants to vacuum greenhouse gases from sky
+  - houston-dallas bullet train?
+- biz
+  - sex in robotaxis
+  - porn hub vs texas - age verification disputes
+  - ali ai chief: infrastructure struggling to keep up with demand
+    - china giants order 5B nvidia gpus
+      - tencent, ali, baidu, bytedance
+  - virgin galactic flies tourists to space for first time
+  - y combinator harder to get into than ever
+- culture
+  - 50% like watching shows with subtitles
+- tech
+  - more than half of chatgpt answers wrong
+  - lk-99 not a superconductor
+  - genetically engineered bacteria to detect cancer
+  - in addition to gravity, electromagnetism, the strong force and the weak force, fifth force of nature, behind muons could be discovered?
+  - anthropic claude LLM to launch
+    - ex openai
+
 8/10
 
 - politics
