@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+8/14
+- politics
+  - maui fire deadliest in the century
+  - paris hilton spotted in maui water few miles away
+  - chinese firms landgrab of american agricultural land, usa fights back.
+- culture
+  - rupert murdoch frolicking with new woman
+  - musk flaking on zuckerberg fight
+  - death meditation:  wrap in sheets and imagining looking at dead body
+    - cope with death anxiety
+    - feel alive
+- tech
+  - low freq gravitational waves fill our universe - due to supermassive black holes?
+  - laser sensors measure how much power going thru a line?
+  - michio kaku predicts quantum computing + AI synergy
+  - state of the hype train: self driving cars behind schedule.
+    - crypto and blockchain not legit
+    - carbon capture and storage lagging
+    - antitrust in bigtech only recently getting clamped
+  - alzheimers gene may be linked to increased fertility
+- biz
+  - evolution of stack overflow: ai-powered answers and chat followups
+
 8/13
 - politics
   - maui 89 dead
