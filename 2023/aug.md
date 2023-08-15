@@ -1,5 +1,14 @@
 [Back](./index.md)
 
+8/15
+- politics
+  - maui death toll over 200?
+- culture
+  - netflix boy scouts abuse documentary
+- biz
+  - apple paying up for "batterygate", 2020 scandal - pay out 500M
+  - michael burry (of big short fame) bets against the market again
+
 8/14
 - politics
   - maui fire deadliest in the century
