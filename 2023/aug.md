@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+8/16
+- biz
+  - economy not quite behaving like a recession
+  - tesla wants to innovate on data centers
+  - actual google goal: beat openAI
+- politics
+  - maui fire causes hate towards tourists
+  - doctor assisted deaths up 63% in CA
+- culture
+  - bradley cooper as leonard bernstein in Maestro
+- tech
+  - physicist: chatbots just glorified "tape recorders"
+
 8/15
 - politics
   - maui death toll over 200?
