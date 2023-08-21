@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+8/21
+- politics
+  - trump to skip debates
+    - unhealthy stress
+  - china 40 year boom over?
+    - running out of things to build, saddled in debt
+  - chatgpt becoming part of school curriculum?
+  - aus ISPs were offering free emails, stopping
+- culture
+  - queen fat bottomed girls gets cancelled
+  - burning man tickets discounted
+  - marijuana use record high
+  - blue beetle happened - good reviews
+- biz
+  - majority of EVs dont have spare tires b/c unnecessary and heavy
+  - WFH war: workers want data, not anecdotes
+  - IBM study: 40% of workers reskill in 3 years due to AI
+  - SF robotaxi Cruise asked to reduce fleet 50% after firetruck crash - in front of oncoming firetruck
+    - cruise vehicle had a passenger
+
+
 8/16
 - biz
   - economy not quite behaving like a recession
