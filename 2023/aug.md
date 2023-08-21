@@ -6,8 +6,10 @@
     - unhealthy stress
   - china 40 year boom over?
     - running out of things to build, saddled in debt
+    - fertility rate record low 1.09
   - chatgpt becoming part of school curriculum?
   - aus ISPs were offering free emails, stopping
+  - half americans favor tiktok ban
 - culture
   - queen fat bottomed girls gets cancelled
   - burning man tickets discounted
@@ -19,7 +21,18 @@
   - IBM study: 40% of workers reskill in 3 years due to AI
   - SF robotaxi Cruise asked to reduce fleet 50% after firetruck crash - in front of oncoming firetruck
     - cruise vehicle had a passenger
-
+  - softbank buys more stock in Arm
+  - suckers who bought bored ape nfts sue
+  - forgetting to cancel subs a big part of revenue
+  - Adyen (dutch payment processing) loses 20B
+  - china starting with digital burials
+  - debian 30 year anniversary
+  -  big tech slowing layoffs but not yet resuming hiring
+  - nintendo tries to patent some tears of the kingdom mechanics
+  - ex goog eric schmidt launches AI Science moonshot
+- tech
+  - MSFT: ai "as big as internet"
+  - chatgpt leans liberal
 
 8/16
 - biz
