@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+8/22
+- health
+  - listeria contaminated milkshake machine kills 3
+    - Frugals food chain in Wash state
+- politics
+  - cali trifecta
+    - fires, floods, quakes
+- culture
+  - tesla syndrome:  innovation makes things worse/uglier
+- biz
+  - "X" (twitter) throttling links to competitors - legal concerns
+  - ARM IPO on nasdaq
+  - china continuing to aggressively buy Nvidia cards despite sanctions
+  - .com and .xyz domain prices raising - (namecheap)
+  - SK Telecom on 5G - failed to deliver on promise, overhyped
+- tech
+  - ART - android runtime
+    - update leads to 30% faster app startup
+  - Cellebrite - the phone hacking tech cops use in america
+  - AI and jobs - unlikely to destroy most jobs - but clerical at risk
+  - edible microchips on cheese wheels for tracking?
+
 8/21
 - politics
   - trump to skip debates
