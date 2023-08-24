@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+8/24
+- biz
+  - CNN considers NYTimes ex-CEO for job
+  - goog AR sucks - will partner with samsung to make APPL vision pro
+  - meta Massively multilingual AI model translates up to 100 languages - Seamless M4T
+  - MSFT excel to support python
+- politics
+  - prigozhin (Wagner leader) killed in plane crash
+    - wagner - private military company - mercs, russian
+  - fukushima waste water to be released
+- tech
+  - brain wave -> speech tech for paralyzed people
+  - bacteria can eat methane, slow global heating
+  - scientists to fix tooth decay with stem cells
+
 8/22
 - health
   - listeria contaminated milkshake machine kills 3
