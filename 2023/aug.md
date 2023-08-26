@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+8/26
+- biz
+  - orlando launches self driving shuttle bus - crashes in 2 days
+  - tesla supercharger at diner and movie theatre plans
+  - nvidia hits all time high
+  - meta releases code llama - code generation AI tool
+  - tmobile 7% layoff
+  - spacex team up with cloudflare speed up starlink
+- health
+  - wealthy getting full body scans - unnecessary?
+- culture
+  - peter zeihan on jre - china has 10 years until epic collapse
+  - mandarin study drops 20%, chat gpt effect
+- tech
+  - bio: y chromosome has been fully sequenced (male)
+- politics
+  - global warming - rainforests getting to hot for photosynthesis?
+  - germany will get into ai race with CN, US
+  - DE also lags on its net-zero plans
+
 8/24
 - biz
   - CNN considers NYTimes ex-CEO for job
