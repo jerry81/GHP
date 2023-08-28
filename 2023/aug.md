@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+8/28
+- politics
+  - white man fatally shoots 3 blacks in store
+    - hate crime
+    - rifle covered with swastikas
+  - no dangerous radioactivity detected near fukushima
+  - Si Valley moguls buy 52K acres of cali farmland to build city from scratch
+    - double size of SF
+- culture
+  - burning man starts - orgy dome returns
+  - national movie day - $4 movies
+- health
+  - covid masks linked to seizures, cancer?
+    - 30 years
+  - fish oil overmarketed for heart health?
+- biz
+  - iconic nordstrom, sf closes
+  - an amazon no-code app builder dies - amzn honeycode
+  - spacex delivers 4 astronauts to ISS
+- tech
+  - rust usage up
+  - linux 6.5
+  - cats detect umami, evolved in desert, like tuna
+  - sand as energy-storing?
+  - bjarne stroustrup advice: "dont overspecialize, be flexible"
+  - paper straws actually toxic
+
 8/26
 - biz
   - orlando launches self driving shuttle bus - crashes in 2 days
