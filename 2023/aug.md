@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+8/29
+- politics
+  - florida major hurricaine
+  - trump rival emerges: nikki haley
+    - republican 7% support
+    - prolife
+- tech
+  - chatgpt popularity waning
+- biz
+  - small turkish-dutch airline launches adult only section
+  - kias and hyundais easy target of theft
+  - foxconn wisconsin land sale
+  - some MSFT certifications "open book"
+
 8/28
 - politics
   - white man fatally shoots 3 blacks in store
