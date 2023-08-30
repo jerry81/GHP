@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+8/30
+- politics
+  - cat 4 hurricaine 160 MPH winds
+- biz
+  - wash post layoffs
+  - Apple bought all of TSMC's 3nm chips for 2023
+  - Goog Chat - competitor to slack and teams
+  - also Goog: half GAI startups use goog cloud
+  - Ai generated books showing up on AMZN
+    - mushroom foraging
+- culture
+  - HBO Idol cancelled, failure
+- tech
+  - linux 6.5 released
+
 8/29
 - politics
   - florida major hurricaine
