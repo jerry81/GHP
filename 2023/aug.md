@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+8/31
+- politics
+  - florida damage less than feared - storm now in GA, SC
+  - china new king of nuke power?
+  - china state-backed firm aplogizes for ripping off MSFT source code
+  - saudi man gets death for posts online
+- biz
+  - hollywood plagued by strikes
+    - collapse of industry?
+  - terraform by hashicorp forked to openTF
+  - VS for mac discontinued
+  - veiled threat from AMZN CEO Andy Jassy: it's not going to work out for emps who defy WFH policy
+  - sony raise PS plus plans prices - 80 from 60
+  - Visa MC raise credit card fees
+  - meta - turn any flat surface into keyboard
+- tech
+  - EU answer to openAI - Aleph Alpha
+
 8/30
 - politics
   - cat 4 hurricaine 160 MPH winds
