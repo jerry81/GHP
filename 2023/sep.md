@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+9/5
+- politics
+  - kim jong un goes to russia - weapon deal with putin?
+    - trade nuke tech?
+  - 2/3 dems thinks biden too old
+  - Chinese disinformation campaign about fukushima
+  - japan prepares for massive earthquake
+- biz
+  - benz, bmw trying to catch up to tesla
+  - "invasive species" cost businesses 423B a year
+  - americans still resisting return to office
+  - self driving cars slow down in Boston
+  - Garnett: AI generated news articles mocked
+  - wordpad leaving windows
+  - steam deck powered by arch-linux
+    - more linux market share than macos - windows at 96.61
+  - work - more devs mock scrum
+    - more time talking than doing
+  - samsung:  first 32Gbit DDR5 Memory Die
+- culture
+  - burning man - really gross bathrooms
+    - rains close roads into and out of
+  - smash mouth singer dead at 56
+  - the silicon valley planned city blueprints revealed
+- health
+  - WHO warning: super gonorrhoea cases rising
+  - wild boar paradox in germany: higher levels of radiation
+    - contaminated truffles
+- war
+  - zelensky swaps war minister
+- tech
+  - saltwater caused some EVs to catch fire
+  - godaddy: .US domains heavily used for phishing
+
 - 9/1
 - politics
   - pornhub wins age-verification case vs texas based on first amendment
