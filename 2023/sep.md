@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+9/6
+- politics
+  - trump lacking fight
+  - israel PM: fiber cable to link asia, middle east with europe
+  - china reaches peak gasoline? thanks to surging EVs
+- biz
+  - musk blames jewish group for x failure
+    - ad revenue down 60%
+  - huge appl/ARM contract extending beyond 2040
+  - meta internal: fueds over compute power
+  - baidu ceo: more than 70 LLM released in CN
+- culture
+  - burning man a big failure
+  - rolling stones new studio album
+  - switzerland named world's best country
+
 9/5
 - politics
   - kim jong un goes to russia - weapon deal with putin?
