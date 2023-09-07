@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+9/7
+- politics
+  - hunter biden to be indicted
+    - 10 yrs in prison
+    - possessing gun while using drugs
+  - russia tops most corrupt countries
+  - neo nazi demos in FL
+  - us AI powered drone fleet to counter China
+  - firt monopoly trial of modern internet era:  USA vs Goog
+  - china bans iphone for gov officials
+- tech
+  - dopamine producing cell implants in brain
+  - hottest summer on record - by a lot
+- biz
+  - toyota facory production halted due to filled disks
+  - youtube adding games
+  - roku lays off 10 %
+  - AI scams: 2d to 3d was actually humans doing work manually
+
 9/6
 - politics
   - trump lacking fight
