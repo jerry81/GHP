@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+9/11
+- politics
+  - biden bad polls
+  - biden strange behavior?
+    - "im going to bed" - in hanoi vietnam - incoherent speech
+  - aapl becoming pawn in usa vs china
+- biz
+  - silicon valley rich getting full body mris - 2500 USD
+  - startup company - zinc-based alternative to lithium batteries
+  - crypto trading down to a new low in August
+  - grindr in return to work policy loses half of its staff
+  - nintendo demoed switch 2 at gamescon
+- culture
+  - ten most dangerous us cities
+    - bessemer alabamba
+    - monroe louisiana
+    - saginaw michigan
+    - memphis tennessee
+  - gen z giving up on college?
+  - burning man cleanup begins
+- tech
+  - water needed to cool AI systems
+  - el salvador bit coin experiment 2 years later - not succeeded yet
+  - nasa "MOXIE" experiment generated 122 grams of oxygen
+  - anthropic launches claude pro
+  - openAI: ai writing detectors dont work
+  - chatgpt traffic slips 3rd month in a row
+
 9/7
 - politics
   - hunter biden to be indicted
