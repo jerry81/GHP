@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+9/12
+- politics
+  - bell toolls for usa 22 years since 9/11
+  - libya flooding
+    - 2000 dead
+- culuture
+  - aaron rodgers jets debut - 5 minutes in, inured
+- biz
+  - warner bros signs ai pop star, backlash ensues
+  - musk from superhero to supervillain?
+  - 1.5T valued lithium reservoir found in nevada supervolcano (world's biggest)
+  - whatsapp - crossplatform messaging
+  - instacart (grocery delivery) IPO dropped form 39 (pandemic high) to 9.3B
+  - sundar pichal: goog and nvidia will be working together 10 years from now
+  - the real winners of crypto's collapse: lawyers
+  - appl renews deal with qualcomm
+    - own chips not ready yet
+- tech
+  - vegas cyberattack - 1000s of guests locked out of rooms
+  - IEEE top PL of 23 - python and sql
+
 9/11
 - politics
   - biden bad polls
