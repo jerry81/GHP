@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+9/13
+- politics
+  - Joe and Donald both sucked in Iowa
+  - lybia flooding deathcount 10K+
+- culture
+  - aaron rodgers out for season with achilles tear
+  - baby boomers sliding into homelessness
+- biz
+  - incomes fell for 3rd straight year?
+  - McDs drops self serve soda
+  - AAPL iphone 15 with USB-C
+  - goog pays 10B a year to stay default search engine on web browsers and mobile devices
+  - visa credit card disputes up
+- tech
+  - intel thunderbolt 5 80 Gbps, bidirectional
+
 9/12
 - politics
   - bell toolls for usa 22 years since 9/11
