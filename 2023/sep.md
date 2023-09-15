@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+9/15
+- politics
+  - hunter biden faces 10 yrs
+- culture
+  - vegan cats?
+  - amsterdam-like pot cafes coming to CA?
+  - Bill gates ideas for AI: target world hunger
+- biz
+  - iphone radiation dangerous?
+  - hackers steal 53M worth of bitcoin from coinex
+  - tesla with some carmaking breakthroughs
+    - die-cast underbody in one peice vs 400 peices - easily 3d printed
+  - analysts say TSMC's AZ plant will be useless
+  - ARM ipo - 51 a share, total value 51B
+  - marvel's vfx team unionizes
+  - GOOG layoffs - recruiting team
+  - France rules iphone 12 radiation dangerous
+  - Unity increases prices
+  - EVs lag in Indian market
+
 9/13
 - politics
   - Joe and Donald both sucked in Iowa
