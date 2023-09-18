@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+9/18
+- culture
+  - russel brand gets #metoo'ed
+    - musk, tucker carlson supports him
+    - katie perry exwife
+  - musk now compared to napolean
+    - friend: "he has superhuman intuition"
+    - appears without warning on tesla and spacex factory floors "motiviation"
+    - OCD, aspergers (self diagnosed)
+  - "feedback" too harse - new word is "feedforward"
+- politics
+  - turkey the next brexit?  turxit?
+  - senate may go red, house may go blue
+  - 75% beleive AI will replace jobs
+- tech
+  - latest: chatgpt maybe isn't coming for your coding job yet
+    - probably will replace duller work of engineering
+  - Las Vegas cyberattacked last sunday - crippled hotels and casinos
+  - munich students build a the most energy efficient EV - 25 more efficient than any on the market.
+    - 3,815 miles per gallon of gas
+    - top speed just 26 mph - drag-optimized
+- biz
+  - unit 180s on pricing changes
+  - uber made traffic worse, robotaxis will be even worse
+  - history: tech rebellion - luddite rebellion - proves employees and employers will always have tension
+  - firefly aerospace - launch speed record for US space force
+  - space industry growing faster than workforce
+  - Eugene oregon: first licensed psilocybin service center
+    - waitlist already over 3000 names
+  - iphone 15 with standard usb-c port
+  - goog chatgpt4 competitor gemini about to release
+  ```
+  Output Types: BARD's output consists of trained machine learning models ready for deployment, while Gemini generates images and visual content tailored to specific requirements. Scalability: Both BARD and Gemini are designed to scale, but their scalability requirements differ.
+  ```
+  - meta, desperate for revenue, explores whatsapp ads
+
 9/15
 - politics
   - hunter biden faces 10 yrs
