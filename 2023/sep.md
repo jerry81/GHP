@@ -10,6 +10,11 @@
     - growing unpredictability
   - "in most industries, regulation actually prevents competition" - a famous chart
     - prices over time in regulated industries (health, edu, energy) costs driven up over time
+- biz
+  - MSFT bigshot panos panay (ms surface) leaving, going to AMZN
+  - joby aviation: build flying EV in ohio
+- tech
+  - jetbrains "rustrover" ide for rust
 
 9/18
 - culture
