@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+9/19
+- culture
+  - comedian - hasan minhaj lied about being victim of racism
+  - raiders owner mark davis worst haircut ever. - accused: protect child molestor?
+- politics
+  - china upheavals:
+    - top ranks - defence minister "disappears" (Li ShangFu)
+    - growing unpredictability
+  - "in most industries, regulation actually prevents competition" - a famous chart
+    - prices over time in regulated industries (health, edu, energy) costs driven up over time
+
 9/18
 - culture
   - russel brand gets #metoo'ed
@@ -18,7 +29,7 @@
   - latest: chatgpt maybe isn't coming for your coding job yet
     - probably will replace duller work of engineering
   - Las Vegas cyberattacked last sunday - crippled hotels and casinos
-  - munich students build a the most energy efficient EV - 25 more efficient than any on the market.
+  - munich students build a the most energy efficient EV - 2x5 more efficient than any on the market.
     - 3,815 miles per gallon of gas
     - top speed just 26 mph - drag-optimized
 - biz
