@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+9/20
+- culture
+  - howard stern: "i'm woke, motherfucker"
+  - russel brand investigations
+- politics
+  - joe drop out of race? dem party anxious
+  - israel ai-powered super tank
+  - senate lifts dress code
+  - antarctic sea-ice at mind-blowingly low levels
+- biz
+  - schneider electric warning: datacenters aren't buff enough for AI
+  - toyota has plan to catch up on EV battery tech
+    - despite being pioneer of hybrid, EV industry caught them pants down
+  - intel claims itself central to AI boom
+    - unveils meteor lake architecture (14 gen), follows adler lake (12), and raptor lake (13)
+- tech
+  - RNA extracted from extinct species for first time
+    - allowed for reconstruction of skin and skeletal muscle transcriptomes
+  - survey, most adults don't think AI's benefits outweigh risks
+  - chinese hackers unleash new linux backdoor
+
 9/19
 - culture
   - comedian - hasan minhaj lied about being victim of racism
