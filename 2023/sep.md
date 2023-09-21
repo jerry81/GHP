@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+9/21
+- politics
+  - writer's strike (hollywood) may be nearing its end
+  - mexico overtakes china as leading exporter to USA
+  - europe has an air pollution problem
+- culture
+  - current best sellers: musk bio and "democrat party hates america"
+  - 1/3 americans cant name 3 branches of gov, 1/6 can't name any
+  - GRRM sues chatgpt for training on his work
+- biz
+  - james dolan 2.3B arena "the sphere" in vegas
+  - spacex extends falcon9 launch reuse record - carried 22 starlink sats - 17th reuse, 65th of the year
+  - neuralink recruiting human trial subjects
+  - air bnb banned partying - reduced parties 55% in 2 years
+  - AMZN to use generative AI for alexa
+  - yelp wall of shame for fake reviews
+- tech
+  - terraform (hashicorp) fork OpenTofu
+  - openai - image generation tool - DALL-E 3
+
 9/20
 - culture
   - howard stern: "i'm woke, motherfucker"
