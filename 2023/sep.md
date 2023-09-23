@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+9/23
+- culture
+ - liver king and other health influencers face lawsuits
+ - naomi campbell coccaine addiction
+- politics
+  - china halted geranium and gallium exports that semi conductors needed
+  - google maps tells man to drives off bridge, man sues goog maps
+- biz
+  - neuralink moves forward with human trials despite monkey deaths
+  - most nfts now worthless
+  - waymo looking to do robotaxis in LA
+- tech
+  - china, year after chatgpt - hundreds of LLMs
+
 9/21
 - politics
   - writer's strike (hollywood) may be nearing its end
