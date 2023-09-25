@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+9/25
+- politics
+  - latest poll: trump 52%, biden 42%
+  - xi's power "plot" crisis sends economy into freefall
+    - also aging population, declining workforce
+    - recentralization of economy
+    - 1 in 5 young people unemployed
+  - NYC: 420lb robocop to patrol subway - Knightscope k5, looks like r2d2
+- culture
+  - trump vs stern feud
+  - there is a new deion sanders? no, he is just colorado coach
+- biz
+  - real estate bust in SF
+  - the utopian city from tech billionares harder than thought
+  - netflix sends its final dvd by mail
+  - huawei SoC processors designed in house
+- tech
+  - GNOME extension for Ubuntu 23.10 "dark style"
+  - "have i been pwned" plays central role in global cybersec yet has only one employee, troy hunt
+    - keeps mobile numbers, emails, passwords, discards names, physical addresses, bank details
+
 9/23
 - culture
  - liver king and other health influencers face lawsuits
