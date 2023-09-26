@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+9/26
+- tech
+  - chatgpt respond with spoken words?
+  - what fuckery is this: nvidia replace rasterization and ray tracing with full neural rendering
+- biz
+  - chinese scrambling to dump overseas property as Xi econ goes to freefall.
+    - dumped b/c couldn't keep up with mortgage payments
+  - rolls royce to stop all gas and diesel
+  - iphone 15 overheating problem
+  - tesla optimus (bot) can sort objects
+  - lego drops plans to make bricks form recycled plastic bottles
+  - effects of AI: amzn limits number of publishable books to 3 a day
+  - iphone 15 usb-c to ethernet for faster internet speeds
+  - AMZN invest 4B in anthropic
+- culture
+  - all nude dating show on HBO
+  - hollowood writers strike end?
+- politics
+  - china/usa space force hotline
+
 9/25
 - politics
   - latest poll: trump 52%, biden 42%
