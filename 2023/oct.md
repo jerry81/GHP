@@ -1,0 +1,41 @@
+[Back](./index.md)
+
+10-9
+- politics
+  - war on israel?? suprise hamas attack
+  - bombards gaza strip
+  - 700+ killed, 2000+ wounded
+  - hamas: islamic resistance movement - palestinian operates in gaza strip and west bank
+  - usa sends warships and jets
+  - pence blames trump
+  - russian attacks closer to nato territory
+  - CA almost decriminalized psychadelics
+    - banns 4 foods: red dye no. 3, propylparaben, potassium bromate, brominated veggie oil
+  - china using RISC-V to get around US dominance of IP needed to design chips?
+  - uk man accused of treason (attempted assassination of queen elizabeth III with crossbow)
+  - sept heat beat record by a mile
+- culture
+  - 2nd largest hindu temple opens in NJ?
+  - moving out of CA due to housing costs
+  - new moon suit to be designed by prada
+  - low demand for travis scott tickets
+- tech
+  - MIT: implantable insulin producing device
+  - top ten cybersec misconfigurations:
+    - patch misconfig
+    - default configs
+    - improper seperation admin/user
+    - lack of network segmentation
+    - system access controls bypass
+    - weak MFA
+    - insufficient ACLs
+    - credential hygeine
+    - unrestricted code exec
+- biz
+  - 23 and me data leak?
+  - AMZN launches kuiper - similar to starlink
+  - paypal vs stripe shopify antitrust lawsuit
+  - ev buyers instant rebate 7.5K
+  - openAI exploring AI chips
+  - msft teams rebuilt, 2x speed, half RAM
+  - ali belgium logistics hub: center of espionage operations?
