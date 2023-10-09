@@ -14,11 +14,13 @@
   - china using RISC-V to get around US dominance of IP needed to design chips?
   - uk man accused of treason (attempted assassination of queen elizabeth III with crossbow)
   - sept heat beat record by a mile
+  - sf empty offices to become housing?
 - culture
   - 2nd largest hindu temple opens in NJ?
   - moving out of CA due to housing costs
   - new moon suit to be designed by prada
   - low demand for travis scott tickets
+  - swiss glaciers lost 10% volumes in 2 yrs
 - tech
   - MIT: implantable insulin producing device
   - top ten cybersec misconfigurations:
@@ -31,6 +33,26 @@
     - insufficient ACLs
     - credential hygeine
     - unrestricted code exec
+  - runaway electric car brake malfunction - police help him to exit car into police van
+  - nobel prize, chemistry - 3 scientists - nanotech
+    - physics - electron movement study - they move 43 miles / second
+    - physiology - covid vax
+  - DaaS - desktop as a service - azure DaaS killed by msft
+  - prediction: AI give 3.5 day workweek to next generation
+    - jamie dimon - usa banker and biz exec - chariman ceo of jpmorgan chase & co
+  - greatest unsolved CS problem: does p = np?
+    - can genAI solve it?
+  - python 3.12
+    - perf
+    - immortal objects
+    - sub interpreters
+      - utilize cpu cores
+    - f strings? formatting
+    - mods types
+    - removal of modules
+  - dall-e 3 making it easy to create comic books
+  - heat pumps > fossil fuel systems in cold
+  - linux foundation would be biggest software company in world
 - biz
   - 23 and me data leak?
   - AMZN launches kuiper - similar to starlink
@@ -39,3 +61,14 @@
   - openAI exploring AI chips
   - msft teams rebuilt, 2x speed, half RAM
   - ali belgium logistics hub: center of espionage operations?
+  - intel to launch programmable chip unit as standalone business, shoot for IPO
+  - japanese startup builds real Gundam - 3M
+  - msft onedrive gets overhaul - AI copilot integration
+  - meta layoffs- metaverse silicon unit - chips for AR/VR
+  - there is a 17K gold apple watch
+  - there are millions of digital nomads
+  - msft needs so much power to train AI it may use nuke reactors
+  - epic games lay off 16 %
+  - meta has lost 13.7 losses on metaverse
+  - iphone 15 overheating issues?
+  - raspberry pi 5
