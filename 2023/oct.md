@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+10/10
+- politics
+  - israel war day 3
+    - 990 killed 2600 wounded
+  - saudi sides with palestinians
+- biz
+  - chinese dev pay 1M yuan for using vpn
+  - unity ceo steps down after pricing battle
+  - crypto venture funding down 63%
+  - early Ai products could be a hard sell
+- tech
+  - eu supercomputer run on ARM not x86
+  - python 3.7 EOL, current 3.12
+  - LM neural net explained: millions, billions of neurons - each performs basic math
+
 10-9
 - politics
   - war on israel?? suprise hamas attack
