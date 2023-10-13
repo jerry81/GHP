@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+10/13
+- politics
+  - israel strikes syria
+  - war spread to mid east?
+  - israel to gaza: "get out"
+  - companies in CA: must report emissions
+- health
+  - yet another longevity study: genetics king over habits
+- biz
+  - apple airtags linked to stalking epidemic
+  - accounting grads down, 7.8% down
+  - after airbnb ban, NYC rental black market appears
+  - waymo robotaxis available in SF
+- tech
+  - croatia want to tern super hot underground lake into geothermal plant
+    - 142 celcius
+  - crispr changes chickens to be more resistant to bird flu
+  - largest ddos in history observed, http/2 zero day
+
+
 10/10
 - politics
   - israel war day 3
