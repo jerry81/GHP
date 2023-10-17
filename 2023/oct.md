@@ -1,5 +1,52 @@
 [Back](./index.md)
 
+10/17
+- politics
+  - poland election - left wins
+  - us gov has $5B bitcoins
+- war
+  - israel hamas day 10
+  - biden to israel on wed.
+  - hamas has hostages, 199
+  - swiss stay neutral
+  - putin to meet xi
+- culture
+  - britney spears book
+- biz
+  - huawei passes iphone in china
+  - iphone upgrade tech
+    - place on pad
+    - wirelessly turns on and updates
+    - box never opens
+  - netflix pursuing videogames
+  - stackoverflow hit by AI: 28% layoffs
+  - linkedin layoffs amid restructure
+  - GOOG ai div: project green-light - speed traffic, reduce fuel consumption, carbon
+  - dropbox ceo: 90% remote-work model - future of work
+  - tesla releases official API docs for 3p apps
+  - aapl PC shipments drop 23%
+  - goog tests news-filled homepage
+  - ASML - dominates extreme ultraviolet lithography field
+    - cannon falls behind
+  - msft purchases activision blizzard 69B - completed
+- tech
+  - global warming side-effect - dormant viruses waking up
+  - linux "resources" - system monitor - rust-based
+  - report: few Open source projs maintained 11%
+  - C# catching up to Java (TIOBE)
+    - python
+    - c
+    - c++
+    - java
+    - c#
+    - js
+  - nuggets of wisdom re: storage
+    - magnetic has a limited lifetime and needs to be copied periodically
+    - glass future of storage?
+    - msft project silica
+  - antactica lost 7.5 tonnes of ice since 1997
+  - ubuntu 23.10 - mantic minotaur - faster and smaller!
+
 10/13
 - politics
   - israel strikes syria
