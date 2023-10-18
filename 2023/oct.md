@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+10/18
+- war
+  - israel horror: dead children
+  - swatstikas in NYC
+- health
+  - sexual frustration -> dementia?
+- culture
+  - alec baldwin still getting heat on the movie set manslaughter case
+  - kevin spacey back - giving lectures - gets standing o
+  - a24 movie: zone of interest about holocaust
+- biz
+  - WFH rates dropping in USA, 26% wfh at least once a wee
+  - big claims:  baidu claims its ai as good as chatgpt
+- politics
+  - US tightens curbs on AI chip exports to CN
+  - EU effort to ban microplastics: banned glitter
+
 10/17
 - politics
   - poland election - left wins
