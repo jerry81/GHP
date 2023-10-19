@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+10/19
+- war
+  - iran bomb danger
+  - mid east protests
+  - berlin synagogue firebombed
+  - america evacs embassy in london
+  - hamas and neo-nazis find themselves allies
+- biz
+  - amzn drones dropping Rx to doorsteps
+  - 30year fixed mortgage rate 8% - highest since 2000
+    - applications plummet
+  - netflix raise price again.
+- politics
+  - putin and xi take a cute photo
+  - nebraska gov calls reporter "from communist china"
+
 10/18
 - war
   - israel horror: dead children
