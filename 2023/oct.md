@@ -8,13 +8,21 @@
   - america evacs embassy in london
   - hamas and neo-nazis find themselves allies
 - biz
-  - amzn drones dropping Rx to doorsteps
+  - amzn drones dropping Rx to doorsteps, texas city
+    - testing robots in warehouse
   - 30year fixed mortgage rate 8% - highest since 2000
     - applications plummet
   - netflix raise price again.
+  - tesla cybertrucks to deliver in nov. 125K production capacity
+  - sick days taken way up - 3 to 5 a year
+  - qualcomm - first ever mass-market RISC-V android SoC
 - politics
   - putin and xi take a cute photo
   - nebraska gov calls reporter "from communist china"
+  - five eyes (us, uk, canada, aus, nz) warn on china IP theft
+- tech
+  - smart rugby mouthguards detect concussions
+  - first ever cyber nation-state: joseon - digital nation without territory or borders
 
 10/18
 - war
