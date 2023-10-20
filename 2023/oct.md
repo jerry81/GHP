@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+10/20
+- war
+  - biden speaks support for UKR and ISR
+  - us syrian base attacked by drones
+  - rockets hit iraqi installation with americans inside
+  - us warning for all abroad
+  - antisemitic attacks in manhattan
+- politics
+  - china nukes to double?
+  - canada legal euthanasia for drug addicted dying
+  - assange to be made honory citizen of rome
+- biz
+  - google cuts to goog news
+  - musk predicts storm coming for tesla
+    - dug own grave
+    - stock valuation unsustainable
+  - stock market signs point to sell
+  - ntflx password-sharing crackdown working: subscribers grow, they can raise prices
+  - anthropic sued by universal scraping song lyrics
+  - nokia 14k jobs cut
+  - goog to manufacture pixel smartphones in india
+  - amd powerhouse threadripper chips - pc dominance
+- culture
+  - rolling stones and gaga show in nightclub
+    - they still got it
+  - sarah silverman defends jewish state - under fire
+- health
+  - soak in hot tub same benefits as 30 minute jog?
+
 10/19
 - war
   - iran bomb danger
