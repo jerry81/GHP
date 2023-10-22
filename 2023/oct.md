@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+10/22
+- war
+  - china sends warships to mideast
+- culture
+  - streep divorce after 45 yrs
+  - jon stewart apple plus tv show ends - due to AI and china
+- politics
+  - italian PM, meloni splits with husband after he asks for a foursome
+  - china restrict export graphite - crucial to EV manufacture
+  - buckeye, AZ looking to surpass phoenix
+- biz
+  - nyc gang cash-for-bitcoin money laundering ring
+  - hashicorp predicts: OSS-free silicon valley
+  - huawei seizing market opportunity created by nvidia chip ban
+  - bmw, lexus,mini, rolls, toyota switching to tesla chargers
+  - pfizer Paxlovid -- its lifesaving antiviral drug used to reduce the risk of severe COVID-19 in those most vulnerable - price hike, over 1400 (from 530)
+- tech
+  - redis wants to dabble in disk
+
 10/20
 - war
   - biden speaks support for UKR and ISR
