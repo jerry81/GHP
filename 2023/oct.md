@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+10/23
+- war
+  - usa urging israelis to hold off marching into gaza
+  - hezbollah - lebanese shia islamist party and militant group
+  - protestors through london, nyc - want eradication of israel?
+    - pro-palestenian
+  - hitler appears on michigan state scoreboard
+- politics
+  - minnesotans least stressed
+  - dallas, houston, austin to become the new nyc, la, chicago
+- biz
+  - uber hot air balloon rides in turkey
+  - there are bitcoin ATMs- to prevent scams, cali limits to 1000 per day, $5 or 15% cap on transactin fees
+  - dropbox returns 25% of its office space
+
 10/22
 - war
   - china sends warships to mideast
