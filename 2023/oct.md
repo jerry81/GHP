@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+10/24
+- culture
+  - scorsese flower moon
+  - world's oldest dog 31 years old
+    - portugal
+    - calm peaceful environment
+    - ate human food
+  - gen z attracted to simpler living
+- war
+  - iran ready to escalate
+  - hamas fuel starved
+  - hostage situation
+  - netanyahu delays invasion of gaza, angers military
+  - antisemitism san diego
+- biz
+  - AI revitalizes SF
+  - why hasn't US growth slowed yet?
+  - BTC surge to 33K
+    - optimizing around ETF (Exchange-Traded fund)
+  - nvidia to make arm pc chips
+  - chrome adds ip protection - hide ip addresses
+    - uses proxies
+  - all apple devices to get generative AI
+- tech
+  - anti ai - "poisoning" images with invisible changes to pixels in art before uploading
+  - turning off 2g and 3g will defunct many smart meters
+  - pig heart transplant, 1 month later - no rejection or infectino yet
+  - rapid antarctica ice melt inevitable, no matter carbon cuts
+- politics
+  - alaska air pilot charged 83 counts of attempted murder
+    - shut down engines midflight
+
 10/23
 - war
   - usa urging israelis to hold off marching into gaza
