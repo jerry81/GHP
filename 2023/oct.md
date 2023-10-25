@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+10/25
+- war
+  - hamas rockets pointed at tel aviv
+  - us sec of state: antony blinken - vows to defend israel
+  - iron dome mobile air defense system
+  - israel strikes in syria
+- biz
+  - fb sued by 42 states for addiction
+  - okta cybersec breach wipes out more than 2B
+    - okta - identity and access management company
+  - Atom computing - quantum computing startup - 1000+ qubit computer
+  - appl oct 30 event will focus on m3 series macbook
+  - Cali suspends GM cruise self-driving - "not safe" for public
+  - economists wrong for the past 3 years:
+    - 2021: inflation transitory
+    - 2022: underestimate inflation staying power
+    - 2023: predict Fed reserve rate increase would lead to recession
+- health
+  - a fungus linked to alzhiemers
+- politics
+  - china takes lead over US in tech patents
+  - peak fossil fuel coming
+  - first ever digital yuan trade (petrochina)
+- culture
+  - live-action fallout on amazon
+
 10/24
 - culture
   - scorsese flower moon
