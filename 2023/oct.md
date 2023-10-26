@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+10/26
+- politices
+  - 22 dead in bowling alley mass shooting
+- war
+  - netanyahu - wants isralites to carry arms
+  - hollywood divided
+  - RU simulates nuke strike
+- biz
+  - biotech startup wants to see if babies can be born in space SpaceBorn
+  - chevy Bolt fire-prone batteries
+  - honda EV collab with GM ends
+- tech
+  - nasa first two-way e2e laser communications system
+  - jap research sliding?
+
 10/25
 - war
   - hamas rockets pointed at tel aviv
