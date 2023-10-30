@@ -1,5 +1,38 @@
 [Back](./index.md)
 
+10/30
+- politics
+  - un warns about mid east at breaking point
+  - G7 AI code of conduct
+  - eastern china getting heat for HFC-23 (hydrofluorocarbon)- 14,700 x more powerful as CO2 at global warming
+- war
+  - hamas blocking exit of foreign citizens
+  - lebanon and syria firing more rockets
+  - erdogan threatens to declare war on israel, military to gaza
+  - black jews beaten in chicago
+  - is USA overextended?
+  - Gaza ISPs falling offline, internet access collapsing
+- culture
+  - matt perry, struggling with addiction, found dead in tub
+  - cher's son disappears
+  - hokey star dies from slashed throat
+- biz
+  - china owns EV supply chain
+  - robotaxi crash got self-driving cars pulled from CA roads
+  - bad october for stocks
+  - creator economy: 250B
+  - EV batteries have lasted over 12 years
+  - auto companies admitting EVS not so easy
+  - Boston Dyn's robot dog talks using ChatGPT
+  - goog paid exorbitant amount (26.3B) to be default search engine in 2021
+  - meta's "threads" is officially a success!  almost 100M active users
+  - goog fiber 20Gbps service coming - super fast
+  - MIT expert: AI is becoming race to bottom.
+    - race to bottom: lowering standards and quality to remain competitive
+  - jp morgan jpm coin (digital token) handles 1B usd worth of transactions daily
+- tech
+  - mini-LHC - NEA - nanophotonic electron accellerator - 54M times shorter than 27 KM long LHC
+
 10/26
 - politices
   - 22 dead in bowling alley mass shooting
