@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+10/31
+- war
+  - exodus to egypt?
+  - russia enemy of israel
+  - global war on jews
+  - bibi = benjamin netanyahu
+  - troops move into gaza city
+- biz
+  - twitter value at half of what it was
+  - mcDs hikes prices, revenue soars, $18 big macs combo meal in CT
+  - 23andMe has goldmine in consumer DNA - selling to drugmakers
+  - aapl announce m3
+  - 79% devs considering new job
+- politics
+  - canada bans wechat
+- tech
+  - bmw wireless chargers messing with iphone 15 nfc chips
+  - DoD, US Justice emails hack
+  - chatgpt plus now has upload and analyze files functionality
+
 10/30
 - politics
   - un warns about mid east at breaking point
