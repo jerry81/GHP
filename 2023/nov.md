@@ -1,0 +1,31 @@
+[Back](./index.md)
+
+- 11/1
+- war
+  - blinken trying to calm things down in Israel
+  - UN getting alarmed
+  - chinese maps remove israel
+  - FBI: terror threat high
+  - hatred of jews surges
+- politics
+  - trump's sons ready to testify
+  - NYC new huge red light district?
+    - street walkers
+    - Mayor eric adams
+  - china disallows anonymous bloggers with over 500K followers
+  - 40 countries vow to never pay ransom to cybercriminals, US led
+- culture
+ - elon on JRE vs george soros
+  - twitter corrosive on civilization
+- tech
+  - 2nd pig heart transplant patient dies
+  - what: anger good for tackling tricky tasks?
+  - goog RISC-V android tools in 2024
+  - the dinosaur killing asteroid caused a 15 year winter
+- biz
+  - goog registry adds domains ending in .ing
+    - not goog domains
+    - but sells domains
+  - youtube to crackdown on ad blockers
+  - AI smoothie shop in SF opened in Sept.  already closed, no explanation
+  - Apple M3 step back?  25% less memory bandwidth
