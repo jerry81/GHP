@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+11/2
+- war
+  - 10/7 important date - massacres - 5000 rockets killing 1400 people israel declared war
+  - hamas threatens to repeat over and over
+  - neo-nazis and far-right trying to hijack protests
+  - hatred of jews surges globally
+- culture
+  - bobby knight dies 83
+- politics
+  - nj offshore wind farm cancelled
+- biz
+  - IG working on Threads API
+  - M3 20% faster than M2
+  - iphone 17 assembly to be done in India
+  - LinkedIn 1B users
+  - wework file for bankruptcy next week
+
 - 11/1
 - war
   - blinken trying to calm things down in Israel
