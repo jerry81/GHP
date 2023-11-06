@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+11/6
+- politics
+  - usa elections rematch
+    - trump leading 5 swing states
+  - west hollywood wants to become new Amsterdam -
+    - PleasureMed 4th legal cannabis lounge
+    - water-filled vaporizers
+  - hollywood strike - 114 days
+- war
+  - pro-palestine protestors call for israel's elimination
+  - obama refuses to pick sides
+  - ergodan shuns netanyahu
+  - EU: antisemitism at historic levels
+- biz
+  - musk chatbot with "rebellious streak"
+    - grok
+  - 4 zero days found in msft exchange (email)
+  - 10 years after AMZN drone delivery announced - it's just "kind of" a reality
+  - MSFT replaced news staff with AI?
+  - VW 2000 layoffs in software unit (Cariad?)
+  - Brave: secure and anonymous AI chatot: Leo
+- culture
+  - home schooling on the rise in america
+  - bezos moves to FL
+    - wanted to be closer to parents
+- tech
+  - sodium batteries may be alternative to Li batteries
+  - helium-3 and helium-4 found in canada volcano
+  - leap seconds/minutes are a thing..
+  - eric schmidt thinks AI will shake up scientific research
+
 11/2
 - war
   - 10/7 important date - massacres - 5000 rockets killing 1400 people israel declared war
