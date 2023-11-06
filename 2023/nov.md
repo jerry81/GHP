@@ -21,10 +21,12 @@
   - MSFT replaced news staff with AI?
   - VW 2000 layoffs in software unit (Cariad?)
   - Brave: secure and anonymous AI chatot: Leo
+  - arm gets a stake in Raspberry Pi
 - culture
   - home schooling on the rise in america
   - bezos moves to FL
     - wanted to be closer to parents
+  - final beatles song, "now and then"
 - tech
   - sodium batteries may be alternative to Li batteries
   - helium-3 and helium-4 found in canada volcano
