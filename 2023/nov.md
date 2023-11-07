@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+11/7
+- biz
+  - wework bankrupt, was valued at 47B once
+    - trading halted
+  - citigroup - 10% job cuts coming
+  - huawei and tencent - cybersec patent powerhouses
+  - canon a player in chip manufacture - litography machines - cheaper than ASML
+  - spacex starlink breaking even
+- war
+  - protesters shut down statue of liberty
+    - blockade suspected weapons shipment
+  - american troop drone attack victims 46
+  - israel deploys attack dogs
+- politics
+  - susanna gibson "porn dem" - online sex acts with husband
+- health
+  - 8 habits to live longer
+    - eat better
+    - quit tobacco
+    - be active
+    - sleep
+    - manage weight
+    - cholesterol
+    - blood sugar
+    - blood pressure
+  - pot studies:  heart attack, heart failure, stroke
+- tech
+  - spinal implant allows parkinson's patient to walk again
+  - openAI gpt-4 turbo released - more powerful, less expensive
+  - chatgpt detector detects AI-gen papers with accuracy
+
 11/6
 - politics
   - usa elections rematch
