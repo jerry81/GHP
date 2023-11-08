@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+11/8
+- politics
+  - election day
+    - dems win again
+- war
+  - israeli ground force full force storm gaza city
+  - paleestine pres assassination attempt - abbas
+  - anti semitism in germany resurgence...
+- biz
+  - prophetic tech startup - lucid dreams on demand
+  - cruise robotaxis rely on human intervention every 4 - 5 miles
+  - baidu buys AI chips from hwawei to shift away from nvidia
+  - intel trying to catch rivals in AI chip race
+
 11/7
 - biz
   - wework bankrupt, was valued at 47B once
