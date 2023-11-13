@@ -1,5 +1,66 @@
 [Back](./index.md)
 
+11/13
+- politics
+  - venezuelan migrants fleeing chicago (because it's that bad?)
+  - xi visit SF
+  - dc cvs thefts epidemics
+  - "big tech" new form of government: capitalism to techno-feudalism
+  - obama warns that ai will change economy and jobs
+  - republicans call for tiktok ban in merica
+  - china has stockpiled nvidia chips
+  - 2023 to be hottest year on record
+  - greenland has lost 35% ice shelves in 50 years
+- biz
+  - overtime burning people out?
+  - musk spacex injury rates high
+  - appl new "spatial video" feature
+  - experian data anlytics firm has security and privacy issues
+  - amd gaining on intel CPU market share desktop, laptop, servers
+  - result of hollywood strike: some AI protections
+  - ios moving towards sideload?
+  - windows turns 40
+  - hints point at gmail wanting to become chat
+  - rushed COD: MW3 panned
+  - tumblr failing, downsizing
+    - microblog
+  - genai already taking jobs from graphic designers and copywriters (freelance industry)
+  - valve has sold "multiple millions" of steam decks
+  - las vegas sphere (msg sphere) has bled money, cfo quits
+  - omegle shuts down
+  - cruise recalls all self driving cars to fix programming
+  - samsung generative ai model for its devices: Gauss
+  - robot crushes man to death because it thought he was a box
+  - MSFT to bring copilot to windows 10 users
+  - amazon "olympus" huge ai model
+  - silicon valley unveils largest electric aircraft, Pathfinder 1
+    - made by LTA research
+    - funded by sergey brin
+  - rockstar to announce gta 6
+    - minecraft best selling of all time
+    - seocond is gta 5
+- tech
+  - cali first carbon sucking factory
+  - github copilot gets copilot chat
+  - aaron swartz day
+    - accused of hacking MIT
+    - suicide by hanging
+  - oldest black hole discovered by JWST (james webb)
+    - just 470M years after big bang, 13.2 B years old
+      - universe just 13.7B years old
+  - entire yeast genome built from scratch
+  - first ever partial face and full eye transplant
+    - 46-year-old man who had suffered severe electrical burns to his face
+  - indonesia largest floating solar plant
+  - europe euclid telescope to focus on dark matter and dark energy
+- culture
+  - napolean ridley scott movie
+  - california city abandoned and empty
+  - marvels bombs at box
+  - we are drawn to horror and fear because it helps us rehearse coping skills
+  - steve wozniak in hospital in Mexico city
+  - nintendo live action zelda movie
+
 11/8
 - politics
   - election day
