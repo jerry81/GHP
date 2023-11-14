@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+11/14
+- politics
+  - trump sister dies, 86
+    - had bad things to say about donald
+  - cocaine found in white house, planted?
+  - "harbinger" - omen, person who makes known another's intention
+  - nepal ban tiktok?
+    - for social harmony
+- culture
+  - melatonin use up
+- biz
+  - health care giant McClaren - releases patient data due to ransomware
+  - aapl goog search deal, appl gets 36% search revenue thru safari
+  - exxon-mobil pivots to lithium
+- war
+  - more attacks on israel from hezbollah
+- tech
+  - cancer breakthrough: cell death switch?
+
 11/13
 - politics
   - venezuelan migrants fleeing chicago (because it's that bad?)
