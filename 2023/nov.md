@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+11/15
+- politics
+  - xi ready to engage with biden
+    - and musk
+  - rfk endorsed by athletes, rob kennedy jr
+  - 290K march for israel in DC
+  - men life expectancy falls to 73 years - 6 years less than women
+- war
+  - hamas lost gaza?
+  - putin has lost 300K russian soldiers
+    - 15% forces high on drugs
+- biz
+  - inflation cools, stocks soar, fb rallies
+  - goog weather forecast ai
+  - 48 countries crack down on using crypto to avoid tax
+  - inflation down to 3.2 in october
+  - joby, volocopter demonstrate electric air taxis in NYC
+- culture
+  - marvel forced to switch strategy after box office failures
+- tech
+  - delhi to use silver iodide in clouds to battle smog
+  - amd has fastest supercomputer in world (frontier)
+  - ai used to decipher greco-roman scroll
+
 11/14
 - politics
   - trump sister dies, 86
