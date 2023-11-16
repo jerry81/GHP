@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+11/16
+- culture
+  - musk anti-jew tweets
+    - agreed with post that claimed jews have pushed hatreds towards whites
+  - ben shapiro and candace owens public fight
+- politics
+  - china launches 1.2 tb (world's fastest link) 3000km of optical fibre BJ/Wuhan/Guangzhou
+- biz
+  - offshore wind price up 50%
+  - msft bing chat -> rebrand to copilot
+  - Tencent stockpiled nvida ai chips (hunyuan ai model)
+  - goog notes: annotate search results
+  - coding ability less important now due to gpt
+
 11/15
 - politics
   - xi ready to engage with biden
