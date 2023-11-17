@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+11/17
+- politics
+  - musk jew backlash: calls for resignation
+  - china does u-turn on stance vs usa
+  - only one GOP candidate has crypto plan
+    - ramaswarmy - vivek ramaswamy, pharma founder
+- war
+  - 80% palestinians support terrorist groups
+  - palestinian protest outside DNC sparks violence
+- culture
+  - shock: monkeys kill boy near temple
+  - pd strong accusations: rape, traffiking
+  - snoop giving up weed??
+  - word of the year: hallucinate
+    - new meaning: when GPT creates false info
+- biz
+  - AMZN to start selling new cars
+    - starting with hyundai
+  - meta and mediatek teamup on AR chips
+  - alicloud division cancels IPO due to US sanctions
+  - offshore wind power costs to rise 50%
+- tech
+  - devs keep exposing creds in public repos
+    - report from gitguardian
+    - uber was cautionary tale
+  - windows app now available on apple products
+    - streams windows os
+
 11/16
 - culture
   - musk anti-jew tweets
