@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+11/18
+- politics
+  - elon vs white house over antisemitism
+    - advertisers flee musk
+  - trump lawyer alina habba
+  - congo human rights violations
+- culture
+  - sasha baron cohen gets involved: says tiktok turning into new nazi propaganda
+  - saudi arabia world's tallest fastest rollercoaster
+  - floridians most likely to engage in adultery
+- biz
+  - sam altman fired from openAI (CEO)
+    - succeeded by Mira Murati
+  - sweden vs tesla?
+  - Meta AR head steps down
+  - usa by far has highest real estate commissions - 6%
+  - amazon cuts alexa jobs
+  - AI: "Make It Real"
+    - draw an image of ui and bring it into code
+- tech
+  - first 3d printed hair follicles
+  - men become emotionally disconnected with age
+    - men don't have close friends
+  - heart disease unreleated to race
+  - golden age of supercondutor research
+  - canonical (ubuntu) releases microcloud - on-prem linux clustering
+
 11/17
 - politics
   - musk jew backlash: calls for resignation
