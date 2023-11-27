@@ -15,6 +15,7 @@
 - biz
   - goog maps has new color scheme, people hate it
   - chip industry revenue: nvidia usurps TSMC and intel for top spot
+  - goog 18 year vet thinks firm may have "lost its way"
 
 11/18
 - politics
