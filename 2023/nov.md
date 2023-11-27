@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+11/27
+- politics
+  - pope health issues
+  - time to first vote: 50 days
+  - china, US leading AI race, RU wants to get involved
+  - china pnneumonia clusters
+- culture
+  - now a texas exodus
+    - rising costs, politics
+  - expats in spain for happier lives
+- tech
+  - science problem: retracted research still being referenced
+- biz
+  - goog maps has new color scheme, people hate it
+  - chip industry revenue: nvidia usurps TSMC and intel for top spot
+
 11/18
 - politics
   - elon vs white house over antisemitism
