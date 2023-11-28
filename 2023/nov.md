@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+11/28
+- culture
+  - colbert ruptured appendix
+- health
+  - britain pig flu scare
+  - child pneumonia in europe and china
+    - covid trauma returning
+- politics
+  - don "purposefully" mixing up biden and obama
+  - built-in speed limit for cars?
+-biz
+  - workaholics more stressed, higher risk heart problems
+  - busiest sunday ever for air travel
+  - broadcom, after acquiring VMWare for 69B, lays off VMWare employees
+  - videoconferencing fatigue is a thing
+  - hydrogen as fuel for airplanes?
+- tech
+  - stable video diffusion - animate any still image
+  - scientific fraud epidemic
+
 11/27
 - politics
   - pope health issues
