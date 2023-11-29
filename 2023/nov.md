@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+11/29
+- politics
+  - social distancing and masks back in china??
+    - europe also on alert
+- culture
+  - drug extends life of pets?
+    - biotech company Loyal - extend animal lives
+- biz
+  - germany world's worst performing major economy
+  - american airlines turn 10K tons of co2 into buried carbon blocks
+    - deal with Graphyte
+    - bury plant byproducts
+  - AMZN offering homegrown chips but also has ties with Nvidia
+  - GOOG Geothermal energy project
+- tech
+  - .meme domain is up
+
 11/28
 - culture
   - colbert ruptured appendix
