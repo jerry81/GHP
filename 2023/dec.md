@@ -1,0 +1,27 @@
+[Back](../index.md)
+
+- 12-4
+- politics
+  - US navy in Red sea
+    - red sea is that strip bordering saudi arabia inlet from indian ocean
+  - moscow cracks down on gay clubs
+  - naka japan, largest experimental fusion reactor
+  - china building nuke reactors faster than any other country
+  - Narendra Modi: india PM dealing with decreasing tech jobs
+- biz
+  - gold at a high
+  - appl chip department 15 years anniversary, thousands of workers now
+    - working on wifi and bluetooth chips
+  - amazon makes deal with spacex for kuiper launch
+  - AMZN chatbot q severe hallucinations
+  - hyundai and kia with game changer for EV drive system design - uniwheel
+  - goog researchers let chatgpt reveal its training data
+  - sam altman gets back openai ceo position
+  - UNity 3.8 cut, in "company reset"
+- culture
+  - billie eilish finally comes out
+  - KISS gives last live show, but they will be replaced by digital avatars in a "new era"
+  - merrian webster word of 2023: authentic
+- tech
+  - google captchas are usually about transportation
+  - plants absorb 20% more co2 than we thought
