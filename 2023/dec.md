@@ -1,5 +1,21 @@
 [Back](../index.md)
 
+- 12-5
+- politics
+  - saudi 1B soccer investment fails embarrassingly
+  - the don binge eating?
+  - netanyahu corruption trial
+- biz
+  - more americans unretiring
+  - alaskan airlines to acquire hawaiian
+  - Spotify cuts 17% jobs
+- tech
+  - china puts commercial data center underwater
+  - asking chatgpt to repeat words "forever" is banned now
+  - "advent of code" 9th year, 150K programmers attend
+    - ownerproof-3683519-1701753195-64b25e110014
+    - every december until christmas
+
 - 12-4
 - politics
   - US navy in Red sea
