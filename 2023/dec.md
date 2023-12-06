@@ -1,5 +1,22 @@
 [Back](../index.md)
 
+- 12/6
+- politics
+  - liz cheney will try again
+  - USA terror attack fears.
+  - putin to travel to saudi arabia
+  - american math scores down
+  - kim jong un cries, begs women to have more kids
+  - connor mcgregor ireland prez bid
+- tech
+  - wildfires are really bad for air quality
+  - OctoML: ai platform generates possible child porn
+- culture
+  - on amazon tv: fallout tv series
+- biz
+  - 23andMe big hack, 6.9M
+  - MSFT copilot: will get openai latest models and code interpreter
+
 - 12-5
 - politics
   - saudi 1B soccer investment fails embarrassingly
@@ -10,6 +27,7 @@
   - alaskan airlines to acquire hawaiian
   - Spotify cuts 17% jobs
 - tech
+
   - china puts commercial data center underwater
   - asking chatgpt to repeat words "forever" is banned now
   - "advent of code" 9th year, 150K programmers attend
