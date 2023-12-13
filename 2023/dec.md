@@ -1,7 +1,45 @@
 [Back](../index.md)
 
-- 12/6
+- 12/13
+- biz
+  - stocks near historic high
+  - msft thinks using nuke power for AI ops
+  - micron, ibm team up with new york in 10B chip research complex
+  - 23% us office space vacant - landlords defaulting
+  - carbon capture plant turns co2 to jet fuel
+  - yet another tech exodus from austin
+  - big budget open world game coming from Tencent: Last Sentinel
+  - poor reviews for GOOG gemini: flagship gen-ai model
+  - appl sales slump.  will m3 and new ipads counter?
 - politics
+  - LA to LV high speed rail gets 3B grant from gov
+  - biden criticises netanyahu
+  - solar and wind top coal in US first time
+  - china gets first of its kind nuke reactor
+  - fossil fuels carbon emissions to reach high
+- tech
+  - mindreading helmet developed
+  - nuke fission discovered amongststars
+  - AI as good as docs at checking x-rays
+  - yet another LLM, mixtral
+  - FDA approval for crispr based sickle cell treatment
+- culture
+  - german "drive thru" brothels - hookups from dingy trailers on busy roads
+  - E3 over forever
+  - wasabi linked to memory boost (japan study) - antioxidant, antiinflammatory
+
+- 12/8
+- politics
+  - hunter biden tax accusations
+  - nobody cared about the RNC debate
+- biz
+  - musk thinks disney iger should be fired
+- culture
+  - shooting in vegas, disgruntled professor, 3 killed
+
+
+- 12/6
+- politicssm.
   - liz cheney will try again
   - USA terror attack fears.
   - putin to travel to saudi arabia
