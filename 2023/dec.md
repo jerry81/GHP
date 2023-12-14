@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+- 12/14
+- politics
+  - yet another stocks high
+    - 3 rate cuts in '24
+  - boston mayor michelle wu anti white scandal
+- culture
+  - chris cuomo interviews influencer that has tourettes
+    - dupree, 9M followers, brit
+- tech
+  - zoologists discover androgynous bird
+  - in chatbot quality, chatgpt-4 turbo leads by wide margin
+    - claude ranks highly
+    - tulu 2 and Yi close to 3.5
+  - 38% java apps still affected by log4shell exploit
+- biz
+  - goog maps location history to move to local storage (not cloud)
+  - GM cruise robotaxi fires 9 after safety probe
+    - gm to ditch apple carplay and android auto (sec reasons)
+  - goog Imagen 2: text and logo generation - create and edit images given text prompt
+
 - 12/13
 - biz
   - stocks near historic high
