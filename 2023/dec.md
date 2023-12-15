@@ -1,5 +1,20 @@
 [Back](../index.md)
 
+12/15
+- biz
+  - stocks rise to new records
+  - joblessness down
+  - '24 recession averted?
+  - AMZN space lasers to transmit data?
+- politics
+  - jill biden bizzare white christmas video
+- culture
+  - depardeau accuser found dead, probe launched
+  - sex robots demand
+  - 1/3 men, 1/10 women open to having multiple partners
+- tech
+  - AI used to cheat in academics overblown
+
 - 12/14
 - politics
   - yet another stocks high
