@@ -1,5 +1,22 @@
 [Back](../index.md)
 
+12/18
+- culture
+  - matthew perry death related to ketamine
+  - jeff bezos to lex fridman - blue origin must be much faster
+- politics
+  - china virus resistant to antibiotics
+- tech
+  - artists sabotaging image gen ai
+  - SETI discovering radio bursts
+  - only half of earth's 15k satellites are functioning
+    - the rest need refuel
+    - decommissioned become space junk
+  - morning sickness caused by hormone from fetus
+- biz
+  - MSFT new LLM called Phi-2 small llm that out-performs LLama 2, Mistral 7B
+  - bytedance banned from openai after trying to use gpt to train its own ai
+
 12/15
 - biz
   - stocks rise to new records
