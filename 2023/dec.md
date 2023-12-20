@@ -1,5 +1,22 @@
 [Back](../index.md)
 
+12/20
+- health
+  - covid spike ahead of holiday travel
+- politics
+  - california - wastewater -> drinking water
+  - epstein's 177 friends to be named jan 1
+- biz
+  - blue origin rocket flies first time in 15 months
+  - nikola founder trevor milton sentenced 4 yrs securities fraud
+  - adobe drops figma acquisition plan
+- tech
+  - open AI to release "dangers of ai"
+  - deloitte looking to AI to help avoid mass layoffs in future
+    - evaluate skills and map out plans
+  - JSON creator makes new PL: Misty
+    - doug crockford
+
 12/18
 - culture
   - matthew perry death related to ketamine
