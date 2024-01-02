@@ -2,6 +2,18 @@
 
 - 1/2
 - politics
+  - cali wastewater -> drinking water
+  - us still pumping the most oil
+  - china tighten controls on video gaming industry
+    - no more rewards that incentivize spending, playing
+  - biden trying to jumpstart hydrogen industry
+  - cali population drops again
+  - US dept of education to use mincraft to teach coding
+  - us doing 180 on immigration rules - more STEM worker visas
+  - 40% us electricity is emissions free
+  - korea new digital nomad visa (up to 2 years with job overseas)
+  - japan largest nuke plant to startup again
+    - us to open first nuke reactor in 6 years
   - massive waves on cali
   - japan quake, buried alive
     - west coast
@@ -21,12 +33,58 @@
     - ketamine derivative for depression
   - ca losing wealthy, hurts economy (high-earning well educated)
 - biz
+  - electric scooter startup bird: bankruptcy
+  - accenture: most companies not ready for AI rollout
+  - 50M ps5's sold
+  - waymo vs cruise, waymo touts its saftey
+  - goog replacing ad sales jobs with AI
+  - "infinite canvas" apps: figma, tldraw, Appl freeform, easel
+    - new startup Kosmik
+  - older americans' solid professions: farmers, tailors, clergy
+    - mostly low-paying
+  - GTA 5 source code leaked
+  - "finished software" - doesn't ever need changes
+  - intel invest 25B in israel
+  - AMZN prime video gets ads
+  - can amazon sell cars?
+  - AAPL vision pro shipping late jan
+  - xiaomi EV "smartphone on wheels", SU7
+  - appl services biz 85B faces legal issues (antitrust)
+  - baidu Erniebot over 100M users
+  - AMZN hydrogen to power vehicles
+  - msft gearing hardware for AI:
+    - NPU - neural processing units
+  - appl pushing to transform mac into gaming paradise
+  - due to export rules, nvidia slows gpu for export to china
+  - disney, comcast, paramount thinking more cuts, possible mergers
   - copilot chat made generally available
   - UK startup Firefly Green Fuels makes low carbon jet fuel from human waste
   - GE aerospace looking to supersonic air travel
     - RDE - rotating detonating engine
   - wfh here to stay?
+  - ai platforms take a bite out of AMZN
+  - hyperloop 1 shutting down
+  - midjourney v6 - in-image text, overhauled prompting
 - tech
+  - man in middle attack vs ssh
+  - android: tell you when to replace phone battery
+  - new ai transistor works like human brain
+  - livestock suprisingly complex, emotional
+  - as soon as 2025, quantum computers make encryption useless
+  - cory doctorow: "of course AI is a bubble"
+  - AI will affect climate?
+  - unanswered biology/earth questions
+    - how many species on earth
+    - biological big bang 540M years ago
+    - smallest life forms avert climate crisis?
+    - biodiversity of amazon or congo
+    - how animals influence earth
+    - gulf stream fate
+    - universal rules for evolution of plants and animals
+    - how many humans can earth support
+    - which species can adapt to climate crisis and which cannot
+  - anti cancer: 99% of cancer cells destroyed with vibrating molecules
+  - wifi 7 focuses on stability
   - lithium-free sodium battery hits road
     - JAC motors (VW backed chinese automaker) Yiwei EV
   - new helmet lining 30x better at stopping concussions
@@ -37,14 +95,18 @@
   - pulsar alternative code editor (successor to atom?)
   - 20% plants and animals at extinction risk
 - culture
+  - official ruling for hans niemann: didn't cheat
+  - therapy llamas in portland airport: reduce stress of travellers
+  - legend of zelda movie announced
+    - last of us, super mario movies did well, better than superhero movies
+    - iger: marvel may have oversaturated the market
+    - arcane may have broke the trend
   - social media usage trending down
   - imagine: concert venue in space?
   - aquaman 2 just 12% of 1's revenue
   - green day changes lyrics of american idiot to bash maga
   - color purple remake - did not do well in BO
   - police launch investigation into virtual rape in metaverse
-- biz
-  - appl services biz 85B faces legal issues (antitrust)
 - 2023 review
   - top 10 stories
     - can cali power grid handle 15x increase in electric vehicles
@@ -57,3 +119,9 @@
     - "we need to shut down AI developments"
     - truck stolen, has airtag, owner guns down thief
     - wyoming in backwards proposal - phase out EV purchases, proud of oil and gas
+
+- 2023 dead techs
+  - clubhouse clones
+  - amazon smile
+  - fb, ig nfts
+  - cortana
