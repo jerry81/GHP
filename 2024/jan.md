@@ -1,0 +1,46 @@
+[Back](./index.md)
+
+- 1/2
+- politics
+  - japan quake, buried alive
+    - west coast
+    - tsunami
+    - central japan origin
+    - toyama, ishikawa, niigata hit hard
+    - fukushima was march 2022
+    - 7.6 on ny day
+  - melania's mother very ill
+  - japan demography: 18 year olds at record low (just 1.06M)
+    - falling birthrate a problem
+  - us healthcare revolution in 2024?
+    - crispr revolution
+    - glp-1 weight loss drugs
+    - 2023 terrible for mental health
+    - legal mdma
+    - ketamine derivative for depression
+  - ca losing wealthy, hurts economy (high-earning well educated)
+- tech
+  - digital twins revolutionalizing auto industry
+    - monitor, fix, build
+  - pulsar alternative code editor (successor to atom?)
+  - 20% plants and animals at extinction risk
+- culture
+  - imagine: concert venue in space?
+  - aquaman 2 just 12% of 1's revenue
+  - green day changes lyrics of american idiot to bash maga
+  - color purple remake - did not do well in BO
+  - police launch investigation into virtual rape in metaverse
+- biz
+  - appl services biz 85B faces legal issues (antitrust)
+- 2023 review
+  - top 10 stories
+    - can cali power grid handle 15x increase in electric vehicles
+    - linux considering app store
+    - sudo and su to be rewritten in rust (memory safety)
+    - conservatives more often hit with misinfo than liberals in 2020 election
+    - desktop pc that makes linux easy to install?
+    - unix guy ken thompson will switch from mac to linux
+    - bjarne says rust safety not superior to c++
+    - "we need to shut down AI developments"
+    - truck stolen, has airtag, owner guns down thief
+    - wyoming in backwards proposal - phase out EV purchases, proud of oil and gas
