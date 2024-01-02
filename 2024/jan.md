@@ -2,6 +2,7 @@
 
 - 1/2
 - politics
+  - massive waves on cali
   - japan quake, buried alive
     - west coast
     - tsunami
@@ -19,12 +20,24 @@
     - legal mdma
     - ketamine derivative for depression
   - ca losing wealthy, hurts economy (high-earning well educated)
+- biz
+  - copilot chat made generally available
+  - UK startup Firefly Green Fuels makes low carbon jet fuel from human waste
+  - GE aerospace looking to supersonic air travel
+    - RDE - rotating detonating engine
+  - wfh here to stay?
 - tech
+  - lithium-free sodium battery hits road
+    - JAC motors (VW backed chinese automaker) Yiwei EV
+  - new helmet lining 30x better at stopping concussions
+    - lightweight foam made from carbon nanotubes
+  - beam solar energy from outer space?
   - digital twins revolutionalizing auto industry
     - monitor, fix, build
   - pulsar alternative code editor (successor to atom?)
   - 20% plants and animals at extinction risk
 - culture
+  - social media usage trending down
   - imagine: concert venue in space?
   - aquaman 2 just 12% of 1's revenue
   - green day changes lyrics of american idiot to bash maga
