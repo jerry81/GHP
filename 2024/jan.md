@@ -15,13 +15,20 @@
   - pornhub blocks montana, n carolina
     - because requires identification
   - japan test datacenter powered by hydrogen fuel cells
+  - cali driverless cars immune from traffic tickets
+  - TX thinking about using AI in gov
 - biz
   - universal overtakes disney as box office leader
   - byd overtakes tesla
   - appl lost 100B in mkt value in a single day
   - 23andme blames victims for data breach
   - xerox cut 15%
-
+  - AMZN Wickr shuts down after being abused by drug traffickers
+    - AWS - safe e2e encryption
+  - SBF doesn't need to make second trial
+  - EV takes 82% mkt share on tesla in norway
+- culture
+  - half brit teens addicted to social media
 
 - 1/2
 - politics
