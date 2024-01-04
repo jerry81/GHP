@@ -7,14 +7,20 @@
     - clinton "likes them young"
     - stephen hawking??
     - prince andrew
+    - aaron rodgers suggested jimmy kimmel might be on list, kimmel may sue
   - iran: 95 killed, 211 wounded blasts at ceremony honoring Soleimani (general)
     - no responsible party yet
     - likely not israel
   - beijing balloons over twn
+  - pornhub blocks montana, n carolina
+    - because requires identification
+  - japan test datacenter powered by hydrogen fuel cells
 - biz
   - universal overtakes disney as box office leader
   - byd overtakes tesla
   - appl lost 100B in mkt value in a single day
+  - 23andme blames victims for data breach
+  - xerox cut 15%
 
 
 - 1/2
