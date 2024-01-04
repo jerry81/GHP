@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+- 1/4
+- politics:
+  - covid and flu both hitting CA at the same time
+  - epstein names revealed
+    - clinton "likes them young"
+    - stephen hawking??
+    - prince andrew
+  - iran: 95 killed, 211 wounded blasts at ceremony honoring Soleimani (general)
+    - no responsible party yet
+    - likely not israel
+  - beijing balloons over twn
+- biz
+  - universal overtakes disney as box office leader
+  - byd overtakes tesla
+  - appl lost 100B in mkt value in a single day
+
+
 - 1/2
 - politics
   - cali wastewater -> drinking water
