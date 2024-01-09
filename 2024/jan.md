@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+- 1/9
+- politics
+  - trump many girls at epstein mansion
+  - epstein secret sex tapes of clinton, andrew, branson, sergey brin
+  - xi doubles down on corruption crackdown
+  - american east coast steadily sinking
+  - america offshore wind farm begins generating electricity, finally
+  - drones the new drug mules
+- biz
+  - samsung AI pet companion
+  - unity cutting 25% staff, company reset continues
+  - recession: only 700 IT jobs were created in USA last year, 267K created previously
+    - correction in pandemic overhiring
+  - VW chatgpt in cars for enriching conversations
+  - Deloitte rolls out genai chatbot
+  - nvidia geforce rtx 40 super series
+  - no way: iphone falls from flight, 16K foot, survives intact.
+  - MSFT may overtake appl as most valuable company in world
+  - starlink launches direct to phone satellites
+  - Goog Paid version of bard
+  - OpenAI gpt store coming next week
+- culture
+  - rich dad poor dad author 1B in debt
+- war
+  - RU shooting selves in leg to escape putin
+- health
+  - bottled watter contains more plastics
+- tech
+  - wifi 7 ready to go mainstream
+  - web3 (extension of crypto, blockchain) dead due to AI?
+  - AI Generated proofs to prevent software bugs "prove code is correct" - create mathematical proof that shows code is correct
+  - chatgpt is still not house md.  still sucks at diagnosing kids' medical cases.  83% error rate.
+  - linux takes 4% desktop market
+
 - 1/4
 - politics:
   - covid and flu both hitting CA at the same time
