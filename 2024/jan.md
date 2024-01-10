@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+- 1/10
+- politics
+  - more epstein stuff, gore clinton seen on island
+    - rodgers claims never named kimmel
+  - france Gabriel Attal: youngest and first gay prime minister
+  - global heat record in 2023
+- culture
+  - scorsese to make new jesus film
+- biz
+  - quantum computing startup aims to beat ibm
+  - amzn twitch to cut 500 emps (35% staff)
+  - duolingo will use more AI so it will lay off 10% of its contractors
+  - samsung debut microLED screen at CES 2024
+
 - 1/9
 - politics
   - trump many girls at epstein mansion
