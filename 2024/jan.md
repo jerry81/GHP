@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 1/11
+- politics
+  - some elections going on in merica
+    - chris christie out
+    - newsom and hillary in mexico for vaca, bill escaping epstein speculations
+  - cuba 500% inflation for gas
+  - americans deadliest drivers?
+- culture
+  - americans lose 113 nights to bad sleep yearly
+  - aaron rodgers cut
+  - matthew perry assualted women
+- biz
+  - amazon to take over tv
+  - software guys: job market getting worse
+  - pocket AI companion "Rabbit" sells out 10K in one day
+- tech
+  - hawaii coal plant replaced by huge battery
+  - brave search adds codeLLM - offers result for programming queries
+  - never seen before linux worm
+  - 4T music streams in 2023
+  - risc-v crucial to china's ambitions, usa thinking about limiting
+
 - 1/10
 - politics
   - more epstein stuff, gore clinton seen on island
