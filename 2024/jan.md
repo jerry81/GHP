@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 1/15
+- politics
+  - the don gaining in traction
+  - twn "defies" china, electing troublemaker new president, 赖清德
+- biz
+  - citigroup cut 20K jobs
+  - Hertz sells 20K EVs, buys gas cars instead
+  - Discord lays off 17%
+  - Goog cuts 100s of jobs in engineering and other
+- culture
+  - AI George Carlin comedy special
+- tech
+  - ChatGPT store - flooded by AI gf bots
+  - NASA - supersonic without sonic boom - X-59
+  - openai banned using chatgpt for millitary, but then rescinded
+  - debate, change linux kernel from C to modern C++
+  - new device "mouthpad" retainer-like tool sitting on roof of mouth.  scroll with tounge
+
 - 1/11
 - politics
   - some elections going on in merica
