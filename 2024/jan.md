@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+- 1/24
+- politics
+  - the donald.. back?
+  - immigration bigger issue than economy?
+  - far right surges in germany
+  - china's gaming rules draft wiped billions of mkt value, but china removed website with draft gaming rules
+    - further refinement
+- culture
+  - tristan thompson PEDs
+  - ken gets oscar nom, barbie did not
+- biz
+  - LA times layoffs
+  - ebay elminate 1000 jobs (9%)
+  - gummy vitamins - just candy
+  - ntflx buys wwe raw
+  - goog and AT&T invest in spaceMobile for satellite to smartphone service
+  - 180K aapl vision pro headsets sold over weekend
+  - humans still cheaper than AI in most jobs (MIT study)
+  - terraform labs (crypto) files chapter 11
+  - truck drivers welcoming transition to EV
+  - AI Frenzy allows S&P to set record high
+  - huawei harmony os new version - will not support android apps
+- tech
+  - EVs still fare better than gas in extreme cold
+  - first functioning graphene-based chip
+  - 30TB hard drives incoming...
+    - HAMR - heat assisted media recording
+    - Seagate (company), Mozaic 3+ (product)
+
 - 1/15
 - politics
   - the don gaining in traction
