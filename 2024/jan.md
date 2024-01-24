@@ -10,6 +10,13 @@
 - culture
   - tristan thompson PEDs
   - ken gets oscar nom, barbie did not
+  - world's first trillionaire incoming
+    - 5 richest
+      - elon
+      - jeff
+      - bernard arnault (LVMH)
+      - larry ellison
+      - warren
 - biz
   - LA times layoffs
   - ebay elminate 1000 jobs (9%)
@@ -22,12 +29,23 @@
   - truck drivers welcoming transition to EV
   - AI Frenzy allows S&P to set record high
   - huawei harmony os new version - will not support android apps
+  - bing chat - only brought 1% market share lulz
+  - coursera AI courses selling like hotcakes
+  - shryl sandberg to leave meta's board after 12 yrs
+  - jp morgan faces 45B cyber attacks a day
 - tech
+  - might not actually be blue light keeping us up
+  - ipv6 incoming!
+  - cyber attacks vs healthcare
   - EVs still fare better than gas in extreme cold
   - first functioning graphene-based chip
   - 30TB hard drives incoming...
     - HAMR - heat assisted media recording
     - Seagate (company), Mozaic 3+ (product)
+  - goog webGPU for next-gen gaming on android
+  - stablecoins allowed 40B in crypto crime, since 2022
+  - 60% advanced economy jobs will be impacted by AI
+  - AI can be trained to deceive says anthropic
 
 - 1/15
 - politics
