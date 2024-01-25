@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+- 1/25
+- biz
+  - chinese evs giving musk pressure
+  - upturn for us economy?  - inflation down, wages growing faster than prices
+  - ntflx happy with its games dept growth
+  - ebay cuts 1000 jobs (9%)
+  - appl trying self driving cars, delays launch to 2028
+- culture
+  - tayswift getting stalked
+- tech
+  - harvard cancer researchers accused of fraud
+  - large amount of web is machine translated
+
 - 1/24
 - politics
   - the donald.. back?
