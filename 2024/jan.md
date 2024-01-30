@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+1/30
+- politics
+  - pentagon mixed up friendly and enemy drones
+  - proposed cali bill: block algorithmic social feeds for children
+  - america's covid lab: animals given deadly diseases in "wuhan-like" experiments
+  - uk ban on disposable vapes
+  - nyc new dept formed to regulate app-based delivery
+  - ca bill: mandate electronic speed limiters in cars
+- biz
+  - first human gets neuralink brian implant
+    - trying to allow parapelegic human to control device with thoughts
+  - phillips snoring machines recalled - toxic fumes
+  - arc search: new app combines search, browser, and ai
+    - crawls web, reads pages, then formulates answer
+  - black stone - power-hungry data centers company
+  - irobot/amazon deal falls through, irobot will lay off 31% staff
+  - chatgpt based "Scalene" - efficiency/performance suggestions for python
+- culture
+  - meghan 3 stallion vs nicki minaj beef
+  - kim kardashian - elizabeth taylor biopic
+- tech
+  - AI spam ruining internet already
+  - alzheimer's spread between humans??
+    - from deprecated treatment
+  - china approves 40 ai models for public use in 6 months
+
 - 1/25
 - biz
   - chinese evs giving musk pressure
