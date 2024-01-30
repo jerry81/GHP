@@ -17,6 +17,9 @@
   - black stone - power-hungry data centers company
   - irobot/amazon deal falls through, irobot will lay off 31% staff
   - chatgpt based "Scalene" - efficiency/performance suggestions for python
+  - rooftop solar not doing well
+  - despite tech layoffs, tech stocks reach new records
+    - due to AI hiring sprees
 - culture
   - meghan 3 stallion vs nicki minaj beef
   - kim kardashian - elizabeth taylor biopic
@@ -25,6 +28,7 @@
   - alzheimer's spread between humans??
     - from deprecated treatment
   - china approves 40 ai models for public use in 6 months
+  - exercise increases brain volume and slows memory decline
 
 - 1/25
 - biz
