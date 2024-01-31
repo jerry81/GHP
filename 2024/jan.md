@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+1/31
+- biz
+  - musk brain chip clains now bring skepticism
+  - stock mkt feeling like .com bubble
+  - UPS will cut 12k jobs and invest in AI
+  - raspberry pi to go London IPO
+  - starbucks olive-oil infused drinks - gives diahrrea?
+- politics
+  - maga vs tay tay
+- culture
+  - youtuber beheads father
+- tech
+  - lab grown eel meat
+  - meta llama catching up with GPT-4
+
 1/30
 - politics
   - pentagon mixed up friendly and enemy drones
