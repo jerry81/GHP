@@ -1,0 +1,26 @@
+[Back](./index.md)
+
+- 2/19
+- politics
+  - winds over mid-atlantic
+    - plane speeds at 800mph
+  - putin assassination on navalny, age 47, opposition regime
+    - don stays silent
+  - argentinian poverty
+  - african mobs riot in the hague (netherlands)
+  - birth rates down in merica
+  - common problem: tech workers drive up housing prices everywhere
+- biz
+  - world in turmoil, but stocks rally
+  - apple streaming music antitrust fine in EU
+  - reddit offers its content to train ai
+  - apple pay had downtime
+  - scandal: intel inflating benchmark results?
+- culture
+  - bafta - oppenhiemer sweeps
+- tech
+  - "luddite" - person opposed to tech
+  - high capacity dna storage is close
+  - ocean temperatures skyrocketing
+  - japan combat space junk with wooden satellites
+  - go lang popularity up?
