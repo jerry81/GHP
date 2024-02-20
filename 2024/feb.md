@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 2/20
+- politics
+  - navalny was poisoned
+  - trump: USA a failing nation
+  - boris comeback in uk?
+  - biden relaxes shift to electric vehicles
+    - pressure from labor unions, automakers
+- biz
+  - "magnificent 7" profits exceed almost every country in world
+    - appl, amzn, alpha, meta, msft, nvidia, tesla
+    - fled SF, now coming back
+    - musk plans for 1M people on mars
+  - gen z work ethic: 87% don't show up for work
+    - 93% ghost interviews
+  - retirement up because of stock market boom
+  - stroke the beaver game makes hondos of thousands $4 a dl
+  - nintendo switch 2 2025
+  - vision pro cirticisms: heavy, unsmooth interface, 3500 USD
+  - cali ev sales dropping
+- culture
+  - madame web bombs
+
 - 2/19
 - politics
   - 59 year old russian astronaut sets record for time in space
