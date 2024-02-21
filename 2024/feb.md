@@ -1,5 +1,15 @@
 [Back](./index.md)
 
+- 2/21
+- politics
+  - israel economy down 20%
+- culture
+  - women twice the benefits from exercise?
+- biz
+  - goog, despite profits fire more
+  - youtube the top streaming service in US, ntflx 2nd
+  - zuck, meta ambition: neural wristband for ar/vr input
+
 - 2/20
 - politics
   - navalny was poisoned
