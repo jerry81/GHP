@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+- 2/22
+- war
+  - war turning in vlad's favor?
+- politics
+  - both trump and biden and trump are mentally unfit, says voters
+  - maga plan: mass deportation, detention camps
+- biz
+  - japan stock market hits high
+  - vegas hotels, bedbugs
+  - red lobster all you can eat makes huge losses, they drop it
+  - self driving taxis suspended in LA, norcal
+  - voters vote against tesla factory expansion in landslide
+  - goog gemini struggling with image gen of historical people
+  - NVIDIA revenue up 265% - thanks AI
+  - reddit offer shares of IPO to 75k of its most active users
+  - 2 goog open LLMs: Gemma 2B Gemma 7B
+    - bioptimus: Biology AI model
+- culture
+  - complete darwin personal library available online - drawin online
+  - joker 2 - 200M movie
+  - best beaches: portugal # 1 praia de Falesia
+    - itali 2
+    - spain 3
+    - hawaii ka'anapali beach 4
+- tech
+  - chatgpt spooky insanity - slowly lost c0oherence in its long response to a pet question
+    - devolved into nonsense
+
 - 2/21
 - politics
   - israel economy down 20%
