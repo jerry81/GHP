@@ -1,5 +1,42 @@
 [Back](./index.md)
 
+- 2/26
+- politics
+  - trump not getting votes in SC
+    - but swept 4 first states
+    - felony conviction would disqualify
+  - tx gets huge solar farm
+- war
+  - 31K ukr soldiers killed since start
+- biz
+  - berkshire hathaway 97B profit, a record
+  - china plans to crush musk
+    - byd the tesla killer - quality catching up
+  - startups struggled to build cars, now struggling to sell
+  - at&t had 12 hr outage, will reimburse $5 to each customer
+  - peter thiel once offered 20 students 100k to dop out of school to start companies or non-profits
+  - more bad press for 737 max
+  - tinder deal with open ai
+  - goog pay to be shut down
+  - tech interviews out of control: potential employees getting put thru the wringer: days of unpaid work
+  - nvidia 2T valuation
+  - reddit IPO coming!  NYSE, RDDT symbol
+  - 4day work week made permanent for most UK firms in expierment (61 companies )
+- culture
+  - freddie mercury to perform as hologram
+  - why netherlands so happy?
+    - "niksen" - dutch art of doing nothing
+    - go with natural rhythm.
+    - do nothing together
+    - no emotional outbursts
+- tech
+  - folding vehicle to change urban driving
+  - peta-bit dvd sized disk
+  - newest in cancer research - vax tailored to genetic makeup of tumor
+  - mariposa: a PL with "time travel"
+  - more links: air pollution + dementia
+  - 3 huge solar flares launched in 24 hrs
+
 - 2/22
 - war
   - war turning in vlad's favor?
