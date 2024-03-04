@@ -1,0 +1,31 @@
+[back](./index.md)
+
+-3/4
+- politics
+  - same old same old at primaries: trump vs biden
+  - us terror threat high
+  - tx fires
+  - 1 B obese in the world
+  - record carbon emissions
+- health
+  - anxiety drug deaths up
+- biz
+  - winklevoss twins' gemini (crypto) will payout 1B to customers who lost in their investments
+  - github dealing with malicious repos
+  - elon musk sues openai for breaching its non-profit altruistic principles
+  - winding down startups is a business
+  - bitcoin wild rally
+  - reddit ipo
+  - huawei new cpu rivals zen3(AMD)
+  - yelp: remote work first policy boosted job applications 43%, improved worker morale
+  - IBM asked for layoff volunteers
+  - stackoverflow to charge for using its content to  train LLMS?
+  - rockstar games return to office (5 days a week)
+  - appl cancels its electric car
+  - tumblr and wordpress are planning on selling user data to midjourney and gpt
+  - Playstation cutting 900 jobs
+  - bezos, nvidia, openai to invest in humanoid robot startup
+- tech
+  - huge helium discovery in n. america
+  - starcoder - new code-generating AI
+  - intel plans 1nm process
