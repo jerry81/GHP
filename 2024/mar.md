@@ -4,13 +4,18 @@
 - politics
   - more senility from trump - slurring speech, brain freeze
   - clinton may run in 3rd "no label" party
+  - homeless man tries to steal waymo taxi - gets charged for GTA
 - culture
   - bezos passes musk again for world's richest
   - glue traps getting banned - starvation, dehydation, aspyhxiation, blood loss - chew off own limbs to get free
   - people having less sex
+- biz
+  - qualcomm app store for AI
+  - AAPL new macbook air - m3 chip
 - tech
   - tabloid fodder?  EV more toxic than gas cars?
   - anthropic more powerful than chatgpt?
+  - linux desktop market share passes 4%
 
 -3/4
 - politics
