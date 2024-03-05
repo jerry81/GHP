@@ -1,5 +1,17 @@
 [back](./index.md)
 
+3/5
+- politics
+  - more senility from trump - slurring speech, brain freeze
+  - clinton may run in 3rd "no label" party
+- culture
+  - bezos passes musk again for world's richest
+  - glue traps getting banned - starvation, dehydation, aspyhxiation, blood loss - chew off own limbs to get free
+  - people having less sex
+- tech
+  - tabloid fodder?  EV more toxic than gas cars?
+  - anthropic more powerful than chatgpt?
+
 -3/4
 - politics
   - same old same old at primaries: trump vs biden
