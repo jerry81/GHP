@@ -1,5 +1,28 @@
 [back](./index.md)
 
+3/6
+- politics
+  - musk may financially back trump
+  - mark cuban backs biden
+  - haiti cannibalism
+  - child sex dolls for pedophiles, mulls KY lawmaker
+- biz
+  - tesla stock down -30% since JAN
+    - troubles in German factory
+  - btc breaks record at 69K then tumbles 10%
+- culture
+  - new A24 movie: "civil war"
+  - haha bankok prostitutes brawling over turf war
+  - "screentime" robs toddlers of hearing 1000 words spoken by adults each day
+- tech
+  - reasons why linux desktop is growing:
+    - msft not interested in windows anymore, but rather win 365 cloud
+    - linux gaming gorwing thanks to steam
+    - easy to use some distros (linux mint)
+    - easy to find and install
+    - india
+
+
 3/5
 - politics
   - more senility from trump - slurring speech, brain freeze
