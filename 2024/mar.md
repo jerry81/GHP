@@ -1,5 +1,20 @@
 [back](./index.md)
 
+3/7
+- politics
+  - nikki haley out of the republican race - only trump is left
+  - ny, ca, tx all want to secede from the US (25%)
+  - chinese goog engineer faces 10 yrs 250K fine for stealing trade secrets related to AI
+- biz
+  - tesla drops out of top 10
+    - may lose money this year
+  - job relocations due to rising temps
+  - iphone down in china, hwawei way up
+  - jp morgan AI model cut manual work by 90%
+  - AMZN 650M nuke powered Data center
+- health
+  - lofty goals: 10000 steps a day etend life
+
 3/6
 - politics
   - musk may financially back trump
