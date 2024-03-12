@@ -1,5 +1,22 @@
 [back](./index.md)
 
+3/12
+- culture
+  - oppenheimer gets lots of oscars
+  - hawaii gets its first gruesome crime in 25 years: murder suicide of family
+  - tyson vs jake paul?
+- politics
+  - trump had praise for hitler
+  - blacks and hispanics shifting right
+  - us botany: - "timebomb weed" - wrecks havoc on local ecology after dormant period
+  - trade war: chinese tesla and appl sales down
+    - instructions: ditch western
+  - port-au-prince, haiti capital - controlled by armed gangs
+- war
+  - new red scare in america
+- tech
+  - edit genes in vitro?
+
 3/7
 - politics
   - nikki haley out of the republican race - only trump is left
