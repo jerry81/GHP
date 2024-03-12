@@ -12,6 +12,8 @@
   - trade war: chinese tesla and appl sales down
     - instructions: ditch western
   - port-au-prince, haiti capital - controlled by armed gangs
+  - history leaded gasoline gave about half of america brain damage
+  - warmest february ever
 - war
   - new red scare in america
 - biz
@@ -21,6 +23,8 @@
     - stability AI employees banned from using MJ
   - another Musk startup: xAI - spinoff of X (twitter) - chatbot Grok - to be open source
   - reddit considered a Junk Stock IPO?
+  - Canonical (Ubuntu) turns 20
+  - Rivian (EV, amazon backed) has a surge in stock price - cheap new suv
 - tech
   - edit genes in vitro?
   - french gov cyberattacked
@@ -28,6 +32,8 @@
   - linux 6.9 sets record for # of git objects, over 10M
   - Geology: we are in the Holocene, time for a new geologic time: the Anthropocene?
   - MIT: fusion feasibility has been proven
+  - linux mint (ubuntu based) has HexChat
+    - creating Jargonaut to replace it - it's a chat room, not a chat bot
 
 3/7
 - politics
