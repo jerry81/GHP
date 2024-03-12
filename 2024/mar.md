@@ -19,10 +19,15 @@
   - consumer's driving behavior shared with insurance companies by automakers
   - midjourney and stability AI are rivals
     - stability AI employees banned from using MJ
+  - another Musk startup: xAI - spinoff of X (twitter) - chatbot Grok - to be open source
+  - reddit considered a Junk Stock IPO?
 - tech
   - edit genes in vitro?
   - french gov cyberattacked
   - surgeons use Apple Vision po to perform first surgery
+  - linux 6.9 sets record for # of git objects, over 10M
+  - Geology: we are in the Holocene, time for a new geologic time: the Anthropocene?
+  - MIT: fusion feasibility has been proven
 
 3/7
 - politics
