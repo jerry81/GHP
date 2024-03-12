@@ -14,8 +14,15 @@
   - port-au-prince, haiti capital - controlled by armed gangs
 - war
   - new red scare in america
+- biz
+  - boeing more issues: 50 injured on "strong movement" in flight on 787-9
+  - consumer's driving behavior shared with insurance companies by automakers
+  - midjourney and stability AI are rivals
+    - stability AI employees banned from using MJ
 - tech
   - edit genes in vitro?
+  - french gov cyberattacked
+  - surgeons use Apple Vision po to perform first surgery
 
 3/7
 - politics
