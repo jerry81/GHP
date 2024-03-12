@@ -11,14 +11,19 @@
   - us botany: - "timebomb weed" - wrecks havoc on local ecology after dormant period
   - trade war: chinese tesla and appl sales down
     - instructions: ditch western
+    - delete america from own tech
+    - threat from US: sell off tiktok or face ban
   - port-au-prince, haiti capital - controlled by armed gangs
   - history leaded gasoline gave about half of america brain damage
   - warmest february ever
   - petitions vs AI Bioweapons
+  - amid us AI war against china, china feeds 27B into chip industry
+  - power shortage predicted in America
 - war
   - new red scare in america
 - biz
   - boeing more issues: 50 injured on "strong movement" in flight on 787-9
+    - MH370 10 yeas later - still not found
   - consumer's driving behavior shared with insurance companies by automakers
   - midjourney and stability AI are rivals
     - stability AI employees banned from using MJ
@@ -28,6 +33,9 @@
   - Rivian (EV, amazon backed) has a surge in stock price - cheap new suv
   - Palantir now doing AI: gets US Army contract
   - irony: goog new AI office has spotty wi-fi
+  - futility: Astra (rocket startup) stated with 2.1B valuation, now valued at 13M
+    - 2 successful launches out of 7 attempts
+  - EA games: "AI will make us 30% more efficient"
 - tech
   - edit genes in vitro?
   - french gov cyberattacked
@@ -39,6 +47,9 @@
     - creating Jargonaut to replace it - it's a chat room, not a chat bot
   - danger of "losing science" - publishers may go bankrupt
   - chrome up to 124 - PWA (progressive web apps) turn website into app
+  - "AI prompt engineering is dead"?
+    - ai better than humans at it
+  - teachers like cgpt for grading
 
 3/7
 - politics
