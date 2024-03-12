@@ -14,6 +14,7 @@
   - port-au-prince, haiti capital - controlled by armed gangs
   - history leaded gasoline gave about half of america brain damage
   - warmest february ever
+  - petitions vs AI Bioweapons
 - war
   - new red scare in america
 - biz
@@ -25,6 +26,8 @@
   - reddit considered a Junk Stock IPO?
   - Canonical (Ubuntu) turns 20
   - Rivian (EV, amazon backed) has a surge in stock price - cheap new suv
+  - Palantir now doing AI: gets US Army contract
+  - irony: goog new AI office has spotty wi-fi
 - tech
   - edit genes in vitro?
   - french gov cyberattacked
@@ -34,6 +37,8 @@
   - MIT: fusion feasibility has been proven
   - linux mint (ubuntu based) has HexChat
     - creating Jargonaut to replace it - it's a chat room, not a chat bot
+  - danger of "losing science" - publishers may go bankrupt
+  - chrome up to 124 - PWA (progressive web apps) turn website into app
 
 3/7
 - politics
