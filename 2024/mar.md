@@ -1,5 +1,26 @@
 [back](./index.md)
 
+3/13
+- politics
+  - steph curry for prez?
+  - lab-grown meat ban
+  - china working on largest high-speed rail network on earth, using AI to process info of abnormal situations - 95% accuracy
+  - china dominating world in solar energy
+- culture
+  - tanning is in?
+  - new social media generation enamored by hitler?
+  - college courses teach "joy" - can happiness be learned?
+- war
+  - "jamming" electronic warefare on ukr battlefields
+- biz
+  - goog paid 10M in bug bounties last year
+  - intel 2.5B grant from pentagon gone
+  - yandex cofounder arkady volozh - unbanned by europe
+  - aapl for car project made chip equivalent to 4 M2 ultras
+  - more boeing woes: 737 Max audit - FAA found lots of issues
+  - report: subscription apps dont actually make money
+  - stratolaunch, from MSFT cofounder paul allen, launches world's largest aircraft, goes supersonic
+
 3/12
 - culture
   - oppenheimer gets lots of oscars
