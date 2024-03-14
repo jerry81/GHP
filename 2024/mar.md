@@ -1,5 +1,13 @@
 [back](./index.md)
 
+3/14
+- politics
+  - don lemon, just before his firing, asked musk about his ketamine use
+- culture
+  - playing with dogs improves mood and mental sharpness
+- tech
+  - even mexican catel using AI
+
 3/13
 - politics
   - steph curry for prez?
