@@ -5,8 +5,17 @@
   - don lemon, just before his firing, asked musk about his ketamine use
 - culture
   - playing with dogs improves mood and mental sharpness
+- biz
+  - ageism in tech is a thing
+  - waymo robotaxi in austin by year end
+  - spotify for youtube for music video dominance
+  - spacex to use e-band (extreme high freq) radio waves to boost starlink broadband
+- health
+  - young people getting cancer: why?
 - tech
   - even mexican catel using AI
+  - openai sora text to video generator will be public later this year
+  - deepmind plays goat simulator
 
 3/13
 - politics
