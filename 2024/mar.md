@@ -1,5 +1,27 @@
 [back](./index.md)
 
+3/18
+- politics
+  - great resignation hits government too
+  - oregon's decriminalization plan failed
+  - minneapolis minimum wage 15.57 / hr
+  - CIA used chinese social media in campaign against XJP
+- culture
+  - christian club: smoking drinking banned, plays christian music
+  - "phone based childhoods"
+- biz
+  - nvidia acquires run:ai
+  - appl may let gemini (goog) power its phone ai
+  - boeing drama: whistleblower found dead of suicide
+  - has AI ruined Etsy? (vintage and handmade marketplace)
+  - tech layoffs highest since dot com crash
+  - Tim Cook settles for 490M in fraud case
+- tech
+  - DBOS - database based os
+  - Helium-3 mining on the moon
+  - caffeine in fuel cells (more efficient?)
+  - undersea cable damaged, africa has internet outages
+
 3/14
 - politics
   - don lemon, just before his firing, asked musk about his ketamine use
