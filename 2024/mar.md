@@ -1,5 +1,29 @@
 [back](./index.md)
 
+3/19
+- politics
+  - trump fails to get bond to cover 454M to stave off seizure of assets
+    - is he broke?
+  - more unrest in haiti
+    - mad-max like environment
+  - global ocean heat just keeps breaking records
+  - indiana becomes 9th state to make CS a HS requirement
+  - havana syndrome patients didn't show any brain abnormalities, 5 year study
+- health
+  - fasting linked to heart attacks and strokes?
+- culture
+  - next bond could be Aaron taylor johnson?
+- biz
+  - hertz did really bad with EVs, got CEO to quit
+  - tesla no longer invincible?
+  - oops: bank of ethiopia glitch.  lets customers withdraw millions
+  - most powerful chip ever for AI: Nvidia Blackwell B200
+  - games to linkedin
+  - google VLOGGER - ai that animates photos
+- tech
+  - ai-generated science: a growing issue
+
+
 3/18
 - politics
   - great resignation hits government too
