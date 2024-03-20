@@ -1,5 +1,25 @@
 [back](./index.md)
 
+3/20
+- politics
+  - stormy daniels fears trump assassination
+  - USA happiness ranking falls out of top 20
+    - finland # 1 for 7th year
+  - joe's stock market performance passes don's
+  - el salvador loving bitcoin right now
+  - 99 worst polluted cities all in asia
+  - bolsonario fraud
+  - S. africa has "white only" towns
+  - Saudi Arabia 40B push into AI
+- biz
+  - uber-style pricing coming for everything (surge pricing)
+  - sleep vacation, sleep tourism - hotels targeted towards sleep - masks, ear pugs, herbal teas, sleep cocoons, hyno
+    - silk hammocks, meditation pods
+- tech
+  - 7 countries meet WHO air quality standard - aus, estonia, finland, grenada, iceland, NZ
+  - jensen: AGI (general intelligence) 5 years away
+    - aka strong ai, full ai, human level ai
+
 3/19
 - politics
   - trump fails to get bond to cover 454M to stave off seizure of assets
