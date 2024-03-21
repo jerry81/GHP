@@ -1,5 +1,20 @@
 [back](./index.md)
 
+3/21
+- politics
+  - ww3 watch - us troops taiwan on china border
+    - testing hypersonic missles
+    - 32 chinese warplanes around taiwan
+- biz
+  - intel to expand hugely (100B) in 4 us states, ohio, new mex, oregon, arizona
+  - fitbit is google's (acquired in 2021)
+  - Airbus CEO laments boeing's problems as bad for entire industry
+  - nvidia partner with ubisoft for ai npcs
+  - open ai chatbot store already filling with spam
+- tech
+  - parkinsons detection thru skin
+  - physicist: universe actually has no dark matter
+
 3/20
 - politics
   - stormy daniels fears trump assassination
@@ -67,6 +82,7 @@
   - undersea cable damaged, africa has internet outages
 
 3/14
+
 - politics
   - don lemon, just before his firing, asked musk about his ketamine use
 - culture
