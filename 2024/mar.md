@@ -1,5 +1,43 @@
 [back](./index.md)
 
+3/26
+- politics
+  - diddy seems fucked
+    - sex traffiking
+    - extradited from private island
+  - trump seeks bond from donors
+  - putin "radical islamists behind moscow attack"
+    - was it inside job?
+  - name refresher: Maduro, venezuela - opposed by 80 y/o grandmother
+  - tennessee first state to protect musicians against AI
+    - protected from unauthorized ai impersonation
+  - china bans intel and AMD in gov computers
+  - TX fights back against xHamster and chaturbate
+  - E-waste the next political problem for UN
+- culture
+  - 25 years since matrix !
+  - 3BP gets mixed reviews - china upset over first scene
+  - CS majors grew a lot
+- biz
+  - stability AI ceo, Emad Mostaque  - resigns
+    - laments difficulty of competing with centralized AI
+  - not suprising: beoing gets leadership shakeup
+  - new biz model for publishers:
+    - small staff, offload to network of freelancers
+    - offer higher % of profits instead of advances
+  - github yet another ai tool: "AI Autofixer"
+  - higher temps mean higher food prices
+  - reddit IPO 34 a share
+  - neuralink - brain-chip patient plays chess and civ6 using his mind
+- tech
+  - ubuntu linux LTS will get 12 yrs of support
+  - due to AI, land near nuclear power plants becomes hot real estate
+  - DuckDB: analytical DB, natively read and parse json as db table using sql
+  - "cloud geoengineering" - use clouds to combat global warming
+  - apple draws anger for making their cURL different from Linux
+    - something about flag -cacert behavior not consistent
+  - android 15 to get satellite messaging
+
 3/21
 - politics
   - ww3 watch - us troops taiwan on china border
