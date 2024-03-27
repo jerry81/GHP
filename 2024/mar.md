@@ -1,5 +1,17 @@
 [back](./index.md)
 
+3/27
+- culture
+  - euphoria season 3 may not happen?
+- biz
+  - emirates CEO: boeing needs an engineer as new leader
+  - dell workforce cuts
+  - reddit now public may need more content moderation
+  - msft strategy change: surface and windows get new boss
+- tech
+  - AI make beer taste better?
+  - prediction for UK: ai will suck up 500% more power in 10 yrs
+
 3/26
 - politics
   - diddy seems fucked
