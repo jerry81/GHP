@@ -1,0 +1,33 @@
+[Back](./index.md)
+
+- 4/1
+- culture
+  - IG trend: "van life"
+  - godzilla x king kong
+- politics
+  - 7K debt = trapped in china
+  - chinese migrants sneaking into guam
+  - next isis attack could be on usa/eur
+  - usa productivity boom?
+- biz
+  - boston market about to go out of biz?
+  - reddit shares drop 25%
+  - disney losing billions on disney+, try integrate hulu into app
+  - at&t data leak into dark web, 73M customer's data
+  - gmail turns 20 years old
+  - msft/openai - 100B stargate AI supercomp
+  - meta will add AI to ray ban smart glasses
+  - NYC robotaxis with saftey drivers
+  - claude 3 suprasses chatgpt 4 in "chatbot arena"
+  - SBF sentenced to 25 years
+  - AMZN 150B investment in AI datacenters
+  - AMZN spends 2.5B on anthropic investment, most ever
+  - 1M a year pacakges for top ai talent
+- tech
+  - thorium, open source chrome, fast
+  - new material converts CO2 into Methanol
+  - study in mice: memory formation is DNA breaking and then reconstructing
+  - landfills produce methane
+  - valkey a linux redis fork
+  - earth spinning faster than perviously - may need to subtract a second
+  - american chatgpt usage up
