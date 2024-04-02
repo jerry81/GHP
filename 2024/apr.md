@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+4/2
+- politics
+  - war: israel kills top iran general
+    - revenge coming?
+    - syrian capital damascus iran consluate flattened
+  - record heat in asia, eu
+- biz
+  - trump "truth" social media loses 58M, stock down
+    - 2B in value gone
+  - gold hits record high
+  - elon reputation down, tesla buyers timid
+  - goog rust devs twice as productive as c++ teams
+- culture
+  - SF named "healthiest"
+  - 40% adults 3 days without f2f interactions
+- tech
+  - yet another LLM player: databricks, open source
+  - chatgpt no longer requires account
+
 - 4/1
 - culture
   - IG trend: "van life"
