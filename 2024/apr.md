@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+4/3
+- politics
+  - twn 7.4 mag
+    - okinawa evac advisory
+  -  iran retaliation?
+  - oregon recriminalizes drugs
+  - havana syndrome may have a explanation: russia
+  - india biggest green energy source, hydro, drops, global warming
+- culture
+ - exercise stengthens brain?
+- tech
+  - scientists accidentally create no-genital sixlegged mouse
+  - fiber optic connection 1.2M times faster than broadband being worked on?
+- biz
+  - magic number for retirement: 1.46M? USD
+  - intel reports 7B loss
+  - BTC tumbles 5000 in 24 hours due to interest rates rising
+  - MSFT working on xbox ai chatbot
+
+
 4/2
 - politics
   - war: israel kills top iran general
