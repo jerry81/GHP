@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+4/9
+- politics
+  - ben netanyahu - aka bibi
+  - US invests 20B into clean-energy projs
+- biz
+  - musk: AI overtake human intelligence next year
+  - msft: windows on arm could beat appl silicon macs
+  - tsmc - wins 6.6B US subsidy for AZ chip production
+  - report on boeing: profits before safety
+  - tesla robotaxi to be unveiled aug 8
+  - appl lays off 700, appl car and microLED teams
+  - staffing company: AI will cut worker numbers
+  - "trump media" the new gamestop stock
+  - apple exploring personal home robots
+- culture
+  - profs using AI to grade essays
+  - denis villeneuve - dune 3
+  - new matrix film coming
+  - biz schools integrating AI into curiculum
+- tech
+  - msft edge: to let user control how much RAM used soon
+  - 57 companies produced 80% of global CO2
+  - mini liver grown from patient's lymph node
+  - chatgpt customers can now use AI to edit DALL-E images
+  - stability AI ran out of cash for cloud GPUs
+
 4/3
 - politics
   - twn 7.4 mag
