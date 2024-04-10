@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+4/10
+- politics
+  - AZ state abortion law
+  - joe building a great campaign
+  - islamic Caliphate: institution public office under the leadership of Islamic steward, title Callph
+    - successor to muhammad
+  - michigan school shooting's parents sentenced to 10 years for negligence
+    - 2021 4 killed in michigan school
+- biz
+  - utah tech hub?
+  - musk speaking is "self-inflicted wounds"
+  - jone ive, sam altman startup doing AI hardware, seeks 1B in funding
+  - intel new AI chip: Gaudi 3 - better than nvidia H100?
+  - cruise robotaxis back in Phx but with people driving in manual mode
+  - meta launch small versions of llama 3 next week
+  - Goog vids: actually a work productivity tool
+- culture
+  - joker 2 first trailer
+  - creative: suicide by snake
+    - let pet cobra bite him
+- tech
+  - higgs of higgs-boson dies age 94
+
 4/9
 - politics
   - ben netanyahu - aka bibi
