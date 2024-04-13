@@ -1,5 +1,12 @@
 [Back](./index.md)
 
+4/12
+- politics
+  - oj dead, 77 cancer
+- culture
+  - jk rowling anti trans?
+    - upset at radcliffe and emma watson for supporting
+
 4/10
 - politics
   - AZ state abortion law
