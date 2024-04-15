@@ -1,5 +1,45 @@
 [Back](./index.md)
 
+4/15
+- politics
+  - chechnya bans music based on tempo
+  - Adam schiff, D-California proposes public db for all ai training data.
+  - iran direct attack on israel
+    - drones, cruise missles, surface to surface, 99% intercepted.
+      - cruise missle travel low
+      - s2s travel high
+    - world war coming?
+  - trump criminal trial arrives
+  - CA replace gas plant with grid battery
+    - paired with solar
+  - america getting closer to regulating crypto
+  - US China new arms race with... drone swarms?
+  - US ban chinese EV?
+- biz
+  - Appl M4 -> ai-focused?
+  - canonical and qualcomm partnership over ubuntu
+  - some "defeated" ceos concede: hybrid work here to stay
+  - adobe firefly: its AI model
+    - trained using midjourney images
+  - hwawei chip r&d in shanghai
+    - 12B rmb
+  - china tells telecom carriers to phase out foreign chip suppliers (intel, amd)
+  - change to chatgpt: more direct, less verbose
+  - AI expert andrew ng, joins amzn
+  - waymo robotaxis in LA
+- culture
+  - civil war huge opening (A24)
+  - rec usage of ED drugs rising...
+    - viagara and cialis
+    - open blood vessels
+      - can treat pulmonary hypertension, urinary probs
+      - improve stamina in gym
+- tech
+  - new charging method double life of Li-Ion batteries?
+  - create solar eclipses to study the sun?
+
+
+
 4/12
 - politics
   - oj dead, 77 cancer
