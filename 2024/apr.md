@@ -1,5 +1,35 @@
 [Back](./index.md)
 
+- 4/16
+- pollitics
+ - the don, in court, falls asleep
+  - 34 felony counts
+ - CA over 100% energy demand using only renewables (wind,solar,hydro) over record 30 days
+ - liz warren (D-MA) compalins turbotax upsells customers
+- biz
+  - tesla 10% layoffs no explanation
+    - stock dropped 1/3
+    - musk in mess
+  - iphone slump, worst since covid
+    - china sales drop
+    - samsung overtakes
+  - Roku, streaming tv, 600k accounts pwned, 2fa now mandatory
+- culture
+  - MSG sells out a D&D "play show" - watch people play d&D
+- tech
+  - state of ai, according to Stanford AI Index Report, 2024
+    - beats hum on some tasks, but not all
+    - industry (opp. to academia) dominates AI research
+    - training costs of Models getting expensive
+      - Gemeni (goog) 191M for compute to train
+      - GPT-4 78M
+    - USA 61 models, EU 21, CN 15
+    - GenAI investment up
+    - AI makes workers more productive
+    - Science moves faster
+    - AI Regulations increases
+  - cybersec engi convicted of stealing crypto, gets 3 y prison
+
 4/15
 - politics
   - chechnya bans music based on tempo
