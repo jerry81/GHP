@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 4/17
+- politics
+  - don having a tough time at his trial
+  - many russian tourists in Cuba 200K
+  - maga drops pro-life?
+  - goog workers against cloud contract with Israeli gov
+  - UK outlaw deepfake porn
+- biz
+  - tesla woes fatal flaw in Cybertruck causes deliveries to stop
+  - boston dynamics retires Atlas
+- culture
+  - good countries to be digital nomad:
+    - spain
+    - italy
+    - greece
+    - estonia
+    - portugal
+    - indonesia
+    - UAE
+    - Costa Rica
+    - Bahamas
+- tech
+  - "crescendo" jailbreak LLM - series of prompts that makes LLM leak and break rules, found by MSFT
+  - baidu ernie bot 200M users
+
 - 4/16
 - pollitics
  - the don, in court, falls asleep
