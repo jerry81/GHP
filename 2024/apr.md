@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 4/18
+- culture
+  - tarantino final film, "the movie critic" dropped
+    - was going to have Brad pitt as star
+  - scorsese and dicaprio to work on sinatra movie?
+- politics
+  - ecuador goes 3 day work week haha
+    - but due to energy shortages
+- biz
+  - boston dynamics debuts new electric humanoid, previously hydraulic
+    - hydraulic: oil used to help generate motion
+  - goog anti-israel protesters arrested
+  - economy: avg incomes will fall by almost a 1/5 by 2050 due to climate change
+  - snowmobile: amazon's using truck to do data transfer
+    - killed
+    - clever name: sneakernet
+- tech
+  - AI computing will consume more energy than india says ARM
+  - cloudflare: DNS-based DDos is most prominent attk vector
+    - after sweden joined nato, ddos attacks on it grew 466%
+
 - 4/17
 - politics
   - don having a tough time at his trial
