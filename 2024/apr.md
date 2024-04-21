@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+- 4/21
+- politics
+  - war: israel asks usa for ammo
+  - tiktok about to get banned
+  - british columbia bans level 3 automous driving
+- biz
+  - homesellers waiting for fed to drop rate
+  - sex toys expo in shanghai - virtual control e/o's sex toys
+  - Anne Wojcicki - may take 23 and me private after shares drop to under $1, 95% drop
+  - indian outsourcing companies including infosys cut 60K jobs
+    - wipro
+    - TCS
+  - the google protesters fired
+  - samsung, in light of a weak won, declares 6 day work week for executives
+- tech
+  - james webb space telescope gets imax documentary - deep sky
+  - data centers turning to coal for power
+  - ocean waves crashing releases aresols
+
 - 4/18
 - culture
   - tarantino final film, "the movie critic" dropped
