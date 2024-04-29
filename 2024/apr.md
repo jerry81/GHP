@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+- 4/29
+- politics
+  - Oklahoma tornadoes
+  - kristi noem, vp candidate for trump, SDakota gov
+  - DJI may be banned next in America
+  - LV-LA high speed rail (america's first) begins constructions
+  - USA bans noncompete agreements for nearly all jobs
+  - cali "problem": too much solar
+- culture
+  - taylor swift in one year flew 178K miles, 7 times around world
+  - kevin spacey documentary
+  - zendaya stock up, one of "raunchiest films ever", challengers, about tennis retiree
+- biz
+  - biggest clean energy plant being built, 5 times size of paris, in india
+  - intel stock drops 9%.  strugging to remain relevant?
+  - Honda to spend 11B on 4 EV factories in NA
+  - Alphabet stock jumps 14%
+  - Stripe integrates crypto, will start with USDC stablecoin
+  - ford losing big on EVs
+  - IBM acquire hashicorp
+  - iphone sales down 19%
+  - china curse of 35 for aging tech workers - kuaishou -  layoff 30somethings in restructuring
+  - eu extreme heat stress
+  - AI needs so much energy, tech companies getting into energy biz
+- tech
+  - soldered ram more efficient
+  - EU (NE) to build 100-Qubit computer by 2026
+  - TSMC 1.6 nm process tech
+  - DOS 4 opensourced
+  - ubuntu 24.04 LTS Noble Numbat release
+
 - 4/21
 - politics
   - war: israel asks usa for ammo
