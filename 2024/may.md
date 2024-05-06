@@ -1,0 +1,24 @@
+[Back](./index.md)
+
+- 5/6
+- politics
+  - bird flu fears, bleeding in eyes?
+  - china buying gold
+  - automated braking systems mandate, 2029
+  - russia anti-satellite nuke
+  - german foreign minister, annalena baerbock
+    - upset at russia for cyberattack (2023)
+  - fl bans lab-grown meat
+  - german police bust big scam call center in balkan-lebanon?
+- biz
+  - biggest wall street crash since 1929 predicted
+  - jack dorsey is now running Block (crypto) regularly buys bitcoin
+  - appl massive buy-back amid iphone struggles
+  - AI engineer burnout and tight deadlines
+  - Motional - hyundai self driving business - kept on life support with 1B investment
+- culture
+  - francis ford coppola - megalopolis - new sci-fi film
+  - americans "more money", europeans "more time"
+  - san francisco - 700 a month for a bed pod?
+- tech
+  - lithium free sodium batteries
