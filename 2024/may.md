@@ -10,12 +10,17 @@
     - upset at russia for cyberattack (2023)
   - fl bans lab-grown meat
   - german police bust big scam call center in balkan-lebanon?
+  - china launches eletric container ship between shanghai and nanjing
+    - reduced emissions
 - biz
   - biggest wall street crash since 1929 predicted
   - jack dorsey is now running Block (crypto) regularly buys bitcoin
   - appl massive buy-back amid iphone struggles
   - AI engineer burnout and tight deadlines
   - Motional - hyundai self driving business - kept on life support with 1B investment
+  - MSFT big expansion in Malaysia
+  - goog core team layoffs, move work to india and mexico
+    - core - tech foundation
 - culture
   - francis ford coppola - megalopolis - new sci-fi film
   - americans "more money", europeans "more time"
