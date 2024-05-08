@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+- 5/8
+- politics
+  - stormy daniels takes stand
+  - jon stewart: biden "just shouldn't be pres"
+  - putin recruits cubans to fight, for 2000 usd
+  - germans vote for compulsory military service
+- biz
+  - open ai exec: "today's chatgpt will be bad in 12 months"
+  - liz holmes' prison sentence reduced again
+  - appl M4 announced, more cpu cores, AI focus
+  - jane street: quant trading - gets into mobile gaming
+  - Motional (hyundai) delays robotaxi plans amid restructuring
+  - tiktok sues us gov for forcing sale/ban
+  - iphone has spyware problem
+  - alternative clouds booming
+    - cheap gpus wanted
+  - openai and stack overflow partner to bring more tech knowledge to chatgpt
+  - "good enough principle" - prioritize functionality over perfectionist
+  - msft working on new ai model to compete with goog, openai (they paid openai to reuse their models)
+    - MAI-1
+    - mustafa suleyman - ex goog aI
+  - Grok - is XAi's (elon musk)
+- culuture
+  - bob iger shrinking mcu
+    - blames tv shows for diluting audience focus
+
 - 5/6
 - politics
   - bird flu fears, bleeding in eyes?
