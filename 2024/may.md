@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+- 5/9
+- politics
+  - there's a new trump, Barron,youngest son entering politics
+  - usa threatens stopping weapons shipments if israel invades Rafah (palestine, gaza strip south)
+  - belgian sex workers to get benefits like health insurance, pensions, maternity leave
+  - net neutrality: FCC prohibits fast lanes
+- culture
+  - israeli singer booed at eurovision
+  - the following considered ultra processed
+    - chips
+    - cookies
+    - donuts
+    - white bread
+    - frozen food
+    - hot dogs
+  - musk, to sleep, listens to podcasts
+    - about the fall of civilization
+- biz
+  - goog will apply AI to make better pain drugs
+  - big new industry in china: deepfakes of dead loved ones
+  - goog leaves one market plaza, san francisco
+  - most 81% young people say 4 day workweek would boost productivity
+  - brilliant (smart home startup) bankrupt
+  - aapl ad for ipad pro that has m4 chip
+  - intel, qualcomm banned from selling chips to huawei
+- tech
+  - raspberry pi connect: access any device from anywhere with browser
+  - worldwide renewable at 30%
+
 - 5/8
 - politics
   - stormy daniels takes stand
