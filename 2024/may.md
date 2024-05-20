@@ -13,6 +13,10 @@
     - 3 hr movie, just the begginning
   - gta release: may 2025
 - biz
+  - beoing in deep shit for 2 737 max crashers, indonesia, and ethiopia
+  - intel thunderbolt share-
+    - share files between two computers
+  - walmart, biggest retailer in USA, under threat by AMZN
   - NTFLX build own Ad server, compete goog and amzn
   - msft ai push increased carbon emissions 30 %
   - airbus - half plane half copter
