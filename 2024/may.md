@@ -1,5 +1,52 @@
 [Back](./index.md)
 
+- 5/20
+- politics
+  - iran prez helicopter crash, Raisi
+  - china robot dogs with machine guns
+  - oliver stone on trump: corruption a way of life
+  - china supersonic rail gun shoots bomb 9 miles into sky
+  - america more pushes to stop using coal
+- culture
+  - p diddy admits to crimes
+  - k costner "horizon" gets standing o
+    - 3 hr movie, just the begginning
+  - gta release: may 2025
+- biz
+  - NTFLX build own Ad server, compete goog and amzn
+  - msft ai push increased carbon emissions 30 %
+  - airbus - half plane half copter
+  - MSFT may do brain drain for china-based AI workers
+  - toshiba cut 4000 jobs
+  - hugging face (machine learning) offers 10M in free gpu power, just to stick it to tech giants
+  - wall street up, tech stocks leading
+  - industry race: AI personal assistant
+  - openai disbands risk assessment team
+  - eternal youth biz booming
+  - blue origin launches manned flight to beginnings of space
+  - goog cloud accidentally drops big customer's data
+  - cruise pays 8M to pedestrian who was dragged
+    - in its absence waymo becomes sole operator in SF
+  - palantir: ai warfare conference
+  - openai and reddit deal, train on posts
+  - appl thinner iphone 2025
+  - data centers highly in demand
+  - iphones and ipads get eye tracking
+- tech
+  - wayland - ubuntu default display server
+  - linux hpc - high performance computing
+    - spack - package mgr
+    - kokkos cpp lib
+    - viskores - visualization
+    - apptainer containerization
+  - fortran and cobol comeback?
+  - proteins in blood predict cancer
+  - history DRAM - invented in 60s.  store 1 bit using single capacitor and transistor
+    - SRAM - flipflop - faster
+    - DRAM - capacitor - more power efficient
+  - jet fuel not sustainable
+  - quantum computing: entagled memory breakthrus
+
 - 5/9
 - politics
   - there's a new trump, Barron,youngest son entering politics
