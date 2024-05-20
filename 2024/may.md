@@ -49,7 +49,10 @@
   - chatgpt mac app coming
   - meta next big thing, ai headphones with cameras
   - baidu PR posts videos of tyarranical management style, gets fired.
+  - 50% want to leave their jobs
+  - xbox more cuts
 - tech
+  - oops neuralink patient's implant partially detaches from brian
   - nuclear fusion power breakthrough: tungsten walls
   - wayland - ubuntu default display server
   - linux hpc - high performance computing
