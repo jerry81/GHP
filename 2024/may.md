@@ -8,6 +8,8 @@
   - china supersonic rail gun shoots bomb 9 miles into sky
   - america more pushes to stop using coal
   - usa and china: AI safety talks
+  - japan buying jpy and selling usd
+  - uk escapes recession
 - culture
   - the gamestop trader "roaring kitty" returns!
   - p diddy admits to crimes
@@ -16,6 +18,8 @@
   - gta release: may 2025
   - melinda resigns from bill gates foundation
 - biz
+  - chatbots = bye bye india call center economy
+  - stem cells diabetes cure
   - IMF: AI hitting labor force like "tsunami"
   - beoing in deep shit for 2 737 max crashers, indonesia, and ethiopia
   - intel thunderbolt share-
@@ -44,7 +48,9 @@
   - when ordered back to office, top tech talent just left
   - chatgpt mac app coming
   - meta next big thing, ai headphones with cameras
+  - baidu PR posts videos of tyarranical management style, gets fired.
 - tech
+  - nuclear fusion power breakthrough: tungsten walls
   - wayland - ubuntu default display server
   - linux hpc - high performance computing
     - spack - package mgr
