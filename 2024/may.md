@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+- 5/21
+  - politics
+    - iran prez confirmed dead
+    - world turning against netanyahu
+    - mexico heat wave: monkeys die
+  - biz
+   - trump movie at cannes "the apprentice"
+      - sebastian stan
+      - he rapes
+    - musk gets 56B payday
+    - tech stressed want "dumbphones"
+    - aapl cut prices in china due to fierce huawei comp
+    - msft arm surface laptop
+    - chatgpt voice sounds too much like scarlett johansson
+  - culture
+    - demi moore - body horror "substance" 100% RT
+  - tech
+    - biometric breakthru year , face pay
+      - jp morgan, mastercard
+    - thaw brain tissue without harm
+      - soak in solution
+    - microplastics found in balls. linked to decreasing sperm
+    - digital decay - webpages no longer accessible and broken links
+
 - 5/20
 - politics
   - iran prez helicopter crash, Raisi
