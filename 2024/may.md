@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+- 5/22
+- politics
+  - egypt getting involved in the war, restrict aid into gaza
+    - breaks deal
+  - 4 cats dead due to bird flu in usa
+  - cali renewables exceed 100% of energy demand: benchmark
+- health
+  - vivid nightmares symptom of lupus onset?
+- biz
+  - ign buys rock paper shotgun and eurogamer
+  - 2nd neuralink patient steps up
+- tech
+  - doomsday glacier in antarctica melting half mile each year
+
 - 5/21
   - politics
     - iran prez confirmed dead
