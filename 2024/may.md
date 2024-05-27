@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+- 5/27
+- politics
+  - the don heckled and booed at libertarian convention
+    - promised to commute ross ulbricht's conviction
+  - TX, OK tornadoes deadly
+  - RFK jr in the running
+  - at german event, nazi salute, "foreigners out" chants
+    - "auslander aus"
+  - biden lift ban of selling weapons to Saudi A
+  - china solar growing crazy fast
+  - CA porn age verification law in works
+  - German solar panel surplus causes negative energy prices
+- culture
+  - anore wins palme d'or
+  - running clubs the new dating app
+  - 1 in 9 american children ADHD
+- biz
+  - youtube new design widely hated
+  - ai engineers make 100K more than colleagues
+- tech
+  - MLB wants Ai to call balls and strikes, delayed
+  - linux gets mseal, memory sealing, for protecting memory
+  - AI first PL: Mojo, Bend
+  - still looking for MH370
+  - 20% rust crates use "unsafe" keyword
+  - "mircale" zero-carbon cement
+  - musk believes none of us will have jobs after AI
+
 - 5/22
 - politics
   - egypt getting involved in the war, restrict aid into gaza
