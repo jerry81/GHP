@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+- 5/28
+- politics
+  - Nkorea acting up again
+    - send satellite to orbit, failed
+  - israel fighting egypt now
+    - rafah on border of egypt and israel on the gaza strip side (egypt triangle peice of land)
+  - 21 dead from the tornadoes
+  - xenophobia and nazism in Germany appeals to rich kids
+  - parisians protest olympics... by pooping in Seine
+  - stormy daniels death threats
+  - kamala harris: plan for 80% of africa get access to internet
+  - china dumps 47.5B fund into semiconductors
+- biz
+  - windows update removes cortana and wordapp
+- tech
+  - plastic color matters: colorful degrades into microplastics faster
+
 - 5/27
 - politics
   - the don heckled and booed at libertarian convention
