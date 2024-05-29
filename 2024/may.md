@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 5/29
+- politics
+ - trump verdict coming
+   - overwhelming evidence
+   - bad boy behavior turned off jury
+   - "i would have bombed china and russia"
+ - RU law: may charge companies to use foreign software
+- biz
+  - extreme heat to affect econ
+  - high paying remote jobs fading quickly
+  - goog leaks doc, secrets of ranking algorithm
+- tech
+ - ozempic diabetes injection - side effects
+ - "auth" is ambiguous - "authentication" or "authorization"
+   - use "permissions" and "login" instead
+ - openai begins training new flagship ai model
+   - would succeed GPT-4
+
 - 5/28
 - politics
   - Nkorea acting up again
