@@ -252,3 +252,33 @@
   - san francisco - 700 a month for a bed pod?
 - tech
   - lithium free sodium batteries
+
+- 6/25
+- culture
+  - ouch: ufc fighter gets defeted, proposes to gf, gets rejected
+- health
+  - effects of plane travel
+    - lower bp, inc heart rate
+      - exacerbated by drinking
+    - hypoxia due to lower air pressure
+    - dry mouth and nose thus crave salty foods
+    - gas expansion in abdomen
+    - sitting for long period deep vein thrombosis
+    - skin drier than usual
+  - hiv shot prevents
+- politics
+  - EU tariffs on CN EV imports
+  - sweden after going cashless is now high-crime
+  - FDA votes against MDMA therapy, researchers still support
+  - assange plea deal with feds, back to australia
+- biz
+  - APPL META teamup on AI?
+  - JD founder richard liu: "those that put life first and work second are not welcome"
+  - chatgpt clone "librechat" use multiple ai services
+  - alexa has been losing AMZN money - may revamp with new prices 5 - 10 USD/Month
+  - 50% Dell's staff defy office return
+  - meta customer service so bad users suing
+  - anthropic: claude 3.5 sonnet released, says new model outperforms gpt4
+- tech
+  - big tech ai use increasing use of fossil fuels?
+    - delaying retirement of some coal power
