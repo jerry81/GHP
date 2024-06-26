@@ -1,0 +1,86 @@
+[Back](./index.md)
+
+6/26
+- politics
+  - assange plea deal with biden
+  - spanish court: kissing without consent is sexual assault
+  - hillary book: something lost, something gained
+  - brutal DC heat
+  - mexico legalize shrooms?
+  - CN completes moon mission
+  - India megarover
+  - birth rates in rich countries record low
+    - esp bad in EU
+- health
+  - finland first country to have bird flu vax
+  - loneliness stroke risk
+- biz
+  - waymo live in SF, 4 yrs after AZ
+  - GM cruise gets new CEO: former AMZN, MSFT xbox
+  - VW invest in Rivian (EV)
+  - openai pull plug on China starting 7/9
+    - RU/Iran/Saudi/CN
+  - Goog search to revert inf. scroll back to pagination
+
+
+- 6/25
+- culture
+  - ouch: ufc fighter gets defeted, proposes to gf, gets rejected
+- health
+  - effects of plane travel
+    - lower bp, inc heart rate
+      - exacerbated by drinking
+    - hypoxia due to lower air pressure
+    - dry mouth and nose thus crave salty foods
+    - gas expansion in abdomen
+    - sitting for long period deep vein thrombosis
+    - skin drier than usual
+  - hiv shot prevents
+- politics
+  - EU tariffs on CN EV imports
+  - sweden after going cashless is now high-crime
+  - FDA votes against MDMA therapy, researchers still support
+  - assange plea deal with feds, back to australia
+- biz
+  - APPL META teamup on AI?
+  - JD founder richard liu: "those that put life first and work second are not welcome"
+  - chatgpt clone "librechat" use multiple ai services
+  - alexa has been losing AMZN money - may revamp with new prices 5 - 10 USD/Month
+  - 50% Dell's staff defy office return
+  - meta customer service so bad users suing
+  - anthropic: claude 3.5 sonnet released, says new model outperforms gpt4
+  - germany company bankruptcies soar
+- tech
+  - big tech ai use increasing use of fossil fuels?
+    - delaying retirement of some coal power
+  - gpt-4 passed turing test
+  - biotech: cowless milk
+  - massless gravity?
+
+6/17
+- politics
+  - cn leads in driverless car testing
+  - EU tarriffs on CN EVs: up to 38%
+- biz
+  - McDonalds ai powered drive thru
+  - openai to go for-profit?
+  - boeing max 737 - dutch roll - tilting back and forth
+  - Mericans get news from Tiktok
+  - AMZN 230M investment on GAI startups
+  - call of duty black ops 6: 309GB install.. massive
+  - silicon valley salaries... shrinking?
+  - Finnish startup "Flow" bold claim: using software and companion chip, 100x any cpu's power
+  - bill gates next gen power generation (nuclear)
+    - sodium, not water for cooling
+  - raspberry pi goes public (RPI)
+- tech
+  - Viet undersea cables down
+  - photosynthesis based energy source w/ negative carbon emissions (produces oxygen)
+  - c++ more popular than c?
+  - dyson spheres discovered?
+    - freeman dyson
+    - energy-harvesting star-surrounding spheres
+  - stable diff nudity filters cause mangled human bodies
+  - creative: Softabnk AI makes angry customers sound calm on phone
+  - solar powered planes fly
+    - theoretically could fly infinitely
