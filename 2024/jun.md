@@ -56,11 +56,15 @@
   - gpt-4 passed turing test
   - biotech: cowless milk
   - massless gravity?
+  - OpenAI sora - video gen tool
+  - 12 months straight of breaking heat records
+  - intel uses hyperthreading: running more than one thread run on single cpu core
 
 6/17
 - politics
   - cn leads in driverless car testing
   - EU tarriffs on CN EVs: up to 38%
+  - tokyo gov building its own dating apps due to falling birth rates
 - biz
   - McDonalds ai powered drive thru
   - openai to go for-profit?
@@ -73,7 +77,15 @@
   - bill gates next gen power generation (nuclear)
     - sodium, not water for cooling
   - raspberry pi goes public (RPI)
+  - APPL standalone "passwords" app
+  - "Apple Intelligence" revealed, push into genai
+  - 25% bosses hoped return-to-office would make emps quit
+  - bill gates book "source-code" memoir of early years
+  - nvidia 88% GPU mkt share
+  - first ever samsung electronics strike
 - tech
+  - largest solar farm in china, NW xinjiang
+  - solar up, wind down
   - Viet undersea cables down
   - photosynthesis based energy source w/ negative carbon emissions (produces oxygen)
   - c++ more popular than c?
@@ -84,3 +96,6 @@
   - creative: Softabnk AI makes angry customers sound calm on phone
   - solar powered planes fly
     - theoretically could fly infinitely
+  - rust growing fastest, js remains supreme
+- health
+  - xylitol -> heart attack stroke correlations
