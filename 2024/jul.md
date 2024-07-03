@@ -1,0 +1,32 @@
+[Back](../index.md)
+
+- 7/3
+- politics
+  - pressure on biden to drop out this week
+    - kamala to replace
+    - debate "disastrous"
+    - obama offers advice
+    - NYT: "dazed and confused"
+  - greece plans 6 day work week!
+  - war fears: china commandeers taiwanese ship
+    - forceful boarded fishing vessel
+  - tx law regarding age restriction to pron goes supreme
+  - biden 504M stimulus for 12 tech hubs, OH, Montana, NV, FL, etc
+  - 6 intercontinental undersea green energy power cables could be laid down
+  - CO UBI experiment - reduced homelessness, increased full time work
+- biz
+  - meta drops VR headset (quest)
+  - goog's emissions jump 50% because AI
+  - keith gill (roaring kitty) - gamestop investor - sued
+  - tesla more expansion into gaming
+  - france vs nvidia: antitrust
+  - carbon capture hot industry
+- culture
+  - tim burton beetlejuice sequel
+- tech
+  - cetain words overused by AI
+    - "showcasing", "delves"
+  - bionic leg moved by thinking of it
+  - green hydrogen: fuel from water
+    - hydrogen extracted from the water
+  - japan reaches 402 TB/s data rate using current fiber tech
