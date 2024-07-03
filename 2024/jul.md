@@ -14,6 +14,10 @@
   - biden 504M stimulus for 12 tech hubs, OH, Montana, NV, FL, etc
   - 6 intercontinental undersea green energy power cables could be laid down
   - CO UBI experiment - reduced homelessness, increased full time work
+  - in zero-emissions effort, japan plans 310Mi conveyor belt that carries freight
+  - livestock tax: 100 per cow
+  - 3 years of great resignation:
+    -
 - biz
   - meta drops VR headset (quest)
   - goog's emissions jump 50% because AI
@@ -21,8 +25,13 @@
   - tesla more expansion into gaming
   - france vs nvidia: antitrust
   - carbon capture hot industry
+  - McDs doesn't plan on keeping plant-based options
+  - Ali Qwen models (LLM) dominate leaderboards
+    - closed source like CGPT excluded from list.
 - culture
   - tim burton beetlejuice sequel
+  - majority of gen z are "video content creators" (age 14 - 24) (2000-2010 DOB)
+  - assange got 500K USD worth of bitcoin donation to cover travel costs
 - tech
   - cetain words overused by AI
     - "showcasing", "delves"
@@ -30,3 +39,4 @@
   - green hydrogen: fuel from water
     - hydrogen extracted from the water
   - japan reaches 402 TB/s data rate using current fiber tech
+  - ai breakthru: matrix multiplication elimnated in LLMs
