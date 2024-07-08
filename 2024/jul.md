@@ -1,5 +1,29 @@
 [Back](../index.md)
 
+- 7/8
+- politics
+  - france elections: left wins big
+    - jean-luc melenchon
+  - UK elections: labour party set to win landslide victory -
+    - rishi sunak - conservative to be succeeded by Keir Starmer
+  - UK passes china as world's second largest country for startup funding
+  - giant robot in japan to maintain train lines
+- biz
+  - six flags merger with cedar fair
+    - six flags struggling
+  - boeing pleads guilty to fraud related to 737 max crashes
+  - crypto plunges in 170B selloff, BTC currently 55.7 K
+  - unreliability in EV chargers
+  - nvidia to make 12B selling GPUs in CN
+  - samsung stock up - boosted by AI
+  - GenAI patents dominated by CN
+  - meta Threads reaches 175M users after a year
+  - new round of MSFT cuts/layoffs
+  - ballmer passes gates in wealth
+  - UK startup Nyobolt: 4-min battery charging for EVs
+- tech
+  - CO2 to methane thru carbon
+
 - 7/3
 - politics
   - pressure on biden to drop out this week
