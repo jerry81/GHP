@@ -1,5 +1,40 @@
 [Back](../index.md)
 
+- 7/9
+- politics
+  - more biden slander
+    - parkinsons doc made 10 WH visits
+    - michael moore: "elder abuse"
+    - trump quiet while biden flounders
+  - LV hits 120F
+  -israel:
+    - spain song: "let's go bomb tel aviv"
+    - brazil adopts free trade with Palestine
+- culture
+  - tiktok mob attack on teachers (first ever)
+  - vietnam the most affordable country for expats
+    - columbia
+    - indo
+    - panama
+    - philippines
+    - india
+    - mex
+    - thai
+    - braz
+    - china
+  - barcelona anti-tourism protestors fire water pistols at visitors
+- biz
+  - chinese self driving cars have been roaming US roads
+    - WeRide
+    - Apollo (baidu)
+    - AutoX
+    - Pony.ai
+    - DiDi
+  - MSFT china commands users to drop android and use iphones
+- tech
+  - world's fastest car: 310MPH (500km/h) - Koenigsegg Jesko Absolut (swedish)
+    - current bugatti chiron super sport
+
 - 7/8
 - politics
   - france elections: left wins big
