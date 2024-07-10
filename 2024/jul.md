@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+7/10
+- politics
+  - more white house drama
+  - marco rubio trump vp candidate?
+  - biden classic features of parkinsons?
+  - speed limiters mandatory in EU vehicles
+  - alberta electricity coal-free first time ever
+- culture
+  - gladiator 2 sequel
+- biz
+  - NIke self-tying sneakers (350USD) - app killed
+    - Adapt BB app
+    - use on-shoe buttons instead
+  - after 1B donation, JHU med school to become free for most
+    - from mike bloomberg
+- tech
+  - 10B passwords leaked
+  - AI will attempt decode dog barks
+  - new transplant procedure: restore blood flow to organs after cardiac death
+
 - 7/9
 - politics
   - more biden slander
