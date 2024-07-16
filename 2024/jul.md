@@ -12,8 +12,12 @@
     - physical/mental health
     - motivation
   - china building 2/3 wind and solar projets worldwide
+  - germany remove huawei from mobile networks
+  - fusion race: cn outspends us
 - culture
   - nicolas cage 7:30 bedtime
+  - night owl cognitive function better than early risers?
+  - comicon may relocate from SD due to hotel price gouging
 - biz
   - MSFT LLM for excel SpreadsheetLLM
     - CTO kevin scott
@@ -25,10 +29,14 @@
     - perform "deep research"
   - AMZN ai chatbot Rufus launched
     - bold claim: 100% renewable energy
+    - AWS App studio
+      - genAI that creates app with prompt
   - spacex falcon 9 first failure in 7 yrs
     - starlink satellites lost
   - samsung watch and earbud products copy appl
   - TSMC market cap at 1T
+  - appl vision pro struggling, <500K sales
+  - indie video game devs struggling due to recession
 - tech
   - cancer: scientists find out how pancreatic cancer shuts off tumor supressor gene
   - linux kernel 6.10
@@ -41,6 +49,7 @@
   - spacesuit recycles urine into clean water
   - torvalds thinks RISC-V will make same mistakes as arm and x86
   - rivers reservoirs of disease
+  - US heat keeps breaking records
 
 7/10
 - politics
