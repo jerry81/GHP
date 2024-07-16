@@ -1,5 +1,47 @@
 [Back](../index.md)
 
+7/16
+- politics
+  - trump picks vp nom
+    - youngest since nixon
+  - france olympic protest: swimmers and triatholon swim in sewage infested seine
+  - giorgia meloni - revive nuke power in italy
+  - FBI broke into shooter's phone
+  - UK 4 day trial sees benefits
+    - less staff turnover
+    - physical/mental health
+    - motivation
+  - china building 2/3 wind and solar projets worldwide
+- culture
+  - nicolas cage 7:30 bedtime
+- biz
+  - MSFT LLM for excel SpreadsheetLLM
+    - CTO kevin scott
+  - goog acquire Wiz (cybersec startup) for 23B
+  - despite ai earnings down, AI stocks boom
+  - intel i9s having issues (13th and 14th gen high-end cpus)
+  - openAI new reasoning tech: "strawberry"
+    - navigate web autonomously
+    - perform "deep research"
+  - AMZN ai chatbot Rufus launched
+    - bold claim: 100% renewable energy
+  - spacex falcon 9 first failure in 7 yrs
+    - starlink satellites lost
+  - samsung watch and earbud products copy appl
+  - TSMC market cap at 1T
+- tech
+  - cancer: scientists find out how pancreatic cancer shuts off tumor supressor gene
+  - linux kernel 6.10
+  - peak population: 10.3B in 2080s
+     - current 8.2B
+  - anti-sea level rise: barriers around glaciers?
+  - autism = neurodivergent?
+  - sun probe is fastest ever man-made object:
+    - 692KPH (500x speed of sound)
+  - spacesuit recycles urine into clean water
+  - torvalds thinks RISC-V will make same mistakes as arm and x86
+  - rivers reservoirs of disease
+
 7/10
 - politics
   - more white house drama
