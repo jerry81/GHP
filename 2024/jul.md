@@ -1,5 +1,47 @@
 [Back](../index.md)
 
+7/18
+- politics
+  - biden gets covid
+    - would drop out over medical reasons
+    - all eyes on pelosi?
+  - babydog fat bulldog steals show at rnc
+  - assassination reprecussions: political leaders fear for lives
+  - cali energy grid survives heat wave due to massive storage
+- biz
+  - Sarco: suicide pod to be used in switzerland
+    - replaces o2 with n2
+    - min age 50
+    - cost only 18 swiss francs for nitrogen
+  - valve suprisingly is maintained by skeleton crew of 350 Employees
+  - GlobalWafers gets 400M to build first 300mm Wafers in us
+    - used in modern processes
+  - gitlab may sell
+    - alphabet a suitor
+    - also datadog
+  - startup makes butter using CO2 and H2O
+    - funded by BGates
+    - Savor
+    - goal reduce carbon footprint
+  - amzn enforcing new office hrs rule
+    - coffee badging: clock in, get coffee, and leave to satisfy return to office mandate
+  - mysql owned by oracle
+    - may not be prioritized by them
+- culture
+  - university to build rooftop garden for taking psychadelics
+  - python(snake) as protein alternative
+  - more parents refusing to give kids smartphones
+- tech
+  - psilocybin: descyncs the brain
+  - Dr. Fei fei Li: godmother of AI: professor at Stanford
+    - built the imagenet dataset that pioneered CV in 2010s
+    - now working on startup 1B startup in 4 months "World Labs" - goal: human like visual data processing and advanced reasoning
+  - "multimodal models" - reason across video, audio, images, text
+    - meta will not launch in EU due to unpredictable regulations
+  - already 1M EV chargers in UK
+  - Goog not indexing your content by default now
+    - more selective
+
 7/16
 - politics
   - trump picks vp nom
