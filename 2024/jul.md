@@ -1,5 +1,16 @@
 [Back](../index.md)
 
+7/22
+- politics
+  - who will be kamala's vp
+  - china has arctic ambitions
+  - usa anti satellite jamming devices vs ru, cn
+- culture
+  - Katie perry trying to make comeback
+  - americans not having babies
+- biz
+  - crowdstrike outage: affects airlines 1000+ cancelled flights
+
 7/18
 - politics
   - biden gets covid
