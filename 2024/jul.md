@@ -43,17 +43,38 @@
   - top OS on Azure is MSFT Linux
   - meta llama 3.1
 
-
 7/22
 - politics
   - who will be kamala's vp
   - china has arctic ambitions
   - usa anti satellite jamming devices vs ru, cn
+  - bangladesh: student protests lead to internet shutdown
+    - protests vs the gov's quota system for gov jobs
+    - bangladesh fought for independence vs pakistan once
 - culture
   - Katie perry trying to make comeback
   - americans not having babies
+  - Paramount+ Halo cancelled after 2 seasons
 - biz
   - crowdstrike outage: affects airlines 1000+ cancelled flights
+    - american cybersec company
+    - software update bluescreened windows computers
+      - boot loop
+    - stocks suffer
+  - AMD Ryzen faster than Apple M3 pro?
+  - SW dev jobs down from peak in 2021/2022
+    - intense recruitment during pandemic
+  - nvidia to switch to open source linux gpu kernel drivers
+    - better performance
+- tech
+  - persian gulf record heat index
+    - 60 to 65 degrees
+    - iran
+  - smart soil: 138% bigger crops, less water
+    - hydrogel added: absorb more water vapor overnight
+      - calcium chloride
+  - chatgpt-4o Mini: smaller cgpt
+    - will replace 3.5 turbo
 
 7/18
 - politics
