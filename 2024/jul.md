@@ -1,5 +1,49 @@
 [Back](../index.md)
 
+7/24
+- politics
+  - harris leading trump?!
+  - musk turning on trump again
+  - kamala gets 231M donations day one
+  - china to raise retirement age
+    - life expectancy has passed us: 78
+      - vs 36 at time of communist revolution in 1949
+  - "father of RU internet" alexey Soldatov - founder of first ISP in RU jailed
+    - "abuse of power"
+  - CH: all gov sorftware must be Open source
+- culture
+  - joker 2 to debut in venice
+  - olympics: celine dion comeback performance
+    - snoop to carry torch
+- biz
+  - tesla continues to fall
+  - alphabet drops another 5B in waymo
+- tech
+  - weightloss vax ozempic has side effects
+  - sunday was hottest day ever
+  - github - refactoring frontend to react
+  - ai taking jobs in video games industry
+    - 10.5K laid off in 2023
+    - workforce non-union
+    - economy passed hollywood's long time ago
+    - many artists victims
+
+7/23
+- politics
+  - harris 47%, trump 49%
+  - BJ slash interest rates
+- biz
+  - nvidia RTX series hampered by poor thermal paste
+  - boeing expects pilotless air-taxi later in decade
+  - appl foldable moves forward
+- culture
+  - USA wins math olympiad
+- tech
+  - oxygen source found on sea floor
+  - top OS on Azure is MSFT Linux
+  - meta llama 3.1
+
+
 7/22
 - politics
   - who will be kamala's vp
