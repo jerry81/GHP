@@ -88,3 +88,31 @@
 - 7/31
   - biz
     - meta woes: pays 1.4B in TX facial recog suit
+  - tech
+    - cali dmv uses blockchain to fight fraud - puts 42M car titles on
+    - india lacking vultures - killed by cow treatment drug
+  - politics
+    - wind and solar also passes fossil fuels in EU (30% of total)
+
+- 7/30
+  - politics
+    - french internet lines cut in attack during olympics
+    - andrew ng: ai wont replace humans but those who use it will replace those who dont
+  - tech
+    - great salt lake drying up, releasing trapped co2
+
+- 7/29
+  - culture
+    - dp & wolverine sets record for R-rated opening
+  - tech
+    - cgpt already integrated into brain implant
+  - biz
+    - ford stock drop 20% after 1.1B loss on EV biz
+
+- 7/28
+  - politics
+    - lol sharks near rio test positive for cocaine
+  - tech
+    - lz4 compression (already fats) gets multithreading
+    - new application of fracking: fracking for heat - no greenhouse gases
+    - mars rover finds "building blocks of life" -
