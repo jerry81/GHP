@@ -1,0 +1,32 @@
+[Back](./index.md)
+
+- 8/5
+- war
+  - iran to attack israel monday?
+  - us sends troops
+- politics
+  - harris about to choose running mate
+  - usa overtakes cn for olympic medal lead
+  - world records getting broken
+- biz
+  - neuralink implants 2nd chip
+    - elon on lex fridman for second time! 8 hr podcast
+- culture
+  - seattle: america's "smartest" city
+  - top 10:
+    - zurich
+    - oslo
+    - canberra
+    - geneva
+    - singa
+    - copenhagen
+    - lausanne
+    - london
+    - helsinki
+    - abu dhabi
+- tech
+  - Apache redox OS : written in rust - gets working web server
+  - sulfur dioxide to combat climate change?
+  - NFL stadiums to use facial authentication to bolster security
+
+- 8/4
