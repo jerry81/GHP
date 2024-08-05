@@ -40,7 +40,7 @@
 
 - 8/3
   - biz
-    - intel stock majorly down after mas layoffs
+    - intel stock majorly down after mas layoffs (16000)
       - intel 13th and 14th gen cpus crash-prone
       - extends warranty
     - nvidia price "overhyped"?
@@ -52,3 +52,39 @@
     - cn wind and solar passes coal, making history
 
 - 8/2
+  - health
+    - processed red meat, hot dog, bacon, sausage, salami, bologna dementia link
+  - biz
+    - sony bungie (game maker) will layoff 220
+      - ceo pete parsons under scrutiny: bought exepnsive cars, even during layoffs
+    - msft calls openai competitor, despite investing 13B to be exclusive cloud provider
+    - meta reality labs loses 4.5B in Q2
+      - cumulative lost 50B
+      - sources of income: Quest VR, Ray Ban Smart glasses
+  - politics
+    - liz warren (senator) pushes for antitrust investigations into NVIDIA
+    - argentina wants to use AI for "precrime"
+  - tech
+    - in one month, linux desktop mkt share increases almost .5 percent
+    - sci-fi:  warp drive simulated - compress space-time to go faster than light
+
+- 8/1
+  - biz
+    - xbox revenue down 42%
+    - crowdstrike sued by shareholders
+    - taco bell to implement ai in drive-thru
+    - working at apple "like being in abusive relationship"
+      - decreasing pay, bonuses, delayed pay, poor comms, poor support
+  - politics
+    - la's basic income program yields "transformative" results
+      - overwhelming beneficial
+      - 1k/mo
+    - malaysia wants internet kill-switch
+  - tech
+    - exo-skeleton pants make you a better hiker (5000USD) (arc'teryx and startup Skip)
+      - MO/GO - mountain goat
+    - 90% accurate alzheimers blood test
+
+- 7/31
+  - biz
+    - meta woes: pays 1.4B in TX facial recog suit
