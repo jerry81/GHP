@@ -30,3 +30,25 @@
   - NFL stadiums to use facial authentication to bolster security
 
 - 8/4
+  - tech
+    - diamonds on mercury?
+    - venus support life?
+    - gen x and millenials higher cancel risk than others
+    - bird flu pandemic incoming?  moderna vax 176M deal
+  - politics
+    - japan has Social security card fraud issue
+
+- 8/3
+  - biz
+    - intel stock majorly down after mas layoffs
+      - intel 13th and 14th gen cpus crash-prone
+      - extends warranty
+    - nvidia price "overhyped"?
+  - tech
+    - goog gemini 1.5 pro challenges gpt-4o
+    - first robot dentist performs first human procedure
+      - 8x faster
+  - politics
+    - cn wind and solar passes coal, making history
+
+- 8/2
