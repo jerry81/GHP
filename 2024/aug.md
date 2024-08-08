@@ -1,5 +1,54 @@
 [Back](./index.md)
 
+- 8/8
+- politics
+ - harris chooses tim walz
+   - minnesota gov
+ - mortgage, housing prices fall
+ - the don also has cognitive decline?
+ - USA vs China for medal lead
+ - terhan airspace deemed dangerous
+ - china econ heading for trouble too:
+   - real estate and spending slumping
+   - also export numbers
+ - china launches satellites for starlink rival
+ - indonesia bans duckduckgo due to gambling, porn
+   - both illegal
+- biz
+  - dell 12.5k layoffs
+  - Boeing starliner took some astronauts to ISS, but due to problems, spaceX may fly them home
+  - "getting Bangalored" - what happened to Americans who lost their jobs to more affordable indian talent
+  - Logitech: swiss-american mouse maker - heavily misconceived subscription based mouse
+  - Reddit: Ai search features, paid subreddits (paywall)
+  - intel, fell on hard times during AI era: had chance to buy stake in OpenAI (2017, 2018)
+  - humanoid robot helping to assemble BMWs in US Factory
+  - AAPL throws major shade at bing search
+  - GOOG uses Effingo for file transfer - in house tool
+    - moves 1.2 exabytes every day
+  - mainframe: a large high-speed computer
+    - lots of memory, lots of processors
+    - market dominated by IBM
+  - netflix grow in price again
+  - win 11 at 30% mkt share
+  - design flaw in Authenticator (MSFT)
+    - user add new account via QR scan overwrites authentication accounts, resulting in lockout
+  - gathering AI training data: NVIDIA scraped netflix,youtube
+  - crowdstrike strikes back at delta: "We're not responsible for your dayslong meltdown!"
+    - delta lost 500M
+  - stock meltdown - fidelity, schwab have outages
+    - japanese stocks led the decline
+    - crypto, oil, Euro "equities" also declined
+- culture
+ - parents already sending children to AI-focused summer camps
+ - EV problem: EV Charger "Hogs"
+- tech
+  - next tallest building in the world could be a 3000ft tall battery
+    - raise blocks when demand low
+    - drop them to release the energy
+  - extract gold from e-waste
+  - water found in lunar rocks
+  - space x satellites too bright for astronomers
+
 - 8/5
 - war
   - iran to attack israel monday?
