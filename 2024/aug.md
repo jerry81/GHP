@@ -1,5 +1,45 @@
 [Back](./index.md)
 
+- 8/12
+- politics
+  - Harris beats Trump for first time on economic "trust" poll
+  - kamala gets bigger crowd than the don
+  - olympics over, usa gets most medals, golds tied with cn
+  - japan incoming megaquake?
+  - FDA rejects MDMA for PTSD
+  - china ahead in research (like battery tech and EV)
+    - because of more grads in science, math,engi
+- culture
+  - "raw-dog" flights?
+    - no music, no movie, no sleep
+    - just proving how tough one is
+  - SF downtown needs rescuing
+    - Free Biz Rent program
+  - borderlands movie gets 0% on RT
+- biz
+  - one industry still growing quickly
+    - healthcare
+  - goog antitrust ruling: 2 monopoly ruleings (goog lost)
+    - ad-free goog search engine?
+    - appl create search engine?
+    - data collection by goog
+  - samsung ev battery tech
+    - 600 mi ranges, 9 min charges?
+  - cisco to lay off 1000s more
+  - "agile" killing software innovation
+  - Sellafield, UK: world's largest store of Plutonium
+  - m4 mac mini becomes smallest ever computer, gets redesign
+  - AMZN 4B investment into anthropic
+  - goog deepmind table tennis robot
+  - china robottaxi rise
+    - 7M ride-hailing drivers worried
+    - 19 cities approve
+    - apollo go in wuhan
+- tech
+  - terraform mars:  use iron in dust
+  - bizzare gpt-4o voice behavior
+    - mimic user voice, shouting
+
 - 8/8
 - politics
  - harris chooses tim walz
