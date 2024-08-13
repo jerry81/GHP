@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+- 8/13
+- politics
+  - the world wants taxes on the super-rich
+  - usa finally getting into Electric Trains
+    - 2 new trains operated by caltrain
+      - quieter and faster than disel
+    - india almost at 100% electric rails
+    - china 3/4
+- culture
+  - demand for mini-farm animals up
+- biz
+  - goog robots play ping pong, beat humans
+  - foreign investors pull money out of china, worrying about short-term future
+  - AMD gains in Data center/laptop cpu markets
+- tech
+  - more frequent ejaculations -> lower cancer?
+  - uglier -> shorter lifespan?
+  - classical music as good as antidepressants
+
 - 8/12
 - politics
   - Harris beats Trump for first time on economic "trust" poll
