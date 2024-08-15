@@ -14,6 +14,16 @@
 - tech
   - self driving cars in SF honking at each other
   - robot sidewalk deliveries in LA
+  - humans age dramatically at ages 44 and 60
+  - artists vs ai generators lawsuits
+  - horses smart, can strategize
+- biz
+  - goog gemini to replace goog assistant on pixel phones, but it is bad
+  - paramount to lay off 15%
+  - intel sells 147M stake in ARM
+  - eric schmidt: goog falling behind on AI: remote work to blame
+- health
+  - mpox (monkeypox) crisis - WHO declares emergency - parts of africa (congo)
 
 - 8/13
 - politics
