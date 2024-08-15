@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 8/15
+- poli
+  - kamala leading in 5 swing states
+  - more heat records broken this year than any other
+  - portugal beaches anti-tourist laws
+  - pack of great danes kill woman
+- culture
+  - burning man fails to sell out for first time in over 10 yrs
+  - funnier parents -> happier kids
+- war
+  - ukr hitting russia with drones
+- tech
+  - self driving cars in SF honking at each other
+  - robot sidewalk deliveries in LA
+
 - 8/13
 - politics
   - the world wants taxes on the super-rich
