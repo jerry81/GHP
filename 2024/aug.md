@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 8/19
+- politics
+  - DNC chicago on monday - biden pass torch to kamala
+    - speakers
+    - senate majoritay leader chuck shumer
+    - hillary
+    - michelle
+- culture
+  - "anxiety" dogs must be let into classrooms (says parents)
+  - king charles battling cancer
+  - men waiting to 50s to become fathers
+  - new book portrays gates as villain
+    - epstein
+    - unpleasant personality
+    - extramarital affairs
+- biz
+  - 17K AT&T workers strike
+  - short github outgate on wednesday
+  - IKEA using warehouse drones to count stock
+  - amidst profits, cisco slashes thousands of workers
+- tech
+  - training AI to smell
+  - refuelling fuel cells (hydro) is inconvenient
+  - kim dotcom of megaupload site fame, extradited to US from NZ
+
 - 8/15
 - poli
   - kamala leading in 5 swing states
