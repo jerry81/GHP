@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+- 8/20
+- politics
+  - trump plays the foreign card on Harris
+  - trump own nephew says he showing signs of dementia
+  - hamas attempted bombing of tel aviv
+  - jd vance - trump's pick for vp
+    - accused of being "weird"
+  - wyoming mayoral candidate proposes let AI bot run government
+- biz
+  - appl working on its own cellular modem to compete with qualcomm
+  - raspberry pi 2GB model $50
+  - what - decline of mcd's?
+    - first fall in sales since 2020
+    - drop in quality?
+    - competition
+      - greggs in UK # 1
+        - sausage rolls
+  - waymo reducing # of sensors to lower costs
+  - hyundai in USA, double digit ev sales mkt share
+  - aapl podcasts launches
+  - GM cuts 1K
+  - github actions leaks tokens
+- culture
+  - euthanasia roller coaster concept - uses gs to kill you
+  - student builds a nuke fusion reactor at college
+  - brit billionare mike lynch might have died in a yacht sinking
+- tech
+  - burnout signs
+    - headaches, digestive issues
+    - irritable
+    - procrastination and social withdrawal
+  - data centers consume lots of water?
+  - attractive people less likely to play vgames
+
 - 8/19
 - politics
   - DNC chicago on monday - biden pass torch to kamala
