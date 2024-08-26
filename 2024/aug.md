@@ -1,5 +1,56 @@
 [Back](./index.md)
 
+- 8/26
+- biz
+  - gopro cut 15% workforce
+  - slack owned by salesforce
+    - slack ai addon assistive service
+  - mike lynch and daughter confirmed dead (cruise ship)
+  - Telegram CEO pavel durov arrested
+    - terrorism, narcotics, fraud, money laundering
+    - russian living in dubai, location of telegram
+  - musk X to leave SF
+  - amzn and msft going nuke power to support dbs
+  - ford cancels its EV suv
+  - reddit ads taking some business from goog and meta - topic focused ads
+  - AMZN ceo andy jassy boasts: ai saved 4500 dev-years of work
+    - AMZN Q (software dev assistant genAI)
+  - vw ev sales slump, scales back battery factories
+  - more in-goog politics
+    - deepmind workers push for dropping military contracts
+  - samsung galxy ring: smart ring
+    - mostly for health tracking
+  - crayola trademarks crayon smells
+  - cruise and uber partner for driverless rides
+- politics
+  - us birthrate all time low
+  - china renewable power target is hit 6 years early
+  - wyoming pushing crypto payments
+  - harris up 7 pts
+  - trump wants more immigration?
+  - trump now the "old one"
+  - finnish politicians politick in the nude in saunas
+    - deeper discussions
+- tech
+  - 2nd neuralink recipient plays counterstrike 2 with it
+  - quantum compass make gps-free nav a reality (replace gps satellites)
+  - hackers backdoor into msft windows, DNS tunnelling
+  - massive snow crab dieoff in bering sea
+  - bioengineer better cow: less methane
+  - quantum internet prototype in nyc underground
+    - uses entanglement
+  - CN scientists use lunar soil to make water
+    - heat moon minerals (containing hydrogen) to make water vapor
+  - glacial melting -> megatsunamis
+  - mRNA lung cancer vax
+    - leading cause of cancer death, 1.8m
+  - too much flouride in drinking water -> lower iq
+  - microplastics infiiltrate brain tissue
+- culture
+  - ntflx new anime terminator zero
+  - civ 7 yay - will be more manageable in terms of time spent
+  - world's oldest person, 117 dies in spain
+
 - 8/20
 - politics
   - trump plays the foreign card on Harris
