@@ -1,5 +1,10 @@
 [Back](./index.md)
 
+- 8/27
+- politics
+  - another record closing for stock market
+  - donald ducking debate
+
 - 8/26
 - biz
   - gopro cut 15% workforce
