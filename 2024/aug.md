@@ -4,6 +4,23 @@
 - politics
   - another record closing for stock market
   - donald ducking debate
+  - germany far right politician to keep an eye on
+    - Björn Höcke
+  - chinese planes breach jap military space
+  - canada: 100% tariff on chinese EV
+- culture
+  - 1 in 4 think life is boring
+  - woman dies at burning man
+  - stephen wolfram: we need philosophers working on AI
+    - what is "the right thing"
+- biz
+  - zuck speaks about gov pressure
+  - followup Andy Jassy Amazon Q demo: typo shown on stream!  after saying its mistake free
+  - IBM to pull back from China, 1000 jobs out
+    - MSFT too
+- war
+  - RU attacks UKR power grid
+    - biggest attack yet?
 
 - 8/26
 - biz
