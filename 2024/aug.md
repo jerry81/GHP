@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+- 8/28
+  - politics
+    - france - ban mobile phones for children under 15
+    - findland's pine trees suddenly dying
+  - biz
+    - intel board member, Lip-Bu Tan Quits
+      - lagging AI strat
+      - risk averse culture
+      - bloated workforce
+      - CEO: Pat Gelsinger
+    - ex goog entrepreneuers: Startups are hard
+  - culture
+    - mcd's biggest burger yet "big arch"
+      - compete with whopper
+    - pinnochio horror movie
+    - nicole kidman new film x-rated??
+      - babygirl
+  - health
+    - fighting continues against mpox
+    - usa OKs genetically modified wheat
+      - HB4 - drought resistant
+  - tech
+    - new chocolate making method uses entire cocoa fruit, not just seeds
+      - switzerland
+      - also doesn't use sugar
+      - fruit size of a pumpkin
+      - uses sweet pineapple-like fruit meat
+
 - 8/27
 - politics
   - another record closing for stock market
