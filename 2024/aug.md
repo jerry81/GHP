@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+- 8/29
+  - politics
+    - jd vance to kamala: go to hell!
+      - also vance: "teachers without children scare him"
+    - havana has trash problem - garbage trucks missing parts and fuel
+    - surgeon general: "parenting hazardous to health"
+    - Nevada: a politician murdered journalist who exposed corruption
+    - 12B NYC casino proposed
+      - wynn
+      - "hudson yards"
+    - trumps shooter: thomas crooks
+      - 21 yr old, dead, killed by secret service sniper team
+    - canada's wildfires are a problem for carbon
+    - s korea deepfake porn crisis
+    - EV chargers have doubled under biden
+  - culture
+    - more than half of caltech incoming freshmen are women
+    - D&D beyond: official digital toolkit
+      - wizards of the coast
+  - biz
+    - openai valued at 100B
+    - telegram ceo durov charged, held in france
+    - berkshire hathaway hits 1T
+      - first us company outside of tech
+    - linkedin migrates from centos to azure linux
+    - phillippines is now the world's call center capital?
+  - tech
+    - neurosci: how memories are formed: no single memory molecule but there is PKMzeta with a second molecule to maintain long term emmories
+
 - 8/28
   - politics
     - france - ban mobile phones for children under 15
