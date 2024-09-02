@@ -1,0 +1,29 @@
+[Back](../index.md)
+
+- 9/2
+- politics
+  - trump endorses drugs, flipflops on abortion
+  - jd vance: career "women choose misery"
+  - six hostages, including american killed in Gaza, by hamas
+  - oregon possession to become crime again, decriminalization expires
+  - japan try 4 day workweek!
+  - trump sons to do crypto startup
+- biz
+  - musk doesn't comply with brazil, x goes offline in country
+  - Wash Post on Telegram: haven for free speech, and child predators
+  - wells fargo worker dies at desk, not noticed for 4 days
+  - AMZN to use anthropic ai for alexa revamp
+  - new goog ai "hears" if you're sick
+  - mukesh ambani, asia's richest man and chairman of Reliance Industries (telecom) will offer 100 G free cloud storage for all
+  - appl 100 layoffs, rare
+- culture
+ - in face of climate change, unethical to have kids?
+ - long covid knocks millions off career paths - knocked out of labor force
+ - clever woman mails herself airtag to catch mail thieves
+- tech
+  - python, java, js, the most popular AI coding languages
+  - heart disease 30 year out prediction from blood test
+  - Valkey - open source redis fork
+  - vscode fork: "cursor" chatgpt of coding? - definitely worth checking out
+  - electric field discovered around earth
+  - chatgpt 200M weekly users
