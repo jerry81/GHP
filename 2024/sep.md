@@ -1,5 +1,26 @@
 [Back](../index.md)
 
+- 9/3
+- politics
+  - harris up 3.2%
+  - monkeypox hits a brazilian city
+  - far right guy in germany gets a big win
+    - bjorn hecke
+  - china net police, from targetting bloggers to followers
+  - japan 4 day workweek - hard to gain popularity
+    - have been trying for 3 yrs
+- culture
+  - venice film fest
+    - julianne moore and tilda swinton standing ovation "the room next door"
+      - pedro almodóvar
+- biz
+  - vw may close plants in germany, first time ever
+- tech
+  - earth has a "gateway to hell", and it is getting bigger
+    - siberia, observable from space
+  - elastisearch to become open source again
+  - rust for linux maintainer steps down: frustration with non-technical nonsense
+
 - 9/2
 - politics
   - trump endorses drugs, flipflops on abortion
