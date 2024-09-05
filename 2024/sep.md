@@ -1,5 +1,38 @@
 [Back](../index.md)
 
+- 9/5
+- politics
+  - liz cheney endorses kamala
+  - GA school shooting, 2 students, 2 teachers dead
+    - 14 year old suspect
+  - japan hottest summer ever
+    - china hottest august on record
+  - swedish cell phone law: no screens before age 2
+  - trains making a comeback in europe, over planes because of environmental friendly
+- culture
+  - top 5 "fun" states
+    - FL, CA, NV, NY, CO
+  - joker premieres in venice
+    - "dull, frustrating"
+- biz
+  - openai cofounder founds safe superintelligence, raises 1B
+  - south african engineer goes to jail for 15 years for false resume
+    - head of engineering
+  - first zinc-ion battery megafactory open for biz
+    - sweden Enerpoly
+    - water-based unlike lithium, non-falmmable
+    - less expensive, more abundant
+    - wider temperature range
+    -  more eco-friendly
+    - last longer
+    - but lower energy density
+  - intel may leave the down jones
+    - intel down 60%
+  - new nvidia position: data-center designer
+  - canvas（design platform）to increase prices 300%
+- tech
+  - phones not linked to brain cancer
+
 - 9/3
 - politics
   - harris up 3.2%
