@@ -1,5 +1,28 @@
 [Back](../index.md)
 
+- 9/9
+- politics
+  - kamala popularity dropping from high
+  - trump mad at cheneys for endorsing kamala
+  - us west heatwave
+- culture
+  - musk - world's first trillionaire?
+  - pedro almodovar/julliane moore tilda swinton's the room next door takes top prize in venice film fest
+  - tom brady to begin broadcasting
+- biz
+  - strava - app that tracks and connects runners - the new "tinder"
+  - pwc wills start tracking worker location to enforce work in office
+  - open AI monthly subscription price high as 2000 usd
+  - deutsche Bank chief to germans: work longer and harder to help return country's economy
+- tech
+  - experiment: chatgpt vs llama vs google (search) to solve a fresh programming problem
+    - chatgpt users performed quickest
+    - however in terms of learning, google users performed best on the test
+      - chatgpt users performed the worst
+  - 2/3 active satellites are from starlink
+  - gpt-next - 100x power increase over gpt-4
+  - health: people w/ depression have expanded brain netowrk
+
 - 9/5
 - politics
   - liz cheney endorses kamala
