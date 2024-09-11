@@ -1,5 +1,36 @@
 [Back](../index.md)
 
+- 9/11
+- politics
+  - trump harris debate, bizzare dog eating story
+    - poor performance from trump
+  - RU, CN joint naval exercise
+  - Deepfaked taylor swift endorses trump
+  - RU try to block VPN
+  - 10 years to clean up great pacific garbage patch
+    - twice the size of texas
+- culture
+  - megalopolis (coppola film) flops
+  - big suprise: Hawaii named happiest state
+  - RIP, james earl jones
+  - cabernet the most popular red wine in US, in danger b/c of climate change?
+- biz
+  - goog signs 10M carbon capture deal, 100 per ton of CO2
+  - Alibaba sells 200K diamond making machine
+    - from high quality graphite
+  - ler ellison and oracle - data center powered by 3 nuke reactors
+  - sony ps5 pro - 699USD price tag, no more disk drive
+    - faster mem, larger gpu, 45% faster rendering
+  - huawei trifold phone 2800 USD
+    - mate XT
+  - ireland wants 14B tax from AAPL
+  - aapl watch - get sleep apnea detection
+- tech
+  - epilepsy drug to cure snoring?
+  - MSFT making strides in quantum computing
+  - robot attempts to remove melted fuel from fukushima
+    - should they just entomb?
+
 - 9/9
 - politics
   - kamala popularity dropping from high
