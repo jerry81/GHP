@@ -1,5 +1,38 @@
 [Back](../index.md)
 
+- 9/12
+- politics
+  - worst performance of trump's political career
+  - trump will leave usa if harris wins
+  - RU threatens to "combine" with china if they are threatened
+- culture
+  - musk being creepy, to taylor swift: "i will give you a child"
+  - 10 worst sleep mistakes
+    - eat too much or too little
+    - screens
+    - not winding down
+    - napping too much
+    - awake in bed too much
+    - not enough sleep weeknights
+    - caffiene alcohol
+    - worry about sleep
+    - inconsistent sleep schedule
+- biz
+  - open ai valuation higher than expected, 150B
+  - Mistral (yet another AI player) release Pixtral 12B - multimodal AI model
+    - language and vision processing
+    - will compete with OAI, Anthropic
+  - android to block sideloading?
+  - waymos keep getting rear-ended by humans
+  - sergey back at goog working on AI because he is excited about its progress
+  - jensen huang on NVIDIA's competitive moat:
+    - moat - advantages that allows company to protect its market position
+    - accelerated computing - moores law is dead
+    - customer roi
+  - samsung electronics global job cuts up to 30% in some divs
+- tech
+  - shocking number: americans used 100 Trillion MB wireless data in 2023
+
 - 9/11
 - politics
   - trump harris debate, bizzare dog eating story
