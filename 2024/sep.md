@@ -1,5 +1,38 @@
 [Back](../index.md)
 
+- 9/18
+- politics
+  - diddy indicted - sex trafficking, racketeering (organized crime)
+  - TX earthquake
+  - UK: right to work from home boosts productivity
+  - CN raises retirmenet age, first time since 1950s
+    - currently among lowest in world
+  - one can legally bet on the 2024 elecdtions
+- war
+  - hezbollah fighters wounded in lebanon (pagers exploded)
+- culture
+  - 41% americans at "peak" stress levels
+- health
+  - microplastics in olfactory bulb
+- biz
+  - China: startup ecosystem collapses
+    - new venture formations drop 98%
+    - 51,302 startups in 2018
+    - just 1202 in 2023
+  - IG makes teen accounts private
+  - TCL (china) quantum dot tvs actually fake
+  - amzn - 5 day a week return to office
+  - ouch: intel lost contract to design ps6 chips
+  - MSFT axes 650 gaming employees
+  - annapurna's staff resigns due to leadership dispute
+  - UA & starlink for inflight wifi
+  - open ai new model: o1 - "first with reasoning abilities"
+- tech
+  - goog to mark images as ai-generated
+  - new linux kernel version 6.11
+  - NASA failed to bring 2 astronauts back from iss
+    - must wait for space x to pick them up next month
+
 - 9/12
 - politics
   - worst performance of trump's political career
