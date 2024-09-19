@@ -1,5 +1,21 @@
 [Back](../index.md)
 
+- 9/19
+- politics
+  - fed cuts interest rates .5
+  - saudi arabia backs palestine
+  - trumps rants getting worse
+- war
+  - more hurt due to explosions, in lebanon
+- biz
+  - appl A16 SoC to be manufactured at TSMC plant in AZ
+  - 23andMe board resigns (all 7 members)
+  - IBM axing 1000s of jobs
+- tech
+  - ai helps diagnose patients in toronto hospital
+  - starlink interfering with astronomy
+  - openai o1 and o1-mini called "strawberry" family
+
 - 9/18
 - politics
   - diddy indicted - sex trafficking, racketeering (organized crime)
