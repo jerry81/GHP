@@ -1,5 +1,31 @@
 [Back](../index.md)
 
+- 9/23
+- war
+  - israel ready to invade lebanon
+- politics
+  - trump to leave politics if he loses
+  - nazi saga, loses second round of elections
+  - liz cheney for new political party
+  - cyprus a world leader in solar heating
+  - americans renew passports online
+- biz
+ - cruise robotaxi returns to SF 1 yr after accident invovlving pedestrian
+ - salesforce Slack hacked, leaked personal data, disney will stop using them
+ - MSFT gets power from three mile island
+   - Pennsylvania
+   - had a famous accident
+ - GM EV can now use tesla superchargers
+ - qualcomm was looking to takeover intel
+ - self serve kiosks have a paradox - acutally make more jobs b/c people order more
+ - appl sequoia update breaks major security tools - incl. crowdstrike, msft, sentinel one
+ - tech jobs have dried up - not coming back soon
+ - cisco second 2024 layoff
+- tech
+  - zen browser another chromium alternative (ff based )
+  - js runtime: Bun - compile and run C in js
+  - automated plane takeoffs
+
 - 9/19
 - politics
   - fed cuts interest rates .5
