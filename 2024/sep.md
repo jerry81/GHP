@@ -1,5 +1,37 @@
 [Back](../index.md)
 
+9/24
+- war
+  - israel hits hezbollah targets, killing 500
+  - iran president warns
+  - pentagon sending troops
+- politics
+  - 1B solar and battery storage project in Utah
+  - us sanction: smart cars with chinese and russian tech
+- culture
+  - diddy arrest has music world wondering if their #metoo has arrived
+  - young justin bieber was at naked parties says kardashian
+  - ai weiwei (avant garde artist)'s sculpture smashed by angry czech man in italian exhibition
+- biz
+  - cloudflare let websites charge ai bots for scraping
+  - exxonmobil gets sued by CA for lying about plastic recycling
+  - salesforce ceo
+    - marc benioff
+    - says msft copilot has disappointed many customers, pushing their own AI
+  - spacex - five uncrewed starships to mars in 2 years
+- health
+  - men's brains shrink by 8pm every day
+- tech
+  - sam altman (openai ceo) anticipates superintelligence in 'few thousand days'
+    - deep learning
+      - generalize across range of domains
+      - work with difficult problem sets
+      - e.g.
+        - fix climate
+        - establish space colony
+        - discovery physics
+  - ai researchers running small ais on their laptop
+
 - 9/23
 - war
   - israel ready to invade lebanon
