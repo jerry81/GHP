@@ -1,5 +1,19 @@
 [Back](../index.md)
 
+9/25
+- war
+  - hezbollah wants iran to attack
+    - muslim milipoli group based in lebanon
+- politics
+  - florida hurricaine coming
+  - kamala: silicon valley's wealthiest woman?
+  - CA:  plastic bag ban
+- biz
+  - bytedance shuts down tiktok music
+- tech
+  - chatgpt voice sounds like scarjo
+  - ammonia as fuel cell
+
 9/24
 - war
   - israel hits hezbollah targets, killing 500
