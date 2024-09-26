@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+9/26
+- politics
+  - top headline: florida hurricaine
+  - china fires ICBM into pacific
+    - intercontinental ballistic missile
+  - China hackers breached us ISPs
+- culture
+  - 50 cent to release diddy crime documentary on netflix
+    - diddy worried will be assassinated in prison
+- biz
+  - united airlines near-mid air collision
+  - noam shazeer - "ai genius" paid 2.7B to bring him back after he quit in frustration
+  - IBM pushed for automation but its AI not up to par
+  - ray ban Meta smart glasses get Real time AI video
+    - ask your glasses what you're seeing in front of you
+  - OpenAI CTO (mira murati) leaves
+  - MSFT Correction: tool that corrects AI Hallucinations
+- tech
+  - more sam altman: in 1000 days, chatgpt will be smarter than any human on earth
+
 9/25
 - war
   - hezbollah wants iran to attack
