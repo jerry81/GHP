@@ -72,6 +72,8 @@
   - us "lost solar power race" to china
     - old falsities: state-owned manufacturers, subsidized loans, tarrifs, tech theft
     - actual: private biz, aggressively investing, entreprenuership
+  - china trains 1Trillion param llm using only domestic chips
+    - china telecom
 - biz
   - software devs: must upskill for AI era by 2027
   - zoom: AI avatars talk to your team for you
@@ -84,16 +86,24 @@
   - global semiconductor sales up
   - halo to use unreal engine 5
   - AMZN to cut 14K jobs
+  - waymo chooses car to be Robotaxi: Hyundai Ioniq 5
+  - meta "movie gen" deepfake video from one photo
+  - americans tired of job hopping
 - health
   - eat less, longer life
 - culture
   - tennis, wimbeldon uses AI line judges
+  - are we past peak obesity?
 - tech
   - nobel chem prize: goog deepmind scientists for work on proteins
   - research: slash AI energy use 95%?
   - 40M years later, asia and australia will join
   - linus wants better git merge commit messages
   - big tech partners with nuke energy
+  - massive underground neutrino detector
+  - 60 TB hard drives in 2028
+  - new openai "Canvas" - tailored to writing and coding projects
+    - beta in chatgpt plus and teams
 
-(stop 10/8)
 
+stop around 10/2
