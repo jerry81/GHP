@@ -1,5 +1,67 @@
 [Back](./index.md)
 
+- 10/16
+- politics
+  - trump increasingly unhinged
+  - colleges under financial pressure
+    - price nearing 6 figures
+  - UK may follow EU to make usbc the common charging standard
+  - china claim using Quantum to hack encryption
+- culture
+  - mx host world cup
+  - silicon valley more powerful than hollywod?
+  - joker 2 to lose 200M?
+  - menendez brothers case: killed parents, sexually abused?
+  - diddy under gun for child molestation
+  - monkeys dying in HK zoo
+- biz
+  - appl ssl/tls certs lifespans cut from 398 days to 45 days
+  - month of september 2024: global ev sales up 30.5 %
+  - intel and AMD form x86 ecosystem
+  - Appl's AI chip: A17 Pro - will be in ipad Mini
+  - SSD prices drop due to lag in demand
+    - production up, demand down
+  - goog inks deal with nuke power company for AI data center power demands
+  - appl vision headset next year (not pro) for 2000
+  - at&t, t-mobile 5G iot devices, redcap
+  - adobe wants to compete with openAI and meta on AI video tools
+  - linux apps can run on chromeOS, but maybe android in future too
+  - amzn same-day prescription delivery
+  - boeing cut 17000 jobs, 10% of workforce
+    - therefore boeing had 170000 jobs
+  - musk tesla: cybercab - fully auto robotaxi, no steering, no pedals, no plug, inductive charging
+    - robovan - dustbuster-shaped passenger van
+    - optimus - humanoid for daily tasks - serving drinks
+- tech
+  - trees and land actually absorbed no CO2
+    - due to droughts and fires
+  - 25% adults maybe have adhd (undiagnosed)
+  - jailbreak LLM techniques:
+    - "ignore previous instructions", "ADMIN override", base64 encoding
+  - question: should AI weapons be allowed to decide to kill
+  - peak human lifespan reached?
+  - asahi linux support AAA gaming on Appl silicon
+
+- 10/11
+- politics
+  - florida 45 tornadoes in 1 day
+  - 3+ M without power
+  - marshawn lynch want to run oakland mayor
+  - Rahm Emanuel: us foreign policy politician, criticizes china - isolationism - cold war
+  - brazil blocked X
+- biz
+  - AMD AI chip to compete with NVidia blackwell (upcoming)
+  - fidelity data breach
+  - game piracy costs 20% of revenue on average
+- tech
+  - energy levels inherited from mother
+  - nobel prize physics .. to Machine learning?
+    - associative memory system for storing/reconstructing data patterns
+    - method for autonomous data property identification
+- culture
+  - tetris players first ever to loop back to level 1 (from 255)
+  - germans outraged about "englishifying" their language with apostrophes
+
 - 10/10
 - politics
   - tampa storm, hurricaine milton
@@ -19,6 +81,9 @@
   - DOJ mulling goog breakup
   - foxconn: nvidia superchip factory in Mexico
   - samsung underperformed last quarter
+  - global semiconductor sales up
+  - halo to use unreal engine 5
+  - AMZN to cut 14K jobs
 - health
   - eat less, longer life
 - culture
@@ -27,5 +92,8 @@
   - nobel chem prize: goog deepmind scientists for work on proteins
   - research: slash AI energy use 95%?
   - 40M years later, asia and australia will join
+  - linus wants better git merge commit messages
+  - big tech partners with nuke energy
 
 (stop 10/8)
+
