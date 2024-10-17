@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+- 10/17
+- culture
+  - liam payne dead 31
+  - jumps hotel balcony, algrentinia
+  - parents of son who was punished by school for using AI take school to court
+  - oops: man has 647M in bitcoin hard drive thrown out
+- biz
+  - meta laid off 11k emps 2022 and 10k more in 2023
+  - vision pro struggling to attract software app developers
+  - AMZN color kindle
+- politics
+  - socal quakes, big one coming?
+- tech
+  - walking in short bursts, consumes more energy than continous
+  - standing desks not actually great for you
+
 - 10/16
 - politics
   - trump increasingly unhinged
