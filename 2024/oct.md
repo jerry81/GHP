@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 10/21
+- politics
+  - polls leaning towards GOP again
+  - cuba dealing with power outage
+  - CN decrypting military encryption with quantum debunked
+  - biden forgives more student loans, 175B total given out
+- culture
+  - cell-tower free w. virginia town a refuge for electrosensitive
+  - costco has a magazine called "costco connection"
+  - more cars becoming monochrome (black or white)
+  - gladiator 2 called "epic"
+  - "mushroom mommies" middle class women tripping balls
+- tech
+  - "safe c++ extensions" proposal for rust
+  - MIT: solar-powered low cost desalination system
+  - link between serious infections and dementia
+  - diamond dust effective at reflecting radiation (and cooling planet)
+
 - 10/17
 - culture
   - liam payne dead 31
