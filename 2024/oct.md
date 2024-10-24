@@ -1,11 +1,48 @@
 [Back](./index.md)
 
+- 10/24
+- politics
+  - trump in trouble with another groping incident with model involving epstein
+  - carville sure of a harris win
+  - israel reoccupy gaza movement gaining momentum
+  - china built 98-mile road just with robots
+  - honolulu garbage problem: ship to overseas?
+  - chinese citizens illicitly moving billions out of countries under authorities noses due to cratering property market/economic uncertainties
+  - norway increase min age limit to use social media to 15
+- biz
+  - mcds stock falls due to ecoli outbreak (qp burgers' onions)
+    - around 20 cases in colorado, mostly in midwest
+  - gold rose, finance in trouble?
+  - huawei about to officially launch harmony os 鸿蒙
+  - aapl and disney end app store partnership
+    - disney to sell disney plus from disney site
+  - applications for MBA programs jump 12% in 2024
+- tech
+  - experiment involves reviving pig brain
+
+- 10/23
+- politics
+  - eminem at harris rally
+  - trump: "hitler did some good things"
+  - elon jokes about assassinating harris
+- biz
+  - mcds ecoli outbreak
+  - most popular chatgpt-like in china: Doubao - from bytedance
+  - tim cook on late entry into ai: it's about being the best
+  - baidu ceo robin li say AI bubble burst will eliminate 99% of the companies
+- tech
+  - satoshi nakamoto unmasked?  Peter Todd - canadian dev
+  - claude new version gains computer control
+    - 3.5 Haiku
+
 - 10/21
 - politics
   - polls leaning towards GOP again
   - cuba dealing with power outage
   - CN decrypting military encryption with quantum debunked
   - biden forgives more student loans, 175B total given out
+- biz
+  - europe wants the cheaper ev's to compete with china
 - culture
   - cell-tower free w. virginia town a refuge for electrosensitive
   - costco has a magazine called "costco connection"
