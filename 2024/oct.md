@@ -1,5 +1,53 @@
 [Back](./index.md)
 
+- 10/29
+- politics
+  - poor sleep in early mid-life -> dementia risk
+  - sean combs accused: sex assault: 10 year old
+  - trump NYC rally "political suicide" "vile"
+- culture
+  - jeremy allen white as bruce springsteen?
+  - phoenix: "city within city" planned
+    - developed by TSMC
+  - oregon trail action-comedy on apple movies
+  - command: professional edition: played by pentigon employees (military training)
+  - england and wales birth rate plunges to lowest rate since 1938
+- biz
+  - TGIFridays bankruptcy looming
+  - JPMorgan infinite money atm glitch
+    - aka check-kiting
+  - meta lessens reliance on goog msft with ai search engine
+  - appl: imac gets m4 chip
+- health
+  - 40% cancer cases - due to lifestyle choices
+    - 80% lung cancer related to smoking
+    - overweight 2nd highest
+
+- 10/28
+- politics
+  - SG and Aus deal: 2.6 K Mile undersea cable, import solar
+  - negative UBI experiment results
+  - additional battery power in past 4 years equal to 20 nuke reactors
+- tech
+  - anthropic AI now run and write code
+  - search for room-temp superconductivity
+  - new lithium extraction method, double the perf
+    - seawater a substantial portion of lithium potential
+  - graphene-based memristors closer to reality
+  - largest known prime is 41M digit
+- culture
+  - MLB playoffs - shoei otani injury but dodgers 2-0 over yankees
+- biz
+  - openAI: no Orion model this year
+  - industry leader: spacex spurs competitors to build reusable rockets
+  - IG and Meta throttle video quality as views go down
+  - new goog ai takes over computers
+    - take over chrome, buy things, do research
+  - problem with return to office is enforcing
+  - nvidia passes apple, becomes most valuable company
+  - capture carbon from air: easier than before
+  - how the turntables: intel considered 20B nvidia takeover in 2005
+
 - 10/24
 - politics
   - trump in trouble with another groping incident with model involving epstein
