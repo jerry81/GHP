@@ -1,0 +1,14 @@
+- 11/1
+- politics
+  - tucker carlson "attacked by demons"
+  - 76 days until inauguration
+  - obama: "women threw themselves at him" while in office
+  - sellafield nuke waste: England
+- culture
+  - after LAD world series win, riots break out in LA
+  - burning man needs more donations
+- biz
+  - "ghost jobs" - jobs that are posted but don't exist a problem in tech
+  - zoox, another robotaxi player operating in SF, LV
+  - MSFT planned product, Recall, delayed
+    - captures screenshots of everything you do
