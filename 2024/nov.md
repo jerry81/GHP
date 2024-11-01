@@ -12,3 +12,8 @@
   - zoox, another robotaxi player operating in SF, LV
   - MSFT planned product, Recall, delayed
     - captures screenshots of everything you do
+  - openai launches chatgpt search
+  - llama training cluster (meta) huge, 100K advanced chips
+  - video game dev: leaving large studios for smaller
+  - vmware was bought by broadcom
+  - meta AI over 500M users
