@@ -12,6 +12,12 @@
   - brooklyn open-air hookers
 - biz
   - GM ev sales way up!
+  - nvidia replace intel on dow jones
+  - zuck's threads doing well
+    - IG's text app
+  - waymo use goog gemini to train robotaxis
+  - 60% think their tech ceos "digitally illiterate"
+  - tech giants all in on ai race, to spend 200B this year
 - tech
   - usb-c not so "universal"
   - heat pumps (for home heating) may save the climate
