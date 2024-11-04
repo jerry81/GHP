@@ -1,3 +1,26 @@
+- 11/4
+- politics
+  - trump violent rhetoric on the rise, wants reporters shot
+  - americans renouncing their citizenship
+  - shrooms a political talking point - research catching up
+  - safest countries in case of war:
+    - NZ
+    - iceland
+    - chile
+    - fiji
+  - 1/3 don't want kids, birthrate falls
+  - brooklyn open-air hookers
+- biz
+  - GM ev sales way up!
+- tech
+  - usb-c not so "universal"
+  - heat pumps (for home heating) may save the climate
+  - passive housing: use no electricity, max insulation
+- health
+  - loneliness big factor in dementia
+    - social crisis, stopped making friends
+  - new cancer research: trick them into killing themselves
+
 - 11/1
 - politics
   - tucker carlson "attacked by demons"
