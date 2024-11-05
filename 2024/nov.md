@@ -1,3 +1,16 @@
+- 11/5
+- politics
+  - hyperbole: biggest election ever! 77 M have already voted
+- culture
+  - not the onion: canned 400ML of air sells for 10 EUR
+  - most interactive titles getting removed form Netflix
+- tech
+  - python pass js on github
+    - top 3 countries with active github users
+      - us
+      - india
+      - china
+
 - 11/4
 - politics
   - trump violent rhetoric on the rise, wants reporters shot
