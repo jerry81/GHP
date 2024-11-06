@@ -1,3 +1,16 @@
+- 11/6
+- politics
+  - trump
+  - us military can use meta aI models
+- biz
+  - appl smart glasses push
+  - sundar pichal (goog) forbids political talk after israeli contract protest firings
+  - bitcoin new high
+  - scaled down hyperloop tested in switzerland
+  - AMZN arizona drone deliveries
+  - mozilla lays off 30%
+  - amd passes intel in datacenter sales
+
 - 11/5
 - politics
   - hyperbole: biggest election ever! 77 M have already voted
