@@ -1,3 +1,10 @@
+- 11/7
+- politics
+  - kamala didn't perform better than biden in a single state
+  - stocks soar, bitcoin all time high
+  - 86% gays, 71% jews voted kamala
+  - germany successful 4 day workweek experiment
+
 - 11/6
 - politics
   - trump
