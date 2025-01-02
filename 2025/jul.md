@@ -1,0 +1,290 @@
+[Back](../index.md)
+
+7/24
+- politics
+  - harris leading trump?!
+  - musk turning on trump again
+  - kamala gets 231M donations day one
+  - china to raise retirement age
+    - life expectancy has passed us: 78
+      - vs 36 at time of communist revolution in 1949
+  - "father of RU internet" alexey Soldatov - founder of first ISP in RU jailed
+    - "abuse of power"
+  - CH: all gov sorftware must be Open source
+- culture
+  - joker 2 to debut in venice
+  - olympics: celine dion comeback performance
+    - snoop to carry torch
+- biz
+  - tesla continues to fall
+  - alphabet drops another 5B in waymo
+- tech
+  - weightloss vax ozempic has side effects
+  - sunday was hottest day ever
+  - github - refactoring frontend to react
+  - ai taking jobs in video games industry
+    - 10.5K laid off in 2023
+    - workforce non-union
+    - economy passed hollywood's long time ago
+    - many artists victims
+
+7/23
+- politics
+  - harris 47%, trump 49%
+  - BJ slash interest rates
+- biz
+  - nvidia RTX series hampered by poor thermal paste
+  - boeing expects pilotless air-taxi later in decade
+  - appl foldable moves forward
+- culture
+  - USA wins math olympiad
+- tech
+  - oxygen source found on sea floor
+  - top OS on Azure is MSFT Linux
+  - meta llama 3.1
+
+7/22
+- politics
+  - who will be kamala's vp
+  - china has arctic ambitions
+  - usa anti satellite jamming devices vs ru, cn
+  - bangladesh: student protests lead to internet shutdown
+    - protests vs the gov's quota system for gov jobs
+    - bangladesh fought for independence vs pakistan once
+- culture
+  - Katie perry trying to make comeback
+  - americans not having babies
+  - Paramount+ Halo cancelled after 2 seasons
+- biz
+  - crowdstrike outage: affects airlines 1000+ cancelled flights
+    - american cybersec company
+    - software update bluescreened windows computers
+      - boot loop
+    - stocks suffer
+  - AMD Ryzen faster than Apple M3 pro?
+  - SW dev jobs down from peak in 2021/2022
+    - intense recruitment during pandemic
+  - nvidia to switch to open source linux gpu kernel drivers
+    - better performance
+- tech
+  - persian gulf record heat index
+    - 60 to 65 degrees
+    - iran
+  - smart soil: 138% bigger crops, less water
+    - hydrogel added: absorb more water vapor overnight
+      - calcium chloride
+  - chatgpt-4o Mini: smaller cgpt
+    - will replace 3.5 turbo
+
+7/18
+- politics
+  - biden gets covid
+    - would drop out over medical reasons
+    - all eyes on pelosi?
+  - babydog fat bulldog steals show at rnc
+  - assassination reprecussions: political leaders fear for lives
+  - cali energy grid survives heat wave due to massive storage
+- biz
+  - Sarco: suicide pod to be used in switzerland
+    - replaces o2 with n2
+    - min age 50
+    - cost only 18 swiss francs for nitrogen
+  - valve suprisingly is maintained by skeleton crew of 350 Employees
+  - GlobalWafers gets 400M to build first 300mm Wafers in us
+    - used in modern processes
+  - gitlab may sell
+    - alphabet a suitor
+    - also datadog
+  - startup makes butter using CO2 and H2O
+    - funded by BGates
+    - Savor
+    - goal reduce carbon footprint
+  - amzn enforcing new office hrs rule
+    - coffee badging: clock in, get coffee, and leave to satisfy return to office mandate
+  - mysql owned by oracle
+    - may not be prioritized by them
+- culture
+  - university to build rooftop garden for taking psychadelics
+  - python(snake) as protein alternative
+  - more parents refusing to give kids smartphones
+- tech
+  - psilocybin: descyncs the brain
+  - Dr. Fei fei Li: godmother of AI: professor at Stanford
+    - built the imagenet dataset that pioneered CV in 2010s
+    - now working on startup 1B startup in 4 months "World Labs" - goal: human like visual data processing and advanced reasoning
+  - "multimodal models" - reason across video, audio, images, text
+    - meta will not launch in EU due to unpredictable regulations
+  - already 1M EV chargers in UK
+  - Goog not indexing your content by default now
+    - more selective
+
+7/16
+- politics
+  - trump picks vp nom
+    - youngest since nixon
+  - france olympic protest: swimmers and triatholon swim in sewage infested seine
+  - giorgia meloni - revive nuke power in italy
+  - FBI broke into shooter's phone
+  - UK 4 day trial sees benefits
+    - less staff turnover
+    - physical/mental health
+    - motivation
+  - china building 2/3 wind and solar projets worldwide
+  - germany remove huawei from mobile networks
+  - fusion race: cn outspends us
+- culture
+  - nicolas cage 7:30 bedtime
+  - night owl cognitive function better than early risers?
+  - comicon may relocate from SD due to hotel price gouging
+- biz
+  - MSFT LLM for excel SpreadsheetLLM
+    - CTO kevin scott
+  - goog acquire Wiz (cybersec startup) for 23B
+  - despite ai earnings down, AI stocks boom
+  - intel i9s having issues (13th and 14th gen high-end cpus)
+  - openAI new reasoning tech: "strawberry"
+    - navigate web autonomously
+    - perform "deep research"
+  - AMZN ai chatbot Rufus launched
+    - bold claim: 100% renewable energy
+    - AWS App studio
+      - genAI that creates app with prompt
+  - spacex falcon 9 first failure in 7 yrs
+    - starlink satellites lost
+  - samsung watch and earbud products copy appl
+  - TSMC market cap at 1T
+  - appl vision pro struggling, <500K sales
+  - indie video game devs struggling due to recession
+- tech
+  - cancer: scientists find out how pancreatic cancer shuts off tumor supressor gene
+  - linux kernel 6.10
+  - peak population: 10.3B in 2080s
+     - current 8.2B
+  - anti-sea level rise: barriers around glaciers?
+  - autism = neurodivergent?
+  - sun probe is fastest ever man-made object:
+    - 692KPH (500x speed of sound)
+  - spacesuit recycles urine into clean water
+  - torvalds thinks RISC-V will make same mistakes as arm and x86
+  - rivers reservoirs of disease
+  - US heat keeps breaking records
+
+7/10
+- politics
+  - more white house drama
+  - marco rubio trump vp candidate?
+  - biden classic features of parkinsons?
+  - speed limiters mandatory in EU vehicles
+  - alberta electricity coal-free first time ever
+- culture
+  - gladiator 2 sequel
+- biz
+  - NIke self-tying sneakers (350USD) - app killed
+    - Adapt BB app
+    - use on-shoe buttons instead
+  - after 1B donation, JHU med school to become free for most
+    - from mike bloomberg
+- tech
+  - 10B passwords leaked
+  - AI will attempt decode dog barks
+  - new transplant procedure: restore blood flow to organs after cardiac death
+
+- 7/9
+- politics
+  - more biden slander
+    - parkinsons doc made 10 WH visits
+    - michael moore: "elder abuse"
+    - trump quiet while biden flounders
+  - LV hits 120F
+  -israel:
+    - spain song: "let's go bomb tel aviv"
+    - brazil adopts free trade with Palestine
+- culture
+  - tiktok mob attack on teachers (first ever)
+  - vietnam the most affordable country for expats
+    - columbia
+    - indo
+    - panama
+    - philippines
+    - india
+    - mex
+    - thai
+    - braz
+    - china
+  - barcelona anti-tourism protestors fire water pistols at visitors
+- biz
+  - chinese self driving cars have been roaming US roads
+    - WeRide
+    - Apollo (baidu)
+    - AutoX
+    - Pony.ai
+    - DiDi
+  - MSFT china commands users to drop android and use iphones
+- tech
+  - world's fastest car: 310MPH (500km/h) - Koenigsegg Jesko Absolut (swedish)
+    - current bugatti chiron super sport
+
+- 7/8
+- politics
+  - france elections: left wins big
+    - jean-luc melenchon
+  - UK elections: labour party set to win landslide victory -
+    - rishi sunak - conservative to be succeeded by Keir Starmer
+  - UK passes china as world's second largest country for startup funding
+  - giant robot in japan to maintain train lines
+- biz
+  - six flags merger with cedar fair
+    - six flags struggling
+  - boeing pleads guilty to fraud related to 737 max crashes
+  - crypto plunges in 170B selloff, BTC currently 55.7 K
+  - unreliability in EV chargers
+  - nvidia to make 12B selling GPUs in CN
+  - samsung stock up - boosted by AI
+  - GenAI patents dominated by CN
+  - meta Threads reaches 175M users after a year
+  - new round of MSFT cuts/layoffs
+  - ballmer passes gates in wealth
+  - UK startup Nyobolt: 4-min battery charging for EVs
+- tech
+  - CO2 to methane thru carbon
+
+- 7/3
+- politics
+  - pressure on biden to drop out this week
+    - kamala to replace
+    - debate "disastrous"
+    - obama offers advice
+    - NYT: "dazed and confused"
+  - greece plans 6 day work week!
+  - war fears: china commandeers taiwanese ship
+    - forceful boarded fishing vessel
+  - tx law regarding age restriction to pron goes supreme
+  - biden 504M stimulus for 12 tech hubs, OH, Montana, NV, FL, etc
+  - 6 intercontinental undersea green energy power cables could be laid down
+  - CO UBI experiment - reduced homelessness, increased full time work
+  - in zero-emissions effort, japan plans 310Mi conveyor belt that carries freight
+  - livestock tax: 100 per cow
+  - 3 years of great resignation:
+    -
+- biz
+  - meta drops VR headset (quest)
+  - goog's emissions jump 50% because AI
+  - keith gill (roaring kitty) - gamestop investor - sued
+  - tesla more expansion into gaming
+  - france vs nvidia: antitrust
+  - carbon capture hot industry
+  - McDs doesn't plan on keeping plant-based options
+  - Ali Qwen models (LLM) dominate leaderboards
+    - closed source like CGPT excluded from list.
+- culture
+  - tim burton beetlejuice sequel
+  - majority of gen z are "video content creators" (age 14 - 24) (2000-2010 DOB)
+  - assange got 500K USD worth of bitcoin donation to cover travel costs
+- tech
+  - cetain words overused by AI
+    - "showcasing", "delves"
+  - bionic leg moved by thinking of it
+  - green hydrogen: fuel from water
+    - hydrogen extracted from the water
+  - japan reaches 402 TB/s data rate using current fiber tech
+  - ai breakthru: matrix multiplication elimnated in LLMs

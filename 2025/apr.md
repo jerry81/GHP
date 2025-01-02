@@ -1,0 +1,294 @@
+[Back](./index.md)
+
+- 4/29
+- politics
+  - Oklahoma tornadoes
+  - kristi noem, vp candidate for trump, SDakota gov
+  - DJI may be banned next in America
+  - LV-LA high speed rail (america's first) begins constructions
+  - USA bans noncompete agreements for nearly all jobs
+  - cali "problem": too much solar
+- culture
+  - taylor swift in one year flew 178K miles, 7 times around world
+  - kevin spacey documentary
+  - zendaya stock up, one of "raunchiest films ever", challengers, about tennis retiree
+- biz
+  - biggest clean energy plant being built, 5 times size of paris, in india
+  - intel stock drops 9%.  strugging to remain relevant?
+  - Honda to spend 11B on 4 EV factories in NA
+  - Alphabet stock jumps 14%
+  - Stripe integrates crypto, will start with USDC stablecoin
+  - ford losing big on EVs
+  - IBM acquire hashicorp
+  - iphone sales down 19%
+  - china curse of 35 for aging tech workers - kuaishou -  layoff 30somethings in restructuring
+  - eu extreme heat stress
+  - AI needs so much energy, tech companies getting into energy biz
+- tech
+  - soldered ram more efficient
+  - EU (NE) to build 100-Qubit computer by 2026
+  - TSMC 1.6 nm process tech
+  - DOS 4 opensourced
+  - ubuntu 24.04 LTS Noble Numbat release
+
+- 4/21
+- politics
+  - war: israel asks usa for ammo
+  - tiktok about to get banned
+  - british columbia bans level 3 automous driving
+- biz
+  - homesellers waiting for fed to drop rate
+  - sex toys expo in shanghai - virtual control e/o's sex toys
+  - Anne Wojcicki - may take 23 and me private after shares drop to under $1, 95% drop
+  - indian outsourcing companies including infosys cut 60K jobs
+    - wipro
+    - TCS
+  - the google protesters fired
+  - samsung, in light of a weak won, declares 6 day work week for executives
+- tech
+  - james webb space telescope gets imax documentary - deep sky
+  - data centers turning to coal for power
+  - ocean waves crashing releases aresols
+
+- 4/18
+- culture
+  - tarantino final film, "the movie critic" dropped
+    - was going to have Brad pitt as star
+  - scorsese and dicaprio to work on sinatra movie?
+- politics
+  - ecuador goes 3 day work week haha
+    - but due to energy shortages
+- biz
+  - boston dynamics debuts new electric humanoid, previously hydraulic
+    - hydraulic: oil used to help generate motion
+  - goog anti-israel protesters arrested
+  - economy: avg incomes will fall by almost a 1/5 by 2050 due to climate change
+  - snowmobile: amazon's using truck to do data transfer
+    - killed
+    - clever name: sneakernet
+- tech
+  - AI computing will consume more energy than india says ARM
+  - cloudflare: DNS-based DDos is most prominent attk vector
+    - after sweden joined nato, ddos attacks on it grew 466%
+
+- 4/17
+- politics
+  - don having a tough time at his trial
+  - many russian tourists in Cuba 200K
+  - maga drops pro-life?
+  - goog workers against cloud contract with Israeli gov
+  - UK outlaw deepfake porn
+- biz
+  - tesla woes fatal flaw in Cybertruck causes deliveries to stop
+  - boston dynamics retires Atlas
+- culture
+  - good countries to be digital nomad:
+    - spain
+    - italy
+    - greece
+    - estonia
+    - portugal
+    - indonesia
+    - UAE
+    - Costa Rica
+    - Bahamas
+- tech
+  - "crescendo" jailbreak LLM - series of prompts that makes LLM leak and break rules, found by MSFT
+  - baidu ernie bot 200M users
+
+- 4/16
+- pollitics
+ - the don, in court, falls asleep
+  - 34 felony counts
+ - CA over 100% energy demand using only renewables (wind,solar,hydro) over record 30 days
+ - liz warren (D-MA) compalins turbotax upsells customers
+- biz
+  - tesla 10% layoffs no explanation
+    - stock dropped 1/3
+    - musk in mess
+  - iphone slump, worst since covid
+    - china sales drop
+    - samsung overtakes
+  - Roku, streaming tv, 600k accounts pwned, 2fa now mandatory
+- culture
+  - MSG sells out a D&D "play show" - watch people play d&D
+- tech
+  - state of ai, according to Stanford AI Index Report, 2024
+    - beats hum on some tasks, but not all
+    - industry (opp. to academia) dominates AI research
+    - training costs of Models getting expensive
+      - Gemeni (goog) 191M for compute to train
+      - GPT-4 78M
+    - USA 61 models, EU 21, CN 15
+    - GenAI investment up
+    - AI makes workers more productive
+    - Science moves faster
+    - AI Regulations increases
+  - cybersec engi convicted of stealing crypto, gets 3 y prison
+
+4/15
+- politics
+  - chechnya bans music based on tempo
+  - Adam schiff, D-California proposes public db for all ai training data.
+  - iran direct attack on israel
+    - drones, cruise missles, surface to surface, 99% intercepted.
+      - cruise missle travel low
+      - s2s travel high
+    - world war coming?
+  - trump criminal trial arrives
+  - CA replace gas plant with grid battery
+    - paired with solar
+  - america getting closer to regulating crypto
+  - US China new arms race with... drone swarms?
+  - US ban chinese EV?
+- biz
+  - Appl M4 -> ai-focused?
+  - canonical and qualcomm partnership over ubuntu
+  - some "defeated" ceos concede: hybrid work here to stay
+  - adobe firefly: its AI model
+    - trained using midjourney images
+  - hwawei chip r&d in shanghai
+    - 12B rmb
+  - china tells telecom carriers to phase out foreign chip suppliers (intel, amd)
+  - change to chatgpt: more direct, less verbose
+  - AI expert andrew ng, joins amzn
+  - waymo robotaxis in LA
+- culture
+  - civil war huge opening (A24)
+  - rec usage of ED drugs rising...
+    - viagara and cialis
+    - open blood vessels
+      - can treat pulmonary hypertension, urinary probs
+      - improve stamina in gym
+- tech
+  - new charging method double life of Li-Ion batteries?
+  - create solar eclipses to study the sun?
+
+
+
+4/12
+- politics
+  - oj dead, 77 cancer
+- culture
+  - jk rowling anti trans?
+    - upset at radcliffe and emma watson for supporting
+
+4/10
+- politics
+  - AZ state abortion law
+  - joe building a great campaign
+  - islamic Caliphate: institution public office under the leadership of Islamic steward, title Callph
+    - successor to muhammad
+  - michigan school shooting's parents sentenced to 10 years for negligence
+    - 2021 4 killed in michigan school
+- biz
+  - utah tech hub?
+  - musk speaking is "self-inflicted wounds"
+  - jone ive, sam altman startup doing AI hardware, seeks 1B in funding
+  - intel new AI chip: Gaudi 3 - better than nvidia H100?
+  - cruise robotaxis back in Phx but with people driving in manual mode
+  - meta launch small versions of llama 3 next week
+  - Goog vids: actually a work productivity tool
+- culture
+  - joker 2 first trailer
+  - creative: suicide by snake
+    - let pet cobra bite him
+- tech
+  - higgs of higgs-boson dies age 94
+
+4/9
+- politics
+  - ben netanyahu - aka bibi
+  - US invests 20B into clean-energy projs
+- biz
+  - musk: AI overtake human intelligence next year
+  - msft: windows on arm could beat appl silicon macs
+  - tsmc - wins 6.6B US subsidy for AZ chip production
+  - report on boeing: profits before safety
+  - tesla robotaxi to be unveiled aug 8
+  - appl lays off 700, appl car and microLED teams
+  - staffing company: AI will cut worker numbers
+  - "trump media" the new gamestop stock
+  - apple exploring personal home robots
+- culture
+  - profs using AI to grade essays
+  - denis villeneuve - dune 3
+  - new matrix film coming
+  - biz schools integrating AI into curiculum
+- tech
+  - msft edge: to let user control how much RAM used soon
+  - 57 companies produced 80% of global CO2
+  - mini liver grown from patient's lymph node
+  - chatgpt customers can now use AI to edit DALL-E images
+  - stability AI ran out of cash for cloud GPUs
+
+4/3
+- politics
+  - twn 7.4 mag
+    - okinawa evac advisory
+  -  iran retaliation?
+  - oregon recriminalizes drugs
+  - havana syndrome may have a explanation: russia
+  - india biggest green energy source, hydro, drops, global warming
+- culture
+ - exercise stengthens brain?
+- tech
+  - scientists accidentally create no-genital sixlegged mouse
+  - fiber optic connection 1.2M times faster than broadband being worked on?
+- biz
+  - magic number for retirement: 1.46M? USD
+  - intel reports 7B loss
+  - BTC tumbles 5000 in 24 hours due to interest rates rising
+  - MSFT working on xbox ai chatbot
+
+
+4/2
+- politics
+  - war: israel kills top iran general
+    - revenge coming?
+    - syrian capital damascus iran consluate flattened
+  - record heat in asia, eu
+- biz
+  - trump "truth" social media loses 58M, stock down
+    - 2B in value gone
+  - gold hits record high
+  - elon reputation down, tesla buyers timid
+  - goog rust devs twice as productive as c++ teams
+- culture
+  - SF named "healthiest"
+  - 40% adults 3 days without f2f interactions
+- tech
+  - yet another LLM player: databricks, open source
+  - chatgpt no longer requires account
+
+- 4/1
+- culture
+  - IG trend: "van life"
+  - godzilla x king kong
+- politics
+  - 7K debt = trapped in china
+  - chinese migrants sneaking into guam
+  - next isis attack could be on usa/eur
+  - usa productivity boom?
+- biz
+  - boston market about to go out of biz?
+  - reddit shares drop 25%
+  - disney losing billions on disney+, try integrate hulu into app
+  - at&t data leak into dark web, 73M customer's data
+  - gmail turns 20 years old
+  - msft/openai - 100B stargate AI supercomp
+  - meta will add AI to ray ban smart glasses
+  - NYC robotaxis with saftey drivers
+  - claude 3 suprasses chatgpt 4 in "chatbot arena"
+  - SBF sentenced to 25 years
+  - AMZN 150B investment in AI datacenters
+  - AMZN spends 2.5B on anthropic investment, most ever
+  - 1M a year pacakges for top ai talent
+- tech
+  - thorium, open source chrome, fast
+  - new material converts CO2 into Methanol
+  - study in mice: memory formation is DNA breaking and then reconstructing
+  - landfills produce methane
+  - valkey a linux redis fork
+  - earth spinning faster than perviously - may need to subtract a second
+  - american chatgpt usage up

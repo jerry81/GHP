@@ -1,0 +1,55 @@
+[Back](./index.md)
+
+- 1/2
+- politics
+  - cyber truck bursts into flames at trump vegas hotel
+    - driver dead, 7 wounded
+    - maybe terror?
+  - new orleans terror attack
+    - isis
+    - bourbon street
+    - truck ramming
+    - arabic name
+    - tx native, former army
+    - 15 dead, 25 hospitalized
+    - four or five other conspirators
+    - isis flag on truck
+  - hawaii fireworks incident 2 dead
+  - psychedelic therapy in CO begins
+  - belgium first EU contry to ban disposable vapes
+    - for the young, for environment
+  - 2024 hurricaines were devastating
+    - 10M trees planted on arbor day to replace destroyed trees
+  - last year, americans spent 2.5 months on their phones
+  - H1B visas allow 85K workers to migrate annually
+- culture
+  - nikki glaser host golden globes
+    - ruder than gervais
+- health
+  - new health fad: chrono-fast
+    - eat earlier in the day
+  - stanford: "exercise most potent medical intervention ever"
+    - cancer, heart disease down 50%
+- tech
+  - ai restoring burned ancient scrolls
+  - nato wants satellite links as backups to undersea cables
+  - 3.1M "fake" stars on github across 15.8 K repos
+  - china to build Thorium Molten-Salt reactor
+    - thorium atomic number 90
+    - lighter than uranium (92)
+    - more abundant, must be converted into uranium
+  - surgical robots learned tasks by watching videos
+- biz
+  - india payment duopoly, google pay + PhonePe (walmart-backed)
+  - ali slashes prices of its LLMs by 85%, AI rivalry and competition
+  - MicroStrategy becomes bitcoin treasurer, stock up 400% in 2024
+    - invested in "alternative assets"
+      - also stocks, bonds, gold
+  - volocoper (air taxi) files bankruptcy
+    - backed by mercedes
+    - german
+  - goog's position on AI: catching up
+    - Gemini vs ChatGPT
+  - nvidia invests in robotics for future growth
+  - 2024 the year of windows on Arm for MSFT
+    - arm laptops
