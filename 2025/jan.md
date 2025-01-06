@@ -8,11 +8,23 @@
   - again: china mystery virus deaths
   - congestion toll in nyc, 9 USD in "congestion relief zone"
   - brazil ends daylight saving time, may bring it back
+  - israel used ai powered attacks against gaza
+  - china limit battery, precious mineral tech exports
 - biz
   - tesla sales down
   - coffee 12 a cup by end of year
   - compromise: employers offering remote work with lower salaries
   - musk wants mars, says moon is distraction
+  - china EV sales set to overtake traditional by 2025
+  - starlink mini - fits in backpack, small antenna, 599 price, subscription 50 or 165
+    - internet anywhere
+  - streaming industry: consumer fatigue setting in
+  - new spatial audio format from samsung and google, Eclipsa Audio: will take on Dolby Atmos
+  - apple intelligence (iphones) needs 7GB memory, maybe 10 GB in near future
+    - chatgpt in siri
+    - genmoji
+    - imageplayground
+  - msft spend 80B on AI-enabled data centers in 2025
 - culture
   - aaron rodgers failed stint with jets
   - aubrey plaza's husband suicide hanging
@@ -20,6 +32,7 @@
 - tech
   - man was trapped in a circling waymo on way to airport
   - TPM msft dedicated chip or firmware allowing hardware level security, required by windows 11
+  - dissolve acid-neutralizing rocks in ocean to absorb co2?
 
 - 1/3
 - politics
