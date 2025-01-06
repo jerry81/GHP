@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 1/6
+- politics
+  - america cold spell
+  - trudeau to leave office
+  - ukr takes russia by surprise with counterattack
+  - again: china mystery virus deaths
+  - congestion toll in nyc, 9 USD in "congestion relief zone"
+  - brazil ends daylight saving time, may bring it back
+- biz
+  - tesla sales down
+  - coffee 12 a cup by end of year
+  - compromise: employers offering remote work with lower salaries
+  - musk wants mars, says moon is distraction
+- culture
+  - aaron rodgers failed stint with jets
+  - aubrey plaza's husband suicide hanging
+    - jeff baena
+- tech
+  - man was trapped in a circling waymo on way to airport
+  - TPM msft dedicated chip or firmware allowing hardware level security, required by windows 11
+
+- 1/3
+- politics
+  - cybertruck terrorist burned, was a white ex green beret
+
 - 1/2
 - politics
   - cyber truck bursts into flames at trump vegas hotel
