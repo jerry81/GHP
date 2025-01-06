@@ -10,6 +10,14 @@
   - brazil ends daylight saving time, may bring it back
   - israel used ai powered attacks against gaza
   - china limit battery, precious mineral tech exports
+  - surgeon general wants cancer warning on alcohol
+    - 3rd behind tobacco and obesity
+  - china offering subsidies to buy smartphones
+    - iphone discounts from apple
+  - china cut down SO2 emissions 2/3 in 15 yrs
+  - uk electricity cleaner than ever
+  - putin orders ai cooperation with china
+  - US targetting chinese drones
 - biz
   - tesla sales down
   - coffee 12 a cup by end of year
@@ -25,6 +33,8 @@
     - genmoji
     - imageplayground
   - msft spend 80B on AI-enabled data centers in 2025
+  - win 10 still dominating, end of support in 10 months
+  - samsung bets on 3d monitors, again
 - culture
   - aaron rodgers failed stint with jets
   - aubrey plaza's husband suicide hanging
@@ -33,6 +43,8 @@
   - man was trapped in a circling waymo on way to airport
   - TPM msft dedicated chip or firmware allowing hardware level security, required by windows 11
   - dissolve acid-neutralizing rocks in ocean to absorb co2?
+  - cross-compiler - c to mem-safe rust
+  - great whales can live past 130 years
 
 - 1/3
 - politics
