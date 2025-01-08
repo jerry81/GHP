@@ -1,5 +1,38 @@
 [Back](./index.md)
 
+- 1/8
+- politics
+  - LA fire happening
+    - palisades
+    - 80 mph winds
+  - EU vs musk
+   - dad urges people to ignore him
+  - america cold spell
+  - thailand ban import of plastic waste
+  - america aging elevator crisis
+  - us first human bird flu death
+    - h5n1
+- culture
+  - hulk hogan booed out of building during netflix premiere of wwe
+- tech
+  - non-neural cells can have memory
+- biz
+  - lenovo rollable oled screen
+    - it unfolds from a trough
+  - nvidia rtx 50 blackwell
+   - rtx 5090 2000K usd
+     - 30% increase in core size from 4090
+  - also nvidia, 3000 personal AI supercomputer
+  - nvidia AI teammates in pubg
+  - anthropic raises funding, value at 60B
+    - 5th most valuable startup after spacex, openai, stripe, databricks
+  - apple ai not intelligent
+  - msft 3B ai and cloud investment in india
+  - goog new team builds AI that can simulate physical world
+  - toyota woven city:
+  - intel new laptop chips extend battery life, claimed
+  - msft wants you to stop using win 10 this year
+
 - 1/6
 - politics
   - america cold spell
