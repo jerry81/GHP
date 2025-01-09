@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+- 1/9
+- politics
+  - LA fire still going
+    - picture of sunset bl sign with blaze in background
+    - burnt cars on sunset boulevard, left cars when stuck in traffic
+    - 1000s of homes burned down
+  - musk embracing far right?
+  - zuck pivots right
+  - Xi muzzles economist who doubted china's GDP numbers
+- biz
+  - 41% of companies worldwide plan job cuts after advent of AI
+  - Omi AI startup: boost productivity using AI and brain interface
+    - searable
+    - necklace
+    - use medical tape to tape to side of head
+    - actually always listening and building chatgpt context
+  - MSFT bing image creator model rolled back - poor quality
+    - upgrade from DaLL-E
+  - tiktok users migrating to sister app, lemon8
+    - looming ban
+  - last year AT&T had large botched update that caused 60 minutes of downtime: promises to give credits for future outages
+  - samsung subscription services for ai-powered smartphones
+  - jensen huang: ai chips improving faster than moores law
+    - also thinks quantum computers decades away
+  - akamai: CDN - will leave china
+- culture
+  - "antisocial century"? - lack of restaurant tables, more takeaway
+    - due to pandemic
+    - 7 hrs in front of tv vs 1 hr outside with friends
+- tech
+  - entaglement: individual protons' quarks and gluons quantum entangled
+
 - 1/8
 - politics
   - LA fire happening
