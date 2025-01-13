@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+- 1/13
+- politics
+  - 12K structures destroyed in LA fires
+    - day 6
+  - nkorean soldiers captured by ukraine
+  - female enlistments up in army
+  - isis wave of terror coming?
+  - britain wants openai rival, be world leader in AI
+  - germany hits 62.7% renewables in 2024, solar at 14%
+    - wind largest
+  - DOJ seized 6.5B in bitcoin from silk road, ready to sell it
+- culture
+  - nfl ratings also down
+- biz
+  - starlink competitive price edge over african ISP
+  - ford ev sales up 34.8% last year, Mustang Mach-E outsells gas-powered ones
+  - jp morgan dealing with return-to-office backlash
+    - 5 days a week
+  - enron home nuke reactor
+    - "the egg", egg shaped
+  - zuck rips apple: "haven't invented anything great in a while"
+  - vc on AI startups: need proprietary data to stand out
+  - amzn, fb drop DEI (diversity, equity, inclusion) programs because of changing laws
+  - stackoverflow usage down
+  - japan ev sales down 33% in 2024, first decline in four years
+
+- tech
+  - "year of linux desktop", nvidia chips running well with linux
+  - 2024, three new superconductive materials discovered
+    - implications of roomtemp superconductors: lossless power grid, magnetically levitating vehicles
+
 - 1/9
 - politics
   - LA fire still going
