@@ -1,5 +1,49 @@
 [Back](./index.md)
 
+
+- 1/15
+- politics
+  - la fires may get oscars cancelled
+    - pressure on insurance industry
+    - 10k structures burned down
+  - inauguration coming
+    - musk, bezos, zuck to attend
+    - michelle o will skip
+  - us deaths to outpace births soon
+  - us ban chinese vehicles
+  - NY law requires ISPs to offer a 15/month max broadband plan for the poor
+- culture
+  - screamboat: mickey mouse horror
+  - ps to add smells to games
+  - diddy now accused of attempted murder?
+- biz
+  - oracle has trademark on "javascript"?
+  - neuralink already implanted 3rd brain chip
+    - plans 20 or 30 this year
+    - blindsight device coming: optic nerve interface
+      - already working in monkeys
+  - msft try to raise price of 365 by 45% in asia, no china though
+  - new cgpt feature: schedule reminders and recurring tasks
+    - on plus, team, or pro subscriptions
+    - push notifications
+  - meta cut 3.6k jobs, target lowest performers
+    - about 5 % of staff
+    - total 72K
+  - referring strangers as a job
+    - 30K in referral bonuses after recommending over 1000 strangesr to his employer in 18 months
+      - 6 successful hires.
+  - employee engagement at 10 year low
+    - "clarity of expectations", "someone at work cares about them as a person", "encouraging development"
+  - euro cloud provide anexia moves machines from VMWare to KVM
+    - r KVM: kernel virtual machine
+- tech
+  - usb naming conventions to become more straightforward
+  - browser caching: maintain seperate copies of shared resources instead of reusing across domains
+    - worse performance
+    - aka double-keyed caching
+  - 3/4 bacterial species haven't been studied
+  - linus torvals is a guitar pedal hobbyist, offers to build guitar effects pedal for a developer
+
 - 1/13
 - politics
   - 12K structures destroyed in LA fires
