@@ -11,8 +11,21 @@
   - meta pivot to right sparks boycotts, user exodus
   - harvard MBAs even struggling to land jobs
   - stock surge, rates to rise?
+  - NJ gov: likes phone ban in schools idea
 - culture
   - shock return of marilyn manson
+- biz
+  - startup plans to de-extinct wooly mammoth, thylacine (some cat), dodo
+    - colossal biosciences
+  - razer fake n95 face masks
+    - refunds
+  - diamond comics distributor files for bankruptcy
+  - linkedin now discourages you from applying if you are underqualitified
+  - meta really wants to beat GPT-4
+  - tiktok users flock to xiaohongshu, top dl app in US
+    - doesn't even have english UI
+- tech
+  - Parallels Desktop: support x86 windows and linux on appl silicon Mac
 
 - 1/15
 - politics
