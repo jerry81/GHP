@@ -1,5 +1,18 @@
 [Back](./index.md)
 
+- 1/16
+- politics
+  - biden warns of tech oligarchy
+    - oligarchy: power reside in small number of individuals
+  - progress on firefight
+  - fda ban red food dye
+  - US cold front, 25 to 30 below zero
+  - judge alito: does porhub "have articles"
+  - meta pivot to right sparks boycotts, user exodus
+  - harvard MBAs even struggling to land jobs
+  - stock surge, rates to rise?
+- culture
+  - shock return of marilyn manson
 
 - 1/15
 - politics
