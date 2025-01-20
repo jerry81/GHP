@@ -1,5 +1,43 @@
 [Back](./index.md)
 
+- 1/20
+- politics
+  - hostages freed after 471 days
+    - return to israel
+    - in hamas captivity
+    - abducted by hamas
+    - 3 women
+      - romi gonen, 23, emily tehila damari 28, doron steinbrecher 30
+  - tiktok purchase keeps flipflopping
+  - malibu homes wiped out
+  - japanese elderly so lonely some women choose to go to jail instead
+  - indonesia: min age for social media use planned
+- biz
+  - aptera - solar powered electric cars
+    - 40 mi per day just using solar
+      - 64 km
+  - "solar grazing" controlling grass growth around solar panels
+    - increasingly done with sheep
+  - "career catfishing" - land a job offer but don't show up to work on first day to get back at them
+  - balance of power back in bosses hands
+    - labor market cooling down
+  - openAI AI model for longevity science
+  - ev and hybrid at 20% of vehicle sales
+  - 小红书 = RedNote, considers walling off TikTok Refugees
+  - msft-openAI may be targeted by AntiTrust
+  - Honor CEO resign personal reasons
+  - goog search require js
+- culture
+  - david lynch dead 78
+    - emphysema
+    - los angeles fires didn't help
+- tech
+  - node.js "type stripping" ts
+    - run typescript with no config
+    - tsc the go-to tool for ts toolchain
+  - mystery oxygen source in deep ocean
+    - challenges idea that oxygen can only be made with photosynthesis
+
 - 1/16
 - politics
   - biden warns of tech oligarchy
