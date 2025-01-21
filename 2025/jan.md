@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 1/21
+- politics
+  - trump launches meme crypto at his inauguration
+    - $trump
+    - makes 58 b
+    - 1500 capitol rioters get pardon
+  - melania launches $melania
+  - france 2024 power grid 95% fossil fuel free
+    - nuke, renewables jump
+  - china to host human-robot marathon
+    - beijing
+    - april
+  - pentagon: AI will not be allowed to kill people, but assists greatly in "kill chain"
+    - identify and track targets
+- biz
+  - costco nationwide strike
+  - gpu as a service coming due to ai boom
+  - amzn: forced return to office: not enough desks, no parking
+- tech
+  - linux 6.13 - more rust infra, AMD support
+
 - 1/20
 - politics
   - hostages freed after 471 days
