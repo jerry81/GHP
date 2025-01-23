@@ -1,5 +1,50 @@
 [Back](./index.md)
 
+- 1/23
+- politics
+  - prez trump at 47% approval
+  - france antisemitic acts
+  - south carolina nuclear power project to meet AI demand
+  - Trump Stargate Project: joint venture with OpenAI, oracle, softbank
+    - 500B investment
+  - ross ulbricht (silk road) padoned by trump
+  - USA to withdraw from WHO
+- biz
+  - cnn and nbc layoffs
+  - stocks record high
+  - goog fiber to vegas
+  - 2024, 1B B2C spending in AI Apps
+  - linkedin sued: disclosing customer info to train AI
+  - goog and israel military partnered on AI tools
+  - MSFT deal: save AMZN rainforest, offset AI emissions
+    - paid in carbon credits
+      - a permit that allows org or country to produce carbon emissions, can be traded like stock
+  - OpenAI Web automation tool "Operator"
+    - automate web tasks thru built-in browser
+      - restaurant booking, travel planning, shopping, deliveries
+      - watch it work
+      - take control
+      - share workflows
+  - ntflx price increase, again
+  - goog invests another 1B in anthropic
+  - MSFT no longer openAI's exclusive cloud provider
+  - general AI race: chinese model rivals openAI o1
+    - Deepseek
+- culture
+  - deniro goes TV
+    - netflix zero-day
+- tech
+  - ultrafast cancer treatments to replace radiotherapy?
+    - ultra-high dose radiation exposure less than a second
+    - "flash" therapy
+  - anthropic chief: AI could surpass humans at almost everything around 2027
+  - salesforce chief: last generation of All-human workforces
+  - last century: men grew twice as much as women
+  - wine 10.0 released - run windows apps on linux
+  - scale AI: Alexandr Wang to trump - we must win ai war
+    - data annotation platform that provides training data for ML models
+    - 24 - youngest self-made billionaire in world
+
 - 1/21
 - politics
   - trump launches meme crypto at his inauguration
