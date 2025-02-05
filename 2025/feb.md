@@ -1,195 +1,39 @@
 [Back](./index.md)
 
-- 2/26
+- 2/5
 - politics
-  - trump not getting votes in SC
-    - but swept 4 first states
-    - felony conviction would disqualify
-  - tx gets huge solar farm
-- war
-  - 31K ukr soldiers killed since start
-- biz
-  - berkshire hathaway 97B profit, a record
-  - china plans to crush musk
-    - byd the tesla killer - quality catching up
-  - startups struggled to build cars, now struggling to sell
-  - at&t had 12 hr outage, will reimburse $5 to each customer
-  - peter thiel once offered 20 students 100k to dop out of school to start companies or non-profits
-  - more bad press for 737 max
-  - tinder deal with open ai
-  - goog pay to be shut down
-  - tech interviews out of control: potential employees getting put thru the wringer: days of unpaid work
-  - nvidia 2T valuation
-  - reddit IPO coming!  NYSE, RDDT symbol
-  - 4day work week made permanent for most UK firms in expierment (61 companies )
+  - trump orders palestenians out of gaza, usa to seize land
+  - CIA buyouts for workforce
+  - DOGE: department of government efficiency - run by elon musk
+    - controversy after it was allowed access to treasury data
+  - 56 arrested at gay sex party, indonesia
+  - sweden school shooting, 10 dead
+  - china launch anti-trust investigation on Goog as response for 10% tariff on chinese goods
+    - still has operations in china focused on advertising
+  - deepseek doesn't talk about tank man
 - culture
-  - freddie mercury to perform as hologram
-  - why netherlands so happy?
-    - "niksen" - dutch art of doing nothing
-    - go with natural rhythm.
-    - do nothing together
-    - no emotional outbursts
+  - diddy rape accusation
+  - beatles song "now and then" features john lennons' AI-restored vocals
+- health
+  - lung cancer on rise among never smokers
+  - aging spikes at 44 and 60
+  - microplastics in brians on rise
 - tech
-  - folding vehicle to change urban driving
-  - peta-bit dvd sized disk
-  - newest in cancer research - vax tailored to genetic makeup of tumor
-  - mariposa: a PL with "time travel"
-  - more links: air pollution + dementia
-  - 3 huge solar flares launched in 24 hrs
-
-- 2/22
-- war
-  - war turning in vlad's favor?
-- politics
-  - both trump and biden and trump are mentally unfit, says voters
-  - maga plan: mass deportation, detention camps
+  - 3rd type of magnetism: altermagnetism
+  - UK: self-healing road surface prevents potholes
+  - cryptomining to become AI data centers
 - biz
-  - japan stock market hits high
-  - vegas hotels, bedbugs
-  - red lobster all you can eat makes huge losses, they drop it
-  - self driving taxis suspended in LA, norcal
-  - voters vote against tesla factory expansion in landslide
-  - goog gemini struggling with image gen of historical people
-  - NVIDIA revenue up 265% - thanks AI
-  - reddit offer shares of IPO to 75k of its most active users
-  - 2 goog open LLMs: Gemma 2B Gemma 7B
-    - bioptimus: Biology AI model
-- culture
-  - complete darwin personal library available online - drawin online
-  - joker 2 - 200M movie
-  - best beaches: portugal # 1 praia de Falesia
-    - itali 2
-    - spain 3
-    - hawaii ka'anapali beach 4
-- tech
-  - chatgpt spooky insanity - slowly lost c0oherence in its long response to a pet question
-    - devolved into nonsense
-
-- 2/21
-- politics
-  - israel economy down 20%
-- culture
-  - women twice the benefits from exercise?
-- biz
-  - goog, despite profits fire more
-  - youtube the top streaming service in US, ntflx 2nd
-  - zuck, meta ambition: neural wristband for ar/vr input
-
-- 2/20
-- politics
-  - navalny was poisoned
-  - trump: USA a failing nation
-  - boris comeback in uk?
-  - biden relaxes shift to electric vehicles
-    - pressure from labor unions, automakers
-- biz
-  - "magnificent 7" profits exceed almost every country in world
-    - appl, amzn, alpha, meta, msft, nvidia, tesla
-    - fled SF, now coming back
-    - musk plans for 1M people on mars
-  - gen z work ethic: 87% don't show up for work
-    - 93% ghost interviews
-  - retirement up because of stock market boom
-  - stroke the beaver game makes hondos of thousands $4 a dl
-  - nintendo switch 2 2025
-  - vision pro cirticisms: heavy, unsmooth interface, 3500 USD
-  - cali ev sales dropping
-- culture
-  - madame web bombs
-
-- 2/19
-- politics
-  - 59 year old russian astronaut sets record for time in space
-  - earth first ever 1.5C degree temp rise
-  - winds over mid-atlantic
-    - plane speeds at 800mph
-  - putin assassination on navalny, age 47, opposition regime
-    - don stays silent
-  - argentinian poverty
-  - african mobs riot in the hague (netherlands)
-  - birth rates down in merica
-  - common problem: tech workers drive up housing prices everywhere
-  - patent office: AI cannot hold patents
-  - 2 % electricity goes to bitcoin
-  - japan offer 6 month digital nomad visa
-- biz
-  - meta stock rose 21%
-  - appl prototyping foldable clamshell iphone
-  - ali cut 20K jobs in 2023
-    - buyback of shares
-      - shareholders get cash, stocks on market reduced
-  - goog bard rebranded to gemini
-  - uber first ever profitable year
-    - stock up
-    - profit at 1B
-  - goog gives rust 1M to help c++/rust interop
-  - nvidia new business unit: custom chips
-  - angry sf mob lights waymo car on fire
-    - waymo hits biker
-  - nvidia: chat with RTX - locally installed ai chatbot
-    - jensen huang ideas:
-      - 2T can fund infra for all AI infra
-      - every country should grow its own AI
-  - two waymo robotaxis crashed, software recalled
-  - zuck: oculus quest is better than vision pro
-  - yc, y combinator seeking startups in robotics, defense, and space
-  - a 4 day workweek experiment failed in hungary
-  - world in turmoil, but stocks rally
-  - apple streaming music antitrust fine in EU
-  - reddit offers its content to train ai
-  - apple pay had downtime
-  - scandal: intel inflating benchmark results?
-  - softbank masayoshi son looking to start 100B AI chip venture
-    - own 90% arm already
-  - appl to launch copilot rival
-  - msft to retire azure IoT central (no more new subs allowed)
-  - openai cannot copyright "gpt"
-  - appl vision pros (3500usd) getting returned
-  - openai rolls out its own search to compete with goog
-  - uk official recession
-  - cisco 4000 job cuts
-  - nvidia becomes 3rd richest us company
-    - appl
-    - msft
-    - nvidia
-    - amzn
-    - goog
-  - lyft ceo accidentally publishes extra zero
-    - stocks surge fraudulently
-  - ubisoft calls skull and bones quadruple A
-  - grammarly layoffs
-  - TSMC 2nd japan plant
-  - 23andme struggling
-  - docusign lays off 440 employees
-  - hugging face: github for geeks?
-  - snap huge layoffs (10%)
-  - since nadella took over and ballmer left, msft valuation increased 10x
-- culture
-  - bafta - oppenhiemer sweeps
-  - libraries and physical books trending
-  - king charles cancer
-- tech
-  - appl pkl (pickle) - IaC language
-  - new anti-tech movement, moving from cloud back to on-prem infra
-  - "luddite" - person opposed to tech
-  - high capacity dna storage is close
-  - ocean temperatures skyrocketing
-  - japan combat space junk with wooden satellites
-  - go lang popularity up?
-  - NASA recruiting for "living on mars" simulated experiment
-  - water found on asteroid
-  - nginx core developer quits project, cites not being FOSS anymore
-  - openai new thing: sora: ai video
-    - prompts to video
-  - goog ai model gemini 1.5 pro handles longer text and video
-  - radical techniques to cool the planet:
-    - reflective particles injected to atmosphere
-    - saltwater into clouds
-    - dumping chems into ocean
-  - asahi linux: linux on macs
-  - aapl keyframer: animating still images
-  - more open ai aspirations: device take-over aka agents
-  - PQCA formed: post quantum cryptography alliance
-  - usb sticks, microsd cards declining in quality
-  - in low gravity environments, cells under greater stress, cancer progresses more quickly - good for cancer research
-  - functioning brain tissue 3d printed
+  - USPS halts packages from china due to trumps' decision to eliminate a law
+  - goog removes pledge to not use AI for weapons
+  - amazon physical stores seem to not be working
+  - (GM) cruise to cut workforce by 50% - funding to robotaxi cut
+  - panasonic cut costs - shift to AI
+  - americans no longer job-hopping
+    - post-pandemic job switching frenzy over
+  - chris anderson (TED) giving company away
+  - salesforce cuts 1000 roles when hiring salespeople for AI
+  - meta investment in VR: 100B
+  - OpenAI next thing: "deep research"
+    - multi-step research
+  - NVIDIA stock dropped 600B on monday?
+    - blogger sparked a short sell?
