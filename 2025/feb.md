@@ -11,6 +11,8 @@
   - china launch anti-trust investigation on Goog as response for 10% tariff on chinese goods
     - still has operations in china focused on advertising
   - deepseek doesn't talk about tank man
+  - taiwan urges gov not to use deepseek
+    - italy blocks
 - culture
   - diddy rape accusation
   - beatles song "now and then" features john lennons' AI-restored vocals
@@ -18,10 +20,12 @@
   - lung cancer on rise among never smokers
   - aging spikes at 44 and 60
   - microplastics in brians on rise
+  - new pain pill without opioid side effects
 - tech
   - 3rd type of magnetism: altermagnetism
   - UK: self-healing road surface prevents potholes
   - cryptomining to become AI data centers
+  - world's largest solar power plant (ivanpah) may shut down
 - biz
   - USPS halts packages from china due to trumps' decision to eliminate a law
   - goog removes pledge to not use AI for weapons
@@ -37,3 +41,10 @@
     - multi-step research
   - NVIDIA stock dropped 600B on monday?
     - blogger sparked a short sell?
+  - deepseek used 10K A100 nvidia GPUs
+  - deepseek passes meta and mistral in open-source ai model race
+    - mistral is france
+  - appl record-breaking quarter: 124B revenue, 36.3B profit
+  - "voluntary exit" offered for goog employees working on pixel, android
+  - softbank may invest 25B in OAI
+  - waymo expand test to 10 new cities
