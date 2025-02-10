@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 2/10
+- culture
+  - superbowl eagles beat chiefs 40 - 22
+    - taylor swift booed
+    - trump walked out
+    - kendrick lamar halftime
+  - bill gates writes about acid trip experiences
+   - smoked pot in high school
+- politics
+  - china retalitory triffs on american goods
+  - no more pennies from mint
+  - el salvador votes to revoke bitcoin as legal currency
+- biz
+  - IT unemployment rises to 5.7%
+  - VW cheap EV to compete with china - plans
+  - oops: deepseek ios app sends uncreypted data to bytedance-controlled  servers
+  - PSN major outage
+- tech
+  - linux kernel devs react positively to rust
+  - c++ unveils "profiles" for resource and type safety
+  - quantum teleportation performed 2 meters apart in computing
+
 - 2/5
 - politics
   - trump orders palestenians out of gaza, usa to seize land
