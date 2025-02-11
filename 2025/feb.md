@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 2/11
+- culture
+  - tom cruise "unrecognizable face" as seen in superbowl ad
+    - puffy, sagging
+    - looked normal in mission impossible trailer
+- politics
+  - more young men in germany turning to far right
+    - asylum seeker violent crimes
+  - macron: france not in AI race today, pledges investment 112B
+- biz
+  - bmw invests in ... internal combusion (and hybrid)
+  - byd adds "high level" self driving to budget 10K ev
+  - jeep popup ads when you stop
+- tech
+  - brave browser: inject js to tweak websites
+    - custom scriptlets
+  - paper: AI makes human cognition "atrophied and unprepared"
+
 - 2/10
 - culture
   - superbowl eagles beat chiefs 40 - 22
