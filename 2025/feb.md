@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+- 2/12
+- politics
+  - musk vs altman?
+    - altman: "i don't think he's a happy person"
+    - musk offered 97B for OpenAI
+  - stunning pattern of suicides in Marines drill instructors
+  - bannon joins trump in status as felon
+  - american teacher detained in russia for 14 years in prison for having small amt of medical cannibis in luggage
+  - EU threatens trade war responding to donalds' tariffs
+  - islamic state regroups in somalia
+  - egg rationing starts due to avian flu
+- culture
+  - 93% gen z uses ai at work
+  - ne zha 2 hits 1B, first non-hollywood film
+    - passes wolf warrior 2
+- biz
+  - msft working on us army AR goggles, hands over management and manufacturing to Anduril
+  - Meta eliminating jobs in shift to ai
+
 - 2/11
 - culture
   - tom cruise "unrecognizable face" as seen in superbowl ad
