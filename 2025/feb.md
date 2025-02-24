@@ -1,5 +1,49 @@
 [Back](./index.md)
 
+- 2/24
+- politics
+  - german conservatives win election
+    - right Friedrich Mertz may replace left Olaf Scholz
+    - far right AfD - alice weidel 2nd place finish
+  - pope in critical health
+  - open ai bans chinese accnts using cgpt to edit code for social media surveillance
+  - protests against AGI already starting
+  - malaysia to try to boost economy with data centers
+  - france fusion runs for 22 minutes
+- biz
+  - msft notepad ai rewrite feature gets paywalled
+  - MSFT quantum computing chip, Majorana 1
+    - 8 qubits (indium arsenide) as semiconductor, aluminum as superconductor
+  - nikola bankruptcy
+  - AMZN disable ebook downloads
+  - cheaper and safer EV batteries
+    - LFP - lithium iron phosphate
+    - NMC - nickel manganese cobalt currently common
+  - AMZN pays 1B for control of james bond IP
+    - AMZN MGM
+  - MSFT Muse AI model for game dev gets backlash
+  - mark zuck shows up in gold chains
+  - asus into fragrant devices: aromatic mouse
+  - openai to shift computing needs from MSFT to Softbank (-backed stargate)
+  - deepseek shares some of its model code
+  - 5 year low for software engineering jobs
+  - ntflx 1B investment in mexico - produce films and tv series in mx
+  - ios visual intelligence camera feature, 18.4 in april
+  - chatgpt 400M active users (weekly)
+  - AMZN surpass walmart, revenue, first time ever
+  - chinese ev companies betting big on humanoid robots
+- culture
+  - india math human calculator kid, aaryan shukla
+    - adding 100 4-digit numbers - 30.9 seconds
+- tech
+  - robot umpires in MLB
+  - richard dawkins thinks chatgpt passes the turing test
+  - musk recommends taking down the ISS
+  - X-37B "space plane" has first ever picture taken in orbit
+  - 2 cm seal level rise this century due to melting glaciers
+  - scented products - as much indoor air pollution as car exhaust?
+    - incl: flame-free candles
+
 - 2/12
 - politics
   - musk vs altman?
