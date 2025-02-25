@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 2/25
+- politics
+  - video of trump kissing musk feet plays on govt screens
+  - nazi salute is back
+  - right to repair hits all 50 states
+- biz
+  - nederlands startup "firm bird" to leave EU
+    - cloud comms
+  - perplexity AI web browser: Comet
+  - Salesforce not hiring software engi in 2025,
+  - duolinguo fired 1000s of sw jobs
+    - shifting to ai specific roles
+  - gmail drop SMS auth, add qr codes
+  - appl to hire 20K, 500B investment
+    - because of trump tariffs
+- culture
+  - 2 week smartphone break = feel better
+- tech
+  - aging "master switch" protein discovered
+  - anthropic first "hybrid reasoning" AI model
+    - claude 3.7
+
+
 - 2/24
 - politics
   - german conservatives win election
