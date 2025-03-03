@@ -1,307 +1,48 @@
 [back](./index.md)
 
-3/27
+- 3/3
 - culture
-  - euphoria season 3 may not happen?
-- biz
-  - emirates CEO: boeing needs an engineer as new leader
-  - dell workforce cuts
-  - reddit now public may need more content moderation
-  - msft strategy change: surface and windows get new boss
-- tech
-  - AI make beer taste better?
-  - prediction for UK: ai will suck up 500% more power in 10 yrs
-
-3/26
-- politics
-  - diddy seems fucked
-    - sex traffiking
-    - extradited from private island
-  - trump seeks bond from donors
-  - putin "radical islamists behind moscow attack"
-    - was it inside job?
-  - name refresher: Maduro, venezuela - opposed by 80 y/o grandmother
-  - tennessee first state to protect musicians against AI
-    - protected from unauthorized ai impersonation
-  - china bans intel and AMD in gov computers
-  - TX fights back against xHamster and chaturbate
-  - E-waste the next political problem for UN
-- culture
-  - 25 years since matrix !
-  - 3BP gets mixed reviews - china upset over first scene
-  - CS majors grew a lot
-- biz
-  - stability AI ceo, Emad Mostaque  - resigns
-    - laments difficulty of competing with centralized AI
-  - not suprising: beoing gets leadership shakeup
-  - new biz model for publishers:
-    - small staff, offload to network of freelancers
-    - offer higher % of profits instead of advances
-  - github yet another ai tool: "AI Autofixer"
-  - higher temps mean higher food prices
-  - reddit IPO 34 a share
-  - neuralink - brain-chip patient plays chess and civ6 using his mind
-- tech
-  - ubuntu linux LTS will get 12 yrs of support
-  - due to AI, land near nuclear power plants becomes hot real estate
-  - DuckDB: analytical DB, natively read and parse json as db table using sql
-  - "cloud geoengineering" - use clouds to combat global warming
-  - apple draws anger for making their cURL different from Linux
-    - something about flag -cacert behavior not consistent
-  - android 15 to get satellite messaging
-
-3/21
-- politics
-  - ww3 watch - us troops taiwan on china border
-    - testing hypersonic missles
-    - 32 chinese warplanes around taiwan
-- biz
-  - intel to expand hugely (100B) in 4 us states, ohio, new mex, oregon, arizona
-  - fitbit is google's (acquired in 2021)
-  - Airbus CEO laments boeing's problems as bad for entire industry
-  - nvidia partner with ubisoft for ai npcs
-  - open ai chatbot store already filling with spam
-- tech
-  - parkinsons detection thru skin
-  - physicist: universe actually has no dark matter
-
-3/20
-- politics
-  - stormy daniels fears trump assassination
-  - USA happiness ranking falls out of top 20
-    - finland # 1 for 7th year
-  - joe's stock market performance passes don's
-  - el salvador loving bitcoin right now
-  - 99 worst polluted cities all in asia
-  - bolsonario fraud
-  - S. africa has "white only" towns
-  - Saudi Arabia 40B push into AI
-- biz
-  - uber-style pricing coming for everything (surge pricing)
-  - sleep vacation, sleep tourism - hotels targeted towards sleep - masks, ear pugs, herbal teas, sleep cocoons, hyno
-    - silk hammocks, meditation pods
-- tech
-  - 7 countries meet WHO air quality standard - aus, estonia, finland, grenada, iceland, NZ
-  - jensen: AGI (general intelligence) 5 years away
-    - aka strong ai, full ai, human level ai
-
-3/19
-- politics
-  - trump fails to get bond to cover 454M to stave off seizure of assets
-    - is he broke?
-  - more unrest in haiti
-    - mad-max like environment
-  - global ocean heat just keeps breaking records
-  - indiana becomes 9th state to make CS a HS requirement
-  - havana syndrome patients didn't show any brain abnormalities, 5 year study
+  - oscars
+    - anora gets best picture
+      - about a stripclub
+    - adrian brody the brutalist best actor
+    - mikey madison best actress
+    - best animated film: flow(beats pixar IO2) - made with blender
+      - blender is FOSS
+  - kanye craziness: swastika shirt, nazi salutes
+  - musicians release silent album to protest ai gen music
 - health
-  - fasting linked to heart attacks and strokes?
-- culture
-  - next bond could be Aaron taylor johnson?
-- biz
-  - hertz did really bad with EVs, got CEO to quit
-  - tesla no longer invincible?
-  - oops: bank of ethiopia glitch.  lets customers withdraw millions
-  - most powerful chip ever for AI: Nvidia Blackwell B200
-  - games to linkedin
-  - google VLOGGER - ai that animates photos
+  - texas measels cases
+- politics
+  - geothermal the next big green energy source?
+  - eu nightmare: trump takes us out of the war
+  - south carolina burns
+    - while trump golfs
+  - usa withdraw from nato: musk supports
+  - utah may ban flouride in water
+  - japan 4 day workweek to shed "oldest population" title
 - tech
-  - ai-generated science: a growing issue
-
-
-3/18
-- politics
-  - great resignation hits government too
-  - oregon's decriminalization plan failed
-  - minneapolis minimum wage 15.57 / hr
-  - CIA used chinese social media in campaign against XJP
-- culture
-  - christian club: smoking drinking banned, plays christian music
-  - "phone based childhoods"
+  - Ice as batteries: efficient cooling
+  - petawatt elecdtron beam aka laser
+    - new possibilities - split atoms
+  - anti-aging pill for dogs?
+    - from startup Loyal
+  - china developing mars drone that can roll and fly
+  - chinese robot first to front-flip
+  - gemini code assist now free
 - biz
-  - nvidia acquires run:ai
-  - appl may let gemini (goog) power its phone ai
-  - boeing drama: whistleblower found dead of suicide
-  - has AI ruined Etsy? (vintage and handmade marketplace)
-  - tech layoffs highest since dot com crash
-  - Tim Cook settles for 490M in fraud case
-- tech
-  - DBOS - database based os
-  - Helium-3 mining on the moon
-  - caffeine in fuel cells (more efficient?)
-  - undersea cable damaged, africa has internet outages
-
-3/14
-
-- politics
-  - don lemon, just before his firing, asked musk about his ketamine use
-- culture
-  - playing with dogs improves mood and mental sharpness
-- biz
-  - ageism in tech is a thing
-  - waymo robotaxi in austin by year end
-  - spotify for youtube for music video dominance
-  - spacex to use e-band (extreme high freq) radio waves to boost starlink broadband
-- health
-  - young people getting cancer: why?
-- tech
-  - even mexican catel using AI
-  - openai sora text to video generator will be public later this year
-  - deepmind plays goat simulator
-
-3/13
-- politics
-  - steph curry for prez?
-  - lab-grown meat ban
-  - china working on largest high-speed rail network on earth, using AI to process info of abnormal situations - 95% accuracy
-  - china dominating world in solar energy
-- culture
-  - tanning is in?
-  - new social media generation enamored by hitler?
-  - college courses teach "joy" - can happiness be learned?
-- war
-  - "jamming" electronic warefare on ukr battlefields
-- biz
-  - goog paid 10M in bug bounties last year
-  - intel 2.5B grant from pentagon gone
-  - yandex cofounder arkady volozh - unbanned by europe
-  - aapl for car project made chip equivalent to 4 M2 ultras
-  - more boeing woes: 737 Max audit - FAA found lots of issues
-  - report: subscription apps dont actually make money
-  - stratolaunch, from MSFT cofounder paul allen, launches world's largest aircraft, goes supersonic
-
-3/12
-- culture
-  - oppenheimer gets lots of oscars
-  - hawaii gets its first gruesome crime in 25 years: murder suicide of family
-  - tyson vs jake paul?
-- politics
-  - trump had praise for hitler
-  - blacks and hispanics shifting right
-  - us botany: - "timebomb weed" - wrecks havoc on local ecology after dormant period
-  - trade war: chinese tesla and appl sales down
-    - instructions: ditch western
-    - delete america from own tech
-    - threat from US: sell off tiktok or face ban
-  - port-au-prince, haiti capital - controlled by armed gangs
-  - history leaded gasoline gave about half of america brain damage
-  - warmest february ever
-  - petitions vs AI Bioweapons
-  - amid us AI war against china, china feeds 27B into chip industry
-  - power shortage predicted in America
-- war
-  - new red scare in america
-- biz
-  - boeing more issues: 50 injured on "strong movement" in flight on 787-9
-    - MH370 10 yeas later - still not found
-  - consumer's driving behavior shared with insurance companies by automakers
-  - midjourney and stability AI are rivals
-    - stability AI employees banned from using MJ
-  - another Musk startup: xAI - spinoff of X (twitter) - chatbot Grok - to be open source
-  - reddit considered a Junk Stock IPO?
-  - Canonical (Ubuntu) turns 20
-  - Rivian (EV, amazon backed) has a surge in stock price - cheap new suv
-  - Palantir now doing AI: gets US Army contract
-  - irony: goog new AI office has spotty wi-fi
-  - futility: Astra (rocket startup) stated with 2.1B valuation, now valued at 13M
-    - 2 successful launches out of 7 attempts
-  - EA games: "AI will make us 30% more efficient"
-- tech
-  - edit genes in vitro?
-  - french gov cyberattacked
-  - surgeons use Apple Vision po to perform first surgery
-  - linux 6.9 sets record for # of git objects, over 10M
-  - Geology: we are in the Holocene, time for a new geologic time: the Anthropocene?
-  - MIT: fusion feasibility has been proven
-  - linux mint (ubuntu based) has HexChat
-    - creating Jargonaut to replace it - it's a chat room, not a chat bot
-  - danger of "losing science" - publishers may go bankrupt
-  - chrome up to 124 - PWA (progressive web apps) turn website into app
-  - "AI prompt engineering is dead"?
-    - ai better than humans at it
-  - teachers like cgpt for grading
-
-3/7
-- politics
-  - nikki haley out of the republican race - only trump is left
-  - ny, ca, tx all want to secede from the US (25%)
-  - chinese goog engineer faces 10 yrs 250K fine for stealing trade secrets related to AI
-- biz
-  - tesla drops out of top 10
-    - may lose money this year
-  - job relocations due to rising temps
-  - iphone down in china, hwawei way up
-  - jp morgan AI model cut manual work by 90%
-  - AMZN 650M nuke powered Data center
-- health
-  - lofty goals: 10000 steps a day etend life
-
-3/6
-- politics
-  - musk may financially back trump
-  - mark cuban backs biden
-  - haiti cannibalism
-  - child sex dolls for pedophiles, mulls KY lawmaker
-- biz
-  - tesla stock down -30% since JAN
-    - troubles in German factory
-  - btc breaks record at 69K then tumbles 10%
-- culture
-  - new A24 movie: "civil war"
-  - haha bankok prostitutes brawling over turf war
-  - "screentime" robs toddlers of hearing 1000 words spoken by adults each day
-- tech
-  - reasons why linux desktop is growing:
-    - msft not interested in windows anymore, but rather win 365 cloud
-    - linux gaming gorwing thanks to steam
-    - easy to use some distros (linux mint)
-    - easy to find and install
-    - india
-
-
-3/5
-- politics
-  - more senility from trump - slurring speech, brain freeze
-  - clinton may run in 3rd "no label" party
-  - homeless man tries to steal waymo taxi - gets charged for GTA
-- culture
-  - bezos passes musk again for world's richest
-  - glue traps getting banned - starvation, dehydation, aspyhxiation, blood loss - chew off own limbs to get free
-  - people having less sex
-- biz
-  - qualcomm app store for AI
-  - AAPL new macbook air - m3 chip
-- tech
-  - tabloid fodder?  EV more toxic than gas cars?
-  - anthropic more powerful than chatgpt?
-  - linux desktop market share passes 4%
-
--3/4
-- politics
-  - same old same old at primaries: trump vs biden
-  - us terror threat high
-  - tx fires
-  - 1 B obese in the world
-  - record carbon emissions
-- health
-  - anxiety drug deaths up
-- biz
-  - winklevoss twins' gemini (crypto) will payout 1B to customers who lost in their investments
-  - github dealing with malicious repos
-  - elon musk sues openai for breaching its non-profit altruistic principles
-  - winding down startups is a business
-  - bitcoin wild rally
-  - reddit ipo
-  - huawei new cpu rivals zen3(AMD)
-  - yelp: remote work first policy boosted job applications 43%, improved worker morale
-  - IBM asked for layoff volunteers
-  - stackoverflow to charge for using its content to  train LLMS?
-  - rockstar games return to office (5 days a week)
-  - appl cancels its electric car
-  - tumblr and wordpress are planning on selling user data to midjourney and gpt
-  - Playstation cutting 900 jobs
-  - bezos, nvidia, openai to invest in humanoid robot startup
-- tech
-  - huge helium discovery in n. america
-  - starcoder - new code-generating AI
-  - intel plans 1nm process
+  - tesla launch an uber competitor?
+  - autodesk cuts 1350 jobs, invest in ai
+  - salesforce ceo: marc benioff - freeze hiring this year
+  - openAI integrate sora's video generator into CGPT
+    - sora also OAI
+  - intel 28B ohio chip factory delayed, to 2030
+  - sergey brin: every weekday come to office, 60/week optimal
+    - leading Gemini
+  - msft shutdown skype, shift to teams
+  - chatgpt 4.5: 200/month subscription
+  - amzn quantum computing chip: Ocelot
+  - jensen: AI must do 100x more computing to do reasoning
+  - satya: "ai value will come with a breakthrough app"
+  - amzn alexa revamped with genai
+  - deepseek wants to push its R1 to R2 release
