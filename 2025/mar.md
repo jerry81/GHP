@@ -1,5 +1,31 @@
 [back](./index.md)
 
+- 3/5
+- politics
+  - stocks down
+  - measels spreads to 9 states
+  - doge staffers get 6 fig salaries
+  - USA stop cyberops against russia
+  - britain: energy shortages, affordability crises
+    - anti-growth restrictive policies
+  - cn: nuke fusion power by 2050
+- culture
+  - "cali sober" - no booze, but drugs
+- health
+  - swearing linked to increased strength/pain tolerance
+  - try too hard to be happy = miserable
+- biz
+  - mba grads struggling to land jobs
+  - TCL passes LG as 2nd largest TV market
+    - 1 samsung
+  - aapl ipad air with m3
+  - tsmc 100B investment us chip facilities
+  - call centers to use AI to 'whiten' indian accents
+- tech
+  - driverless car sets new speed record: 197.7 mph
+  - fork of c, TrapC try to fix mem safety issues
+
+
 - 3/3
 - culture
   - oscars
