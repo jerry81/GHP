@@ -1,5 +1,20 @@
 [back](./index.md)
 
+- 3/6
+- biz
+  - only 77K jobs created in february
+  - AMZN prime tries AI dubbing
+  - GOOG search adds "AI mode"
+  - openAI to charge 20K a month for phd level ai agents
+  - macbook air with m4 to be just 999 USD
+  - cortical labs: bio-AI - merge brain cells and silicon hardware
+- culture
+  - elon uses ketamine
+- politics
+  - tesla sales down in germany due to musk meddling
+- health
+  - aspirin anti cancer?
+
 - 3/5
 - politics
   - stocks down
