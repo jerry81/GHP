@@ -1,5 +1,47 @@
 [back](./index.md)
 
+- 3/17
+- pollitics
+  - mississippi tornadoes kill 32
+  - country of cuba power outage
+  - wind and solar overtakes coal in US
+  - trump really hates nasa, eliminates chief sci position
+- biz
+  - "made in russia" the new craze in china
+  - Cali startup sells injectable cannabis
+  - intel stock jumped 18.8%
+    - still down 53% on the year
+    - TSMC may join up to operate intel factories
+  - zillow with option for fully remote work, has been a success
+    - seattle based
+    - real estate, apt, mortgages company
+  - oracle in talks to run tiktok
+  - space x mission to mars launch nxt year
+  - msft porting TS to go
+  - anthropic ceo trolling?  give AI "quit job" option
+  - new intel ceo lip-bu tan 陈立武
+  - irobot may shut down in 12 months
+  - Hugging face guy: AI isn't creating new knowledge
+- culture
+  - 4:30 is the new 5:00 (workday more efficient)
+  - professor: "i used to teach students.  now i catch cgpt cheats"
+- tech
+  - codon, the python compiler
+  - ocean levels 30 yr high
+  - cursor AI stopped generating code, instead offered career advice
+    - "vibe coding" ai tools gen code without understsanding how it works
+  - man survives with titanium heart, 100 days
+  - goog open source ai model Gemma 3: comparable to DeepSeek
+    - gemini robotics from deepmind
+  - tech challenge: extract data from PDF: since pdf is a picture, requires OCR
+
+- 3/10
+- politics
+  - molitovs and gunfire at tesla lots due to anger at musk
+  - measels cases in 12 states, cases up
+  - syria violence: Assad toppled by islamist group HTS: Havat Tahrir al-Sham
+    - 745 civs killed
+
 - 3/6
 - biz
   - only 77K jobs created in february
