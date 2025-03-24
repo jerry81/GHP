@@ -1,5 +1,43 @@
 [back](./index.md)
 
+- 3/24
+- politics
+  - don 2.0 not great for business?
+  - don fighting with courts to expand power
+  - texas food bank cuts - now relying on donors
+  - bernie still going
+  - SF mayor dealing with crime and homelessness
+  - hungary wants to ban pride events
+  - china limit EV and battery exports in response to US Tariff
+  - AP cybersecurity course now launched
+  - france rejects gov backdoor for cellphones
+  - friday should be new saturday!
+- culture
+  - snow white doesn't open well
+- biz
+  - paragon - israeli spyware software for cellphone
+    - aus, can, cyprus, den, israel, sg interested
+  - ai researchers: tech industry pouring Bs into dead end
+  - programming jobs down 27.5% 2 years
+  - meta working on AI generated comment suggestions
+  - huang: quantum will be here in 15 years
+  - appl trying to save siri, shakes up exec ranks
+  - openai o1-pro most expensive model yet - 150 per million tokens (750k words)
+  - NVIDIA Gr00T N1 - open-source pre-trained, yet customizable model for humanoid robots
+  - GM work with Nvidia boost self-driving projects
+  - zuck: meta llama 1B downloads
+  - biggest alphabet acquisition: wiz (security startup) 32B
+  - Y combinator CEO: vibe coding lets 10 engis do work of team of 50 to 100
+  - byd super-charging ev tech
+  - huawei must pivot to linux/harmony as windows license expires
+  - harvard free tuition fams income less than 200K
+  - alphabet startup Taara: laser transmition of data - 20Gb over 20 KM using light beams
+- tech
+  - black hole found in our galaxy
+  - bacteria reengineered to produce plastics
+  -= "deep-brain" stimulation to treat parkinsons
+  - heat age you as fast as smoking
+
 - 3/17
 - pollitics
   - mississippi tornadoes kill 32
