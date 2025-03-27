@@ -1,5 +1,60 @@
 [back](./index.md)
 
+- 3/27
+- politics
+  - Pete Hegseth - defense secretary
+    - leaked plans of imminent military strike against Houthi (yemen) miltants
+    - calls for his resignation - sensitive military info
+    - was he drunk?
+  - journalist: incompetent and evil administration
+  - autocracies outnumber democracies globally
+  - usa and iran poised for war
+  - facial recog cams go up in london
+  - phx, already gets 100-degree day
+  - brazil current pres
+    - luiz inacio Lula da Silva
+  - china "engineer dividend" - large increase of engis: 5.2M to 17.7M
+    - 40% HS grads go to uni, 10% in 2000
+  - china deep-sea cable cutting device
+- biz
+  - mistral: AI will affect GDP of every country by double digits
+    - authur mensch
+  - gates: in 10 years, humans not needed for most things
+    - only 3 remaining jobs
+      - coders
+      - energy experts
+      - biologists
+  - jp morgan trying to use quantum to generate "truly random" numbers
+  - fidelity stablecoin
+    - stablecoin: crypto with relatively stable price - pegged to commodity or currency
+  - dell staff dropped 25K in 2 yrs
+  - msft shrinking data center ops
+  - job switching not worthwhile right now
+  - bottleneck in medicine: lack of human bodies for testing
+    - grow "bodyoids" from stem cells, cannot feel pain
+  - amd ceo lisa su
+    - Radeon RX 9000 most successful gpu ever
+  - blizzard wow servers DDos attacked, rolls back hardcore deaths
+  - Ali's joe tsai - Data center Bubble
+  - napster still around, sold 207M
+  - SAP now EU largest company
+  - samsung ceo han jong-hee dead, 63
+  - 2 in 5 tech workers quit over inflexible workspace policies and WFH
+  - 23andMe bankruptcy - dna of 15M to be sold?
+- culture
+  - mel gibson passion of christ sequel
+  - metal braces make comeback
+  - 4M genz unemployed
+    - 1990 - 2000
+  - biz school in again
+- tech
+  - AI crawlers dominate traffic
+    - forcing anti DDoS to act up
+  - altman: AI -> less SW engineers
+  - AI history: alexnet in 2012 was a jump in image recog, now opensource
+  - medical challenge: precise way to measure pain - sweat, pupil dilation, blood endometriosis pain - interstital fluid
+  - linux kernel 6.14
+
 - 3/24
 - politics
   - don 2.0 not great for business?
