@@ -8,7 +8,14 @@
   - CN already testing ai powered humanoid robots in factories
   - passenger lost cell phone causes plane to turn around
     - overheating fears
+  - DOGE to rewrite SSA codebase (social security)
+    - 60M lines of cobol -> java or something
+  - toxic polyflouroalkyl substances in drinking water in us
+  - trump made disruptions to science - 75% scientists contemplate leaving USA
 - biz
+  - nvidia gtx 5090 coming
+  - tencent and ubisoft game partnership
+  - softbank pledge 1T in AI effort in USA?
   - stocks to have worse days ahead
   - MSFT about to turn 50
   - samsung ai fridge: display foods on screen with internal sensors
@@ -16,9 +23,16 @@
   - reddit stock down 50%, but up 200% since ipo in 3/2024
   - businesses that are transforming (obsolete) - media, image/making
     - pro photographers replaced by 20 year old kids who do jobs
+  - musk: xAI company acquires X in all-stock transaction
+    - xAI: 80B
+    - X 33B
+  - trump pardons nikola EV startup - trevor milton
+  - ibm jobs heading to india
+  - openai gpus are melting, limits image gen requests
 - culture
   - arnold haro, crypto gambler shoots self on screen, turns into meme coin
 - tech
+  - current ios and macos sequioa riddled with bugs
   - text messaging has a protocol: XMPP - xtensible messaging and presence protocol
   - power from earth's rotation?
     - angular kinetic energy
@@ -26,6 +40,7 @@
     - therabot from dourtmouth college
     - mental health care gap
   - martian dust harmful to health?
+  - anthropic: breakthru in CLT: cross-layer transcoder - map processing info internally
 
 - 3/27
 - politics
