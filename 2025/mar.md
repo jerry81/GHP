@@ -1,5 +1,32 @@
 [back](./index.md)
 
+- 3/31
+- politics
+  - trump 'angry and pissed' at putin
+  - musk fox interviews
+  - myanmar deadly quake, 1600 dead
+  - CN already testing ai powered humanoid robots in factories
+  - passenger lost cell phone causes plane to turn around
+    - overheating fears
+- biz
+  - stocks to have worse days ahead
+  - MSFT about to turn 50
+  - samsung ai fridge: display foods on screen with internal sensors
+  - aptera: solar EV - first 300 Mi trip on highway
+  - reddit stock down 50%, but up 200% since ipo in 3/2024
+  - businesses that are transforming (obsolete) - media, image/making
+    - pro photographers replaced by 20 year old kids who do jobs
+- culture
+  - arnold haro, crypto gambler shoots self on screen, turns into meme coin
+- tech
+  - text messaging has a protocol: XMPP - xtensible messaging and presence protocol
+  - power from earth's rotation?
+    - angular kinetic energy
+  - Gen AI therapy bot for depression
+    - therabot from dourtmouth college
+    - mental health care gap
+  - martian dust harmful to health?
+
 - 3/27
 - politics
   - Pete Hegseth - defense secretary
