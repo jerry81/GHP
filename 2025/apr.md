@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 4/9
+- politics
+  - stocks continue plunge
+  - china mad at jd vance for saying "peasant economy"
+  - clean energy at 40% globally
+  - UK: murder prediction tool in works
+  - china biotech moving fast
+  - USA ai lead shrinking
+  - china reciprocates tariffs (34%)
+- culture
+  - manhattan steinway tower - skinniest in world
+  - dubai airport named best for food
+    - atl best in usa
+- biz
+  - wrt AI, enterprises choosing DIY over vendors
+  - MSFT cancels ohio data center plans
+  - meta cheated on AI benchmarks
+  - bluesky - alternative for X
+  - tinder ai bots to help with flirtingskills
+  - zach yadegari
+    - Cal AI - take photo of your food, app logs calories for you
+- tech
+  - fusion 4x power of fission
+  - midjourney new version
+
 - 4/2
 - politics
   - wisconsin votes liberal to its supreme court
