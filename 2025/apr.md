@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+- 4/10
+- politics
+  - trump approval at 41%
+  - china calls on world to unite against trump tyranny
+  - trump delays some tariffs
+  - dow up again
+    - insider trading?
+  - us may attack iran
+  - zelensky: chinese soldiers on RU frontlines?
+    - 2 were detained
+  - birth rates worldwide down
+  - china tariff on us goods: 84%
+- culture
+  - mushrooms brain food?
+- biz
+  - wordpress ai sitebuilder
+
 - 4/9
 - politics
   - stocks continue plunge
