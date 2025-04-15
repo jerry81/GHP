@@ -1,5 +1,50 @@
 [Back](./index.md)
 
+- 4/15
+- politics
+  - cn stops rare earth exports 稀土元素
+    - us industry hurt
+    - xi got the better cards?
+  - hungary bans gay events
+  - trust in dollar down
+  - DOJ shuts down crypto fraud unit
+  - germany ubi experiment doesn't encourage unemployment
+    - 1200 euro per month
+  - france mobile phone ban in middle schools
+  - china us import tariffs now 125%
+- culture
+  - sf mayor: vibe shift is real
+  - "perfect day":
+    - 6 h family
+    - 2 h friends
+    - 1.5 h socializing
+    - 2 h exercise
+    - 1 h eating/drinking
+    - 6 h work
+    - 1 h tv
+    - 15 min commute
+  - Ulyssia:  luxury superyacht - longer than titanic
+    - target audience, billionaires
+    - "apartments" at 10m
+    - 7 restaurants, gym, spa, salon, bar, nightclub, tennis courts, dentist, medical
+    - euro tourism to US plunges
+- health
+  - yawning actually dangerous?
+    - sign of sleep deficit
+  - covid speed brain decline?
+- biz
+  - intel selling stake in altera (programmable chip) to fund other things
+  - fb marketplace is its dominant feature now
+    - so it's just craigslist now
+  - data center energy usage to double by 2030
+  - meta movie mate: use phone app in theatres while watching
+- tech
+  - bay area crosswalks hacked: deepfake-style messages from tech billionaires played
+  - openai: gpt-4.1 is coding-focused, obsoletes 4.5
+  - nvidia ai supercomputers in us
+  - electric racecar drives upside down (designed to create downforce)
+  - certbot gets 6 day certs
+
 - 4/10
 - politics
   - trump approval at 41%
