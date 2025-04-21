@@ -25,6 +25,11 @@
   - openai Codex CLI: coding tool for terminals
     - o3, o4-mini - new ai models "think with images" during reasoning process
   - separate goog country domains obsolete
+  - figma files for IPO, adobe deal not happening
+    - adobe was going to buy for 20B
+    - also trademarked term "dev mode"
+  - openai build social network
+  - china robotaxis get "black boxes" from government
 - tech
   - bees disappearing again (NA)
   - saltwater and iron oxide to make iron
@@ -39,6 +44,9 @@
   - chat gpt good at geo-guessing (guessing location of pictures)
   - msft outlook - known issue: resource hog
   - biggest piece of lab meat gorwn: chicken nugget sized
+  - Andean Medjedovic - 18 year old math whiz steals cryptocurrency, on run, defends self with "code is law"
+  - cts cause 100K new cancer cases each year
+    - ionizing radiation
 
 - 4/15
 - politics
