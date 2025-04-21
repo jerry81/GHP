@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+- 4/21
+- politics
+ - FBI chief: Kash Patel
+   - likes the spotlight, goes to sporting events
+ - UAE to use AI to write laws
+- culture
+  - beckham 50 years old
+  - coachella very pro palestine
+  - katy perry: hated
+- biz
+  - airbus hydropower plane not doing well
+  - bans could lead to nvidia's china AI chip market to be taken over by huawei
+- tech
+  - bees disappearing again (NA)
+  - saltwater and iron oxide to make iron
+    - could reduce carbon emissions greatly (all cars combined)
+
 - 4/15
 - politics
   - cn stops rare earth exports 稀土元素
