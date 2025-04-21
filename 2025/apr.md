@@ -5,6 +5,10 @@
  - FBI chief: Kash Patel
    - likes the spotlight, goes to sporting events
  - UAE to use AI to write laws
+ - trump halts 5B NY offshore wind project
+ - "bot students" - fake students that siphon financial aid from colleges
+ - china bans advertising terms: "smart" and "autonomous" driving terms
+   - due to Xiaomi SU7 sedan fatal accident
 - culture
   - beckham 50 years old
   - coachella very pro palestine
@@ -12,10 +16,29 @@
 - biz
   - airbus hydropower plane not doing well
   - bans could lead to nvidia's china AI chip market to be taken over by huawei
+  - ntflx price hike leads to 13% increase of revenue (10.5B)
+  - toothpaste often contaminated with heavy metals (arsenic, lead, mercury, cadnium)
+  - zoom downtime due to godaddy registry error
+  - MSFT bitnet - 1-bit ai model with 2B params - runs efficinetly on CPUs
+  - india it services giants slow down
+  - openai eats windsurf (coding assistant)
+  - openai Codex CLI: coding tool for terminals
+    - o3, o4-mini - new ai models "think with images" during reasoning process
+  - separate goog country domains obsolete
 - tech
   - bees disappearing again (NA)
   - saltwater and iron oxide to make iron
     - could reduce carbon emissions greatly (all cars combined)
+  - ai to benefit cancer/aging research
+  - valkey: open source redis
+  - 15% cropland polluted with toxic metals
+  - china develops flash memory 10K x faster
+  - openai newest models hallucination rates rising
+  - climate change may lead to high arsenic in rice
+    - carcinogenic toxin
+  - chat gpt good at geo-guessing (guessing location of pictures)
+  - msft outlook - known issue: resource hog
+  - biggest piece of lab meat gorwn: chicken nugget sized
 
 - 4/15
 - politics
