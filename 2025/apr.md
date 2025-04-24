@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+- 4/24
+- politics
+  - usa stance on ukr/ru - russia keep seized land
+  - 100 days of trump, 40% approval
+  - china tariffs to be slashed?
+  - job cuts at FDA, milk qualty testing suspended
+- biz
+ - youtube 20 years
+   - hosted 20T videos!
+ - GOOG - return to work or your fired - 3 days a week
+ - AMZN starlink competitor having issues ramping up production
+   - project kuiper - has a gov deadline
+ - gemini at 350M monthly
+ - intel slash 20% of workforce
+ - anthropic: fully ai employees are a year away
+ - logitech prices up 25% - tariff related
+ - msft terminated 2000 underperformers without severance
+- culture
+  - 80 year old skateboarder in spain
+  - kenyan woman first female to break 4 minute mile
+- health
+  - microplastics clog arteries lead to stroke?
+- tech
+  - new cyberattack vector: slopsquatting
+    - when chatgpt recommends a package in hallucination and taking that fake package (like phishing)
+
 - 4/21
 - politics
  - FBI chief: Kash Patel
