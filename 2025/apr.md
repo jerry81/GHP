@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 4/29
+- politics
+  - trump deportations: slower than biden
+  - spain, portugal phones, airports, trains light blackout
+    - cause a mystery
+  - musk approval 33%, trump 39%
+  - china trying to control french chinese diaspora
+- biz
+  - tesla in bad shape
+  - duolingo replace contract workers with ai
+  - chatgpt adds shopping features
+    - personalized product recs
+  - huawei new ai chip to compete with nvidia
+  - WSJ: tech workers miserable, fearing layoffs, working longer hours
+  - zipper tech: auto-zippers - zip with push of botton, underarmour one-handed magzip
+- culture
+  - nike "never gain" outrage
+    - holocaust
+- tech
+  - albino killer whale spotted
+  - SPROUT - vine-like robot that rescues survivors from disaster zones
+  - alzhiemers gene discovered
+
 - 4/24
 - politics
   - usa stance on ukr/ru - russia keep seized land
