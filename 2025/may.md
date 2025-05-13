@@ -11,6 +11,7 @@
     - negotiations will continue
     - 30 from 145 (us import from china)
     - 10 from 125 (cn import from us)
+  - lithium deposit found in oregon, valued at 1.5T
 - culture
   - diddy: trafficker or swinger?
   - psychopaths more attractive?
@@ -27,10 +28,16 @@
   - appl thinking about increasing iphone price
   - openai in negotiations with msft, hopes to IPO
   - goog pay 1.4B to tx to settle claims it scraped user data
+  - panasonic cut 10K jobs
+  - jensen: you won't lose your job to AI but to someone who uses it
+  - space x to sell starlink in india
+  - ali zerosearch: teach ai to search without search engines
 - tech
   - asking ai for short answers may increase hallucinations
   - cursor malware steals credentials
   - ai tool: windsurf for coding projects
+  - deep ocean floor barely explored by scientists
+  - prompt engineering going extinct - ai prompting becoming standard skill instead of dedicated position
 
 - 5/8
 - politics
