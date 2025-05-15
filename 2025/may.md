@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+- 5/15
+- politics
+  - trump buddies with syrian president
+- biz
+  - execs pouring money into AI, but not paying off yet
+  - apple iphone down 50% in china due to local brands competition
+    - huawei and vivo up to 92% of market
+  - uber fixed-route shuttles in major us cities
+  - pandemic hiring frenzy leads to overpaid workers now
+  - marks and spencer is UK's, customer personal info hacked
+  - inventwood: wood stronger than steel
+    - invented in 2018 by uni professor liangbing hu
+    - treat with chemicals to modify structure, compress it
+  - gm new battery chemistry: 400-mile range
+  - goog ai search on homepage
+  - intel shell lubricant for cooling ai data centers
+  - msft 3% workforce cut
+  - apple: sci fi - control phones with neural signals (brain implants)
+- culture
+  - the toupee is back in
+  - tom cruise almost died making mission impossible
+- tech
+  - goog deepmind creates advanced ai that can invent algorithm
+  - robot solves 4x4 rubix cube, breaks record
+    - just a bachelor's degree project
+  - carmack: software optmization could improve economy
+
 - 5/13
 - politics
   - newark airport - 3rd system outage in 2 wks
