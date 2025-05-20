@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 5/20
+- politics
+  - trump policies affect target
+  - the don gets sued by small biz owners
+  - dollar is down, mortgage rates at 7%
+  - diddy to be pardoned by trump?
+  - sweden socialist paradise: full of billionaires
+  - germany stop opposing nuke power
+- biz
+  - next Siri on par with cgpt?
+  - qualcomm - chips designed to integrate with nvidia
+  - msft "Edit" - a command line txt editor
+  - WSSL subsystem for linux open sourced
+- culture
+  - cannes: alpha: aids thriller
+- health
+  - sleeping 8 hrs makes heart health worse?
+- tech
+  - CERN to study antimatter
+  - cgpt beating people in debates
+
 - 5/15
 - politics
   - trump buddies with syrian president
