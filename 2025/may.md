@@ -8,18 +8,45 @@
   - diddy to be pardoned by trump?
   - sweden socialist paradise: full of billionaires
   - germany stop opposing nuke power
+  - denmark finally going nuclear for energy
+  - twn shuts down last nuke reactor
+  - china's co2 emissions on decline first time
+  - china launch 1 of 2800 satellites to be used for AI space computing
+    - laser inter-satellite communication
+  - student catches professor using chatgpt, wants refund
+    - used it to create course materials
+  - trump to appl: avoid manufacture in india
 - biz
   - next Siri on par with cgpt?
   - qualcomm - chips designed to integrate with nvidia
   - msft "Edit" - a command line txt editor
   - WSSL subsystem for linux open sourced
+  - 1/2 sales in china EV, 20% global
+  - ubisoft stock down 18%
+  - walmart automated ai shopping
+  - amzn: uk needs more nuke energy to power AI
+  - openai: codex: AI coding agent in chatgpt
+  - 20M bounty to catch data theives from coinbase
+  - 40% of msft hq layoffs in software
 - culture
   - cannes: alpha: aids thriller
 - health
   - sleeping 8 hrs makes heart health worse?
+  - covid brainfog linked to inflammation
+  - FDA clears alzheimers blood test
+  - new covid spike in hk, sg
 - tech
   - CERN to study antimatter
   - cgpt beating people in debates
+  - AGI far away
+  - rust still 5% slower than C
+    - bounty of 20K usd to make it as fast
+  - lightweight js runtime for serverless?
+    - nodejs uses garbage collection: slow
+    - LLRT from amzn experimental manual mem management
+    - quckjs even lower level
+  - rust creator graydon hoarde - former mozilla emp
+  - dark matter from fast particles slowed down and getting heavy
 
 - 5/15
 - politics
