@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 5/22
+- biz
+  - bitcoin alltime high
+  - dow -816
+  - with evs, next phase of reducing emissions has to do with tire particles from braking
+  - openai acquires jony ive startup 6.5B deal
+    - create ai devices
+  - goog chrome to bake gemini AI into it
+  - honda scale back on ev, focus on hybrids
+  - goog ai mode to be released to us users
+  - tech job market already shrinking
+- politics
+  - israel plans strike on iran
+  - elon hated
+- tech
+  - chinese tiangong station discovers new bacteria
+    - lives in microgravity
+
 - 5/20
 - politics
   - trump policies affect target
