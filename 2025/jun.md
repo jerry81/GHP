@@ -8,17 +8,42 @@
   - measles outbreak
   - sicily volcano blows
   - household energy costs to go up
+  - china has humanoid robot fight night
+  - anthropic ceo: AI eliminate half of entry level white collar jobs within 5 yrs
+  - CNN: ai will not eliminate 1/2 white collar jobs - "ai hype machine"
+  - 1/10 india have ac, 4/5 in malaysia, 2/3 in china
+    - but pollution cools the air by shielding sun rays
+  - demand for american degrees down
 - biz
+  - HP china exit
+  - stack overflow desperate
+    - test pay experts to answer questions
+    - 90% q+a drop since 2020
+    - license SO to AI companies for training models
+    - build new stack overflow that personalizes experience
+    - bring b ack chat
+    - forums (stack exchange)
   - walmart increases prices
   - china 1000 Mi range EVs
   - jony ive secretive openai hardware device gets nod of approval
+  - "pretend to work" jobs in china
+    - rent out "occupations" to clients
+  - blue origin takes 6 people to "edge of space"
+    - 3 minutes of weightlessness
+  - ai apocalpyse already hitting new grads - 5.8% unemployment rate
+  - anthropic valuation: 61.4B, 3B/year revenue , openai 300B
+  - jobs replaced by AI: copywriter, voice actor, graphic designer
+  - brazil: allow citizens make money from selling personal data
+  - hugging face releases 2 open source robot designs
 - culture
   - DC: buttersworth is hot trump-friendly restaurant
   - spielberg next film 2026, Sci fi
     - the fablemans most recent
   - guillermo del toro - frankenstein, netflix
   - legal drug psychotherapy - take ayahuasca and "integration therapist" helps find meaning
+  - CDPR to move forward with cyberpunk 2
 - health
   - younger generations less likely to have dementia
 - tech
   - linux user share at 2.69 on steam
+  - ai to consume more power than bitcoin by end of 2025
