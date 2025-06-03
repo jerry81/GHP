@@ -14,7 +14,12 @@
   - 1/10 india have ac, 4/5 in malaysia, 2/3 in china
     - but pollution cools the air by shielding sun rays
   - demand for american degrees down
+  - 2% americans use gLP-1 drugs for obesity
+  - pakistan allocates electricity to btc mining and ai data centers
+  - trump pushes nuke energy
+  - appl faces 25% tariff unless iphone manu moves to usa
 - biz
+  - VC strat: acquire mature biz and retrofit with AI
   - HP china exit
   - stack overflow desperate
     - test pay experts to answer questions
@@ -26,6 +31,7 @@
   - walmart increases prices
   - china 1000 Mi range EVs
   - jony ive secretive openai hardware device gets nod of approval
+    - neck-worn ipod shuffle like
   - "pretend to work" jobs in china
     - rent out "occupations" to clients
   - blue origin takes 6 people to "edge of space"
@@ -35,6 +41,8 @@
   - jobs replaced by AI: copywriter, voice actor, graphic designer
   - brazil: allow citizens make money from selling personal data
   - hugging face releases 2 open source robot designs
+  - xai to pay telegram 300M to integrate grok
+  - SF acquires informatica (cloud data mgmt) for 8B
 - culture
   - DC: buttersworth is hot trump-friendly restaurant
   - spielberg next film 2026, Sci fi
@@ -47,3 +55,8 @@
 - tech
   - linux user share at 2.69 on steam
   - ai to consume more power than bitcoin by end of 2025
+  - cybersec: 2048-bit RSA broken by quantum comp with 1M qubits running for 1 week
+  - goog latest ai video tool, veo 3
+  - lidar may damage phone camera
+  - sharp knives reduce onion spray/tears
+  - infared contact lens allow poeple to see in dark
