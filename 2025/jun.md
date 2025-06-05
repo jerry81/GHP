@@ -1,5 +1,41 @@
 [Back](./index.md)
 
+6/5
+- politics
+  - don has db of citizens
+  - musk continues to mouth off
+  - new job slowdown
+  - the don killed pride month?
+  - saharan desert sand cloud approaches tx and FL
+  - us telecom was hacked by chinese
+  - ukr attack on russian bombers (1/3) was performed by drones
+- culture
+  - lgbtq chars on tv down 36%
+  - adolescene: british series breaking ntfx records
+  - tech elites getting into dark retreats
+  - openai board drama will become a movie
+- health
+  - mushrooms treat IBS?
+- biz
+  - meta to start using nuke power for AI
+    - will push into defense tech
+  - linkedin owned by msft since 2016
+  - morgan stanely ai tool saved 280K dev hours this year
+  - cursor raised 900M at 10B valuation
+  - openai may acquire windsurf (codeium coding tool for 3B)
+  - entry-level coding positions down 24%
+  - goog over 30% code now AIG, msft 20-30
+  - biocomputing platform, Cortical labs uses chip with human brain cells on silicon chip
+    - wetware as a service
+    - nutrient input, waste filtration
+  - AMZN AWS to make new EU-based region
+  - 700 indian employeees posed as AI chatbots, startup goes bankrupt
+  - msft fired 6k in may, hundreds more
+  - animal cloning quietly booming
+- tech
+  - jap scientists: plastic that dissolves in seawater
+  - milky way and andromeda galaxies 50% chance of colliding in 10B years
+
 6/3
 - politics
   - ukr big attack on russia
