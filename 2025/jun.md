@@ -1,5 +1,40 @@
 [Back](./index.md)
 
+6/10
+-  politics
+  - trump wants to arrest newsom
+    - ca sues back (step towards authoritarianism)
+  - bolsonar on trial
+  - moscow fires 479 drones at ukr
+  - china shuts down ai tools during nationwide college exams
+  - chinese student enrollment in us unis continues decline
+  - trump ai czar, David Sacks: "UBI is not happening"
+  - ukr 1/5 of internet space came under russian control, IP addresses sold
+  - great firewall dropped for some select corporate users to boost free-trade
+- culture
+  - islam takes share of world religion from xtianity
+- biz
+  - stablecoin issuer circle: ipo - jumps 169%
+  - meta new superintelligence lab
+     - may buy scale ai for 10B
+  - appl liquid glass - new design language
+  - ceo of duolinguo Luis von Ahn (guatemalan-american)
+  - switch 2 sells 3m units, breaking records on launch
+  - quantum startup nord quantique puts logical qubit on single piece of hardware
+  - volvo iot seatbelt - adapts to user's body
+  - amzn test delivery robots
+  - waymo passes 10M paid rides
+- tech
+  - cancer breakthroughs since 1991
+    - death rate declind by 1/3
+    - anti-smoking
+    - hpv
+    - better/earlier screening
+    - drugs - lenalidomide, bortezomib
+  - humans can get rid of all mosquitoes with genetic tools
+  - MIT cs prof ryan williams finds way to transform algorithm to form that uses less space
+
+
 6/5
 - politics
   - don has db of citizens
