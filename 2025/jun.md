@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+6/12
+- politics
+  - trump approval 38
+  - predator drone from military over LA
+  - nationwide protests - 1500 demonstrations in country
+  - puerto rico leave usa and (re)join spain?
+  - weinstein retrial: guilty of SA, rape hung-jury
+  - india sends first astronaut to ISS
+  - director of national intelligence tulsi gabbard
+- biz
+  - canva interview - use LLM
+  - 23andme bankrupt, users ask to delete personal data
+  - AMZN video generator - Ai gen ads now running rampant
+  - AAPL upgraded ai models lagging on performance
+- tech
+  - aapl Container - run linux containers on macOS
+
 6/10
 -  politics
   - trump wants to arrest newsom
