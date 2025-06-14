@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+6/14
+- poltiics
+  - iran hits tel aviv with missle attack, 3 dead
+    - retaliation on tehran threatened
+  - boeing 787 crash, air india
+- biz
+  - stock crash fears
+  - meta partners with geothermal energy to power ai
+  - shopify partners with coinbase and stripe
+- culture
+  - mel brooks spaceballs 2
+- tech
+  - "smart" tires have sensors that detect temp and pressure better
+  - tiny human hearts grown in pigs
+
 6/12
 - politics
   - trump approval 38
