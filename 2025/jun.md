@@ -1,5 +1,44 @@
 [Back](./index.md)
 
+6/19
+- politics
+  - israel running low on defensive interceptors
+  - NYC protests: "burn tel aviv to the ground"
+  - tehran warns us not to intervene
+  - day 7 war iran israel
+  - obama: america close to autocracy
+  - 117F in phoenix
+  - tx wall: only 8% built.  quietly defunded by state
+  - iran internet blackout, prevent cyberattacks
+  - regulatory framework for US stablecoins created
+  - tiktok deadline extended (3rd time)
+- biz
+  - japan buys us steel
+  - buss family sells lakers to dodgers
+  - Texas instruments invests 60B to make semiconductors
+  - midjourney launches AI video gen model, V1
+  - appl iphone strong growth in 2 months
+  - waymo robotaxis back to NYC again
+  - google ai: veo3 ai videos "frighteningly good"
+  - msft: job cuts in sales
+  - corporate culture: shrinking white-collar workforces by 3.5% over 3 years - smaller is better
+  - james gunn: "disney killed marvel"
+  - msft tending to slap "copilot" label on everything
+  - altman tantalizes staff with 100M bonuses, ai race intensifies
+  - amzn ceo jassy: ai will shrink workforce
+- culture
+  - jeremy allen white as bruce springsteen
+- health
+  - alzheimers starts 20 years before symptoms
+- tech
+  - china rise in open tech
+    - "kaiyuanshe" - advocacy group
+    - openharmony
+    - open models in ai
+      - deepseek
+      - qwen (alibaba)
+      - ernie (baidu)
+
 6/14
 - poltiics
   - iran hits tel aviv with missle attack, 3 dead
