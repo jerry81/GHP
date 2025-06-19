@@ -12,6 +12,7 @@
   - iran internet blackout, prevent cyberattacks
   - regulatory framework for US stablecoins created
   - tiktok deadline extended (3rd time)
+  - japan 700M fund, lure foreign academic talent
 - biz
   - japan buys us steel
   - buss family sells lakers to dodgers
@@ -26,11 +27,22 @@
   - msft tending to slap "copilot" label on everything
   - altman tantalizes staff with 100M bonuses, ai race intensifies
   - amzn ceo jassy: ai will shrink workforce
+  - SF 6% price hike - ai features
+  - MSFT hustling: 20% working on weekend, 5% on sunday evening
+    - spontaneous meetings
+  - in 2 years, ai use at work has doubled
+  - intel 15 to 20% layoff factory workers
+  - openAI/msft tensions
+  - appl migrates a service from java to swift, gets 40% perf upgrade
+    - meta/aws - rust
+    - ntflx - go
+  - nvidia huang: anthropic ceo dario Amodei is wrong: AI will not eliminate half of white-collar jobs
 - culture
   - jeremy allen white as bruce springsteen
 - health
   - alzheimers starts 20 years before symptoms
 - tech
+  - "worse is better" in software refers to more functionality in software lowers usability and predictability
   - china rise in open tech
     - "kaiyuanshe" - advocacy group
     - openharmony
@@ -38,6 +50,10 @@
       - deepseek
       - qwen (alibaba)
       - ernie (baidu)
+  - llama recalls 42% of first harry potter book
+  - first atom-thin (2d) non-silicon computer developed
+    - molebdenum disulfide and tungsten diselenide
+    - breakthrough in smaller energy efficient electronics
 
 6/14
 - poltiics
