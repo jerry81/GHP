@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+6/23
+- politics
+  - RU: many countries willing to give iran nukes
+  - usa attacks iran with b2 bombers
+  - supreme leader ali khamenei: "has the look of a martyr in his eyes"
+  - NYC 102 F (38.8C)
+    - converting back remember to subtract before divide
+  - iran to citizens: delete Whatsapp
+- biz
+  - oil markets on edge due to war
+  - anti-ai gen market: music industry hunts down AI generated songs with AI
+  - americans buying twice the amount of hybrids as EV
+  - AMZN, IBM, SF, JP Morgan - warn about AI taking your job
+  - intel outsources marketing to AI and accenture, lays of own dept
+  - softbank pitch: 1T Arizonia hub
+  - meta (who bought scale.ai) considered buying perplexity
+  - goog using youtube videos to train AI video
+- culture
+  - linus and bill gates first ever picture together
+  - ai remakes of classic chinese kung fu movies may be coming
+- tech
+  - anti-climate commitees: we are reaching 1.5C threshold for warming
+  - remote surgery performed: USA to Africa
+  - redmonk top PL:
+    - javascript
+    - python
+    - java
+    - PHP
+    - C#
+  - nanotech: self-healing metal
+  - 7.3 TB DDoS attack breaks record
+  - saggitarius A (large black hole) spinning as fast as physics allows
+
+
 6/19
 - politics
   - israel running low on defensive interceptors
