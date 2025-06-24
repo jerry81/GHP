@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+6/24
+- politics
+  - war day 12: ceasefire?
+  - trump threatens nuke RU
+  - americans worldwide get travel warning
+  - trump approval on economy: 37%
+  - HI tourism down
+  - CN breaks solar panel installation record for month of may
+- culture
+  - kanye hitler song causes anger, to perform in slovakia
+- biz
+  - VW auto-taxi: ID Buzz
+- tech
+  - plastic waste into paracetemol using bacteria (ecoli)
+    - currently it comes from oil
+
 6/23
 - politics
   - RU: many countries willing to give iran nukes
