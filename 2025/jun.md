@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+6/25
+- politics
+  - mandani - an arab gunning for cuomo's ny gov spot
+    - 33 y/o
+  - trump f-bomb on live tv
+  - ‘We basically have two countries that have been fighting so long and so hard that they don’t know what the f**k they’re doing. Do you understand that?’
+  - trump mad at both countries
+  - israel broke truce orchestrated by trump
+  - dangerous heatwave
+- biz
+  - waymo, uber in ATL
+  - oof, EV carrying ship catches fire and sinks
+  - amzn same-day delivery for rural customers
+- tech
+  - china leading in FTTR (fiber to the room)
+  - mosquito-sized drone from CN
+
 6/24
 - politics
   - war day 12: ceasefire?
