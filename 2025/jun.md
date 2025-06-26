@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+6/26
+- politics
+  - trump making "scary mistakes"
+  - mamdani (from yesterday) wins, socialist win?
+    - anti israel
+  - LA: $30 min wage?
+  - trump 2nd f-bomb
+  - cod overfishing: size halved since 1990
+  - bernie: AI productivity should lead to 4 day work week
+- health
+  - heart attacks down, other types of heart disease like arrhtymia on the rise
+- biz
+  - steam running games faster than windows 11
+- tech
+  - JWST discovers first exo-planet
+    - 11 Light years away
+  - nose drone swarm to clear sinuses?
+  - hdmi 2.2 95GB bandwidth and 16K res support
+    - bandwidth doubled from 2.1
+
 6/25
 - politics
   - mandani - an arab gunning for cuomo's ny gov spot
