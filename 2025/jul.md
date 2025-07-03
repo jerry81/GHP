@@ -1,5 +1,30 @@
 [Back](../index.md)
 
+7/3
+- politics
+  - diddy trial: bail denied
+    - already cleared of worst charges
+    - fans spray baby oil outside court
+  - ICE arresting american citizens to meet quotas
+  - layoffs up, since pandemic
+  - trump threatened deportation on mamdami
+  - 33k jobs lost from private sector
+- biz
+  - foxconn india workers sent back to china
+  - msft to lay off 9K more
+  - (AI) goog data center energy use doubles in 4 years
+  - tinder CA require facial recog check - reduce impersonation
+  - figma IPO
+  - amzn has released 1M robots to its warehouses, deepfleet - new genai model
+    - specifically for warehouses
+  - AI engi salaries 500K to 2M, up to 10M
+- health
+  - processed meat (sausage/hotdogs) just bad for you
+  - air pollution linked to lung cancer
+- tech
+  - china tests hypersonic aircraft
+  - global warming speeding up
+
 7/1
 - politics
   - "free america" protests on 4th
