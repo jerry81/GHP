@@ -1,5 +1,56 @@
 [Back](../index.md)
 
+7/8
+- politics
+  - tx floods
+    - coast guard hero saves 165 people
+    - more floods coming
+    - ted cruz (tx senator) on vacation
+  - ICE (immigration and customs enforcement) raids in LA
+    - has workers in hiding
+    - LA "grinds to halt"
+  - half us exports willing to ditch us citizenship
+  - kremlin minister fired, then found dead, just hours later
+  - RU pounding UKR with 1K missles and drones daily
+  - iran prez: israel tried to assassinate
+    - masoud Pezeshikian
+  - india tries old car reform
+    - public blacklash
+  - EU refuses joint climate commitments with china
+  - american labor: unemployed/employed likely to continue in their current statuses
+  - poland clean energy overtakes coal
+- culture
+  - superman review brutal
+  - rise of choking during sex
+  - wimbledon players don't like AI line calling
+  - comp sci major: no longer golden ticket to jobs, 65% drop
+    - shift from coding to computational thinking and AI literacy
+- biz
+  - appl makes liquid glass design less transparent
+  - waymo starts in philly and NYC
+  - jack dorsey bitchat: bluetooth mesh networks for private chats, doesn't require wifi or 4g
+  - nintendo: wants to keep "traditional approach" to dev
+    - modern: larger scale, longer duration, high dev costs
+    - mario kart world - open world
+  - ntflx: 50% users watch anime
+  - OpenAI: no plans to use goog chip
+  - EV battery patents: india 7, china CATL 43K, LG (Skorea) 70K
+  - china AI village: Liangzhu - suburb of hangzhou
+  - alphabet isomorphic labs launching human trials for ai designed drugs
+  - tesla Oasis station: solar farm, offgrid superchargers
+  - XBOW: AI pentester - raises 75M
+- tech
+  - anti AI bot scraper OSS: Anubis
+    - author: xe iaso
+    - similar to captcha - verify human
+    - creates computational cost prohibitively expensive for AI scrapers
+  - digital yes-man - gaslighting AI to modify accurate answers when questioned by user
+  - AI Term: autoregressive LLM: predict first token of answer, reprocess question with first token, predict second token, etc
+  - vibe coder that doesn't know how to code wins hackathons
+  - commercial tritium production in UK, used in fusion
+    - 4x power of fission
+  - chronic inflammation speed up aging
+
 7/7
 - politics
   - tx floods kill 100+
