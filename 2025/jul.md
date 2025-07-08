@@ -1,5 +1,36 @@
 [Back](../index.md)
 
+7/7
+- politics
+  - tx floods kill 100+
+  - musk new political party
+    - "the america party"
+  - dalai lama 90 years old
+  - netanyahu to DC to make deal
+- culture
+  - NYC floating river swimming pool
+    - water from east river, cleaning system
+  - "ai force fed" to public
+    - copilot forced on email writer
+    - bundled into all msft products
+- tech
+  - biology: combat pests, drop loads of sterile males into environment
+
+7/4
+- politics
+  - dollar in for a rough year
+  - chicago driveby - 4 dead
+  - China - forced harvesting of ughyr organs?
+  - isran war: iran deaths: 610, israel 28
+- biz
+  - norway 96% ev market share
+  - ripple - fintech - stock down
+  - samsung holds back on huge tx plant
+- culture
+  - michael madsen RIP 67
+  - teen mom rate down
+  - career criminal wins 167M powerball
+
 7/3
 - politics
   - diddy trial: bail denied
