@@ -1,5 +1,27 @@
 [Back](../index.md)
 
+7/9
+- politics
+  - tx, 161+ still missing
+  - trump threat: if commie runs NY it will never be the same, but we have measures in the WH.  We`re going to bring NY back"
+  - epstein files mention trump, dems want them released
+  - tulsi gabbard director of national intelligence, FBI CIA and NSA
+  - fears in jp about the "big one" (earthquake)
+  - marco rubio imposter using ai voice
+- biz
+  - x concerned about india censorship
+  - grok gets antisemitic, praises hitler?
+  - gmail QOL: subscription management - less clutter
+  - EssilorLuxottica - french/italian rayban maker - will collab with Meta for AR glasses
+    - world's largest glasses maker
+  - intel fires 500 in oregon
+  - openai/msft having trouble defining AGI
+- culture
+  - AI chatbots used to help guide psychadelic trips
+- tech
+  - more anti-ai: AI = anti-intelligence?
+    - openai, msft forced into classrooms
+
 7/8
 - politics
   - tx floods
