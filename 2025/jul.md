@@ -1,5 +1,26 @@
 [Back](../index.md)
 
+7/10
+- politics
+  - trump unhinged in audio: bomb the shit out of moscow/beijing
+  - EU stockpiling food/meds fear of WWIII
+  - nyc mayor race: mamdani still in lead
+    - jew dems worried
+  - 3 out of 10 pregnancies in England -> abortion
+- biz
+  - linda yaccarino (X CEO) steps down
+  - hugging face - 299USD robot
+    - the "github" of machine learning
+    - transform robotics education
+  - samsung 3 new foldables, pressure from chinese competition
+  - MSFT: 500M saved in AI savings
+  - nvidia 4T market cap  - first company to do it
+- tech
+  - ai out of control: user threatens suit over rape instructions
+  - grok praises hitler
+  - US power grid struggles to meet demand from AI
+  - AMD warns of new spectre/meltdown
+
 7/9
 - politics
   - tx, 161+ still missing
