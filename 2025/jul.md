@@ -1,5 +1,41 @@
 [Back](../index.md)
 
+7/14
+- politics
+  - musk wants trump epstein files released
+    - trump faces revolt
+  - modern warfare already defined by drones
+    - usa behind schedule
+  - iran prez wounded during air strike
+  - netherlands rations electricity
+  - german comedian to be tried for trump assassination joke
+  - hundreds of drones at ukr/ru frontline
+  - South Korea, Singapore, and China all below 1 child per woman
+  - 74% wind and solar projects done by china
+- culture
+  - superman 122M opening weekend
+- biz
+  - omoway 目蔚科技 - self driving scooters
+  - lucid motors 749Mi drive breaks EV range record
+  - robinhood stock up 160%
+  - china evs 70% of thailand ev market
+  - BTC 118K, record
+  - windsurf (AI IDE) fails to be acquired by openai, ceo goes to goog
+  - byd self-driving parking crashes to be compensated
+- tech
+  - new plastic problem: nanoplastics
+    - float on top of ocean
+  - robots remove pig gall bladders without human help
+  - Ada places top ten for Tiobe index PLs poll
+  - warning: invest in quantum cybersec now
+  - scotland underwater turbine spins for 6 years, proves tidal energy
+  - experienced devs slowed down by AI
+  - solar led energy sources in EU last month
+  - university of wash already overhauling CS curiculum to update for AI
+- health
+  - black plague back in AZ
+  - magic mushrooms extending cellular life in mice
+
 7/10
 - politics
   - trump unhinged in audio: bomb the shit out of moscow/beijing
@@ -15,6 +51,7 @@
   - samsung 3 new foldables, pressure from chinese competition
   - MSFT: 500M saved in AI savings
   - nvidia 4T market cap  - first company to do it
+  - video game actors strike against AI
 - tech
   - ai out of control: user threatens suit over rape instructions
   - grok praises hitler
