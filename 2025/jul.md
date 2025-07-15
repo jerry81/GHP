@@ -1,5 +1,24 @@
 [Back](../index.md)
 
+7/15
+- politics
+  - ghislaine testimony blocked by republicans/trump
+  - leukemia child arrested by ICE
+  - US only has one native caffeinated plant - yaupon
+  - US DoD gives contracts to OpenAI, xAI, goog for advanced ai
+  - japan behind in AI adoption
+- culture
+  - joy taylor sleeping up the corpo ladder scandal, fox sports
+  - "millions" of seniors playing video games
+    - 50 and over americans 28% of 205M (57M people)
+- biz
+  - AI nudify sites raking in millions of dollars
+  - meta mulls closed AI model
+  - (AI) frenzy escalates - cognition AI buys windsurf for 2.4B
+- tech
+  - kimi (Ali-backed) making US news
+    - K2 outperforms gpt-4 (trillion-parameter)
+
 7/14
 - politics
   - musk wants trump epstein files released
