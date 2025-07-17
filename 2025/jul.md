@@ -1,5 +1,40 @@
 [Back](../index.md)
 
+7/16
+- politics
+  - don jr wants to see epstein files
+  - msft uses chinese engineers to maintain defense department systems
+- culture
+  - drugs rampant on ibiza
+    - health system pressure
+  - woman entices monks into sex, then blackmails
+    - thailand
+  - people having sex on seattle nude beach forces shutdown
+- biz
+  - nvidia china ban about to be lifted, china firms rushing to purchase H20 AI chips
+  - waymo automated dirt diggers at construction sites
+  - butt lifts in miami
+  - world's second richest now larry ellison, overtook zuck
+    - oracle's deals with openai
+    - musk # 1 (358B)
+  - intel layoffs 5000 across usa
+  - scale ai expanded too quickly, lays off 200
+  - AMZN turns 30
+  - GOOG AI: phone local businesses to ask prices for things for you
+  - anthropic: claude for financial services - investment, analysis, research
+  - Perplexity CEO: aravind Srinivas(indian) - Big tech will "copy anything good"
+    - his web-crawling chatbot copied by bard, cgpt, claude
+- health
+  - dogs smell parkinsons
+  - music fights brain aging even in old age
+- tech
+  - hydrogen sucks as fuel source
+  - linux desktop share 5%
+  - better plane navigation with quantum sensing of magnetic signatures in earth's crust
+  - JP sets net speed record, 4M times faster than us broadband avg speed
+    - 125 GB / second over 1120 miles
+    - 19-core optical fiber
+
 7/15
 - politics
   - ghislaine testimony blocked by republicans/trump
