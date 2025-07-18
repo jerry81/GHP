@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+7/18
+- politics
+  - trump has swollen legs
+  - musk approval at 23%
+  - 1 in 4 forced to delay retirement
+  - israel to bomb iran again
+- health
+  - man with metal neck chain sucked into mri
+  - cancer deaths down 1/3 - preventative approach
+- culture
+  - late night steven colbert cancelled
+- tech
+  - first birth of planetary system observed
+  - openAI chatgpt agent: controls browsers to help with online shopping
+  - germany: building largest wind turbine in world
+- biz
+  - robinhood ceo: most new code written by AI
+  - lucid & nuro w/ uber for self driving
+  - perplexity offers 360M indian users free premium chatbot for 1 year
+
 7/16
 - politics
   - don jr wants to see epstein files
