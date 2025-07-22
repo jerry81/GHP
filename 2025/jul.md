@@ -8,8 +8,30 @@
   - hunter biden: dad was on ambien during debate
   - don posts AI vid of obama getting arrested "deranged"
   - prince william's cousin found dead with firearm nearby, 20
+  - AI: 100 UKR drones strike RU, drones acct for 70% RU deaths and injuries
+  - us facing "most series chinese hacking ever" wash post
+  - india hits 50% non-fossil milestone early (originally 2030 tgt)
 - biz
   - beef prices up, the new eggs
+  - softbank+openAI 500B ai project (stargate) struggling to get started
+  - figma targetting ipo of 16.4B
+  - msft sharepoint servers under attack, no patch
+  - Meta tried poaching openAI ai engis with 100M bonuses
+  - duckduckgo browser lets hide ai-gen images in search results
+  - MSFT layoffs - already culture of fear
+- culture
+  - superman scores 400M globally
+  - Felix Baumgartner - skydive from edge of space - 24 miles from edge of space, reached 500mph
+    - documentary "space jump"
+    - broke speed of sound
+    - died in paragliding accident
+- tech
+  - cloudstrike outage affected 750+ hospitals in US
+  - Si Valley: super-babies breeding - startup company Orchid Health - sequence entire genome of 3 billion base pairs
+  - electronic-photonic quantum chip created in commercial factory
+  - kite power instead of windmills?
+    - company kitepower
+    - fly in figure 8 pattern, rotate drum
 
 7/18
 - politics
