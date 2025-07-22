@@ -1,5 +1,16 @@
 [Back](../index.md)
 
+7/22
+- politics
+  - immigration drama: migrants forced to eat like dogs caged like chickens
+  - ghislane pressure to testify
+  - trump 38% approval
+  - hunter biden: dad was on ambien during debate
+  - don posts AI vid of obama getting arrested "deranged"
+  - prince william's cousin found dead with firearm nearby, 20
+- biz
+  - beef prices up, the new eggs
+
 7/18
 - politics
   - trump has swollen legs
