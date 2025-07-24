@@ -1,5 +1,33 @@
 [Back](../index.md)
 
+7/24
+- politics
+  - ghislane testimony date: aug 11
+  - bill and hillary subpoenaed
+  - trump AI action plan - counter china
+    - env permits for data centers, energy infra
+  - us to rethink h1-b
+    - 600k skilled workers with h1b
+- biz
+  - bezos may buy cnbc
+  - nyse and nasdaq apply for 22 and 24 hr trading days respectively
+  - AMZN bee - AI bracelet - listens everything you say for data mining
+  - 4 day work week confirmed "by science" to be effective
+    - single study 6 months, 2900 employees, 141 orgs
+  - surge ceo: "with ai, 100x engis are here"
+  - msft poaches goog deepmind - 20 AI employees
+- culture
+  - neonazi fight club canada/finland - spreading globally
+  - DC now worst city for traffic, overtakes LA
+  - rome tunnel city underground revealed
+- ai
+  - fda drug approval AI generating fake studies
+  - cgpt 2.5B prompts every day
+- tech
+  - covid aged brains 5.5 months
+  - lung cancer in nonsmokers
+  - goog oss rebuild: project for open source software security
+
 7/22
 - politics
   - immigration drama: migrants forced to eat like dogs caged like chickens
