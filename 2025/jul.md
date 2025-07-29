@@ -1,5 +1,33 @@
 [Back](../index.md)
 
+7/29
+- politics
+  - nyc shooting in nyc: 5 dead
+    - shane tamura: blasian
+  - trump "mental decline"
+  - beijing military from obsolete to world-class
+  - twn prez lai blocked from NY stopover
+  - americans spend half day online
+  - chinese Unis to students: use more AI
+  - norway is rich: 27.5 sick days per year, highest
+    - oil revenue made norway bloated and unproductive
+- biz
+  - bull market over
+  - cyrpto crisis coming?
+  - Futurehome (smart home hub) bankrupt
+    - norway
+  - anker 安克(chinese power monkey company) stops making 3d printers
+  - cyberattack on RU Aeroflot
+  - tesla samsung 16.5B deal make AI chips
+  - AMZN skyrover x1 is actually a DJI product
+- tech
+  - "i am not a robot" broken by chatgpt agent
+- culture
+  - deion sanders cancer
+- health
+  - aging accelerates at age 50
+    - especially heart
+
 7/24
 - politics
   - ghislane testimony date: aug 11
