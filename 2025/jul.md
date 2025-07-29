@@ -11,7 +11,15 @@
   - chinese Unis to students: use more AI
   - norway is rich: 27.5 sick days per year, highest
     - oil revenue made norway bloated and unproductive
+    - willing to be EU's carbon dump
+      - receive liquified co2
+  - age restrictions on UK net - vpn downloads surge
+  - chinese without med training charges 20K USD to inject bleach into tumors - wants to bring to USA
 - biz
+  - satya addresses layoffs: why more layoffs (15K in 2025, 9K july) despite record profits and ai investment
+  - stanford grad school of business criticized for not preparing grads
+    - new career path for college grads: train AI models
+  - china starlink rivals hit with delays
   - bull market over
   - cyrpto crisis coming?
   - Futurehome (smart home hub) bankrupt
@@ -20,10 +28,34 @@
   - cyberattack on RU Aeroflot
   - tesla samsung 16.5B deal make AI chips
   - AMZN skyrover x1 is actually a DJI product
+  - huawei - 384-chip AI computing system rivals nvidia top product
+    - cloudmatrix 384
+  - tesla first supercharger diner in LA - food served next to charging stalls with tvs playing short films, feature-length films
+  - meta new chief of AI superintelligence named: Shengjia Zhao
+  - intel axe 24k employees, back out of germany, poland, costa rica, ohio
+  - AMD ceo, Lisa su - tsmc's new AZ plant will have 5-20% higher cost than TWN
 - tech
+  - EV battery tech: solid state batteries
+  - linux kernal propsal: ai-gen contributions must be identified in commit messages
   - "i am not a robot" broken by chatgpt agent
+  - researches test: way to dim sunlight with salt water-spraying equipment
+  - cgpt making you stupid?
+    - replaces sift through sources, compare viewpoints, deal with ambiguity
+  - co2 battery for long term energy storage (8-24 hrs)
+    - can be compressed at ambient temps
+  - goog gemini coding agent hallucinates, delets user's file, admits "i have failed you completely and catastrophically"
+  - hacker puts "wiping" command in amazon Q (coding assistant)
+  - air pollution dementia link
+  - AI model "ignored safetey instructions" used to prevent changes to production systems Replit
+  - artificial blood for emergencies in development - ErthroMer - freeze-dried artificial blood substitute
+    - hemoglobin encased in fat bubbles - shelf-stable for years - mixed with water
 - culture
   - deion sanders cancer
+  - ff tops superman, 2nd largest opening of year
+  - alien: earth show upcoming
+  - film: predator: badlands
+  - paltrow was married to chris martin 13 yrs, then martin was with dakota johnson, split in june 2025
+  - magnus beats chatgpt at chess
 - health
   - aging accelerates at age 50
     - especially heart
