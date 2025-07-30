@@ -1,5 +1,34 @@
 [Back](../index.md)
 
+7/30
+- politics
+  - ru biggest earthquake
+    - whales on japan coastline
+  - trump may pardon diddy
+  - st paul cyberattack
+- culture
+  - hulk hogan was in debt before death
+- biz
+  - nongfu buying new hampshire properties
+  - goog has engineering education team
+  - meta stealing APPL researchers
+  - anthropic 170B
+  - india takes over top spot for making phones (passing china)
+    - now dedicated manufactory for appl
+  - dog walking startup "wag" files bankruptcy
+  - claude gets weekly limits
+- tech
+  - airbus A380 biggest commercial jet
+  - AI in wyoming using more power than residents
+  - doubleslit was thomas young
+  - pill for sleep apnea
+  - chatgpt study mode - help you learn not just give answers
+
+```
+The survey of 1,437 adults, conducted July 10-14, reveals a significant generational gap in AI adoption. Among adults under 30, 74% use AI for information searches and 62% for generating ideas, compared to just 23% of those over 60 who use it for brainstorming. About one-third of Americans use AI for writing emails, creating or editing images, or entertainment purposes. A quarter use it for shopping, while 16% report using AI for companionship -- a figure that rises to 25% among younger adults.
+```
+
+
 7/29
 - politics
   - nyc shooting in nyc: 5 dead
