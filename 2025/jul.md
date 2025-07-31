@@ -1,5 +1,23 @@
 [Back](../index.md)
 
+7/31
+- politics
+- biz
+  - meta stock up
+  - msft worth 4T
+  - sam altman build doomsday bunker
+    - nuclear armageddon, wwiii
+  - musk's boring company - tesla tunnels under nashville
+  - AMZN investment: "NTFLX of AI" Fable
+    - make own TV shows
+  - only 27% mgrs feel engaged at work
+  - META ai already self-improving, superintelligence is in sight
+- tech
+  - tx highways filled with autonomous trucks
+    - dal <-> hou
+  - AlphaEarth - GOOG AI that maps satellite images into detailed maps incl vegetation, material props, groundwater sources - accurate to 10 m
+  - AI code gen writes vunerable software 50% time
+
 7/30
 - politics
   - ru biggest earthquake
