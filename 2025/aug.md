@@ -1,4 +1,13 @@
 [back](./index.md)
+
+- 8/3
+- politics
+  - don cat calls karoline levitt - white house press secretary
+  - don threatens india, but india to trade oil with RU
+  - russian oligarch sex parties
+- culture
+  - sex toys on wnba courts
+
 - 8/2
 - politics
   - fbi coverups don's involvement in epstein
