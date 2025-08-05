@@ -1,5 +1,54 @@
 [back](./index.md)
 
+- 8/5
+- politics
+  - new york post launches california post
+  - prez  controlling info, called "authoritarian"
+  - sydney sweeny comes out as republican
+  - alligator alcatraz for immigration detainees
+  - shanghai world AI conference - gov announces international org for AI reg
+    - unveilled by Li Qiang
+    - insightful comment: "when world realizes US AI owned by oligarchs, many MAGA types, world will move on to palatable alternatives and OS"
+- culture
+  - lebron to launch basketball league?
+  - 11:18 avg time to fall asleep
+  - german zoo feeds monkeys to lions
+  - "transparency paradox" - the more transparent science is in revealing harsh truths, the less people trust in it
+- biz
+  - tesla give musk 29B to prevent his leaving
+  - goog agree pause AI workloads when power demands spike
+  - hyundai nuke powered data center in TX
+    - support hypergrid
+  - chatgpt 700M weekly users (4x up from last year)
+    - 5M paid business customers
+  - indian IT growth slowing
+  - perplexity using shady web crawlers
+    - reported by cloudflare
+  - msft study most effected by AI:  language translaters/interpreters, passenger attendants, sales, writers, customer service
+    - tech jobs: entry level - mkting, admin assistance, HR
+  - new grads find bad job market
+  - hyundai EV sales up
+  - 6M nintendo switch 2 sold
+  - fiverr ad mocks vibe coding - singing avacado
+  - Tea: women-only dating safety app that offers dating advice
+    - has security issues, breached
+  - many startups fighting wildfires
+    - AI smoke lookout poles
+    - drone swarms
+    - lightning tracking
+    - satellite with infared sensors
+- tech
+  - usa wants nuke reactor on moon
+    - NASA project
+    - 2030 china plans to land astronaut on moon
+  - N6 (hexanitrogen) created - could be rocket fuel
+  - china gov pushes AI to real world
+    - deepseek used in gov tasks - divert calls from public, streamline police work, anti-corruption work - sensitive info
+      - but anti-corruption work showed by red tape and sensitive info
+  - radioative wasps near US nuke storage site
+- health
+  - plastic crisis
+
 - 8/3
 - politics
   - don cat calls karoline levitt - white house press secretary
