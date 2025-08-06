@@ -1,5 +1,20 @@
 [back](./index.md)
 
+- 8/6
+- politics
+  - musk the most unpopular figure in US
+  - weather servide rehiring, undoing DOGE chaos
+  - connor pushes for president, 7% approval
+  - china foshan virus
+- culture
+  - after 20 years on sirius, howard stern to end
+  - zoo asks people to donate pets to feed to predators
+- tech
+```
+“Clanker,” a word that traces back to a Star Wars video game, has emerged in recent weeks as the internet’s favorite epithet for any kind of technology looking to replace humans. On TikTok, people harass robots in stores and on sidewalks with it.
+```
+  - 100K chatgpt conversations leaked
+
 - 8/5
 - politics
   - new york post launches california post
