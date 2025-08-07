@@ -1,5 +1,35 @@
 [back](./index.md)
 
+- 8/7
+- politics
+  - FEMA: federal emergency management agency - camps holding captive immigrants
+    - 2nd camp planned in FL
+  - kristi noem - secretary of homeland security
+    - gov of south dakota, hot for 53
+  - army base soldier, sergeant shoots 5 soldiers with own gun
+  - ghislaine getting cushy treatment in prison
+  - chikungunya virus in CN
+    - mosquito virus hitting southern
+  - china using AI in espionage
+    - long struggled to match RU aggressiveness/effectiveness
+    - monitor public sentiment and individuals' arguments
+    - counter shifts in public opinion
+    - more believable propaganda
+    - GoLaxy - the company with the tech used to track public opinion and parse out arguments
+  - US wanted back door for AI chips from Nvidia, rejected
+- biz
+  - universal takes stance vs AI using its movies "stealing"
+  - david ellison (son of larry) founder of paramount skydance
+  - in AI rev, internet search affected, but reddit stays in "sweet spot"
+    - with human conversations
+    - used for machine training now
+- culture
+  - linda mcmahon hacked during speech at ntnl conservative student conf
+  - sex toys thrown on WNBA court a pattern
+- tech
+  - interstellar object aiming at earth is "not natural" - comet theory ruled out
+  - UV rays really killed the neandrethals?
+
 - 8/6
 - politics
   - musk the most unpopular figure in US
