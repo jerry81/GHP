@@ -1,5 +1,24 @@
 [back](./index.md)
 
+- 8/8
+- politics
+  - import taxes highest in 100 yrs
+  - trump: vows 100% tax on chips, unless manufactured in states
+- tech
+  - james cmeron warns of terminator-like apocalypse
+  - openai GPT 5
+  - lithium for alzheimers
+- culture
+  - new york breast-milk flavored ice cream popular
+- biz
+  - duolinguo after "ai-first backlash" has a strong quarter again
+  - hbo max password sharing crackdown to become aggressive
+  - 1000 openai researchers get 1M+ bonuses
+  - china solar companies cut 1/3 of jobs
+  - US prez calls for lip-bu tan (intel ceo) to step down due to china ties
+  - EA sports fifa 70% of profits, disappointing sales this year
+  - twn got 20% tariff from usa, speculated for pressuring tsmc to buy 49% stock in intel
+
 - 8/7
 - politics
   - FEMA: federal emergency management agency - camps holding captive immigrants
@@ -18,6 +37,7 @@
     - GoLaxy - the company with the tech used to track public opinion and parse out arguments
   - US wanted back door for AI chips from Nvidia, rejected
 - biz
+  - perplexity barks back at cloudflare
   - universal takes stance vs AI using its movies "stealing"
   - david ellison (son of larry) founder of paramount skydance
   - in AI rev, internet search affected, but reddit stays in "sweet spot"
