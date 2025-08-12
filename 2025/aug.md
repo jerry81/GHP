@@ -11,15 +11,25 @@
   - western wall - judaism's second-holiest site
     - vandalized: "holocaust in gaza"
   - america clean hydrogen push not going well
+  - china tells brokers: stop pushing stablecoins
 - biz
   - nvidia and amd 15% of china chip sale revenues to gov
   - student coders from six figures to working blue collar
   - hiring "doom loop" AI tools to apply to many jobs
     - AI in turn to automatically scan and reject
   - github ceo steps down, no longer independent from MSFT
+  - AI black hawk helicopters to fight wildfires
+  - chevy silverado EV drives 1059 Mi on single charge, WR
+- health
+  - nightmares predict early death
+  - conscientiousness declining
 - culture
   - gen z celibate?
 - tech
+  - tunnel boom - when maglev train enters tunnel, mini sonic boom
+  - new shortest paths algorithm found
+  - chatgpt brings back 4o
+  - cali tests "virtual power plant" drawing power from batteries in 100K homes
   - china building 167B USD hydro plant in tibet
     - 3x 3 gorges
     - 2 mile drop over 300 miles
@@ -30,6 +40,10 @@
       - can't do user-gen content anymore
     - sam tullen documentary about AI content creators
   - dead need right to delete data so they can't be AI-ified
+  - ai gen code steals 1M crypto
+  - only 5 of the top 15 AI models are open source, all open source developed by CN AI companies.
+    - ATOM project: American Truly Open Models
+    - 10K state of art GPUs 100M
 
 - 8/8
 - politics
