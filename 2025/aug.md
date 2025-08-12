@@ -1,5 +1,36 @@
 [back](./index.md)
 
+- 8/12
+- politics
+  - ICE can detain if looks hispanic or speaks spanish
+  - prez asks supremes to allow racial profiling
+  - ice agents dress as construction workers
+  - federalized police - troops on dc streets
+  - record muggy weather - extra sticky
+  - canada euthanasia demand up, docs cant keep up
+  - western wall - judaism's second-holiest site
+    - vandalized: "holocaust in gaza"
+  - america clean hydrogen push not going well
+- biz
+  - nvidia and amd 15% of china chip sale revenues to gov
+  - student coders from six figures to working blue collar
+  - hiring "doom loop" AI tools to apply to many jobs
+    - AI in turn to automatically scan and reject
+  - github ceo steps down, no longer independent from MSFT
+- culture
+  - gen z celibate?
+- tech
+  - china building 167B USD hydro plant in tibet
+    - 3x 3 gorges
+    - 2 mile drop over 300 miles
+    - transmission network 7B
+  - sold face to AI, "trapped in nightmare"
+    - become AI model
+    - 1500, life in paid adverts
+      - can't do user-gen content anymore
+    - sam tullen documentary about AI content creators
+  - dead need right to delete data so they can't be AI-ified
+
 - 8/8
 - politics
   - import taxes highest in 100 yrs
