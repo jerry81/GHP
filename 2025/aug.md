@@ -1,5 +1,50 @@
 [back](./index.md)
 
+- 8/14
+- politics
+  - nat debt 37T
+  - gavin wants to end trump presidency
+  - if dems take house there will be impeachment
+  - troops on streets, military crackdowns becoming norm
+  - us and RU west-bank style occupation of UKR
+  - obama support mamdani
+  - USA alarmed over CN lead in Open source AI
+  - extreme heat parts of EU
+    - SW france, Croatia, also canada
+    - 50C in iraq
+    - 30C in arctic circle
+- culture
+  - drinking rate down
+  - charlie sheen ntflx docu
+- biz
+  - AMZN kuiper has crossed 100 launched satellites
+    - starlink competitor
+  - musk sue AAPL antitrust
+    - over grok
+  - spirit airlines may go out of biz
+  - perplexity makes 34.5B offer for chrome
+  - goog & ibm: quantum is coming
+  - nobody knows what palantir actually does
+  - kodak may go out of biz
+  - gemini update: will automatically remember your past convos without prompting
+    - toggle
+  - polestar 3 (car) sets record for range on single charge 935 KM, 22 hrs
+  - AAPL next fronteir:  AI robots, home security, smart displays
+  - samsung new micro RGB tech
+  - USA using trackers in AI chip shipments, catch illegal shipments to china
+- tech
+  - AI: "simulated reasoning" - "chain of thought" - UoA researches dbunk
+  - quantum radar could image buried objects
+  - firefox 141: AI powered tab grouping - but is energy sucking monster
+  - cat dimentia like human dementia
+  - ai has eroded doctor's abilities to spot cancer
+  - antidote for CO poisoning "cleans" blood
+    - engineered protein
+    - molecular sponge
+    - chases down CO molecules
+  - pull print: "universal print anywhere", auth at any registered printer
+
+
 - 8/12
 - politics
   - ICE can detain if looks hispanic or speaks spanish
