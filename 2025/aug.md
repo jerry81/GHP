@@ -1,5 +1,28 @@
 [back](./index.md)
 
+- 8/15
+- culture
+  - adult sleepaway camps to make friends
+  - dog meat found in vietnameese restaurant in london, shut down
+  - vikings get male cheerleaders, backlash
+- politics
+  - 120F heatwave
+  - india china-plus-one was a plan to one-up china as worlds' electronic workshop
+    - but supplied completely by china
+    - dixon tech: flagship domestic electronics manufactory
+- biz
+  - trump admin suggests buying stake in intel
+    - intel stock grows 7%
+  - huawei ascend AI chips almost tank DeepSeek's R2 model training
+  - goog Gemma mini AI model
+  - Meta AI lets bots hold "sensual" convos with children
+  - kodak delays shutdown
+  - msft to focus on voice control
+  - lenovo surges on AI Models
+  - data brokers hide their opt-out (legally required) pages
+- tech
+  - airless tires not quite here yet
+
 - 8/14
 - politics
   - nat debt 37T
