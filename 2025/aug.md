@@ -1,5 +1,60 @@
 [back](./index.md)
 
+- 8/19
+- politics
+  - UKR peace summit
+    - RU/UKR in talks
+    - don backs putin's demands
+    - blackmailed?
+  - ICE camps have tuberculosis problem
+  - england running low on water
+  - illinois bans AI therapy
+- biz
+  - intel gets 2B investment from softbank
+  - MSFT: ai biz agents will kill saas by 2030
+  - gamblers betting on AI models
+    - "AI prediction markets"
+  - ai assisted Linkedin just not as good at recommending jobs
+  - EV regs up 7% in america in 2025
+  - duolingo down 38%, after gpt5 language app-building demo
+    - created language app from short prompt
+  - more devs at blizzard join union
+  - phishing training "useless"
+  - Labor unions want more AI regulations
+  - VW ID3 paid subscription to upgrade 201 hp to 228
+    - 16.5 Eur per month
+  - gpt5 use surges in enterprise sector
+  - sam altman brain chip venture: may also genetically alter brain cells to make better implants
+    - make cells respond to ultrasound, "sonogenetics"
+  - global EV sales up 27% in 2025
+  - sam altman: "yes ai is in a bubble"
+  - foxconn shifts to servers
+- culture
+  - spike lee docuseries on kaepernick cut by espn
+  - hollywood stopped making comedies
+  - entire youtube channels with fake celebs
+- tech
+  - china 3 day robotics olympics
+  - from china: SSDs small as sim card
+  - anti-aging therapy - mitochondrial transplantation (线粒体)
+  - barcelona - buses runing on human waste (biomethane)
+  - scientists attempting to master photosynthesis
+  - AI reshaping hacking
+    - ai agent auto dete cts malware
+      - just 24%
+    - threat actors using AI tools to speed up innovation for attacks
+    - Do attackers or defenders have upper hand
+      - cybercriminals lack money and computing resources
+      - cybercriminals use open source LLMs
+  - python and perl popularity up
+  - a single protein may cause aging
+    - ReHMGB1
+  - First brain device reads out inner speech
+    - BCI brain computer interfaces
+    - the breakthrough, not having to attempt physical speech
+- health
+  - 5% of americans are cancer survivors
+
 - 8/15
 - culture
   - adult sleepaway camps to make friends
