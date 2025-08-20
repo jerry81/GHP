@@ -1,5 +1,23 @@
 [back](./index.md)
 
+- 8/20
+- politics
+  - india "has time" - median age below 40 years old
+    - china considered "old" population
+  - pakistan internet brownouts
+  - 3/4 countries below replacement fertility
+- biz
+  - openai 4.50 USD budget tier launches in india - gpt go
+  - MIT report: 95% AI pilots fail
+  - AMZN cloud chief on replacing Juniors with AI:
+    - ""How's that going to work when you go like 10 years in the future and you have no one that has built up or learned anything?"
+  - electricity climbing 2x faster than inflation
+  - tech stock market down - uncertainty of future of AI boom
+- culture
+  - wiresexuals - women in love with AI men
+- health
+  - late night cheese snack -> nightmares?
+
 - 8/19
 - politics
   - UKR peace summit
