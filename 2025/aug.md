@@ -13,19 +13,39 @@
     - judge kevin mullins
     - shot by sheriff in own chambers
   - israel starts planned assault on Gaza city
+  - UAE running a national genomic sequencing project
 - biz
+  - sony ps5 prices raised by 50USD in US
   - meta pause AI hiring
   - air cleaners: not thoroughly tested on people
     - side effects: ozone/formaldehyde release
+  - harvard dropouts startup smart glasses: 249 USD, listen, record, transcribe every conversation, display real-time info to wearer
+    - Halo X
+  - trump wants 10% stake in intel
+  - Goog: Gemini for Home
 - culture
+  - rotten tomatoes scores climing steadily
+  - india has online betting addiction problem
   - recreational reading down 40%
   - streamer dies in bed - 10 days sleep deprivation
     - italian, raphael graven, masochist
   - stephen king thriller: 'long walk"
   - cocaine booming
 - tech
+  - arctic sea ice melting slows down?!
+    - ocean currents
+    - despite carbon rising
   - brain implants speak your thoughts, even when you dont want them to
   - world first spinal cord transplant
+  - china "virtual" salespeople outperforming humans
+    - ai-powered
+    - 24/7 selling products on e-commerce
+    - virtual avatars
+    - Taobao, Pingduoduo
+    - baidu video models
+    - deepseek language models
+    - live-streaming 1/3 e-commerce in CN
+    - luo yonghao avatar 13M views, 7.7M for baidu in june
 
 - 8/20
 - politics
