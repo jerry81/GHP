@@ -1,5 +1,32 @@
 [back](./index.md)
 
+- 8/21
+- politics
+  - us military vs mexican cartels?
+    - republicans currently 53 senate vs 47 dem
+  - tulsi gabbard (dept of intelligence) axes half of spy agency staff
+  - 71% ice detainees no criminal record
+  - vegetable prices up 38%, shortage of pickers
+  - trump concerned about afterlife: health concerns?
+    - 'im not doing well'
+  - kentucky drama - judge was taking sex bribes
+    - judge kevin mullins
+    - shot by sheriff in own chambers
+  - israel starts planned assault on Gaza city
+- biz
+  - meta pause AI hiring
+  - air cleaners: not thoroughly tested on people
+    - side effects: ozone/formaldehyde release
+- culture
+  - recreational reading down 40%
+  - streamer dies in bed - 10 days sleep deprivation
+    - italian, raphael graven, masochist
+  - stephen king thriller: 'long walk"
+  - cocaine booming
+- tech
+  - brain implants speak your thoughts, even when you dont want them to
+  - world first spinal cord transplant
+
 - 8/20
 - politics
   - india "has time" - median age below 40 years old
