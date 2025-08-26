@@ -1,5 +1,57 @@
 [back](./index.md)
 
+- 8/26
+- politics
+  - president with health drama
+  - britain protests
+  - israel strike on hospital kills 20
+  - USA, solar the largest source of energy for 21 months straight
+  - usa mining rare earth elements like cobalt, lithium, gallium, molebdnyum, yttrium, but throwing it away as side effects of gold and zinc mining
+  - solar growth in china, co2 falls first half 2025
+  - denmark to abolish VAT on books, encourage reading
+  - great firewall complete shutdown of web traffic for 74 minutes
+    - config error?
+    - testing new censorship equipment?
+- culture
+  - britney posting nudes, fans worried
+  - michael richards back to standup: 19 years later
+  - new book: "in praise of the office"
+    - problem with hybrid work: people don't come in
+    - praises human interaction for learning, motivation
+    - remote: more worthless meetings
+  - dust storm hits Burning Man
+  - james cameron: hard time writing terminator because real world events catching up
+  - AI slop videos taking over web
+    - high volume, low effort
+    - ai gen influencers
+  - europe losing: economic output down from 33 to 23% since 2005
+- biz
+  - ai-powered bdf: upload multiple docs into workspace, personalized chatbot assisttant parses and answers questions about contents
+  - banks replacing workers with AI
+    - aus bank lied about chatbots besting staff by handling higher call volumes
+  - disgruntled employee puts kill switch on employer's systems, gets 4 years in prison for sabotage
+  - despite openai challenging goog, they rely on goog search
+  - coinbase was remote-first: revoked after n.korean infiltration attempts
+  - meta 10B cloud deal with goog
+  - waymo can test in NYC
+  - msft denies access for china to bug, exploit list
+  - biotech struggling, many companies pivot to digital currency
+  - Nvidia Jetson AGX Thor: robotics chip "robot brain"
+  - perplexity AI browser Comet
+  - Tea App data breach, 33K women's addresses mapped
+  - Archer Aviation: air taxis
+  - Goog: dropped AI query cost 33x in one year
+    - optimization: activate minimal required portions of AI model
+  - meta to unveil smart glasses w/ display and wristband
+    - was oculus connect, now hypernova
+- tech
+  - pig lung transplanted to human
+  - 34 years of linux
+  - heat speeds aging?
+  - python devs using rust to speed it up
+    - postgres the king of py db's
+  - us space force, x-37B trying quantumn alternative to GPS
+
 - 8/21
 - politics
   - us military vs mexican cartels?
