@@ -9,6 +9,9 @@
 - biz
   - goog eliminated 35% mgrs of small teams last year
   - ghost job: job opening posted with no intent to hire
+  - banking: stable coin deposit interest could drain funds
+    - 1980s money market fund boom
+    - 4B in 1975 to 235B in 1982
 - tech
   - japan homegrown quantum computer
   - LLMs may struggle with long sentences
