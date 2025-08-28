@@ -1,5 +1,19 @@
 [back](./index.md)
 
+- 8/28
+- politics
+  - MN catholic school shooting
+    - 2 children dead
+  - ICE workers stressed out
+  - nevada crippling cyberattack
+- biz
+  - goog eliminated 35% mgrs of small teams last year
+  - ghost job: job opening posted with no intent to hire
+- tech
+  - japan homegrown quantum computer
+  - LLMs may struggle with long sentences
+  - deforestation indirectly killed 500K people due to heat
+
 - 8/26
 - politics
   - president with health drama
