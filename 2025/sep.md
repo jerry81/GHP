@@ -2,9 +2,95 @@
 - 9/9
 - politics
   - trump promised better economy: but hiring droping and inflation up
+  - masks from covid: bad for environment - microplastics
+  - TX banned lab-grown meat: gets sued (2 years active)
+  - american students forced to lock cells in pouches
+  - EU joins AI race with Supercomputer, Jupiter, built in Germany
+    - 24K nvidia chips
+  - trump tarriff: in semiconductor imports from non-us producers
+  - global poll: public backs preserving 30% of land and sea in natural state
 - biz
+  - anthropic fined 1.5B
+    - sued by book authors
+  - commonwealth fusion systems (bill gates backed fusion) wants to deploy reactor in japan
+  - new bmw iX3 - 500 Mi. range
+  - roku tv taking over traditional television in usa
+  - ETF: exchange-traded fund - like stocks, bonds, commodities
+    - americans prefering ETF dividends over day jobs
+    - freedom from traditional employment
   - goog: open web (search) in rapid decline
+  - jaguar land rover shuts down after cyber attack
+  - (AI): openAI will burn 115B thru 2029
+    - costs of computing outpacing revenue growth
+    - 80B higher than previous expectation
+    - past 2 years, burned 2B
+    - raised more capital than any private company in history
+  - (AI): Angry Github users rebelling against forced copilot AI features
+    - autogen issues and pull requests in code repos
+  - 50% fewer young employees at tech companies than 2 yrs ago
+    - (AI): further shows that young people's job market easily disrupted by AI
+  - MSFT working on Analog Optical computer for AI
+    - uses light passing thru sensors at differing intensities, doing computation work
+    - vision - faster more efficient 100X
+  - (AI): 32% senior devs: 1/2 shipped code is ai-gen
+    - 80% more enjoyable
+    - invest time fixing ai-gen code - 30% seniors say editing output offset time savings
+      - 17% juniors said this
+    - 33% frequently must fix
+    - 14% say never make changes
+  - humanoid robot biz:
+    - china, unitree: 77lb 4ft 3 robot 18K USD
+  - openai first AI chip to launch in 2026 with broadcom and tsmc
+  - appl vision pro might have some niche markets
+    - b2b - lowe's kitchen design visualization,
+    - Dassault Systemes - engineering workflows
+    - CAE, pilot training
+  - anthropic blocks services from Chinese controlled companies
+    - could serve adversarial military and intelligence services
+  - prediction AI will lobby like Movie, tobacco and oil industries
+  - panasonic lags behind competitors hitachi, sony, NEC
+    - osaka based
+    - elim 10K positions
+  - GOOG deletes net-zero pledge
+    - pichar: "intend to be first major company to operate carbon free 24/7/365"
+  - (AI): UK gov trial M365 copilot finds no clear productivity boost
+  - AMZN kuiper makes deal with airline
+  - R&D spending comparison
+    - intel 28% more than nvidia
+    - 156% more than AMD
+- tech
+  - brain-wide map of decision-making in mice tracked
+    - 620K neurons
+  - (AI): Hinton: AI will make a few people much richer and most people poorer
+    - dismisses UBI to solve human dignity from job loss
+    - AI combined with capitalism will not solve hunger/poverty
+  - paris uses river water to cool city buildings!
+    - but river temperatures of seine river rising!
+    - 27C in summer, 30C regulatory limit
+  - fresh water found under ocean?
+    - (AI): (resources) - UN projects global freshwater demand exceed supply within 5 years
+    - drilled into earth at seafloor
+    - huge hidden aquifer?
+  - a sodium-ion battery project ceases ops
+  - studies about LSD reducing anxiety
+  - drinking causes gut bacteria to leak from gut to liver causing damage
+  - finland energy tech: sand battery
+    - grains of sand store much energy
+      - store heat at 500C for several days to months
+    - Polar Night Energy - company name
+  - man received pig kidney transplant, still alive after 6 months
+    - genetically modified pig
+  - (AI): all IT work will involve AI by 2030
+    - Gartner (analyst firm)
+    - doesn't think job losses will result
+    - analyst: currently 81% done without AI assistance
+      - 5 years later 75 will be augmented by AI
+      - 65% CIOs not breaking even on AI investments
+  - (AI): mathematicians: GPT-5 makes critical errors in proof generation
+  - protein linked to brain reversing aging in mice: FTL1
 - culture
+  - LOL: bathroom doomscrolling may increase risk of hemorrhoids
+  - LOL: mark zuckerberg (lawyer) sues fb for shutting his page down repeatedly for "impersonation"
   - mexico city food less spicy due to rise in american tourists
   - britney continues to make headlines with craziness
   - crowe, malek in nuremberg
