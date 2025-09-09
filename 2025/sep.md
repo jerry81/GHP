@@ -1,6 +1,8 @@
 [Back](../index.md)
+
 - 9/9
 - politics
+  - us workers down about finances
   - trump promised better economy: but hiring droping and inflation up
   - masks from covid: bad for environment - microplastics
   - TX banned lab-grown meat: gets sued (2 years active)
@@ -9,7 +11,39 @@
     - 24K nvidia chips
   - trump tarriff: in semiconductor imports from non-us producers
   - global poll: public backs preserving 30% of land and sea in natural state
+  - nepal blocks websites, fb, x, youtube b/c refusal to comply to register with gov
+  - (AI): india's aI "all talk little substance"
+    - perplexity and openai heavily discounted offerings to india market
+  - xi and putin discussing organ transplants and immortality
+  - swiss AI: apertus - open source multilingual LLM trained on 15T tokens over 1K languages
+    - complete openness
+  - (AI): AI powered drone swams enter battlefield
+    - 3 drones acted autonomonously to decide when to strike
+  - americans lose faith that hard work leads to economic gains
+    - american dream is dead
+  - us population to shrink?
+  - world top innovation cluster now SZ-HK-GZ
+    - overtakes TOK-YOK
+  - 85% college students report AI use
 - biz
+  - diablo devs unionize: 450 devs
+  - (AI): SF ceo: "AI enabled him to cut 4K jobs"
+    - marc benioff
+  - google tightens sideloading constraints
+    - start march 2026 - must provide identity verification for Android app developers
+    - thru android developer console
+  - 32G ram is the new standard for gaming
+  - SAP expanding to "sovereign Cloud" 20B EUR investment
+  - chrome market share over 70%
+  - waymo in denver and seattle
+  - in USA, less jobs openings than job seekers
+    - first time in 4 years
+  - (AI): youtube: ai-gen boring history videos flooding youtube, pushes out real history
+  - AMZN solar powered keyboard
+  - NVidia 94% share on GPU shipments
+  - OpenAI projects:
+    - jobs platform
+    - cert program for AI roles
   - anthropic fined 1.5B
     - sued by book authors
   - commonwealth fusion systems (bill gates backed fusion) wants to deploy reactor in japan
@@ -59,6 +93,11 @@
     - intel 28% more than nvidia
     - 156% more than AMD
 - tech
+  - biggest iceberg breaks
+    - twice size of greater london
+    - from antarctica
+  - sugar substitutes may accellerate aging
+  - new ai model: turn photo to explorable 3d world
   - brain-wide map of decision-making in mice tracked
     - 620K neurons
   - (AI): Hinton: AI will make a few people much richer and most people poorer
@@ -89,6 +128,7 @@
   - (AI): mathematicians: GPT-5 makes critical errors in proof generation
   - protein linked to brain reversing aging in mice: FTL1
 - culture
+  - alcohol consumption down, premium waters up in restaurants
   - LOL: bathroom doomscrolling may increase risk of hemorrhoids
   - LOL: mark zuckerberg (lawyer) sues fb for shutting his page down repeatedly for "impersonation"
   - mexico city food less spicy due to rise in american tourists
