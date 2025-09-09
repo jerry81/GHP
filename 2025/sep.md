@@ -1,4 +1,33 @@
 [Back](../index.md)
+- 9/9
+- politics
+  - trump promised better economy: but hiring droping and inflation up
+- biz
+  - goog: open web (search) in rapid decline
+- culture
+  - mexico city food less spicy due to rise in american tourists
+  - britney continues to make headlines with craziness
+  - crowe, malek in nuremberg
+  - avg attention span is 8 seconds and dropping
+
+- 9/2
+- politics
+  - tariffs ruled illegal at some point, refunds asked for from washington?
+  - france ready for "WW3"?
+    - hub for battlefield casulties
+  - china to parade ship-killing weapons
+  - vance vying for power?
+- culture
+  - robin wright leaves america, "it's a shitshow"
+    - moved to ireland
+  - rock may be oscar contender with "the machine"
+  - mexico open ceremony for WC 2026
+  - burning man attendee gives birth
+    - murder?
+- biz
+  - stocks higher than dot-com era
+  - gold futures up
+  - dirty workers, garbage collectors & exotic dancers happier?
 
 - 9/1
 - politics
@@ -18,6 +47,7 @@
     - " Ai industry hastily pushing poorly-understood products to market using real people as guinea pigs, and adopting increasingly haphazard solutions to real-world problems as they arise"
   - humans hired to beautify ai slop
   - backlash vs smartglasses that record
+  - vivaldi browser ceo: refuses to integrate genAI into browser
 - culture
   - jude law as putin
   - rick beato gets hit with copyright lawsuit from UMG
