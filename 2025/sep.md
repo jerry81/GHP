@@ -1,5 +1,30 @@
 [Back](../index.md)
 
+- 9/23
+- politics
+  - kimmel back
+    - 400 celebs signed petition backing him
+  - pam bondi - attorney general
+  - don approval 37%, 34% on economy
+  - angelina jolie: "i don't recognize my country"
+- biz
+  - rush to return to office stalling
+  - germany prepping to treat 1K injured soldiers per day in war
+  - economists: gen z hiring nightmare is real
+    - rise in unemp under 25 americans
+  - linkedin training AI model on user profiles
+  - meta llama to be used by us gov
+  - uber ceo: 10-15 years robotaxis take over, create big societal question
+  - nvidia invest 100B in openai
+  - goog ai workers fired over dispute over working conditions
+- culture
+  - CS profs: we should question the run-away train about every student needs to use AI early and often
+- tech
+  - using AI increases unethical behavior?
+  - for 60 years, earth has had a "quasi moon"
+  - ai tools give "dangerous powers to cyberattackers"
+  - durable coating for solar panels from red onion skins
+
 - 9/9
 - politics
   - us workers down about finances
