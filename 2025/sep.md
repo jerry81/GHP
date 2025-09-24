@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+- 9/24
+- politics
+  - in response to tariffs, china goes cheap exports
+  - musk father accused child sex abuse
+    - accused by 5 children + stepchildren
+  - netanyahu wants to annex west bank?
+  - china aircraft carrier "electromagnetic catipult" to launch aircraft
+- biz
+  - mobile "vibe coding" apps don't gain traction
+  - msft microfluidics (tiny ducts etched into chips) have been 66% more effective
+  - 1/4 35 and under workers expect AI to take their jobs
+  - "workslop" ai-gen content that looks polished but lacks substance
+  - despite 100s of billions of funding, AI companies not sure how the revenue will come
+- culture
+  - taarof: the iranian art of refusing payment but actually expecting it
+- tech
+  - technology causing cancer in modern world?
+  - revolutionary steps vs alzhiemers
+  - MLB robot umps for challenges
+
 - 9/23
 - politics
   - kimmel back
@@ -7,7 +27,14 @@
   - pam bondi - attorney general
   - don approval 37%, 34% on economy
   - angelina jolie: "i don't recognize my country"
+  - wwii american bomb found buried in HK, 6K evacuted to defuse
+  - europe airport cyberattack
 - biz
+  - 3 ai bubbles:
+    - speculative, infra, hype
+      - speculative: asset prices over fundamental values
+      - infra: investment into possibly unused infra
+      - hype:  promise exceeds reality
   - rush to return to office stalling
   - germany prepping to treat 1K injured soldiers per day in war
   - economists: gen z hiring nightmare is real
@@ -17,6 +44,9 @@
   - uber ceo: 10-15 years robotaxis take over, create big societal question
   - nvidia invest 100B in openai
   - goog ai workers fired over dispute over working conditions
+  - seattle fewer tech jobs - starbucks getting barista applications from people who applied msft amzn
+  - meta smart glasses reveal: humiliation due to glitches
+  - interlune (quantum startup) farming helium 3 from moon
 - culture
   - CS profs: we should question the run-away train about every student needs to use AI early and often
 - tech
