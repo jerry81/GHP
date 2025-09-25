@@ -1,5 +1,28 @@
 [Back](../index.md)
 
+- 9/25
+- politics
+  - former fbi director james comey: indicted for perjury, targeted by trump
+  - kimmel return gets 15M youtube views
+  - tattooing illegal in s korea
+- biz
+  - intel asks apple for investment
+  - SAP: 320B software firm: AI "afford to have less people"
+  - IG: 3B monthly users
+  - private equity - investment company that buys ownership in businesses
+    - examples: blackstone group, kkr, carlyle, apollo, TPG, bain
+  - lionsgate struggling to make ai-gen films
+  - MSFT AI CEO Mustafa Suieyman - turn Edge into agentic browser: Copilot controls tabs, nav websites, complete tasks while you watch
+  - softbank, oracle, openai 500B stargate project - five new AI Data centers
+    - stargate: joint venture with whitehouse, AI infra initiative
+- culture
+  - china alters "together" gay marriage scene - face swapped woman to man
+- tech
+  - new fastest car reaches 308 MPH - chinese maker Yangwang
+  - world oceans too acidic now
+  - cloudflare reports another record-breaking DDoS
+    - 22 Tbps
+
 - 9/24
 - politics
   - in response to tariffs, china goes cheap exports
