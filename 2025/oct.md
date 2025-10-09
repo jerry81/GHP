@@ -2,6 +2,7 @@
 
 - 10/9
 - politics
+  - china new k visa attracts foreign talent
   - trump dementia accusations again
   - ICE's detention center called alligator alcatraz
   - spain far right movement
@@ -18,13 +19,21 @@
   - EU labor law discourages investment in disruptive techs that could reduce number of workers
   - china setting up two satellite constellations "guowang" and "thousand sails"
     - 国网, 千帆
+  - stray bullet knocked out internet in TX
+  - philipines 2nd biggest gambling hub in asia after macau
+  - britain going broke
 - culture
+  - jane goodall rip, 91
   - post-literate society - reading down
   - gene simmons hospitalized after car crash: passed out
   - mr beast # 1 youtuber fears sora launch
   - steve jobs 14 years since death
   - cory doctorow book: enshittification: why everything suddenly got worse and what to do about it
 - biz
+  - chatgpt adds instant checkout
+  - venmo paypal interop
+  - lufthansa cuts 4k jobs - use AI to boost efficiency
+  - new msft ceo: judson aithoff
   - 100 design roles in cloud cut at google
   - "only hundreds in world can train complex ai models"
   - asahi super dry the most popular beer in japan
@@ -64,7 +73,9 @@
   - bezos prediction: data centers in space
     - uninterruptible solar power
   - tesla unmatched in OTA updates
+  - appl shifts from vision pro work to meta-like rayban style glasses
 - tech
+  - organic substances found on saturn's moons
   - women may live longer because of double x chromosone protects against mutations
   - larry page: cheerful apocalyptic
   - sora 2 (openai video) watermark removers everywhere
