@@ -15,10 +15,33 @@
   - renewables surpass coal
   - ireland basic income scheme for artists becomes permanent
   - india power grid struggling
+  - EU labor law discourages investment in disruptive techs that could reduce number of workers
+  - china setting up two satellite constellations "guowang" and "thousand sails"
+    - 国网, 千帆
 - culture
+  - post-literate society - reading down
   - gene simmons hospitalized after car crash: passed out
   - mr beast # 1 youtuber fears sora launch
+  - steve jobs 14 years since death
+  - cory doctorow book: enshittification: why everything suddenly got worse and what to do about it
 - biz
+  - 100 design roles in cloud cut at google
+  - "only hundreds in world can train complex ai models"
+  - asahi super dry the most popular beer in japan
+  - msft survey: 71% biz leaders choose less experienced ai skills over experienced candidates without
+  - ai has run out of training data - says goldman cheif data officer
+  - amzn delivery drones crash into crane in AZ
+  - amd to use intel factory to make chips?
+  - AI bubble 17x dot com, and 4x subprime
+  - vibe coding to create more programming jobs?
+  - pay-advance app: aka earned-wage access app, cash-advance
+    - get portion of paycheck before official payday
+  - porcsche can't add inductive wireless charging because of fit issues
+  - openai to become platform for in-chatgpt apps
+  - tiktok us HQ: culver city
+  - tim cook nears retirement
+    - hardware head john ternus may replace
+  - astrazeneca 555M AI deal with Algen (ai powered gene editing)
   - openai drops 1T in deals for computing power this year
   - AI = 3 day work week?
   - youngest selfmade billionaire: shayne coplan - Polymarket: prediction market platform
@@ -30,7 +53,20 @@
     - environmental reasons
   - qualcomm buys arduino
     - releases RBPi competitor
+  - chatgpt 800M weekly active users
+  - toyota EV: BZ series, only sells 60 in month
+    - recalls due to faulty defroster
+  - msft wants in-house chips, swap nvidia and amd
+  - texas stock eschange incoming
+  - google pushing Jules - AI coding agent
+  - openai 500B valuation - most valuable startup
+    - passed spacex and bytedance
+  - bezos prediction: data centers in space
+    - uninterruptible solar power
+  - tesla unmatched in OTA updates
 - tech
+  - women may live longer because of double x chromosone protects against mutations
+  - larry page: cheerful apocalyptic
   - sora 2 (openai video) watermark removers everywhere
   - skorea data center fire: 858TB gov data lost
   - sci's want to cool earth
@@ -41,3 +77,4 @@
     - detoxify applications
   - asperger's was merged into autism - complaints made about this
   - nobel physics given for quantumn mechanics work
+  - ubuntu linux 26.04 called Resolute Raccoon
