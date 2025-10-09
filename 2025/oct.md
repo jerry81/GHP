@@ -13,16 +13,25 @@
   - EU word ban: plant-based meat terms "steak, burger, sausage"
   - germany lets police shoot down drones
   - renewables surpass coal
+  - ireland basic income scheme for artists becomes permanent
+  - india power grid struggling
 - culture
   - gene simmons hospitalized after car crash: passed out
+  - mr beast # 1 youtuber fears sora launch
 - biz
+  - openai drops 1T in deals for computing power this year
   - AI = 3 day work week?
   - youngest selfmade billionaire: shayne coplan - Polymarket: prediction market platform
   - SF data breached, 1B records - extorted, refuses payment
   - middle management being cut at higher rates than ever in America
   - openAI/AMD deal on monday - openai committed to purchasing chips over multiple years
     - AMD offered 10% of company
+  - usb-less phones
+    - environmental reasons
+  - qualcomm buys arduino
+    - releases RBPi competitor
 - tech
+  - sora 2 (openai video) watermark removers everywhere
   - skorea data center fire: 858TB gov data lost
   - sci's want to cool earth
     - rain over volcanic rock, pull carbon from air, wash into ocean store the carbon
@@ -30,3 +39,5 @@
   - win 11 deadline incoming, pc sales explode
   - nobel prize in chemistry: developed molecular building blocks w/ spaces to allow gases to pass thru
     - detoxify applications
+  - asperger's was merged into autism - complaints made about this
+  - nobel physics given for quantumn mechanics work
