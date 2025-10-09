@@ -2,6 +2,8 @@
 
 - 10/9
 - politics
+  - china breaks record for world's highest bridge, guizhou, huajiang grand canyon bridge
+  - taliban cuts afghan internet
   - china new k visa attracts foreign talent
   - trump dementia accusations again
   - ICE's detention center called alligator alcatraz
@@ -23,6 +25,7 @@
   - philipines 2nd biggest gambling hub in asia after macau
   - britain going broke
 - culture
+  - tai lopez (youtuber) bought radio shack, modells, pier 1, accused of running ponzi scheme
   - jane goodall rip, 91
   - post-literate society - reading down
   - gene simmons hospitalized after car crash: passed out
