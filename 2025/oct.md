@@ -1,5 +1,54 @@
 [Back](./index.md)
 
+- 10/13
+- politics
+  - ukr (and us) hit russian energy
+    - energy a key battleground
+    - putin warns west
+  - israel hamas ceasefire
+    - hamas releases israeli hostages
+  - South carolina bar shooting
+    - 4 dead 20 inj
+  - china arrests ezra jin, prominent pastor
+  - st peter's basilica (vatican) gets peed on
+  - fake celeb's deepfakes going viral
+  - tel aviv rally - trump praised, netanyahu booed
+  - CA: no more coal starting next month
+  - palisades fire started by uber driver?
+    - killed 12 people
+- culture
+  - coral reef discovered near naples
+  - SG, japan, uk top destinations for entrepreneurs who move
+    - switzerland 4, usa 5
+- biz
+  - $299 rubiks cube with led screens
+    - WOWCube
+  - 19755 workers cut at india's top firm TCS in ai push
+  - meta exec to workers building metaverse: use ai to go 5x faster
+  - lyft - tensor auto - robotaxi deal
+  - openai - sur energy 25B argentenian data center deal
+  - toyota all solid state batteries to launch
+  - appl acquire cv team from prompt AI
+  - new gpu tech for ps6
+    - collab with AMD
+  - msft give free AI tools to wash state schools
+  - openAI to turn to ad platform?
+  - one-drive adding face recog for photos?
+  - antitrust: circular AI deals:
+    - amd sells to oracle
+    - oracle builds data centers for openai
+    - nvidia owns coreweave which helps build data centers
+  - double digit drop for bitcoin, below 110K
+  - tesla tron:ares mode: light show
+    - bad box office
+  - amd/openai chip deal "big victory"
+    - nvidia still leads
+  - USA: 80% say job hurts mental health
+  - ferrari first EV sports car
+- tech
+  - ai tools find 50 bugs in cURL
+  - gps fails around skyscrapers - tall buildlings bounce signals
+
 - 10/9
 - politics
   - china breaks record for world's highest bridge, guizhou, huajiang grand canyon bridge
