@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+- 10/14
+- politics
+  - israeli hostages set free
+  - RU warns of WW3
+  - chinese factories supply RU drones
+  - america's fall is fate?
+  - BJ upper hand in trade war?
+    - FCC forces millions of chinese electronics to be delisted
+  - china acquiring land in key locations near us military bases
+    - spying or attack staging ground
+  - dutch gov nationalizes Nexperia (chinese owned)
+    - causes stock to drop 10%
+    - hague exercised "Availability of goods Act"
+  - china passes us in free AI models count
+  - pope against AI "replacing humans"
+- biz
+  - openai broadcom chip deal worth billions
+  - crypto mogul found dead by gunshot inside his lambo
+    - konstantin galich
+    - depression, financial difficulties
+    - kyiv ukr
+    - possible suicide
+  - goog AI image editor - nano banana
+- tech
+  - alzheimer dolphins washing up in miami
+
 - 10/13
 - politics
   - ukr (and us) hit russian energy
