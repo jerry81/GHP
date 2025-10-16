@@ -1,5 +1,59 @@
 [Back](./index.md)
 
+- 10-16
+- politics
+  - ICE kills a dog
+    - cracking down chicago but residents fighting back
+  - swatstika flag spotted in maga rep's office, triggers probe
+  - CIA spy actions in venezuela
+    - assassinate maduro?
+  - general using chatgpt to make military decisions?
+  - RU drones swarming europe
+    - sweden stockpiling food
+  - norway already 100% new EV sales
+  - cn steals vast amounts of classified uk docs
+    - infiltrated key uk gov data-transfer network for years
+    - boris johnson coverup?
+  - us passport no longer top 10 most powerful
+  - warning: by 2050: 2C increase in global temp
+  - new obesity definitions - 70% us adults
+  - world producing more food crops than ever before
+  - half world's sattelites transmit unencrypted info
+- tech
+  - software overhead chain:
+    - react -> electron -> chromium -> docker -> kubernetes -> VM -> mg db -> api gateways
+      - each layer addig 20-30% overhead
+        - 2-6x overhead for same behavior
+      - apple calculator leaked 32GB ram
+      - conclusion, we are living in software quality crisis
+  - ai agents inherently unsafe
+    - unsafe data, untrusted, unverified tools, hostile environments
+      - each phase OODA loop (observe, orient, decide, act) is vunerable
+        - must choose one of fast, smart, secure (trilemma)
+  - ai missing out on vast amounts of non-digitized human knowledge
+    - non-english knowledge neglected
+- biz
+  - github migrating to azure - features dev put on secondary priority
+  - indonesia film industry uses ai to make hollywood-like movies for cheap
+  - SF AI customer service, 100M annual savings
+  - goog 15B investment in india ai hub
+  - reddit co-founder: Internet now dominated by bots and AI
+  - anthropic aims triple rev in 2026
+  - waymo to london
+  - western execs wowed by china's automation in manufacturing
+    - ford CEO
+    - dark factories - don't need to turn on lights, round the clock production by robots
+  - tim cook pledge: boost china investment
+    - new macbook pro - 24 hr battery life, faster AI processing
+- culture
+  - mel gibson new jesus movie
+    - passion 2
+- health
+  - humans hit functional peak at 60?
+    - complete form of intelligence
+      - emotional balance, experience, judgement
+  - focused sound energy as medical treatment for cancer, alzheimers etc
+
 - 10/14
 - politics
   - israeli hostages set free
