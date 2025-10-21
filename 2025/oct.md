@@ -10,7 +10,13 @@
   - modern political issue: should scientists be allowed to edit genes of wild animals
   - tx age-verification law on app store
     - big tech calls "broad censorship"
+  - NY bans AI-enabled rent-pricing
+  - Army general uses AI to improve decision making
+  - CN generates 2x america's power
+  - SKorea tried AI textbook program, abandoned after 4 months of tech difficulties
 - biz
+  - wikipedia human visits down - due to AI
+    - called dangerous
   - GM ev sales down, canada backs down from EV mandate
   - perplexity releases ai browser, "comet"
   - andrej karpathy (also ex openai) builds Open source "nanochat"
@@ -34,15 +40,20 @@
     - iphone air, galaxy s26 edge
   - appl, F1 750M deal for streaming coverage
   - SF hit with lawsuit - used books without permissions to train AI
+  - saudi arabia tried to acquire EA, but unions against it
+  - new macbook pro - touchscreen, m6
 - culture
   - Chess GM daniel naroditsky dead 29
 - tech
+  - future self-driving police cars may be able to launch drones
   - sight-restoring electronic implant a success
   - environment: record co2 levels in 2024
   - health hazard: protein powders have high levels of lead
   - concrete: 8% world's greenhouse gas emissions
   - AI posted dangerous health advice on reddit
   - plug-in hybrids pollute as much as petrol
+  - ice xxi - super-compressed ice
+  - alzheimer's breakthrough in rats
 
 - 10-16
 - politics
