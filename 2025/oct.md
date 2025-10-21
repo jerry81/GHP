@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+- 10/21
+- politics
+  - trump to free diddy?
+  - CN hacked by US?
+  - japan elects female leader, sanae takaichi - PM of japan
+    - 64, succeeds shigeru ishiba
+  - CN stealing american dna to create super soldiers?
+- biz
+  - cory doctorow urges tech workers: join unions to avoid "enshittification"
+  - spacex launches 10K th starlink satellite
+  - claude code has web version
+  - jensen: nvidia went from 95% to 0% mkt share in CN
+  - openai "embarrassing" math
+    - GPTards
+  - 3 hr AWS outage - 1000s websites go offline
+    - dns issues in dynamo US-EAST-1 no. virginia
+      - fortnite, clash royale, clash of clans
+  - gig economy to become next AI rev's next casualty
+    - new gigs: help Uber train ride-sharing AI models
+      - test driverless grocery and meal deliveries
+- culture
+  - Chess GM daniel naroditsky dead 29
+- tech
+  - sight-restoring electronic implant a success
+
+
 - 10-16
 - politics
   - ICE kills a dog
