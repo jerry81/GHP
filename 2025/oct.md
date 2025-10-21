@@ -7,7 +7,16 @@
   - japan elects female leader, sanae takaichi - PM of japan
     - 64, succeeds shigeru ishiba
   - CN stealing american dna to create super soldiers?
+  - modern political issue: should scientists be allowed to edit genes of wild animals
+  - tx age-verification law on app store
+    - big tech calls "broad censorship"
 - biz
+  - GM ev sales down, canada backs down from EV mandate
+  - perplexity releases ai browser, "comet"
+  - andrej karpathy (also ex openai) builds Open source "nanochat"
+    - 8000 lines of clean code
+    - didn't use vibe coding
+  - sony gets into crypto - sony bank - stablecoin for us dollar
   - cory doctorow urges tech workers: join unions to avoid "enshittification"
   - spacex launches 10K th starlink satellite
   - claude code has web version
@@ -20,11 +29,20 @@
   - gig economy to become next AI rev's next casualty
     - new gigs: help Uber train ride-sharing AI models
       - test driverless grocery and meal deliveries
+  - signal messenger starting to plan for quantum decryption
+  - appl, samsung new thin smartphones have underwhelming sales
+    - iphone air, galaxy s26 edge
+  - appl, F1 750M deal for streaming coverage
+  - SF hit with lawsuit - used books without permissions to train AI
 - culture
   - Chess GM daniel naroditsky dead 29
 - tech
   - sight-restoring electronic implant a success
-
+  - environment: record co2 levels in 2024
+  - health hazard: protein powders have high levels of lead
+  - concrete: 8% world's greenhouse gas emissions
+  - AI posted dangerous health advice on reddit
+  - plug-in hybrids pollute as much as petrol
 
 - 10-16
 - politics
