@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 10/23
+- politics
+  - national debt > 38B
+  - trump says he's doing better than lincoln and washington
+  - speculation that he doesn't want to ever leave white house
+  - reconstruction of east wing (white house)
+  - health insurance costs 27K for family plan
+  - global coal use actually hit record high in 2024
+  - new delhi pollution: 5 year high
+- biz
+  - uber gives 4K USD incentives to swap gas vehicle to EV
+  - reddit sues perplexity for scraping data
+  - 1/4 americans didn't take any vacation days
+  - tesla profit down, musk focuses on "robot army"
+  - meta fires 600 from AI unit "bloated"
+  - goog migrates internal workloads to ARM chips
+    - youtube, gmail, running on both x86 and arm
+  - samsung makes first android XR headseat
+    - Galaxy XR
+  - youtube new feature - time limit on shorts watching
+- tech
+  - AI misrepresenting news content at high rate 45%
+- culture
+  - women taking testosterone?
+
 - 10/21
 - politics
   - trump to free diddy?
