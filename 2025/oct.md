@@ -2,6 +2,7 @@
 
 - 10/23
 - politics
+  - canada BC bans new crypto mining ops from connecting to power grid
   - national debt > 38B
   - trump says he's doing better than lincoln and washington
   - speculation that he doesn't want to ever leave white house
@@ -9,7 +10,12 @@
   - health insurance costs 27K for family plan
   - global coal use actually hit record high in 2024
   - new delhi pollution: 5 year high
+  - 1100 public figures call for ban on superintelligence - goal: halt until broad consensus on safety and public support
+    - geoffery hinton, wozniak, branson, steve bannon, ethereum cofounder vitalik buterin
+    - altman superAI by 2030
+    - Zuck, superintel in sight
 - biz
+  - waymo investigated over waymo robotaxis around school buses
   - uber gives 4K USD incentives to swap gas vehicle to EV
   - reddit sues perplexity for scraping data
   - 1/4 americans didn't take any vacation days
@@ -20,7 +26,13 @@
   - samsung makes first android XR headseat
     - Galaxy XR
   - youtube new feature - time limit on shorts watching
+  - google quantum breakthrough
+    - quantum echoes algorithm
+    - replicatable
+    - quantum chip Willow
 - tech
+  - many financial and gov runs on cobol - mainframe coding lang
+  - resistant bacteria advances faster than antibiotics
   - AI misrepresenting news content at high rate 45%
 - culture
   - women taking testosterone?
