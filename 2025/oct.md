@@ -12,6 +12,10 @@
       - monkeys
       - dogs
 - biz
+  - office online: end of life 12/31/2026
+  - anthropic & goog cloud deal
+  - teams new feature - track attendance thru wifi
+  - appl shipping AI servers from TX factory
   - AMZN cut 14K corporate roles
   - openai msft deal: msft gets 27% ownership
     - worth 135B until year 2032
@@ -21,6 +25,11 @@
   - 3/4 restaurant orders in america not eaten in restaurant
   - nvidia nvqlink
     - quantum processor connected to gpu based supercpus
+  - aws cloud share down to 38% vs 50% in 2018
+- tech
+  - UN  goal of 1.5C cap will fail
+  - iceland now has mosquitoes, climate change
+  - aws outage caused by single point of failure
 
 
 - 10/28
@@ -33,12 +42,14 @@
       - gangs, cartel
   - finland fertility down 1/3
 - biz
+  - EA teams up with stability AI (stable diffusion)
   - amzn to layoff 30K
     - overhiring during pandemic
   - openai: over 1M people talk to chatgpt about suicide weekly
   - apple wallet to link with passports
   - qualcomm to compete with amd and nvidia on ai chips
   - workers using AI to generate fake expense receipts
+  - msft - the new clippy: Mico
 - tech
   - ransomware profits down - victims stop paying
   - cancer treatment destroys 90% of skin and colon cancer cells in 30 minutes
