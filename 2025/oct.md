@@ -1,5 +1,53 @@
 [Back](./index.md)
 
+- 10/29
+- politics
+  - china: first wind-powered undersea data center
+    - lingang
+      - 1.6 B yuan
+  - hurricaine melissa
+  - china pushes animal testing, accelerating biotech
+    - editing genes of large animals
+      - pigs
+      - monkeys
+      - dogs
+- biz
+  - AMZN cut 14K corporate roles
+  - openai msft deal: msft gets 27% ownership
+    - worth 135B until year 2032
+    - msft backed openai with 13.75B
+    - after AGI reached, MSFt no longer gets cut of revenue
+  - openai wants to spend 1T a year in infrastructure
+  - 3/4 restaurant orders in america not eaten in restaurant
+  - nvidia nvqlink
+    - quantum processor connected to gpu based supercpus
+
+
+- 10/28
+- politics
+  - venezuela accuses america of planting false flag:
+    - staged attack, pin blame on someone else
+    - origin - naval ships - fly false flag to get close to enemy
+    - warships in caribbean fronting as war on drugs, but actually want to take venzuela's oil
+    - antwerp belgium: eu's biggest port, becoming a cocaine port
+      - gangs, cartel
+  - finland fertility down 1/3
+- biz
+  - amzn to layoff 30K
+    - overhiring during pandemic
+  - openai: over 1M people talk to chatgpt about suicide weekly
+  - apple wallet to link with passports
+  - qualcomm to compete with amd and nvidia on ai chips
+  - workers using AI to generate fake expense receipts
+- tech
+  - ransomware profits down - victims stop paying
+  - cancer treatment destroys 90% of skin and colon cancer cells in 30 minutes
+    - light therapy
+    - years away from clinics
+    - lab only
+    - not fda approved
+    - colon weaker results
+
 - 10/23
 - politics
   - canada BC bans new crypto mining ops from connecting to power grid
