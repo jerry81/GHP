@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+- 10/30
+- politics
+  - china new law - social media influencers require them to hold verified pro qualifications before posting content on
+    - medicine, law, education, finance
+  - trump thinks himself a king
+  - pop-up city: experimental settlement - bring people and ideas together to test new concepts
+    - island off coast of honduras popup city - longevity startups fast tracking anti-aging drugs
+      - vitalia
+- biz
+  - nvidia gets 5T valuation
+    - first ever company
+    - as much as entire german economy
+  - gates: AI bubble similar to dot com bust
+
 - 10/29
 - politics
   - china: first wind-powered undersea data center
