@@ -8,11 +8,20 @@
   - pop-up city: experimental settlement - bring people and ideas together to test new concepts
     - island off coast of honduras popup city - longevity startups fast tracking anti-aging drugs
       - vitalia
+  - china/usa - seek to ease trade tensions
 - biz
+  - chatgpt browser "atlas" - anti-web
+    - instead of webpage results when searched, gives wikipedia-like report
+  - nvidia takes 1B stake in nokia
+    - finnish company, 6G and AI-driven network tech
+  - us startup "substrate" will rival ASML on lithography equipment
   - nvidia gets 5T valuation
     - first ever company
     - as much as entire german economy
   - gates: AI bubble similar to dot com bust
+  - grammarly rebrands as superhuman
+  - msft handheld xbox -  xbox Ally, $600
+  - youtube auto-upscale low-res videos with AI
 
 - 10/29
 - politics
