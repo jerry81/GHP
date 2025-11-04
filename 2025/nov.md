@@ -4,6 +4,8 @@
 - politics
   - trump right eye swollen
     - disapproval 63%
+  - UA flight struck by mystery object
+    - space debris or weather balloon from silicon valley test project
 - health
   - melatonin use linked with heart issues
 - culture
@@ -11,6 +13,9 @@
     - downgrade smart home to analog dumb home
   - daylight savings still happening, still unpopular
 - biz
+  - spaceX/Pentagon 2B satellite deal
+  - solar panel price drop, global boom (except US)
+  - samsung chip manufacturing factory 50K nvidia GPUs
   - sam altman pressed about 1T spending, defends
   - rockstar games fires dozens, accused of union-busting
   - openAI and amazon 38B deal for cloud computing
@@ -26,6 +31,8 @@
   - 3 companies, Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using content to train AI
   - palantir hiring philosophy: target high school grads, college is a waste
   - amzn deployed rivian electric delivery vans in canada
+  - AI browsers
+    - OpenAI atlas, Perplexity Comet
 - tech
   - 1Password warning: AI use breaking corporate security
     - sensitive info fed into LLM
@@ -33,5 +40,6 @@
     - replaced by invisible tracking systems
   - linux to webassembly, runs in browser
   - ubuntu bug in rust code breaks auto update
+    - ubuntu to use rust for dozens of core linux utils
   - github agent HQ lets users run coding agents from multiple vendors
   - AI browsers - actually just give AI companies data?
