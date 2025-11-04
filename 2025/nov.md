@@ -12,7 +12,13 @@
   - analog wellness movement
     - downgrade smart home to analog dumb home
   - daylight savings still happening, still unpopular
+  - obesity down in US
 - biz
+  - alphabet 100B revenue in quarter, first time ever
+    - goog cloud surge
+  - AMZN on massive layoffs: about agility, not AI
+  - FDA approves faster personalized gene editing therapy
+  - youtuber shims a lock, lock company sues him, followers flooded company with harrassment
   - spaceX/Pentagon 2B satellite deal
   - solar panel price drop, global boom (except US)
   - samsung chip manufacturing factory 50K nvidia GPUs
@@ -33,7 +39,9 @@
   - amzn deployed rivian electric delivery vans in canada
   - AI browsers
     - OpenAI atlas, Perplexity Comet
+  - openAI aardvark - detect and patch bugs in code
 - tech
+  - "keep android open" movement - against sideloading restrictions
   - 1Password warning: AI use breaking corporate security
     - sensitive info fed into LLM
   - captchas have disappeared from web in 2025?
@@ -43,3 +51,5 @@
     - ubuntu to use rust for dozens of core linux utils
   - github agent HQ lets users run coding agents from multiple vendors
   - AI browsers - actually just give AI companies data?
+  - new roof coating reduce surface temperatures up to 6C on hot days
+  - most used lang on Github is now TS - overtakes python and js
