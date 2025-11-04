@@ -1,81 +1,37 @@
-- 11/7
-- politics
-  - kamala didn't perform better than biden in a single state
-  - stocks soar, bitcoin all time high
-  - 86% gays, 71% jews voted kamala
-  - germany successful 4 day workweek experiment
-
-- 11/6
-- politics
-  - trump
-  - us military can use meta aI models
-- biz
-  - appl smart glasses push
-  - sundar pichal (goog) forbids political talk after israeli contract protest firings
-  - bitcoin new high
-  - scaled down hyperloop tested in switzerland
-  - AMZN arizona drone deliveries
-  - mozilla lays off 30%
-  - amd passes intel in datacenter sales
-
-- 11/5
-- politics
-  - hyperbole: biggest election ever! 77 M have already voted
-- culture
-  - not the onion: canned 400ML of air sells for 10 EUR
-  - most interactive titles getting removed form Netflix
-- tech
-  - python pass js on github
-    - top 3 countries with active github users
-      - us
-      - india
-      - china
+[Back](./index.md)
 
 - 11/4
 - politics
-  - trump violent rhetoric on the rise, wants reporters shot
-  - americans renouncing their citizenship
-  - shrooms a political talking point - research catching up
-  - safest countries in case of war:
-    - NZ
-    - iceland
-    - chile
-    - fiji
-  - 1/3 don't want kids, birthrate falls
-  - brooklyn open-air hookers
-- biz
-  - GM ev sales way up!
-  - nvidia replace intel on dow jones
-  - zuck's threads doing well
-    - IG's text app
-  - waymo use goog gemini to train robotaxis
-  - 60% think their tech ceos "digitally illiterate"
-  - tech giants all in on ai race, to spend 200B this year
-- tech
-  - usb-c not so "universal"
-  - heat pumps (for home heating) may save the climate
-  - passive housing: use no electricity, max insulation
+  - trump right eye swollen
+    - disapproval 63%
 - health
-  - loneliness big factor in dementia
-    - social crisis, stopped making friends
-  - new cancer research: trick them into killing themselves
-
-- 11/1
-- politics
-  - tucker carlson "attacked by demons"
-  - 76 days until inauguration
-  - obama: "women threw themselves at him" while in office
-  - sellafield nuke waste: England
+  - melatonin use linked with heart issues
 - culture
-  - after LAD world series win, riots break out in LA
-  - burning man needs more donations
+  - analog wellness movement
+    - downgrade smart home to analog dumb home
+  - daylight savings still happening, still unpopular
 - biz
-  - "ghost jobs" - jobs that are posted but don't exist a problem in tech
-  - zoox, another robotaxi player operating in SF, LV
-  - MSFT planned product, Recall, delayed
-    - captures screenshots of everything you do
-  - openai launches chatgpt search
-  - llama training cluster (meta) huge, 100K advanced chips
-  - video game dev: leaving large studios for smaller
-  - vmware was bought by broadcom
-  - meta AI over 500M users
+  - sam altman pressed about 1T spending, defends
+  - rockstar games fires dozens, accused of union-busting
+  - openAI and amazon 38B deal for cloud computing
+  - AI industry running on FOMO
+    - AMZN, GOOG, MSFT, META 400B investment
+    - openai 115B thru 2029
+    - openAI wants 1T IPO in 2026,2027
+    - openai losing money even on 200/month subscription tier
+      - cost of running queries
+  - fraudulent drake streams on spotify, sued
+  - cocacola AI ads getting negative feedback
+  - google Gemma (AI model) accuses falsely accuses female senator of rape
+  - 3 companies, Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using content to train AI
+  - palantir hiring philosophy: target high school grads, college is a waste
+  - amzn deployed rivian electric delivery vans in canada
+- tech
+  - 1Password warning: AI use breaking corporate security
+    - sensitive info fed into LLM
+  - captchas have disappeared from web in 2025?
+    - replaced by invisible tracking systems
+  - linux to webassembly, runs in browser
+  - ubuntu bug in rust code breaks auto update
+  - github agent HQ lets users run coding agents from multiple vendors
+  - AI browsers - actually just give AI companies data?
