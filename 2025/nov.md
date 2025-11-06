@@ -1,5 +1,36 @@
 [Back](./index.md)
 
+- 11/6
+- politics
+  - mamdani plans free buses?
+    - mamdani hot wife, rama duwaji, syrian
+  - america air travel not doing well
+  - mexican president gets groped in mexico city
+    - man was intoxicated
+    - claudia pardo
+  - france terrorism: "allahu akbar" shouted while driver ploughs into crowd
+    - allahu akbar" - "god is the greatest"
+  - putin preps full scale nuke tests
+- culture
+  - "anti-social media" - AI chatbot as substitute for socializing
+- biz
+  - jensen huang thinks china will win AI race with USA
+  - shein (SG company) builds child-like sex dolls
+
+- 11/5
+- politics
+  - mamdani wins new york election
+    - born uganda emigrated to nyc at age 7
+    - indian gujarati muslim
+    - NJ, VA elect women, maga angry
+  - dick cheney dead
+  - china creates uranium from thorium
+    - thorium more abundant than uranium
+- biz
+  - big short trader makes bet against the boom
+- tech
+  - TPU - tensor processing unit
+
 - 11/4
 - politics
   - trump right eye swollen
