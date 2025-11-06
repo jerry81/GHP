@@ -13,9 +13,17 @@
   - putin preps full scale nuke tests
 - culture
   - "anti-social media" - AI chatbot as substitute for socializing
+  - louvre surveillance password: "louvre"
+    - bungled heist, 102M of crown jewels
 - biz
   - jensen huang thinks china will win AI race with USA
   - shein (SG company) builds child-like sex dolls
+  - 72% game devs: steam is PC gaming monopoly
+  - IBM job cuts
+  - DRAM costs surge 171.8% over last year
+    - climbing faster than gold
+- tech
+  - astrophysics: universe expansion actually slowing?
 
 - 11/5
 - politics
