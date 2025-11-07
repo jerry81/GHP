@@ -13,6 +13,20 @@
   - antonio brown attempted murder charge
   - michael jackson biopic from bohemian rhapsody guy
 - biz
+  - biz history:
+    - unparalleed american manufacturing boom postwar 1940s thru 1970s
+  - new white collar gig econ, train AI to take over
+    - companies: Mercor, scale AI, surge AI, Turing
+    - goal improve accuarcy of AI systems in pro settings
+  - goog creates military ai outpost on "crab island" christmas island
+    - australia, indian ocean
+  - amzn ai tool translates entire books
+  - MSFT superAI team under Suleyman "serves humanity"
+    - mustafa suleyman - british, CBE
+      - commander of the order of the british empire
+        - british honor
+  - zuck has a pet chicken, bicken ben
+    - school named after it
   - job cuts 22 year high
   - musk 1T payday
     - tesla shareholder deal
