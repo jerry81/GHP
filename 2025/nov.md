@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+- 11/7
+- politics
+  - pelosi to retire
+  - angelina jolie visits kerson ukr (frontline city)
+  - 500K polish volunteers to reinforce ukr
+- culture
+  - americans more stressed than ever, 75%
+  - turkey prices up 75%
+  - cowboys player dies at 24 Marshawn Kneeland
+    - apparent suicide, gun
+  - antonio brown attempted murder charge
+  - michael jackson biopic from bohemian rhapsody guy
+- biz
+  - job cuts 22 year high
+  - musk 1T payday
+    - tesla shareholder deal
+    - potential prize
+  - palantir ceo: alex karp
+  - big short guy is betting against AI
+
 - 11/6
 - politics
   - mamdani plans free buses?
