@@ -2,6 +2,10 @@
 
 - 11/7
 - politics
+  - FAA major cuts
+    - thousands of flights in danger
+  - "government backstop" financial aid for a company
+    - will not be provided for OpenAI
   - pelosi to retire
   - angelina jolie visits kerson ukr (frontline city)
   - 500K polish volunteers to reinforce ukr
@@ -13,6 +17,7 @@
   - antonio brown attempted murder charge
   - michael jackson biopic from bohemian rhapsody guy
 - biz
+  - SAS (us software firm) exists china after 25 yrs
   - biz history:
     - unparalleed american manufacturing boom postwar 1940s thru 1970s
   - new white collar gig econ, train AI to take over
