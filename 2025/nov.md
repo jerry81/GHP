@@ -6,10 +6,28 @@
   - gaddafi's grandson Hannibal released by syrians
   - supreme court case about gay marriage: keep it
   - EU proposing changes that would weaken privacy laws wrt GDPR
+  - EU may ban huawei from mobile networks
+  - africa gets drug-regulation agency AMA (african medicines agency)
 - culture
   - sydney sweeny boxing movie bombs
 - biz
+  - nvidia based in santa clara cali
   - palantir CEO alex karp arming ICE
+  - AI race: openai 800M users/week
+  - goog gemini - 650M
+  - copilot 150M
+  - nvidia connect AI gpus to quantum processors
+  - iphone air weak sales, next release delayed purposely
+  - HR industry growing due to
+    - me too
+    - pandemic remote work
+    - diversity initiative
+    - harrassment claims
+- tech
+  - hidden aspect of AI buildout: subsea cable investment
+    - set to double by 2027
+    - meta project waterworth, 50KM cable connecting 5 continents
+    - amzn owned Fastnet - maryland to ireland
 
 - 11/7
 - politics
