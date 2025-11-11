@@ -1,5 +1,16 @@
 [Back](./index.md)
 
+- 11/10
+- politics
+  - newsom for tx?
+  - gaddafi's grandson Hannibal released by syrians
+  - supreme court case about gay marriage: keep it
+  - EU proposing changes that would weaken privacy laws wrt GDPR
+- culture
+  - sydney sweeny boxing movie bombs
+- biz
+  - palantir CEO alex karp arming ICE
+
 - 11/7
 - politics
   - FAA major cuts
