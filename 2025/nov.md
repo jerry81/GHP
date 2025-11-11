@@ -10,7 +10,16 @@
   - africa gets drug-regulation agency AMA (african medicines agency)
 - culture
   - sydney sweeny boxing movie bombs
+  - vibe coding - word of year
 - biz
+  - ikea big smart home push
+    - Matter-over-Thread
+  - gta 6 delayed again - until 11/2026
+  - corporate profits surge, layoffs rise
+    - "jobless boom"
+  - vanguard - an underwater RV
+  - msft goog aapl nvidia meta tesla broadcom collective worth 23T
+    - msft goog amzn meta 360B on data center spending
   - nvidia based in santa clara cali
   - palantir CEO alex karp arming ICE
   - AI race: openai 800M users/week
@@ -23,7 +32,12 @@
     - pandemic remote work
     - diversity initiative
     - harrassment claims
+  - FB dating a suprise hit feature
+  - lego first ever star trek set
 - tech
+  - james watson (watson and crick) dead 97
+  - crispr solves high colesterol?
+    - crispr acts like genetic scissor - snip a targeted gene to turn it on or off
   - hidden aspect of AI buildout: subsea cable investment
     - set to double by 2027
     - meta project waterworth, 50KM cable connecting 5 continents
