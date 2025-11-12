@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 11/12
+- politics
+  - alcatraz island: prometheus statue
+  - germany court: OpenAI used song lyrics illegally (copyright)
+  - china new specialist visa: allow to move in without job lined up
+    - K visa
+  - china co2 emissions flat, even falling
+  - saudi future city Neom - not doing well
+- culture
+  - zendaya and sweeny feud over politics
+  - 64% podcast hosts male, 77% are white
+- biz
+  - sam altman startup Tools for Humanity
+    - iris-scanning Orb device
+    - based on worldcoin
+  - appl iphone pocket - a knitted bag costing 230 USD
+  - goog photos to be powered by nano banana
+  - digital twin startup Uare.ai - "individual ais" digital counterpart of a person
+    - memories, stories, expertise, voice
+    - raises 10.3 M
+
 - 11/10
 - politics
   - newsom for tx?
