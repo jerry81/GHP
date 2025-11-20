@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 11/20
+- politics
+  - USA - lame duck situation
+    - lame duck is actually the exiting president's powerless period
+    - but republicans control all branches now
+  - republicans trying hard to stop epstein files
+  - magyn kelly (fox news) claims epstein not a pedo b/c into young teens rather than 8 yr olds, ripped by public
+  - china going electric truck
+  - tokyo lawsuit - finds cloudflare guilty of manga piracy
+  - saudi arabia makes an investment on AI films
+  - dutch give nexperia back to china
+    - caused a standoff where chinese embargos hampered auto production globally
+  - EU privacy law changes - move cookie acceptance from by site to browser settings
+- biz
+  - nvidia profit jumps 65%, now at 31B, temporarily eases wall street nervousness
+  - NYC landlord defaults on 170M loans, forclosures on 35 properties in Manhattan?
+  - apple new better Wifi chip N1
+- culture
+  - george clooney for congress?
+  - andrew tate lost 800K in crypto - "one of worst traders"
+  - "cali sober" - use weed to help you drink less
+    - scientists currently experimenting
+- tech
+  - new tuberculosis antibiotic
+
 - 11/12
 - politics
   - alcatraz island: prometheus statue
