@@ -18,7 +18,17 @@
   - chinese uni AI patents > MIT, stanford, princeton harvard combined
   - chinese spies using linkedin as attack vector
   - iran trying to induce rain by seeding clouds
+  - solar and wind growing fast enough to meet AI electricity demand in 2025
+  - massive solar rollout in africa
 - biz
+  - meta loses yann lecun, he will make startup (AI chief scientist)
+  - waymo is on freeway now LA, SanFran, Phoenix, first time
+  - china ev market imploding
+    - overinvestment?
+  - project kiuper (amzn) renamed to "leo"
+  - krafton (pubg publisher) goes full AI-first
+    - offers voluntary resignation program
+  - aapl 230USD iphone pocket sock sells out quickly!
   - android system developers like rust
   - outer space data centers gaining more traction
   - crypto bear market
@@ -54,6 +64,7 @@
   - measles making a comeback - was defined as Eliminated status by CDC
     - 2 massive US outbreaks
 - tech
+  - the quantum coputer problem: qubits susceptible to slipping out of quantum states, lose info
   - kubecon atlanta: cloud native computing poised to explode
     - cloud-native building apps that take adv of cloud envs using k8s
   - new tuberculosis antibiotic
