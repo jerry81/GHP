@@ -13,17 +13,51 @@
   - dutch give nexperia back to china
     - caused a standoff where chinese embargos hampered auto production globally
   - EU privacy law changes - move cookie acceptance from by site to browser settings
+  - china fudging GDP growth numbers?  clain 5 actual 2?
+    - consumption, investment, net exports not transparent
+  - chinese uni AI patents > MIT, stanford, princeton harvard combined
+  - chinese spies using linkedin as attack vector
+  - iran trying to induce rain by seeding clouds
 - biz
+  - android system developers like rust
+  - outer space data centers gaining more traction
+  - crypto bear market
+    - bitcoin year's gain gone
+      - now at 93.7K USD
+      - record high 126K after trump elected
+  - bezos back in action: Prometheus (AI startup)
+    - co-ceo
+  - anthropic CEO: dario Amodel: uneasy about how ai policies shaped by just a handful of tech elites
+    - takes jab at sam altman
+  - take-two ceo: gaming moving towards pcs
+  - buy now, pay later expanding quickly
+  - EV booming in South America
+  - goog: trillion dollar AI investment "elements of irrationality"
+  - fund managers: AI investment has gone too far
+  - oracle 300B OpenAI deal: already underwater (stock down 315B in mkt value)
+  - cloudflare worst outage since 2019, tuesday, 11/18
   - nvidia profit jumps 65%, now at 31B, temporarily eases wall street nervousness
   - NYC landlord defaults on 170M loans, forclosures on 35 properties in Manhattan?
   - apple new better Wifi chip N1
+  - boston dynamics niche - US and canadian police
+  - tim cook to be replaced next year, appl searching
 - culture
+  - heat homes with bitcoin mining?
+  - harvard has 500M+ in crypto
+  - AI podcasts are a thing, 175K ai-gen podcasts on AAPL/spoitfy
+    - Inception Point AI
   - george clooney for congress?
   - andrew tate lost 800K in crypto - "one of worst traders"
   - "cali sober" - use weed to help you drink less
     - scientists currently experimenting
+- health
+  - measles making a comeback - was defined as Eliminated status by CDC
+    - 2 massive US outbreaks
 - tech
+  - kubecon atlanta: cloud native computing poised to explode
+    - cloud-native building apps that take adv of cloud envs using k8s
   - new tuberculosis antibiotic
+  - linus on vibe coding - good for getting started, bad for maintenence
 
 - 11/12
 - politics
