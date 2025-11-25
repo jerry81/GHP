@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 11/25
+- politics
+  - secret tribunal investigates mark kelly for urging troops to defy illegal orders
+    - mark kelly, AZ senator - dem
+    - trump threatens "punishable by death"
+  - maduro fears death by assassin
+  - trump losing motor skills?  limping
+  - xi double downs on taiwan returning to china
+  - trump project: Genesis Mission: AI project to make AI superweapon
+    - "manhattan project" levels
+  - japan to convert hokkaido to hub for semiconductors
+    - hokkaido currently provides 50%+ dairyof japan
+- biz
+  - pebble going more open
+    - palo alto kickstarter-built - smartwatch
+  - openai: sam altman and jony ive: AI hardware prototype
+  - AMZN pledge 50B to expand AI in gov
+- health
+  - staring at screens: cortical thinning in memory planning and impulse control
+- tech
+  - sci-fi: scientists warn of brain weapons - control perception, memory, behavior
+
 - 11/20
 - politics
   - USA - lame duck situation
