@@ -13,10 +13,23 @@
   - japan to convert hokkaido to hub for semiconductors
     - hokkaido currently provides 50%+ dairyof japan
   - britain wind power for 22M homes - breaks record
+  - california had a electricity surveilance program in Sacramento to catch cannabis growers
+    - ends
+  - world's largest nuke plant is in japan
+  - Of meta's 11 superintelligence team researchers, 7 born in China
 - culture
+  - magician implanted RFID chip in hand, forgets password to it
   - UK uni, u of staffordshire - offered ai-taught course
     - students complained could have asked chatgpt instead
 - biz
+  - michael burry: "can anyone name openAI's auditor?"
+  - verizon 13K job cuts
+  - MSFT turns 40, faces AI backlash
+    - plans agentic OS
+    - AI cheif Mustafa Suleyman
+  - amzn 1000s of layoffs
+  - sam altman acknowledges goog recent progress in AI
+  - goog must double AI servers every 6 months to meet demand
   - last thursday big stock market sell-off
     - due to bitcoin?
   - US: top social media sites
@@ -33,6 +46,8 @@
 - health
   - staring at screens: cortical thinning in memory planning and impulse control
 - tech
+  - cern can create anti-hydrogen (anti-matter)
+  - experiment: moss in space: survives for 9 months
   - injectable nano-robots help drug delivery
   - 47K chatgpt conversations analyzed:
     - people want advice and companionship
