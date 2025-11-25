@@ -12,14 +12,34 @@
     - "manhattan project" levels
   - japan to convert hokkaido to hub for semiconductors
     - hokkaido currently provides 50%+ dairyof japan
+  - britain wind power for 22M homes - breaks record
+- culture
+  - UK uni, u of staffordshire - offered ai-taught course
+    - students complained could have asked chatgpt instead
 - biz
+  - last thursday big stock market sell-off
+    - due to bitcoin?
+  - US: top social media sites
+    - youtube - 84%, fb 71%, ig 50%, tiktok 37%, whatsapp 32%
+  - goog Gemini LLM surges past cgpt with 3rd version, released last week
+  - Goog "aluminum OS" to replace chromeOS
+    - aluminum is chromeOS and android merged
+  - avg time to switch smartphone: 29 months in america
   - pebble going more open
     - palo alto kickstarter-built - smartwatch
   - openai: sam altman and jony ive: AI hardware prototype
   - AMZN pledge 50B to expand AI in gov
+  - AI music company, Udio gets cracked down
 - health
   - staring at screens: cortical thinning in memory planning and impulse control
 - tech
+  - injectable nano-robots help drug delivery
+  - 47K chatgpt conversations analyzed:
+    - people want advice and companionship
+    - not necessarily productivity tasks
+    - also echo chambers
+  - there is a global warming plan that involves blotting out the sun
+    - project stardust
   - sci-fi: scientists warn of brain weapons - control perception, memory, behavior
 
 - 11/20
