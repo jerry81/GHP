@@ -1,5 +1,43 @@
 [Back](./index.md)
 
+- 11/27
+- politics
+  - turkey prices up 24% for thanksgiving
+  - 2 national guard troops shot near white house
+    - white house locked down
+    - 500 troops go to DC
+    - suspect tackled
+  - the don shows signs of fatigue
+  - 'america first' fee for foreign tourists to visit national parks
+  - hong kong tower inferno - death toll 44 and rising
+  - china pharma (drug discovery) ready to go global
+  - EU may want min age for ai chatbots - 13-16
+  - artificially cheap goods from china flooding into EU
+    - germany worries of de-industrialization
+  - world central banks - want to quit dollar and wary of AI
+  - britain pushing atomic development to meet Datacenter demand
+  - jakarta passes tokyo as most populous city
+- biz
+  - lenovo stockpiles memory as response to AI squeeze
+  - chinese automakers can't sell in US due to steep tariffs, but US-based influencers keep praising them
+  - HP cut 6K jobs by 2028
+  - openai to continue losing money thru 2030
+  - goog eric schmidt - rape accusation from mistress
+  - flying billboards from HELI_D
+    - flying LED billboards to show in superbowl
+  - openAI facing 5 lawsuits over teen suicide
+- culture
+  - half of articles on net written by AI
+- tech
+  - unpowered SSDs eroding data?
+  - health: turning points for brain: 32, 66, 83 - peak at 32,
+  - AI to replace 3M jobs in UK by 2035, warns a researcher
+  - paper: AI can't think, don't confuse LLM tech with intelligence
+  - 3 tiangong astronauts emergency rescue after return craft had cracked window due to space debris
+  - dark matter evidence found (first direct evidence)
+  - 500 fiber cables on ocean floor carry 90% of all internet data
+  - physicist: new theory of consciousness explains what happens when you die
+
 - 11/25
 - politics
   - secret tribunal investigates mark kelly for urging troops to defy illegal orders
