@@ -1,28 +1,22 @@
 [Back](./index.md)
 
-- 12/30
+- 12/2 (thru 11/27)
 - politics
-  - jimmy carter dead
-  - skorea plane crash - 179 dead
-    - bird?
-  - georgian (former soviet) president is former soccer player
-  - undersea cable found broken near finland, russia suspected
-  - millions of us seniors still owe student debt
-  - missles now the biggest killers of airline passengers (accidental)
+  - trump more isolated than ever, allies worried
+    - abdominal, cardio MRI checks
+  - some say xi did better than putin and trump 2025
+  - navy in caribbean vs venezuela
+  - spain swine fever outbreak
+  - singapore all day secondary school smartphone ban
+  - brits oppose plan to "blot out the sun" to combat global warming
 - biz
-  - there is a job called "sick leave detective"
-  - high levels of credit card defaults
-  - raspberry pi stock price doubles in dec
-  - valve profit per employee more than amzn, msft, ntflx combined
+  - netflix wants to buy warner bros/discovery
+  - samsung innovation: galazy z trifold - first ever trifold phone
+  - siri delays lead to Appl AI chief stepping down
+    - john giannadrea
+  - waymo runs into charging problem
 - culture
-  - every to 10 grossing film in 2024 was a sequel or prequel
-    - number 1 was inside out 2
-  - magnus refuses to change out of jeans, quits chess tourney
+  - guillermo del toro "fuck ai" while receiving gotham award
 - tech
-  - in 2024, CFCs down
-    - new satellite tracked biggest pollutres in oil and gas
-    - third largest co2 extraction company opens in iceland
-    - norway more electric than gas
-  - electric air taxis actually launching in abu dabi
-  - python made strides in speed, 3.13 now
-  - taxi drivers and ambulance drivers lowest proportion of deaths due to alzhiemers
+  - HIV prevention shots in africa
+  - health:  smartphone at age 12 - worse sleep, more obesity, higher depression rate
