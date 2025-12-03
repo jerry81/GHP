@@ -15,8 +15,16 @@
   - siri delays lead to Appl AI chief stepping down
     - john giannadrea
   - waymo runs into charging problem
+  - amzn tells engis to use AI coding tool, "kiro"
+  - research: ai can do work of 12% of american workforce
+    - MIT study
+  - ai role in Black friday spending: drove 11.8B sales (record)
+    - 40% consumers using AI tools to help shop
 - culture
   - guillermo del toro "fuck ai" while receiving gotham award
+  - disturbing convos with chatgpt happening at "large scale"
 - tech
+  - pseudo: person dressed as batman standing in metro doubles rate at which people give seat to pregnant woman
+  - browser extension: slop evader (filter out ai gen content)
   - HIV prevention shots in africa
   - health:  smartphone at age 12 - worse sleep, more obesity, higher depression rate
