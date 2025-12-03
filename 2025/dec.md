@@ -6,11 +6,18 @@
   - maduro wants to fight the don
   - trump going crazy - posts 400 twitters overnight
     - says somalis are garbage
+  - SF to sue ultraprocessed food makers
 - culture
   - avatar fire and ash
   - 20% of harvard is... disabled?
 - biz
+  - AMZN use nvidia chips in AI infra
+  - openAI takes notice of goog catching up in AI race
+  - waymo hits dog
+  - top 1% worth 52T
   - marc benioff takes shrooms and livestreams
+- tech
+  - kubernetes to retire nginx ingress controller
 
 - 12/2 (thru 11/27)
 - politics
