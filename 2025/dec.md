@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+- 12/3
+- politics
+  - flu in britain
+  - maduro wants to fight the don
+  - trump going crazy - posts 400 twitters overnight
+    - says somalis are garbage
+- culture
+  - avatar fire and ash
+  - 20% of harvard is... disabled?
+- biz
+  - marc benioff takes shrooms and livestreams
+
 - 12/2 (thru 11/27)
 - politics
   - trump more isolated than ever, allies worried
