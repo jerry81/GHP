@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+- 12/4
+- politics
+  - columbia on brink of war with USA
+  - trump shifting ai goals to robots?
+- culture
+  - digital burnout default state of being online
+- biz
+  - palantir shifts course - will play part in deportations
+  - win 11 growth slowing as people sticking with win 10
+  - msft finding ai software sales not up to expectations, lowers quotas, customer resistance
+  - anthropic acquires bun, engine behind claude
+- health
+  - tattoo ink moves thru body killing immune cells
+
 - 12/3
 - politics
   - flu in britain
