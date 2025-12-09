@@ -2,12 +2,18 @@
 
 - 12/9
 - biz
+  - severe spike in DRAM prices
+  - meta moved some funding from metaverse to AI glasses
+  - genz going for retro tech: vinyl, disposable cameras, radios, alarm clocks
+  - home assistant: FOSS automation platform one of fastest growing FOSS projects
   - openAI disables target links in chatgpt responses
     - despite denying that they were suggestions, not ads
+    - trained cgpt to confess to bad behavior
   - paramount takeover bid for warner bros
     - david ellison ceo
     - backed by saudis
     - battling with ntflx
+    - ntflx bid 72B cash, stock
   - home sellers giving up quickly
   - IBM buy confluent 11B
     - bought red hat in 2019
@@ -26,7 +32,12 @@
   - michael burry: "tech companies artificially inflating profits by changing depreciation time period of ai chips
     - calls it fraud
   - mgrs spend 23 hrs/week in meetings - bad meetings generate more meetings
+  - aptera solar powered evs progressing - close to production
+  - Meta buys limitless - AI wearables
+  - NYT sues perplexity - copyright - reselling its paywalled stuff without perms
+  - waymos illegally passed school buses 19 times
 - politics
+  - AI chatbots sway people better than political ads
   - EU urged to reconsider 2035 ban on combustion cars
   - japan earthquake, tsunami warning
   - china growth - coming at others' expense
@@ -38,6 +49,13 @@
   - china trade surplus tops 1T, despite tariffs
   - ICE makes christmas push: 'ho-ho-home'
 - tech
+  - cloudflare: blocked 416B ai scraping requests in 5 months
+  - blackest ever fabric absorbs 99.87 light
+  - ruby: is it still "serious PL"?
+  - brew support flatpaks
+    - flatpak - modern, sandboxed app packaging for linux
+      - flathub - app store for flatpak
+      - comparable to snap, appimage
   - new invention: Johnson thermo-electrochemical converter: pressurized hydrogen thru membrane generate electricity with heat source
     - inventor of super soaker lonnie johnson
   - airbus software glitch caused by cosmic rays?
@@ -45,11 +63,15 @@
   - VaaS - violence as a service - cyber criminals
   - molten salt fuel for nuke reactors made in idaho
 - culture
+  - robocop statue in detroit
+  - woman smashes other man's meta smart glasses on subway, hailed as hero
   - new college major: AI
     - 2nd largest at MIT
   - one battle after another many golden globe noms
 - health
   - "rib cracking virus" on cruise ship - 100 infected
+  - full body MRI costs 2500USD
+    - with many false positives requiring biopsy
 
 - 12/4
 - politics
