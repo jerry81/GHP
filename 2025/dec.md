@@ -1,5 +1,56 @@
 [Back](./index.md)
 
+- 12/9
+- biz
+  - openAI disables target links in chatgpt responses
+    - despite denying that they were suggestions, not ads
+  - paramount takeover bid for warner bros
+    - david ellison ceo
+    - backed by saudis
+    - battling with ntflx
+  - home sellers giving up quickly
+  - IBM buy confluent 11B
+    - bought red hat in 2019
+    - known for data streaming powered by kafka
+    - extends kafka
+  - lenovo gaming laptop - rollable oled screen stretches ultrawide
+    - organic light emitting diode - carbon-based compounds
+      - no backlight
+      - perfect black
+      - wide viewing angle
+      - colors
+      - thin flexible
+      - fast response time
+  - social media shopping machine created lots of buyers in debt
+  - Goog AI glasses with gemini 2026
+  - michael burry: "tech companies artificially inflating profits by changing depreciation time period of ai chips
+    - calls it fraud
+  - mgrs spend 23 hrs/week in meetings - bad meetings generate more meetings
+- politics
+  - EU urged to reconsider 2035 ban on combustion cars
+  - japan earthquake, tsunami warning
+  - china growth - coming at others' expense
+    - us imports up, china imports down
+    - rel between cn growth and global growth turns negative
+    - now 17% of global GDP
+  - twn bans xiaohongshu, people cry censorship
+  - US: 200 environ groups demand to halt new us datacenters
+  - china trade surplus tops 1T, despite tariffs
+  - ICE makes christmas push: 'ho-ho-home'
+- tech
+  - new invention: Johnson thermo-electrochemical converter: pressurized hydrogen thru membrane generate electricity with heat source
+    - inventor of super soaker lonnie johnson
+  - airbus software glitch caused by cosmic rays?
+    - increasing problem as we rely more on chips
+  - VaaS - violence as a service - cyber criminals
+  - molten salt fuel for nuke reactors made in idaho
+- culture
+  - new college major: AI
+    - 2nd largest at MIT
+  - one battle after another many golden globe noms
+- health
+  - "rib cracking virus" on cruise ship - 100 infected
+
 - 12/4
 - politics
   - columbia on brink of war with USA
