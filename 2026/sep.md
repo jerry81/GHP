@@ -1,0 +1,268 @@
+[Back](../index.md)
+
+- 9/25
+- politics
+  - former fbi director james comey: indicted for perjury, targeted by trump
+  - kimmel return gets 15M youtube views
+  - tattooing illegal in s korea
+- biz
+  - intel asks apple for investment
+  - SAP: 320B software firm: AI "afford to have less people"
+  - IG: 3B monthly users
+  - private equity - investment company that buys ownership in businesses
+    - examples: blackstone group, kkr, carlyle, apollo, TPG, bain
+  - lionsgate struggling to make ai-gen films
+  - MSFT AI CEO Mustafa Suieyman - turn Edge into agentic browser: Copilot controls tabs, nav websites, complete tasks while you watch
+  - softbank, oracle, openai 500B stargate project - five new AI Data centers
+    - stargate: joint venture with whitehouse, AI infra initiative
+- culture
+  - china alters "together" gay marriage scene - face swapped woman to man
+- tech
+  - new fastest car reaches 308 MPH - chinese maker Yangwang
+  - world oceans too acidic now
+  - cloudflare reports another record-breaking DDoS
+    - 22 Tbps
+
+- 9/24
+- politics
+  - in response to tariffs, china goes cheap exports
+  - musk father accused child sex abuse
+    - accused by 5 children + stepchildren
+  - netanyahu wants to annex west bank?
+  - china aircraft carrier "electromagnetic catipult" to launch aircraft
+- biz
+  - mobile "vibe coding" apps don't gain traction
+  - msft microfluidics (tiny ducts etched into chips) have been 66% more effective
+  - 1/4 35 and under workers expect AI to take their jobs
+  - "workslop" ai-gen content that looks polished but lacks substance
+  - despite 100s of billions of funding, AI companies not sure how the revenue will come
+- culture
+  - taarof: the iranian art of refusing payment but actually expecting it
+- tech
+  - technology causing cancer in modern world?
+  - revolutionary steps vs alzhiemers
+  - MLB robot umps for challenges
+
+- 9/23
+- politics
+  - kimmel back
+    - 400 celebs signed petition backing him
+  - pam bondi - attorney general
+  - don approval 37%, 34% on economy
+  - angelina jolie: "i don't recognize my country"
+  - wwii american bomb found buried in HK, 6K evacuted to defuse
+  - europe airport cyberattack
+- biz
+  - 3 ai bubbles:
+    - speculative, infra, hype
+      - speculative: asset prices over fundamental values
+      - infra: investment into possibly unused infra
+      - hype:  promise exceeds reality
+  - rush to return to office stalling
+  - germany prepping to treat 1K injured soldiers per day in war
+  - economists: gen z hiring nightmare is real
+    - rise in unemp under 25 americans
+  - linkedin training AI model on user profiles
+  - meta llama to be used by us gov
+  - uber ceo: 10-15 years robotaxis take over, create big societal question
+  - nvidia invest 100B in openai
+  - goog ai workers fired over dispute over working conditions
+  - seattle fewer tech jobs - starbucks getting barista applications from people who applied msft amzn
+  - meta smart glasses reveal: humiliation due to glitches
+  - interlune (quantum startup) farming helium 3 from moon
+- culture
+  - CS profs: we should question the run-away train about every student needs to use AI early and often
+- tech
+  - using AI increases unethical behavior?
+  - for 60 years, earth has had a "quasi moon"
+  - ai tools give "dangerous powers to cyberattackers"
+  - durable coating for solar panels from red onion skins
+
+- 9/9
+- politics
+  - us workers down about finances
+  - trump promised better economy: but hiring droping and inflation up
+  - masks from covid: bad for environment - microplastics
+  - TX banned lab-grown meat: gets sued (2 years active)
+  - american students forced to lock cells in pouches
+  - EU joins AI race with Supercomputer, Jupiter, built in Germany
+    - 24K nvidia chips
+  - trump tarriff: in semiconductor imports from non-us producers
+  - global poll: public backs preserving 30% of land and sea in natural state
+  - nepal blocks websites, fb, x, youtube b/c refusal to comply to register with gov
+  - (AI): india's aI "all talk little substance"
+    - perplexity and openai heavily discounted offerings to india market
+  - xi and putin discussing organ transplants and immortality
+  - swiss AI: apertus - open source multilingual LLM trained on 15T tokens over 1K languages
+    - complete openness
+  - (AI): AI powered drone swams enter battlefield
+    - 3 drones acted autonomonously to decide when to strike
+  - americans lose faith that hard work leads to economic gains
+    - american dream is dead
+  - us population to shrink?
+  - world top innovation cluster now SZ-HK-GZ
+    - overtakes TOK-YOK
+  - 85% college students report AI use
+- biz
+  - diablo devs unionize: 450 devs
+  - (AI): SF ceo: "AI enabled him to cut 4K jobs"
+    - marc benioff
+  - google tightens sideloading constraints
+    - start march 2026 - must provide identity verification for Android app developers
+    - thru android developer console
+  - 32G ram is the new standard for gaming
+  - SAP expanding to "sovereign Cloud" 20B EUR investment
+  - chrome market share over 70%
+  - waymo in denver and seattle
+  - in USA, less jobs openings than job seekers
+    - first time in 4 years
+  - (AI): youtube: ai-gen boring history videos flooding youtube, pushes out real history
+  - AMZN solar powered keyboard
+  - NVidia 94% share on GPU shipments
+  - OpenAI projects:
+    - jobs platform
+    - cert program for AI roles
+  - anthropic fined 1.5B
+    - sued by book authors
+  - commonwealth fusion systems (bill gates backed fusion) wants to deploy reactor in japan
+  - new bmw iX3 - 500 Mi. range
+  - roku tv taking over traditional television in usa
+  - ETF: exchange-traded fund - like stocks, bonds, commodities
+    - americans prefering ETF dividends over day jobs
+    - freedom from traditional employment
+  - goog: open web (search) in rapid decline
+  - jaguar land rover shuts down after cyber attack
+  - (AI): openAI will burn 115B thru 2029
+    - costs of computing outpacing revenue growth
+    - 80B higher than previous expectation
+    - past 2 years, burned 2B
+    - raised more capital than any private company in history
+  - (AI): Angry Github users rebelling against forced copilot AI features
+    - autogen issues and pull requests in code repos
+  - 50% fewer young employees at tech companies than 2 yrs ago
+    - (AI): further shows that young people's job market easily disrupted by AI
+  - MSFT working on Analog Optical computer for AI
+    - uses light passing thru sensors at differing intensities, doing computation work
+    - vision - faster more efficient 100X
+  - (AI): 32% senior devs: 1/2 shipped code is ai-gen
+    - 80% more enjoyable
+    - invest time fixing ai-gen code - 30% seniors say editing output offset time savings
+      - 17% juniors said this
+    - 33% frequently must fix
+    - 14% say never make changes
+  - humanoid robot biz:
+    - china, unitree: 77lb 4ft 3 robot 18K USD
+  - openai first AI chip to launch in 2026 with broadcom and tsmc
+  - appl vision pro might have some niche markets
+    - b2b - lowe's kitchen design visualization,
+    - Dassault Systemes - engineering workflows
+    - CAE, pilot training
+  - anthropic blocks services from Chinese controlled companies
+    - could serve adversarial military and intelligence services
+  - prediction AI will lobby like Movie, tobacco and oil industries
+  - panasonic lags behind competitors hitachi, sony, NEC
+    - osaka based
+    - elim 10K positions
+  - GOOG deletes net-zero pledge
+    - pichar: "intend to be first major company to operate carbon free 24/7/365"
+  - (AI): UK gov trial M365 copilot finds no clear productivity boost
+  - AMZN kuiper makes deal with airline
+  - R&D spending comparison
+    - intel 28% more than nvidia
+    - 156% more than AMD
+- tech
+  - biggest iceberg breaks
+    - twice size of greater london
+    - from antarctica
+  - sugar substitutes may accellerate aging
+  - new ai model: turn photo to explorable 3d world
+  - brain-wide map of decision-making in mice tracked
+    - 620K neurons
+  - (AI): Hinton: AI will make a few people much richer and most people poorer
+    - dismisses UBI to solve human dignity from job loss
+    - AI combined with capitalism will not solve hunger/poverty
+  - paris uses river water to cool city buildings!
+    - but river temperatures of seine river rising!
+    - 27C in summer, 30C regulatory limit
+  - fresh water found under ocean?
+    - (AI): (resources) - UN projects global freshwater demand exceed supply within 5 years
+    - drilled into earth at seafloor
+    - huge hidden aquifer?
+  - a sodium-ion battery project ceases ops
+  - studies about LSD reducing anxiety
+  - drinking causes gut bacteria to leak from gut to liver causing damage
+  - finland energy tech: sand battery
+    - grains of sand store much energy
+      - store heat at 500C for several days to months
+    - Polar Night Energy - company name
+  - man received pig kidney transplant, still alive after 6 months
+    - genetically modified pig
+  - (AI): all IT work will involve AI by 2030
+    - Gartner (analyst firm)
+    - doesn't think job losses will result
+    - analyst: currently 81% done without AI assistance
+      - 5 years later 75 will be augmented by AI
+      - 65% CIOs not breaking even on AI investments
+  - (AI): mathematicians: GPT-5 makes critical errors in proof generation
+  - protein linked to brain reversing aging in mice: FTL1
+- culture
+  - alcohol consumption down, premium waters up in restaurants
+  - LOL: bathroom doomscrolling may increase risk of hemorrhoids
+  - LOL: mark zuckerberg (lawyer) sues fb for shutting his page down repeatedly for "impersonation"
+  - mexico city food less spicy due to rise in american tourists
+  - britney continues to make headlines with craziness
+  - crowe, malek in nuremberg
+  - avg attention span is 8 seconds and dropping
+
+- 9/2
+- politics
+  - tariffs ruled illegal at some point, refunds asked for from washington?
+  - france ready for "WW3"?
+    - hub for battlefield casulties
+  - china to parade ship-killing weapons
+  - vance vying for power?
+- culture
+  - robin wright leaves america, "it's a shitshow"
+    - moved to ireland
+  - rock may be oscar contender with "the machine"
+  - mexico open ceremony for WC 2026
+  - burning man attendee gives birth
+    - murder?
+- biz
+  - stocks higher than dot-com era
+  - gold futures up
+  - dirty workers, garbage collectors & exotic dancers happier?
+
+- 9/1
+- politics
+  - NWO Xi embraces putin, modi, picture of all 3
+  - america camp: alligator alcatraz
+    - uprising
+    - beatings
+    - unmasking ICE officers with AI
+  - far right extremists want to use drones for domestic attacks
+- biz
+  - gov gives intel 5.7B
+  - peter thiel to give 4-part lecture on... the antichrist (yes from the bible)
+  - ai music created signed by record label: a first
+    - oliver mccann
+  - forest city, malaysia : crypto-friendly place known for "network school"
+  - openai scans chatgpt convos and reports content to police
+    - " Ai industry hastily pushing poorly-understood products to market using real people as guinea pigs, and adopting increasingly haphazard solutions to real-world problems as they arise"
+  - humans hired to beautify ai slop
+  - backlash vs smartglasses that record
+  - vivaldi browser ceo: refuses to integrate genAI into browser
+- culture
+  - jude law as putin
+  - rick beato gets hit with copyright lawsuit from UMG
+- tech
+  - (nautical) wave projects improving in last 10 yrs
+  - AI powered stethoscope detects heart disease
+  - AI search bots
+    - meta 52% of traffic
+    - goog 23%
+    - openai 20%
+    - 30 terabits in single surge
+    - damaging performance!
+    - 30% web traffic from bots
+  - boost brain grey matter with smell of specific kind of perfume/cologne - rose scent oil

@@ -1,0 +1,176 @@
+[Back](./index.md)
+
+- 2/25
+- politics
+  - video of trump kissing musk feet plays on govt screens
+  - nazi salute is back
+  - right to repair hits all 50 states
+- biz
+  - nederlands startup "firm bird" to leave EU
+    - cloud comms
+  - perplexity AI web browser: Comet
+  - Salesforce not hiring software engi in 2025,
+  - duolinguo fired 1000s of sw jobs
+    - shifting to ai specific roles
+  - gmail drop SMS auth, add qr codes
+  - appl to hire 20K, 500B investment
+    - because of trump tariffs
+- culture
+  - 2 week smartphone break = feel better
+- tech
+  - aging "master switch" protein discovered
+  - anthropic first "hybrid reasoning" AI model
+    - claude 3.7
+
+
+- 2/24
+- politics
+  - german conservatives win election
+    - right Friedrich Mertz may replace left Olaf Scholz
+    - far right AfD - alice weidel 2nd place finish
+  - pope in critical health
+  - open ai bans chinese accnts using cgpt to edit code for social media surveillance
+  - protests against AGI already starting
+  - malaysia to try to boost economy with data centers
+  - france fusion runs for 22 minutes
+- biz
+  - msft notepad ai rewrite feature gets paywalled
+  - MSFT quantum computing chip, Majorana 1
+    - 8 qubits (indium arsenide) as semiconductor, aluminum as superconductor
+  - nikola bankruptcy
+  - AMZN disable ebook downloads
+  - cheaper and safer EV batteries
+    - LFP - lithium iron phosphate
+    - NMC - nickel manganese cobalt currently common
+  - AMZN pays 1B for control of james bond IP
+    - AMZN MGM
+  - MSFT Muse AI model for game dev gets backlash
+  - mark zuck shows up in gold chains
+  - asus into fragrant devices: aromatic mouse
+  - openai to shift computing needs from MSFT to Softbank (-backed stargate)
+  - deepseek shares some of its model code
+  - 5 year low for software engineering jobs
+  - ntflx 1B investment in mexico - produce films and tv series in mx
+  - ios visual intelligence camera feature, 18.4 in april
+  - chatgpt 400M active users (weekly)
+  - AMZN surpass walmart, revenue, first time ever
+  - chinese ev companies betting big on humanoid robots
+- culture
+  - india math human calculator kid, aaryan shukla
+    - adding 100 4-digit numbers - 30.9 seconds
+- tech
+  - robot umpires in MLB
+  - richard dawkins thinks chatgpt passes the turing test
+  - musk recommends taking down the ISS
+  - X-37B "space plane" has first ever picture taken in orbit
+  - 2 cm seal level rise this century due to melting glaciers
+  - scented products - as much indoor air pollution as car exhaust?
+    - incl: flame-free candles
+
+- 2/12
+- politics
+  - musk vs altman?
+    - altman: "i don't think he's a happy person"
+    - musk offered 97B for OpenAI
+  - stunning pattern of suicides in Marines drill instructors
+  - bannon joins trump in status as felon
+  - american teacher detained in russia for 14 years in prison for having small amt of medical cannibis in luggage
+  - EU threatens trade war responding to donalds' tariffs
+  - islamic state regroups in somalia
+  - egg rationing starts due to avian flu
+- culture
+  - 93% gen z uses ai at work
+  - ne zha 2 hits 1B, first non-hollywood film
+    - passes wolf warrior 2
+- biz
+  - msft working on us army AR goggles, hands over management and manufacturing to Anduril
+  - Meta eliminating jobs in shift to ai
+
+- 2/11
+- culture
+  - tom cruise "unrecognizable face" as seen in superbowl ad
+    - puffy, sagging
+    - looked normal in mission impossible trailer
+- politics
+  - more young men in germany turning to far right
+    - asylum seeker violent crimes
+  - macron: france not in AI race today, pledges investment 112B
+- biz
+  - bmw invests in ... internal combusion (and hybrid)
+  - byd adds "high level" self driving to budget 10K ev
+  - jeep popup ads when you stop
+- tech
+  - brave browser: inject js to tweak websites
+    - custom scriptlets
+  - paper: AI makes human cognition "atrophied and unprepared"
+
+- 2/10
+- culture
+  - superbowl eagles beat chiefs 40 - 22
+    - taylor swift booed
+    - trump walked out
+    - kendrick lamar halftime
+  - bill gates writes about acid trip experiences
+   - smoked pot in high school
+- politics
+  - china retalitory triffs on american goods
+  - no more pennies from mint
+  - el salvador votes to revoke bitcoin as legal currency
+- biz
+  - IT unemployment rises to 5.7%
+  - VW cheap EV to compete with china - plans
+  - oops: deepseek ios app sends uncreypted data to bytedance-controlled  servers
+  - PSN major outage
+- tech
+  - linux kernel devs react positively to rust
+  - c++ unveils "profiles" for resource and type safety
+  - quantum teleportation performed 2 meters apart in computing
+
+- 2/5
+- politics
+  - trump orders palestenians out of gaza, usa to seize land
+  - CIA buyouts for workforce
+  - DOGE: department of government efficiency - run by elon musk
+    - controversy after it was allowed access to treasury data
+  - 56 arrested at gay sex party, indonesia
+  - sweden school shooting, 10 dead
+  - china launch anti-trust investigation on Goog as response for 10% tariff on chinese goods
+    - still has operations in china focused on advertising
+  - deepseek doesn't talk about tank man
+  - taiwan urges gov not to use deepseek
+    - italy blocks
+- culture
+  - diddy rape accusation
+  - beatles song "now and then" features john lennons' AI-restored vocals
+- health
+  - lung cancer on rise among never smokers
+  - aging spikes at 44 and 60
+  - microplastics in brians on rise
+  - new pain pill without opioid side effects
+- tech
+  - 3rd type of magnetism: altermagnetism
+  - UK: self-healing road surface prevents potholes
+  - cryptomining to become AI data centers
+  - world's largest solar power plant (ivanpah) may shut down
+- biz
+  - USPS halts packages from china due to trumps' decision to eliminate a law
+  - goog removes pledge to not use AI for weapons
+  - amazon physical stores seem to not be working
+  - (GM) cruise to cut workforce by 50% - funding to robotaxi cut
+  - panasonic cut costs - shift to AI
+  - americans no longer job-hopping
+    - post-pandemic job switching frenzy over
+  - chris anderson (TED) giving company away
+  - salesforce cuts 1000 roles when hiring salespeople for AI
+  - meta investment in VR: 100B
+  - OpenAI next thing: "deep research"
+    - multi-step research
+  - NVIDIA stock dropped 600B on monday?
+    - blogger sparked a short sell?
+  - deepseek used 10K A100 nvidia GPUs
+  - deepseek passes meta and mistral in open-source ai model race
+    - mistral is france
+  - appl record-breaking quarter: 124B revenue, 36.3B profit
+  - "voluntary exit" offered for goog employees working on pixel, android
+  - softbank may invest 25B in OAI
+  - waymo expand test to 10 new cities

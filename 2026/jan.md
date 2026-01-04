@@ -1,0 +1,42 @@
+[Back](./index.md)
+
+- 1/4
+- politics
+  - maduro captured
+  - caracas bombed
+  - tap oil, sell to other countries
+  - biggest american foreign interference since iraq 2003
+  - questions about lawfulness
+  - maduro sent to america for trial
+  - reduce flow of drugs into us
+  - no congressional approval
+  - mar-a-lago - mansion and estate owned by trump
+  - china plans to take largest land army on taiwan
+  - venezuelans take to street to both celebrate and protest
+  - NY: statewide phone ban for students
+    - can't read analog clocks
+  - china engis prohibited from work at pentagon
+- culture
+  - public domain:  betty boop, "i got rhythm", nancy drew works
+  - fire in bar in CH: kills 40
+  - The most recent Survey of Public Participation in the Arts found that less than half of Americans read a single book in 2022
+- biz
+  - no iphone 18 this year
+  - nvidia invests 1B in nokia
+    - ai in telecomms
+  - meta manipulated llama 4 benchmarks
+  - amd catching intel in gaming chips count
+  - tesla electric truck charges at 1.2 MW
+  - starlink satellites to be lowered for safety
+    - 9000 in orbit
+    - faster time to recall
+  - washington post: 4 day work weeks?
+  - AI startups outnumbering all publically traded companies
+  - "While statistics abound about large language models beating humans in computer programming and other aptitude tests, these models still struggle with real-world scenarios that require nuanced decision-making,"
+  - waymos in SF
+  - UK company sends microwave sized factory to space - reaches 1000C -  creates semiconductors
+    - "When they are being manufactured in a weightless environment, those atoms line up absolutely perfectly."
+  - warren buffet retires from BH - 55 yrs later
+- tech
+  - 30 years of ip6
+  - cern downtime for a big upgrade

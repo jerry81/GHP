@@ -1,0 +1,307 @@
+[Back](./index.md)
+
+6/26
+- politics
+  - trump making "scary mistakes"
+  - mamdani (from yesterday) wins, socialist win?
+    - anti israel
+  - LA: $30 min wage?
+  - trump 2nd f-bomb
+  - cod overfishing: size halved since 1990
+  - bernie: AI productivity should lead to 4 day work week
+- health
+  - heart attacks down, other types of heart disease like arrhtymia on the rise
+- biz
+  - steam running games faster than windows 11
+- tech
+  - JWST discovers first exo-planet
+    - 11 Light years away
+  - nose drone swarm to clear sinuses?
+  - hdmi 2.2 95GB bandwidth and 16K res support
+    - bandwidth doubled from 2.1
+
+6/25
+- politics
+  - mandani - an arab gunning for cuomo's ny gov spot
+    - 33 y/o
+  - trump f-bomb on live tv
+  - ‘We basically have two countries that have been fighting so long and so hard that they don’t know what the f**k they’re doing. Do you understand that?’
+  - trump mad at both countries
+  - israel broke truce orchestrated by trump
+  - dangerous heatwave
+- biz
+  - waymo, uber in ATL
+  - oof, EV carrying ship catches fire and sinks
+  - amzn same-day delivery for rural customers
+- tech
+  - china leading in FTTR (fiber to the room)
+  - mosquito-sized drone from CN
+
+6/24
+- politics
+  - war day 12: ceasefire?
+  - trump threatens nuke RU
+  - americans worldwide get travel warning
+  - trump approval on economy: 37%
+  - HI tourism down
+  - CN breaks solar panel installation record for month of may
+- culture
+  - kanye hitler song causes anger, to perform in slovakia
+- biz
+  - VW auto-taxi: ID Buzz
+- tech
+  - plastic waste into paracetemol using bacteria (ecoli)
+    - currently it comes from oil
+
+6/23
+- politics
+  - RU: many countries willing to give iran nukes
+  - usa attacks iran with b2 bombers
+  - supreme leader ali khamenei: "has the look of a martyr in his eyes"
+  - NYC 102 F (38.8C)
+    - converting back remember to subtract before divide
+  - iran to citizens: delete Whatsapp
+- biz
+  - oil markets on edge due to war
+  - anti-ai gen market: music industry hunts down AI generated songs with AI
+  - americans buying twice the amount of hybrids as EV
+  - AMZN, IBM, SF, JP Morgan - warn about AI taking your job
+  - intel outsources marketing to AI and accenture, lays of own dept
+  - softbank pitch: 1T Arizonia hub
+  - meta (who bought scale.ai) considered buying perplexity
+  - goog using youtube videos to train AI video
+- culture
+  - linus and bill gates first ever picture together
+  - ai remakes of classic chinese kung fu movies may be coming
+- tech
+  - anti-climate commitees: we are reaching 1.5C threshold for warming
+  - remote surgery performed: USA to Africa
+  - redmonk top PL:
+    - javascript
+    - python
+    - java
+    - PHP
+    - C#
+  - nanotech: self-healing metal
+  - 7.3 TB DDoS attack breaks record
+  - saggitarius A (large black hole) spinning as fast as physics allows
+
+
+6/19
+- politics
+  - israel running low on defensive interceptors
+  - NYC protests: "burn tel aviv to the ground"
+  - tehran warns us not to intervene
+  - day 7 war iran israel
+  - obama: america close to autocracy
+  - 117F in phoenix
+  - tx wall: only 8% built.  quietly defunded by state
+  - iran internet blackout, prevent cyberattacks
+  - regulatory framework for US stablecoins created
+  - tiktok deadline extended (3rd time)
+  - japan 700M fund, lure foreign academic talent
+- biz
+  - japan buys us steel
+  - buss family sells lakers to dodgers
+  - Texas instruments invests 60B to make semiconductors
+  - midjourney launches AI video gen model, V1
+  - appl iphone strong growth in 2 months
+  - waymo robotaxis back to NYC again
+  - google ai: veo3 ai videos "frighteningly good"
+  - msft: job cuts in sales
+  - corporate culture: shrinking white-collar workforces by 3.5% over 3 years - smaller is better
+  - james gunn: "disney killed marvel"
+  - msft tending to slap "copilot" label on everything
+  - altman tantalizes staff with 100M bonuses, ai race intensifies
+  - amzn ceo jassy: ai will shrink workforce
+  - SF 6% price hike - ai features
+  - MSFT hustling: 20% working on weekend, 5% on sunday evening
+    - spontaneous meetings
+  - in 2 years, ai use at work has doubled
+  - intel 15 to 20% layoff factory workers
+  - openAI/msft tensions
+  - appl migrates a service from java to swift, gets 40% perf upgrade
+    - meta/aws - rust
+    - ntflx - go
+  - nvidia huang: anthropic ceo dario Amodei is wrong: AI will not eliminate half of white-collar jobs
+- culture
+  - jeremy allen white as bruce springsteen
+- health
+  - alzheimers starts 20 years before symptoms
+- tech
+  - "worse is better" in software refers to more functionality in software lowers usability and predictability
+  - china rise in open tech
+    - "kaiyuanshe" - advocacy group
+    - openharmony
+    - open models in ai
+      - deepseek
+      - qwen (alibaba)
+      - ernie (baidu)
+  - llama recalls 42% of first harry potter book
+  - first atom-thin (2d) non-silicon computer developed
+    - molebdenum disulfide and tungsten diselenide
+    - breakthrough in smaller energy efficient electronics
+
+6/14
+- poltiics
+  - iran hits tel aviv with missle attack, 3 dead
+    - retaliation on tehran threatened
+  - boeing 787 crash, air india
+- biz
+  - stock crash fears
+  - meta partners with geothermal energy to power ai
+  - shopify partners with coinbase and stripe
+- culture
+  - mel brooks spaceballs 2
+- tech
+  - "smart" tires have sensors that detect temp and pressure better
+  - tiny human hearts grown in pigs
+
+6/12
+- politics
+  - trump approval 38
+  - predator drone from military over LA
+  - nationwide protests - 1500 demonstrations in country
+  - puerto rico leave usa and (re)join spain?
+  - weinstein retrial: guilty of SA, rape hung-jury
+  - india sends first astronaut to ISS
+  - director of national intelligence tulsi gabbard
+- biz
+  - canva interview - use LLM
+  - 23andme bankrupt, users ask to delete personal data
+  - AMZN video generator - Ai gen ads now running rampant
+  - AAPL upgraded ai models lagging on performance
+- tech
+  - aapl Container - run linux containers on macOS
+
+6/10
+-  politics
+  - trump wants to arrest newsom
+    - ca sues back (step towards authoritarianism)
+  - bolsonar on trial
+  - moscow fires 479 drones at ukr
+  - china shuts down ai tools during nationwide college exams
+  - chinese student enrollment in us unis continues decline
+  - trump ai czar, David Sacks: "UBI is not happening"
+  - ukr 1/5 of internet space came under russian control, IP addresses sold
+  - great firewall dropped for some select corporate users to boost free-trade
+- culture
+  - islam takes share of world religion from xtianity
+- biz
+  - stablecoin issuer circle: ipo - jumps 169%
+  - meta new superintelligence lab
+     - may buy scale ai for 10B
+  - appl liquid glass - new design language
+  - ceo of duolinguo Luis von Ahn (guatemalan-american)
+  - switch 2 sells 3m units, breaking records on launch
+  - quantum startup nord quantique puts logical qubit on single piece of hardware
+  - volvo iot seatbelt - adapts to user's body
+  - amzn test delivery robots
+  - waymo passes 10M paid rides
+- tech
+  - cancer breakthroughs since 1991
+    - death rate declind by 1/3
+    - anti-smoking
+    - hpv
+    - better/earlier screening
+    - drugs - lenalidomide, bortezomib
+  - humans can get rid of all mosquitoes with genetic tools
+  - MIT cs prof ryan williams finds way to transform algorithm to form that uses less space
+
+
+6/5
+- politics
+  - don has db of citizens
+  - musk continues to mouth off
+  - new job slowdown
+  - the don killed pride month?
+  - saharan desert sand cloud approaches tx and FL
+  - us telecom was hacked by chinese
+  - ukr attack on russian bombers (1/3) was performed by drones
+- culture
+  - lgbtq chars on tv down 36%
+  - adolescene: british series breaking ntfx records
+  - tech elites getting into dark retreats
+  - openai board drama will become a movie
+- health
+  - mushrooms treat IBS?
+- biz
+  - meta to start using nuke power for AI
+    - will push into defense tech
+  - linkedin owned by msft since 2016
+  - morgan stanely ai tool saved 280K dev hours this year
+  - cursor raised 900M at 10B valuation
+  - openai may acquire windsurf (codeium coding tool for 3B)
+  - entry-level coding positions down 24%
+  - goog over 30% code now AIG, msft 20-30
+  - biocomputing platform, Cortical labs uses chip with human brain cells on silicon chip
+    - wetware as a service
+    - nutrient input, waste filtration
+  - AMZN AWS to make new EU-based region
+  - 700 indian employeees posed as AI chatbots, startup goes bankrupt
+  - msft fired 6k in may, hundreds more
+  - animal cloning quietly booming
+- tech
+  - jap scientists: plastic that dissolves in seawater
+  - milky way and andromeda galaxies 50% chance of colliding in 10B years
+
+6/3
+- politics
+  - ukr big attack on russia
+    - cn providing military supplies to ru
+    - nuke retaliation
+  - measles outbreak
+  - sicily volcano blows
+  - household energy costs to go up
+  - china has humanoid robot fight night
+  - anthropic ceo: AI eliminate half of entry level white collar jobs within 5 yrs
+  - CNN: ai will not eliminate 1/2 white collar jobs - "ai hype machine"
+  - 1/10 india have ac, 4/5 in malaysia, 2/3 in china
+    - but pollution cools the air by shielding sun rays
+  - demand for american degrees down
+  - 2% americans use gLP-1 drugs for obesity
+  - pakistan allocates electricity to btc mining and ai data centers
+  - trump pushes nuke energy
+  - appl faces 25% tariff unless iphone manu moves to usa
+- biz
+  - VC strat: acquire mature biz and retrofit with AI
+  - HP china exit
+  - stack overflow desperate
+    - test pay experts to answer questions
+    - 90% q+a drop since 2020
+    - license SO to AI companies for training models
+    - build new stack overflow that personalizes experience
+    - bring b ack chat
+    - forums (stack exchange)
+  - walmart increases prices
+  - china 1000 Mi range EVs
+  - jony ive secretive openai hardware device gets nod of approval
+    - neck-worn ipod shuffle like
+  - "pretend to work" jobs in china
+    - rent out "occupations" to clients
+  - blue origin takes 6 people to "edge of space"
+    - 3 minutes of weightlessness
+  - ai apocalpyse already hitting new grads - 5.8% unemployment rate
+  - anthropic valuation: 61.4B, 3B/year revenue , openai 300B
+  - jobs replaced by AI: copywriter, voice actor, graphic designer
+  - brazil: allow citizens make money from selling personal data
+  - hugging face releases 2 open source robot designs
+  - xai to pay telegram 300M to integrate grok
+  - SF acquires informatica (cloud data mgmt) for 8B
+- culture
+  - DC: buttersworth is hot trump-friendly restaurant
+  - spielberg next film 2026, Sci fi
+    - the fablemans most recent
+  - guillermo del toro - frankenstein, netflix
+  - legal drug psychotherapy - take ayahuasca and "integration therapist" helps find meaning
+  - CDPR to move forward with cyberpunk 2
+- health
+  - younger generations less likely to have dementia
+- tech
+  - linux user share at 2.69 on steam
+  - ai to consume more power than bitcoin by end of 2025
+  - cybersec: 2048-bit RSA broken by quantum comp with 1M qubits running for 1 week
+  - goog latest ai video tool, veo 3
+  - lidar may damage phone camera
+  - sharp knives reduce onion spray/tears
+  - infared contact lens allow poeple to see in dark

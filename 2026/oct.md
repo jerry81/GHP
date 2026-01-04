@@ -1,0 +1,397 @@
+[Back](./index.md)
+
+- 10/30
+- politics
+  - china new law - social media influencers require them to hold verified pro qualifications before posting content on
+    - medicine, law, education, finance
+  - trump thinks himself a king
+  - pop-up city: experimental settlement - bring people and ideas together to test new concepts
+    - island off coast of honduras popup city - longevity startups fast tracking anti-aging drugs
+      - vitalia
+  - china/usa - seek to ease trade tensions
+- biz
+  - chatgpt browser "atlas" - anti-web
+    - instead of webpage results when searched, gives wikipedia-like report
+  - nvidia takes 1B stake in nokia
+    - finnish company, 6G and AI-driven network tech
+  - us startup "substrate" will rival ASML on lithography equipment
+  - nvidia gets 5T valuation
+    - first ever company
+    - as much as entire german economy
+  - gates: AI bubble similar to dot com bust
+  - grammarly rebrands as superhuman
+  - msft handheld xbox -  xbox Ally, $600
+  - youtube auto-upscale low-res videos with AI
+
+- 10/29
+- politics
+  - china: first wind-powered undersea data center
+    - lingang
+      - 1.6 B yuan
+  - hurricaine melissa
+  - china pushes animal testing, accelerating biotech
+    - editing genes of large animals
+      - pigs
+      - monkeys
+      - dogs
+- biz
+  - office online: end of life 12/31/2026
+  - anthropic & goog cloud deal
+  - teams new feature - track attendance thru wifi
+  - appl shipping AI servers from TX factory
+  - AMZN cut 14K corporate roles
+  - openai msft deal: msft gets 27% ownership
+    - worth 135B until year 2032
+    - msft backed openai with 13.75B
+    - after AGI reached, MSFt no longer gets cut of revenue
+  - openai wants to spend 1T a year in infrastructure
+  - 3/4 restaurant orders in america not eaten in restaurant
+  - nvidia nvqlink
+    - quantum processor connected to gpu based supercpus
+  - aws cloud share down to 38% vs 50% in 2018
+- tech
+  - UN  goal of 1.5C cap will fail
+  - iceland now has mosquitoes, climate change
+  - aws outage caused by single point of failure
+
+
+- 10/28
+- politics
+  - venezuela accuses america of planting false flag:
+    - staged attack, pin blame on someone else
+    - origin - naval ships - fly false flag to get close to enemy
+    - warships in caribbean fronting as war on drugs, but actually want to take venzuela's oil
+    - antwerp belgium: eu's biggest port, becoming a cocaine port
+      - gangs, cartel
+  - finland fertility down 1/3
+- biz
+  - EA teams up with stability AI (stable diffusion)
+  - amzn to layoff 30K
+    - overhiring during pandemic
+  - openai: over 1M people talk to chatgpt about suicide weekly
+  - apple wallet to link with passports
+  - qualcomm to compete with amd and nvidia on ai chips
+  - workers using AI to generate fake expense receipts
+  - msft - the new clippy: Mico
+- tech
+  - ransomware profits down - victims stop paying
+  - cancer treatment destroys 90% of skin and colon cancer cells in 30 minutes
+    - light therapy
+    - years away from clinics
+    - lab only
+    - not fda approved
+    - colon weaker results
+
+- 10/23
+- politics
+  - canada BC bans new crypto mining ops from connecting to power grid
+  - national debt > 38B
+  - trump says he's doing better than lincoln and washington
+  - speculation that he doesn't want to ever leave white house
+  - reconstruction of east wing (white house)
+  - health insurance costs 27K for family plan
+  - global coal use actually hit record high in 2024
+  - new delhi pollution: 5 year high
+  - 1100 public figures call for ban on superintelligence - goal: halt until broad consensus on safety and public support
+    - geoffery hinton, wozniak, branson, steve bannon, ethereum cofounder vitalik buterin
+    - altman superAI by 2030
+    - Zuck, superintel in sight
+- biz
+  - waymo investigated over waymo robotaxis around school buses
+  - uber gives 4K USD incentives to swap gas vehicle to EV
+  - reddit sues perplexity for scraping data
+  - 1/4 americans didn't take any vacation days
+  - tesla profit down, musk focuses on "robot army"
+  - meta fires 600 from AI unit "bloated"
+  - goog migrates internal workloads to ARM chips
+    - youtube, gmail, running on both x86 and arm
+  - samsung makes first android XR headseat
+    - Galaxy XR
+  - youtube new feature - time limit on shorts watching
+  - google quantum breakthrough
+    - quantum echoes algorithm
+    - replicatable
+    - quantum chip Willow
+- tech
+  - many financial and gov runs on cobol - mainframe coding lang
+  - resistant bacteria advances faster than antibiotics
+  - AI misrepresenting news content at high rate 45%
+- culture
+  - women taking testosterone?
+
+- 10/21
+- politics
+  - trump to free diddy?
+  - CN hacked by US?
+  - japan elects female leader, sanae takaichi - PM of japan
+    - 64, succeeds shigeru ishiba
+  - CN stealing american dna to create super soldiers?
+  - modern political issue: should scientists be allowed to edit genes of wild animals
+  - tx age-verification law on app store
+    - big tech calls "broad censorship"
+  - NY bans AI-enabled rent-pricing
+  - Army general uses AI to improve decision making
+  - CN generates 2x america's power
+  - SKorea tried AI textbook program, abandoned after 4 months of tech difficulties
+- biz
+  - wikipedia human visits down - due to AI
+    - called dangerous
+  - GM ev sales down, canada backs down from EV mandate
+  - perplexity releases ai browser, "comet"
+  - andrej karpathy (also ex openai) builds Open source "nanochat"
+    - 8000 lines of clean code
+    - didn't use vibe coding
+  - sony gets into crypto - sony bank - stablecoin for us dollar
+  - cory doctorow urges tech workers: join unions to avoid "enshittification"
+  - spacex launches 10K th starlink satellite
+  - claude code has web version
+  - jensen: nvidia went from 95% to 0% mkt share in CN
+  - openai "embarrassing" math
+    - GPTards
+  - 3 hr AWS outage - 1000s websites go offline
+    - dns issues in dynamo US-EAST-1 no. virginia
+      - fortnite, clash royale, clash of clans
+  - gig economy to become next AI rev's next casualty
+    - new gigs: help Uber train ride-sharing AI models
+      - test driverless grocery and meal deliveries
+  - signal messenger starting to plan for quantum decryption
+  - appl, samsung new thin smartphones have underwhelming sales
+    - iphone air, galaxy s26 edge
+  - appl, F1 750M deal for streaming coverage
+  - SF hit with lawsuit - used books without permissions to train AI
+  - saudi arabia tried to acquire EA, but unions against it
+  - new macbook pro - touchscreen, m6
+- culture
+  - Chess GM daniel naroditsky dead 29
+- tech
+  - future self-driving police cars may be able to launch drones
+  - sight-restoring electronic implant a success
+  - environment: record co2 levels in 2024
+  - health hazard: protein powders have high levels of lead
+  - concrete: 8% world's greenhouse gas emissions
+  - AI posted dangerous health advice on reddit
+  - plug-in hybrids pollute as much as petrol
+  - ice xxi - super-compressed ice
+  - alzheimer's breakthrough in rats
+
+- 10-16
+- politics
+  - ICE kills a dog
+    - cracking down chicago but residents fighting back
+  - swatstika flag spotted in maga rep's office, triggers probe
+  - CIA spy actions in venezuela
+    - assassinate maduro?
+  - general using chatgpt to make military decisions?
+  - RU drones swarming europe
+    - sweden stockpiling food
+  - norway already 100% new EV sales
+  - cn steals vast amounts of classified uk docs
+    - infiltrated key uk gov data-transfer network for years
+    - boris johnson coverup?
+  - us passport no longer top 10 most powerful
+  - warning: by 2050: 2C increase in global temp
+  - new obesity definitions - 70% us adults
+  - world producing more food crops than ever before
+  - half world's sattelites transmit unencrypted info
+- tech
+  - software overhead chain:
+    - react -> electron -> chromium -> docker -> kubernetes -> VM -> mg db -> api gateways
+      - each layer addig 20-30% overhead
+        - 2-6x overhead for same behavior
+      - apple calculator leaked 32GB ram
+      - conclusion, we are living in software quality crisis
+  - ai agents inherently unsafe
+    - unsafe data, untrusted, unverified tools, hostile environments
+      - each phase OODA loop (observe, orient, decide, act) is vunerable
+        - must choose one of fast, smart, secure (trilemma)
+  - ai missing out on vast amounts of non-digitized human knowledge
+    - non-english knowledge neglected
+- biz
+  - github migrating to azure - features dev put on secondary priority
+  - indonesia film industry uses ai to make hollywood-like movies for cheap
+  - SF AI customer service, 100M annual savings
+  - goog 15B investment in india ai hub
+  - reddit co-founder: Internet now dominated by bots and AI
+  - anthropic aims triple rev in 2026
+  - waymo to london
+  - western execs wowed by china's automation in manufacturing
+    - ford CEO
+    - dark factories - don't need to turn on lights, round the clock production by robots
+  - tim cook pledge: boost china investment
+    - new macbook pro - 24 hr battery life, faster AI processing
+- culture
+  - mel gibson new jesus movie
+    - passion 2
+- health
+  - humans hit functional peak at 60?
+    - complete form of intelligence
+      - emotional balance, experience, judgement
+  - focused sound energy as medical treatment for cancer, alzheimers etc
+
+- 10/14
+- politics
+  - israeli hostages set free
+  - RU warns of WW3
+  - chinese factories supply RU drones
+  - america's fall is fate?
+  - BJ upper hand in trade war?
+    - FCC forces millions of chinese electronics to be delisted
+  - china acquiring land in key locations near us military bases
+    - spying or attack staging ground
+  - dutch gov nationalizes Nexperia (chinese owned)
+    - causes stock to drop 10%
+    - hague exercised "Availability of goods Act"
+  - china passes us in free AI models count
+  - pope against AI "replacing humans"
+- biz
+  - openai broadcom chip deal worth billions
+  - crypto mogul found dead by gunshot inside his lambo
+    - konstantin galich
+    - depression, financial difficulties
+    - kyiv ukr
+    - possible suicide
+  - goog AI image editor - nano banana
+- tech
+  - alzheimer dolphins washing up in miami
+
+- 10/13
+- politics
+  - ukr (and us) hit russian energy
+    - energy a key battleground
+    - putin warns west
+  - israel hamas ceasefire
+    - hamas releases israeli hostages
+  - South carolina bar shooting
+    - 4 dead 20 inj
+  - china arrests ezra jin, prominent pastor
+  - st peter's basilica (vatican) gets peed on
+  - fake celeb's deepfakes going viral
+  - tel aviv rally - trump praised, netanyahu booed
+  - CA: no more coal starting next month
+  - palisades fire started by uber driver?
+    - killed 12 people
+- culture
+  - coral reef discovered near naples
+  - SG, japan, uk top destinations for entrepreneurs who move
+    - switzerland 4, usa 5
+- biz
+  - $299 rubiks cube with led screens
+    - WOWCube
+  - 19755 workers cut at india's top firm TCS in ai push
+  - meta exec to workers building metaverse: use ai to go 5x faster
+  - lyft - tensor auto - robotaxi deal
+  - openai - sur energy 25B argentenian data center deal
+  - toyota all solid state batteries to launch
+  - appl acquire cv team from prompt AI
+  - new gpu tech for ps6
+    - collab with AMD
+  - msft give free AI tools to wash state schools
+  - openAI to turn to ad platform?
+  - one-drive adding face recog for photos?
+  - antitrust: circular AI deals:
+    - amd sells to oracle
+    - oracle builds data centers for openai
+    - nvidia owns coreweave which helps build data centers
+  - double digit drop for bitcoin, below 110K
+  - tesla tron:ares mode: light show
+    - bad box office
+  - amd/openai chip deal "big victory"
+    - nvidia still leads
+  - USA: 80% say job hurts mental health
+  - ferrari first EV sports car
+- tech
+  - ai tools find 50 bugs in cURL
+  - gps fails around skyscrapers - tall buildlings bounce signals
+
+- 10/9
+- politics
+  - china breaks record for world's highest bridge, guizhou, huajiang grand canyon bridge
+  - taliban cuts afghan internet
+  - china new k visa attracts foreign talent
+  - trump dementia accusations again
+  - ICE's detention center called alligator alcatraz
+  - spain far right movement
+  - xi: "china will not fire the first shot, but will not allow a second"
+    - missle contains 60 nuke warheads, and 1 hydro bomb
+    - CN 600 nukes, usa 5277, RU 5449
+      - 2M active soldiers, india 1.46, usa, 1.3, NK 1.28M, RU 1.1
+  - israel hamas peace deal coming
+  - EU word ban: plant-based meat terms "steak, burger, sausage"
+  - germany lets police shoot down drones
+  - renewables surpass coal
+  - ireland basic income scheme for artists becomes permanent
+  - india power grid struggling
+  - EU labor law discourages investment in disruptive techs that could reduce number of workers
+  - china setting up two satellite constellations "guowang" and "thousand sails"
+    - 国网, 千帆
+  - stray bullet knocked out internet in TX
+  - philipines 2nd biggest gambling hub in asia after macau
+  - britain going broke
+- culture
+  - tai lopez (youtuber) bought radio shack, modells, pier 1, accused of running ponzi scheme
+  - jane goodall rip, 91
+  - post-literate society - reading down
+  - gene simmons hospitalized after car crash: passed out
+  - mr beast # 1 youtuber fears sora launch
+  - steve jobs 14 years since death
+  - cory doctorow book: enshittification: why everything suddenly got worse and what to do about it
+- biz
+  - chatgpt adds instant checkout
+  - venmo paypal interop
+  - lufthansa cuts 4k jobs - use AI to boost efficiency
+  - new msft ceo: judson aithoff
+  - 100 design roles in cloud cut at google
+  - "only hundreds in world can train complex ai models"
+  - asahi super dry the most popular beer in japan
+  - msft survey: 71% biz leaders choose less experienced ai skills over experienced candidates without
+  - ai has run out of training data - says goldman cheif data officer
+  - amzn delivery drones crash into crane in AZ
+  - amd to use intel factory to make chips?
+  - AI bubble 17x dot com, and 4x subprime
+  - vibe coding to create more programming jobs?
+  - pay-advance app: aka earned-wage access app, cash-advance
+    - get portion of paycheck before official payday
+  - porcsche can't add inductive wireless charging because of fit issues
+  - openai to become platform for in-chatgpt apps
+  - tiktok us HQ: culver city
+  - tim cook nears retirement
+    - hardware head john ternus may replace
+  - astrazeneca 555M AI deal with Algen (ai powered gene editing)
+  - openai drops 1T in deals for computing power this year
+  - AI = 3 day work week?
+  - youngest selfmade billionaire: shayne coplan - Polymarket: prediction market platform
+  - SF data breached, 1B records - extorted, refuses payment
+  - middle management being cut at higher rates than ever in America
+  - openAI/AMD deal on monday - openai committed to purchasing chips over multiple years
+    - AMD offered 10% of company
+  - usb-less phones
+    - environmental reasons
+  - qualcomm buys arduino
+    - releases RBPi competitor
+  - chatgpt 800M weekly active users
+  - toyota EV: BZ series, only sells 60 in month
+    - recalls due to faulty defroster
+  - msft wants in-house chips, swap nvidia and amd
+  - texas stock eschange incoming
+  - google pushing Jules - AI coding agent
+  - openai 500B valuation - most valuable startup
+    - passed spacex and bytedance
+  - bezos prediction: data centers in space
+    - uninterruptible solar power
+  - tesla unmatched in OTA updates
+  - appl shifts from vision pro work to meta-like rayban style glasses
+- tech
+  - organic substances found on saturn's moons
+  - women may live longer because of double x chromosone protects against mutations
+  - larry page: cheerful apocalyptic
+  - sora 2 (openai video) watermark removers everywhere
+  - skorea data center fire: 858TB gov data lost
+  - sci's want to cool earth
+    - rain over volcanic rock, pull carbon from air, wash into ocean store the carbon
+  - breast cancer up
+  - win 11 deadline incoming, pc sales explode
+  - nobel prize in chemistry: developed molecular building blocks w/ spaces to allow gases to pass thru
+    - detoxify applications
+  - asperger's was merged into autism - complaints made about this
+  - nobel physics given for quantumn mechanics work
+  - ubuntu linux 26.04 called Resolute Raccoon

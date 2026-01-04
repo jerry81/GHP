@@ -1,0 +1,136 @@
+[Back](./index.md)
+
+- 12/9
+- biz
+  - severe spike in DRAM prices
+  - meta moved some funding from metaverse to AI glasses
+  - genz going for retro tech: vinyl, disposable cameras, radios, alarm clocks
+  - home assistant: FOSS automation platform one of fastest growing FOSS projects
+  - openAI disables target links in chatgpt responses
+    - despite denying that they were suggestions, not ads
+    - trained cgpt to confess to bad behavior
+  - paramount takeover bid for warner bros
+    - david ellison ceo
+    - backed by saudis
+    - battling with ntflx
+    - ntflx bid 72B cash, stock
+  - home sellers giving up quickly
+  - IBM buy confluent 11B
+    - bought red hat in 2019
+    - known for data streaming powered by kafka
+    - extends kafka
+  - lenovo gaming laptop - rollable oled screen stretches ultrawide
+    - organic light emitting diode - carbon-based compounds
+      - no backlight
+      - perfect black
+      - wide viewing angle
+      - colors
+      - thin flexible
+      - fast response time
+  - social media shopping machine created lots of buyers in debt
+  - Goog AI glasses with gemini 2026
+  - michael burry: "tech companies artificially inflating profits by changing depreciation time period of ai chips
+    - calls it fraud
+  - mgrs spend 23 hrs/week in meetings - bad meetings generate more meetings
+  - aptera solar powered evs progressing - close to production
+  - Meta buys limitless - AI wearables
+  - NYT sues perplexity - copyright - reselling its paywalled stuff without perms
+  - waymos illegally passed school buses 19 times
+- politics
+  - AI chatbots sway people better than political ads
+  - EU urged to reconsider 2035 ban on combustion cars
+  - japan earthquake, tsunami warning
+  - china growth - coming at others' expense
+    - us imports up, china imports down
+    - rel between cn growth and global growth turns negative
+    - now 17% of global GDP
+  - twn bans xiaohongshu, people cry censorship
+  - US: 200 environ groups demand to halt new us datacenters
+  - china trade surplus tops 1T, despite tariffs
+  - ICE makes christmas push: 'ho-ho-home'
+- tech
+  - cloudflare: blocked 416B ai scraping requests in 5 months
+  - blackest ever fabric absorbs 99.87 light
+  - ruby: is it still "serious PL"?
+  - brew support flatpaks
+    - flatpak - modern, sandboxed app packaging for linux
+      - flathub - app store for flatpak
+      - comparable to snap, appimage
+  - new invention: Johnson thermo-electrochemical converter: pressurized hydrogen thru membrane generate electricity with heat source
+    - inventor of super soaker lonnie johnson
+  - airbus software glitch caused by cosmic rays?
+    - increasing problem as we rely more on chips
+  - VaaS - violence as a service - cyber criminals
+  - molten salt fuel for nuke reactors made in idaho
+- culture
+  - robocop statue in detroit
+  - woman smashes other man's meta smart glasses on subway, hailed as hero
+  - new college major: AI
+    - 2nd largest at MIT
+  - one battle after another many golden globe noms
+- health
+  - "rib cracking virus" on cruise ship - 100 infected
+  - full body MRI costs 2500USD
+    - with many false positives requiring biopsy
+
+- 12/4
+- politics
+  - columbia on brink of war with USA
+  - trump shifting ai goals to robots?
+- culture
+  - digital burnout default state of being online
+- biz
+  - palantir shifts course - will play part in deportations
+  - win 11 growth slowing as people sticking with win 10
+  - msft finding ai software sales not up to expectations, lowers quotas, customer resistance
+  - anthropic acquires bun, engine behind claude
+- health
+  - tattoo ink moves thru body killing immune cells
+
+- 12/3
+- politics
+  - flu in britain
+  - maduro wants to fight the don
+  - trump going crazy - posts 400 twitters overnight
+    - says somalis are garbage
+  - SF to sue ultraprocessed food makers
+- culture
+  - avatar fire and ash
+  - 20% of harvard is... disabled?
+- biz
+  - AMZN use nvidia chips in AI infra
+  - openAI takes notice of goog catching up in AI race
+  - waymo hits dog
+  - top 1% worth 52T
+  - marc benioff takes shrooms and livestreams
+- tech
+  - kubernetes to retire nginx ingress controller
+
+- 12/2 (thru 11/27)
+- politics
+  - trump more isolated than ever, allies worried
+    - abdominal, cardio MRI checks
+  - some say xi did better than putin and trump 2025
+  - navy in caribbean vs venezuela
+  - spain swine fever outbreak
+  - singapore all day secondary school smartphone ban
+  - brits oppose plan to "blot out the sun" to combat global warming
+- biz
+  - netflix wants to buy warner bros/discovery
+  - samsung innovation: galazy z trifold - first ever trifold phone
+  - siri delays lead to Appl AI chief stepping down
+    - john giannadrea
+  - waymo runs into charging problem
+  - amzn tells engis to use AI coding tool, "kiro"
+  - research: ai can do work of 12% of american workforce
+    - MIT study
+  - ai role in Black friday spending: drove 11.8B sales (record)
+    - 40% consumers using AI tools to help shop
+- culture
+  - guillermo del toro "fuck ai" while receiving gotham award
+  - disturbing convos with chatgpt happening at "large scale"
+- tech
+  - pseudo: person dressed as batman standing in metro doubles rate at which people give seat to pregnant woman
+  - browser extension: slop evader (filter out ai gen content)
+  - HIV prevention shots in africa
+  - health:  smartphone at age 12 - worse sleep, more obesity, higher depression rate

@@ -1,0 +1,477 @@
+[Back](../index.md)
+
+7/31
+- politics
+- biz
+  - meta stock up
+  - msft worth 4T
+  - sam altman build doomsday bunker
+    - nuclear armageddon, wwiii
+  - musk's boring company - tesla tunnels under nashville
+  - AMZN investment: "NTFLX of AI" Fable
+    - make own TV shows
+  - only 27% mgrs feel engaged at work
+  - META ai already self-improving, superintelligence is in sight
+- tech
+  - tx highways filled with autonomous trucks
+    - dal <-> hou
+  - AlphaEarth - GOOG AI that maps satellite images into detailed maps incl vegetation, material props, groundwater sources - accurate to 10 m
+  - AI code gen writes vunerable software 50% time
+
+7/30
+- politics
+  - ru biggest earthquake
+    - whales on japan coastline
+  - trump may pardon diddy
+  - st paul cyberattack
+- culture
+  - hulk hogan was in debt before death
+- biz
+  - nongfu buying new hampshire properties
+  - goog has engineering education team
+  - meta stealing APPL researchers
+  - anthropic 170B
+  - india takes over top spot for making phones (passing china)
+    - now dedicated manufactory for appl
+  - dog walking startup "wag" files bankruptcy
+  - claude gets weekly limits
+- tech
+  - airbus A380 biggest commercial jet
+  - AI in wyoming using more power than residents
+  - doubleslit was thomas young
+  - pill for sleep apnea
+  - chatgpt study mode - help you learn not just give answers
+
+```
+The survey of 1,437 adults, conducted July 10-14, reveals a significant generational gap in AI adoption. Among adults under 30, 74% use AI for information searches and 62% for generating ideas, compared to just 23% of those over 60 who use it for brainstorming. About one-third of Americans use AI for writing emails, creating or editing images, or entertainment purposes. A quarter use it for shopping, while 16% report using AI for companionship -- a figure that rises to 25% among younger adults.
+```
+
+
+7/29
+- politics
+  - nyc shooting in nyc: 5 dead
+    - shane tamura: blasian
+  - trump "mental decline"
+  - beijing military from obsolete to world-class
+  - twn prez lai blocked from NY stopover
+  - americans spend half day online
+  - chinese Unis to students: use more AI
+  - norway is rich: 27.5 sick days per year, highest
+    - oil revenue made norway bloated and unproductive
+    - willing to be EU's carbon dump
+      - receive liquified co2
+  - age restrictions on UK net - vpn downloads surge
+  - chinese without med training charges 20K USD to inject bleach into tumors - wants to bring to USA
+- biz
+  - satya addresses layoffs: why more layoffs (15K in 2025, 9K july) despite record profits and ai investment
+  - stanford grad school of business criticized for not preparing grads
+    - new career path for college grads: train AI models
+  - china starlink rivals hit with delays
+  - bull market over
+  - cyrpto crisis coming?
+  - Futurehome (smart home hub) bankrupt
+    - norway
+  - anker 安克(chinese power monkey company) stops making 3d printers
+  - cyberattack on RU Aeroflot
+  - tesla samsung 16.5B deal make AI chips
+  - AMZN skyrover x1 is actually a DJI product
+  - huawei - 384-chip AI computing system rivals nvidia top product
+    - cloudmatrix 384
+  - tesla first supercharger diner in LA - food served next to charging stalls with tvs playing short films, feature-length films
+  - meta new chief of AI superintelligence named: Shengjia Zhao
+  - intel axe 24k employees, back out of germany, poland, costa rica, ohio
+  - AMD ceo, Lisa su - tsmc's new AZ plant will have 5-20% higher cost than TWN
+- tech
+  - EV battery tech: solid state batteries
+  - linux kernal propsal: ai-gen contributions must be identified in commit messages
+  - "i am not a robot" broken by chatgpt agent
+  - researches test: way to dim sunlight with salt water-spraying equipment
+  - cgpt making you stupid?
+    - replaces sift through sources, compare viewpoints, deal with ambiguity
+  - co2 battery for long term energy storage (8-24 hrs)
+    - can be compressed at ambient temps
+  - goog gemini coding agent hallucinates, delets user's file, admits "i have failed you completely and catastrophically"
+  - hacker puts "wiping" command in amazon Q (coding assistant)
+  - air pollution dementia link
+  - AI model "ignored safetey instructions" used to prevent changes to production systems Replit
+  - artificial blood for emergencies in development - ErthroMer - freeze-dried artificial blood substitute
+    - hemoglobin encased in fat bubbles - shelf-stable for years - mixed with water
+- culture
+  - deion sanders cancer
+  - ff tops superman, 2nd largest opening of year
+  - alien: earth show upcoming
+  - film: predator: badlands
+  - paltrow was married to chris martin 13 yrs, then martin was with dakota johnson, split in june 2025
+  - magnus beats chatgpt at chess
+- health
+  - aging accelerates at age 50
+    - especially heart
+
+7/24
+- politics
+  - ghislane testimony date: aug 11
+  - bill and hillary subpoenaed
+  - trump AI action plan - counter china
+    - env permits for data centers, energy infra
+  - us to rethink h1-b
+    - 600k skilled workers with h1b
+- biz
+  - bezos may buy cnbc
+  - nyse and nasdaq apply for 22 and 24 hr trading days respectively
+  - AMZN bee - AI bracelet - listens everything you say for data mining
+  - 4 day work week confirmed "by science" to be effective
+    - single study 6 months, 2900 employees, 141 orgs
+  - surge ceo: "with ai, 100x engis are here"
+  - msft poaches goog deepmind - 20 AI employees
+- culture
+  - neonazi fight club canada/finland - spreading globally
+  - DC now worst city for traffic, overtakes LA
+  - rome tunnel city underground revealed
+- ai
+  - fda drug approval AI generating fake studies
+  - cgpt 2.5B prompts every day
+- tech
+  - covid aged brains 5.5 months
+  - lung cancer in nonsmokers
+  - goog oss rebuild: project for open source software security
+
+7/22
+- politics
+  - immigration drama: migrants forced to eat like dogs caged like chickens
+  - ghislane pressure to testify
+  - trump 38% approval
+  - hunter biden: dad was on ambien during debate
+  - don posts AI vid of obama getting arrested "deranged"
+  - prince william's cousin found dead with firearm nearby, 20
+  - AI: 100 UKR drones strike RU, drones acct for 70% RU deaths and injuries
+  - us facing "most series chinese hacking ever" wash post
+  - india hits 50% non-fossil milestone early (originally 2030 tgt)
+- biz
+  - beef prices up, the new eggs
+  - softbank+openAI 500B ai project (stargate) struggling to get started
+  - figma targetting ipo of 16.4B
+  - msft sharepoint servers under attack, no patch
+  - Meta tried poaching openAI ai engis with 100M bonuses
+  - duckduckgo browser lets hide ai-gen images in search results
+  - MSFT layoffs - already culture of fear
+- culture
+  - superman scores 400M globally
+  - Felix Baumgartner - skydive from edge of space - 24 miles from edge of space, reached 500mph
+    - documentary "space jump"
+    - broke speed of sound
+    - died in paragliding accident
+- tech
+  - cloudstrike outage affected 750+ hospitals in US
+  - Si Valley: super-babies breeding - startup company Orchid Health - sequence entire genome of 3 billion base pairs
+  - electronic-photonic quantum chip created in commercial factory
+  - kite power instead of windmills?
+    - company kitepower
+    - fly in figure 8 pattern, rotate drum
+
+7/18
+- politics
+  - trump has swollen legs
+  - musk approval at 23%
+  - 1 in 4 forced to delay retirement
+  - israel to bomb iran again
+- health
+  - man with metal neck chain sucked into mri
+  - cancer deaths down 1/3 - preventative approach
+- culture
+  - late night steven colbert cancelled
+- tech
+  - first birth of planetary system observed
+  - openAI chatgpt agent: controls browsers to help with online shopping
+  - germany: building largest wind turbine in world
+- biz
+  - robinhood ceo: most new code written by AI
+  - lucid & nuro w/ uber for self driving
+  - perplexity offers 360M indian users free premium chatbot for 1 year
+
+7/16
+- politics
+  - don jr wants to see epstein files
+  - msft uses chinese engineers to maintain defense department systems
+- culture
+  - drugs rampant on ibiza
+    - health system pressure
+  - woman entices monks into sex, then blackmails
+    - thailand
+  - people having sex on seattle nude beach forces shutdown
+- biz
+  - nvidia china ban about to be lifted, china firms rushing to purchase H20 AI chips
+  - waymo automated dirt diggers at construction sites
+  - butt lifts in miami
+  - world's second richest now larry ellison, overtook zuck
+    - oracle's deals with openai
+    - musk # 1 (358B)
+  - intel layoffs 5000 across usa
+  - scale ai expanded too quickly, lays off 200
+  - AMZN turns 30
+  - GOOG AI: phone local businesses to ask prices for things for you
+  - anthropic: claude for financial services - investment, analysis, research
+  - Perplexity CEO: aravind Srinivas(indian) - Big tech will "copy anything good"
+    - his web-crawling chatbot copied by bard, cgpt, claude
+- health
+  - dogs smell parkinsons
+  - music fights brain aging even in old age
+- tech
+  - hydrogen sucks as fuel source
+  - linux desktop share 5%
+  - better plane navigation with quantum sensing of magnetic signatures in earth's crust
+  - JP sets net speed record, 4M times faster than us broadband avg speed
+    - 125 GB / second over 1120 miles
+    - 19-core optical fiber
+
+7/15
+- politics
+  - ghislaine testimony blocked by republicans/trump
+  - leukemia child arrested by ICE
+  - US only has one native caffeinated plant - yaupon
+  - US DoD gives contracts to OpenAI, xAI, goog for advanced ai
+  - japan behind in AI adoption
+- culture
+  - joy taylor sleeping up the corpo ladder scandal, fox sports
+  - "millions" of seniors playing video games
+    - 50 and over americans 28% of 205M (57M people)
+- biz
+  - AI nudify sites raking in millions of dollars
+  - meta mulls closed AI model
+  - (AI) frenzy escalates - cognition AI buys windsurf for 2.4B
+- tech
+  - kimi (Ali-backed) making US news
+    - K2 outperforms gpt-4 (trillion-parameter)
+
+7/14
+- politics
+  - musk wants trump epstein files released
+    - trump faces revolt
+  - modern warfare already defined by drones
+    - usa behind schedule
+  - iran prez wounded during air strike
+  - netherlands rations electricity
+  - german comedian to be tried for trump assassination joke
+  - hundreds of drones at ukr/ru frontline
+  - South Korea, Singapore, and China all below 1 child per woman
+  - 74% wind and solar projects done by china
+- culture
+  - superman 122M opening weekend
+- biz
+  - omoway 目蔚科技 - self driving scooters
+  - lucid motors 749Mi drive breaks EV range record
+  - robinhood stock up 160%
+  - china evs 70% of thailand ev market
+  - BTC 118K, record
+  - windsurf (AI IDE) fails to be acquired by openai, ceo goes to goog
+  - byd self-driving parking crashes to be compensated
+- tech
+  - new plastic problem: nanoplastics
+    - float on top of ocean
+  - robots remove pig gall bladders without human help
+  - Ada places top ten for Tiobe index PLs poll
+  - warning: invest in quantum cybersec now
+  - scotland underwater turbine spins for 6 years, proves tidal energy
+  - experienced devs slowed down by AI
+  - solar led energy sources in EU last month
+  - university of wash already overhauling CS curiculum to update for AI
+- health
+  - black plague back in AZ
+  - magic mushrooms extending cellular life in mice
+
+7/10
+- politics
+  - trump unhinged in audio: bomb the shit out of moscow/beijing
+  - EU stockpiling food/meds fear of WWIII
+  - nyc mayor race: mamdani still in lead
+    - jew dems worried
+  - 3 out of 10 pregnancies in England -> abortion
+- biz
+  - linda yaccarino (X CEO) steps down
+  - hugging face - 299USD robot
+    - the "github" of machine learning
+    - transform robotics education
+  - samsung 3 new foldables, pressure from chinese competition
+  - MSFT: 500M saved in AI savings
+  - nvidia 4T market cap  - first company to do it
+  - video game actors strike against AI
+- tech
+  - ai out of control: user threatens suit over rape instructions
+  - grok praises hitler
+  - US power grid struggles to meet demand from AI
+  - AMD warns of new spectre/meltdown
+
+7/9
+- politics
+  - tx, 161+ still missing
+  - trump threat: if commie runs NY it will never be the same, but we have measures in the WH.  We`re going to bring NY back"
+  - epstein files mention trump, dems want them released
+  - tulsi gabbard director of national intelligence, FBI CIA and NSA
+  - fears in jp about the "big one" (earthquake)
+  - marco rubio imposter using ai voice
+- biz
+  - x concerned about india censorship
+  - grok gets antisemitic, praises hitler?
+  - gmail QOL: subscription management - less clutter
+  - EssilorLuxottica - french/italian rayban maker - will collab with Meta for AR glasses
+    - world's largest glasses maker
+  - intel fires 500 in oregon
+  - openai/msft having trouble defining AGI
+- culture
+  - AI chatbots used to help guide psychadelic trips
+- tech
+  - more anti-ai: AI = anti-intelligence?
+    - openai, msft forced into classrooms
+
+7/8
+- politics
+  - tx floods
+    - coast guard hero saves 165 people
+    - more floods coming
+    - ted cruz (tx senator) on vacation
+  - ICE (immigration and customs enforcement) raids in LA
+    - has workers in hiding
+    - LA "grinds to halt"
+  - half us exports willing to ditch us citizenship
+  - kremlin minister fired, then found dead, just hours later
+  - RU pounding UKR with 1K missles and drones daily
+  - iran prez: israel tried to assassinate
+    - masoud Pezeshikian
+  - india tries old car reform
+    - public blacklash
+  - EU refuses joint climate commitments with china
+  - american labor: unemployed/employed likely to continue in their current statuses
+  - poland clean energy overtakes coal
+- culture
+  - superman review brutal
+  - rise of choking during sex
+  - wimbledon players don't like AI line calling
+  - comp sci major: no longer golden ticket to jobs, 65% drop
+    - shift from coding to computational thinking and AI literacy
+- biz
+  - appl makes liquid glass design less transparent
+  - waymo starts in philly and NYC
+  - jack dorsey bitchat: bluetooth mesh networks for private chats, doesn't require wifi or 4g
+  - nintendo: wants to keep "traditional approach" to dev
+    - modern: larger scale, longer duration, high dev costs
+    - mario kart world - open world
+  - ntflx: 50% users watch anime
+  - OpenAI: no plans to use goog chip
+  - EV battery patents: india 7, china CATL 43K, LG (Skorea) 70K
+  - china AI village: Liangzhu - suburb of hangzhou
+  - alphabet isomorphic labs launching human trials for ai designed drugs
+  - tesla Oasis station: solar farm, offgrid superchargers
+  - XBOW: AI pentester - raises 75M
+- tech
+  - anti AI bot scraper OSS: Anubis
+    - author: xe iaso
+    - similar to captcha - verify human
+    - creates computational cost prohibitively expensive for AI scrapers
+  - digital yes-man - gaslighting AI to modify accurate answers when questioned by user
+  - AI Term: autoregressive LLM: predict first token of answer, reprocess question with first token, predict second token, etc
+  - vibe coder that doesn't know how to code wins hackathons
+  - commercial tritium production in UK, used in fusion
+    - 4x power of fission
+  - chronic inflammation speed up aging
+
+7/7
+- politics
+  - tx floods kill 100+
+  - musk new political party
+    - "the america party"
+  - dalai lama 90 years old
+  - netanyahu to DC to make deal
+- culture
+  - NYC floating river swimming pool
+    - water from east river, cleaning system
+  - "ai force fed" to public
+    - copilot forced on email writer
+    - bundled into all msft products
+- tech
+  - biology: combat pests, drop loads of sterile males into environment
+
+7/4
+- politics
+  - dollar in for a rough year
+  - chicago driveby - 4 dead
+  - China - forced harvesting of ughyr organs?
+  - isran war: iran deaths: 610, israel 28
+- biz
+  - norway 96% ev market share
+  - ripple - fintech - stock down
+  - samsung holds back on huge tx plant
+- culture
+  - michael madsen RIP 67
+  - teen mom rate down
+  - career criminal wins 167M powerball
+
+7/3
+- politics
+  - diddy trial: bail denied
+    - already cleared of worst charges
+    - fans spray baby oil outside court
+  - ICE arresting american citizens to meet quotas
+  - layoffs up, since pandemic
+  - trump threatened deportation on mamdami
+  - 33k jobs lost from private sector
+- biz
+  - foxconn india workers sent back to china
+  - msft to lay off 9K more
+  - (AI) goog data center energy use doubles in 4 years
+  - tinder CA require facial recog check - reduce impersonation
+  - figma IPO
+  - amzn has released 1M robots to its warehouses, deepfleet - new genai model
+    - specifically for warehouses
+  - AI engi salaries 500K to 2M, up to 10M
+- health
+  - processed meat (sausage/hotdogs) just bad for you
+  - air pollution linked to lung cancer
+- tech
+  - china tests hypersonic aircraft
+  - global warming speeding up
+
+7/1
+- politics
+  - "free america" protests on 4th
+  - naturalized americans stripped of citizenship for criminal offenses
+  - bibi to visit white house
+  - RU masses 50K troops
+  - cash virtually elimniated coins and bank notes
+  - fed reserve chair: jerome powell: ai coming for your job
+  - 36% undergrads in CN choose engi, 5% in US and UK
+    - govt strategy: address tech bottlenecks
+  - waste export: CN stopped receiving in 2018, malaysia alternative, no longer accepting
+- biz
+  - AI really threatens accenture
+    - dublin-based
+  - goog invests in future fusion energy
+    - still years away
+  - ai helping freelancers make 40% more
+  - appl use open ai or anthropic to power siri?
+  - customer service "sludge" - dropping calls on purpose to discourage refunds and claims
+  - macbook macbook sub $999
+  - blue origin launches 6 passengers to edge of space
+  - "AI Backlash" animosity towards ai systems
+    - stealing jobs
+    - chatbot addictions
+    - power consumption
+    - chatgpt psychosis
+    - averaging effect (graphic artists)
+      - create uninteresing garbage
+      - "ikeafication"
+    - LLM users have weaker understanding after research (vs google searches)
+  - duolinguo slowing user growth, stock crash, ai-first backlash?
+  - mercedes-AMG - move from four-cylinder back to inline-six, v8
+  - 7th person with neuralink brain implant
+  - deepseek facing ban from appl/goog app stores
+- culture
+  - devil wears prada 2 - meryl streep back
+- tech
+  - CN fully automated AI robot football match, 3v3
+  - UV-c very dangerous, go-to steralizer in hospitals
+  - self-improving AI coding system: evolutionary algorithm - compounding improvements: improving at improving themselves
+  - ipv6 club: 50% ipv6 adoption: 21 countries so far
+    - india/france lead: 73%
+    - japan 55%
+    - puertorico 53
+    - thailand 49
+  - heart transplant without breaking breastbone

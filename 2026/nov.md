@@ -1,0 +1,362 @@
+[Back](./index.md)
+
+- 11/27
+- politics
+  - turkey prices up 24% for thanksgiving
+  - 2 national guard troops shot near white house
+    - white house locked down
+    - 500 troops go to DC
+    - suspect tackled
+  - the don shows signs of fatigue
+  - 'america first' fee for foreign tourists to visit national parks
+  - hong kong tower inferno - death toll 44 and rising
+  - china pharma (drug discovery) ready to go global
+  - EU may want min age for ai chatbots - 13-16
+  - artificially cheap goods from china flooding into EU
+    - germany worries of de-industrialization
+  - world central banks - want to quit dollar and wary of AI
+  - britain pushing atomic development to meet Datacenter demand
+  - jakarta passes tokyo as most populous city
+- biz
+  - lenovo stockpiles memory as response to AI squeeze
+  - chinese automakers can't sell in US due to steep tariffs, but US-based influencers keep praising them
+  - HP cut 6K jobs by 2028
+  - openai to continue losing money thru 2030
+  - goog eric schmidt - rape accusation from mistress
+  - flying billboards from HELI_D
+    - flying LED billboards to show in superbowl
+  - openAI facing 5 lawsuits over teen suicide
+- culture
+  - half of articles on net written by AI
+- tech
+  - unpowered SSDs eroding data?
+  - health: turning points for brain: 32, 66, 83 - peak at 32,
+  - AI to replace 3M jobs in UK by 2035, warns a researcher
+  - paper: AI can't think, don't confuse LLM tech with intelligence
+  - 3 tiangong astronauts emergency rescue after return craft had cracked window due to space debris
+  - dark matter evidence found (first direct evidence)
+  - 500 fiber cables on ocean floor carry 90% of all internet data
+  - physicist: new theory of consciousness explains what happens when you die
+
+- 11/25
+- politics
+  - secret tribunal investigates mark kelly for urging troops to defy illegal orders
+    - mark kelly, AZ senator - dem
+    - trump threatens "punishable by death"
+  - maduro fears death by assassin
+  - trump losing motor skills?  limping
+  - xi double downs on taiwan returning to china
+  - trump project: Genesis Mission: AI project to make AI superweapon
+    - "manhattan project" levels
+  - japan to convert hokkaido to hub for semiconductors
+    - hokkaido currently provides 50%+ dairyof japan
+  - britain wind power for 22M homes - breaks record
+  - california had a electricity surveilance program in Sacramento to catch cannabis growers
+    - ends
+  - world's largest nuke plant is in japan
+  - Of meta's 11 superintelligence team researchers, 7 born in China
+- culture
+  - magician implanted RFID chip in hand, forgets password to it
+  - UK uni, u of staffordshire - offered ai-taught course
+    - students complained could have asked chatgpt instead
+- biz
+  - michael burry: "can anyone name openAI's auditor?"
+  - verizon 13K job cuts
+  - MSFT turns 40, faces AI backlash
+    - plans agentic OS
+    - AI cheif Mustafa Suleyman
+  - amzn 1000s of layoffs
+  - sam altman acknowledges goog recent progress in AI
+  - goog must double AI servers every 6 months to meet demand
+  - last thursday big stock market sell-off
+    - due to bitcoin?
+  - US: top social media sites
+    - youtube - 84%, fb 71%, ig 50%, tiktok 37%, whatsapp 32%
+  - goog Gemini LLM surges past cgpt with 3rd version, released last week
+  - Goog "aluminum OS" to replace chromeOS
+    - aluminum is chromeOS and android merged
+  - avg time to switch smartphone: 29 months in america
+  - pebble going more open
+    - palo alto kickstarter-built - smartwatch
+  - openai: sam altman and jony ive: AI hardware prototype
+  - AMZN pledge 50B to expand AI in gov
+  - AI music company, Udio gets cracked down
+- health
+  - staring at screens: cortical thinning in memory planning and impulse control
+- tech
+  - cern can create anti-hydrogen (anti-matter)
+  - experiment: moss in space: survives for 9 months
+  - injectable nano-robots help drug delivery
+  - 47K chatgpt conversations analyzed:
+    - people want advice and companionship
+    - not necessarily productivity tasks
+    - also echo chambers
+  - there is a global warming plan that involves blotting out the sun
+    - project stardust
+  - sci-fi: scientists warn of brain weapons - control perception, memory, behavior
+
+- 11/20
+- politics
+  - USA - lame duck situation
+    - lame duck is actually the exiting president's powerless period
+    - but republicans control all branches now
+  - republicans trying hard to stop epstein files
+  - magyn kelly (fox news) claims epstein not a pedo b/c into young teens rather than 8 yr olds, ripped by public
+  - china going electric truck
+  - tokyo lawsuit - finds cloudflare guilty of manga piracy
+  - saudi arabia makes an investment on AI films
+  - dutch give nexperia back to china
+    - caused a standoff where chinese embargos hampered auto production globally
+  - EU privacy law changes - move cookie acceptance from by site to browser settings
+  - china fudging GDP growth numbers?  clain 5 actual 2?
+    - consumption, investment, net exports not transparent
+  - chinese uni AI patents > MIT, stanford, princeton harvard combined
+  - chinese spies using linkedin as attack vector
+  - iran trying to induce rain by seeding clouds
+  - solar and wind growing fast enough to meet AI electricity demand in 2025
+  - massive solar rollout in africa
+- biz
+  - meta loses yann lecun, he will make startup (AI chief scientist)
+  - waymo is on freeway now LA, SanFran, Phoenix, first time
+  - china ev market imploding
+    - overinvestment?
+  - project kiuper (amzn) renamed to "leo"
+  - krafton (pubg publisher) goes full AI-first
+    - offers voluntary resignation program
+  - aapl 230USD iphone pocket sock sells out quickly!
+  - android system developers like rust
+  - outer space data centers gaining more traction
+  - crypto bear market
+    - bitcoin year's gain gone
+      - now at 93.7K USD
+      - record high 126K after trump elected
+  - bezos back in action: Prometheus (AI startup)
+    - co-ceo
+  - anthropic CEO: dario Amodel: uneasy about how ai policies shaped by just a handful of tech elites
+    - takes jab at sam altman
+  - take-two ceo: gaming moving towards pcs
+  - buy now, pay later expanding quickly
+  - EV booming in South America
+  - goog: trillion dollar AI investment "elements of irrationality"
+  - fund managers: AI investment has gone too far
+  - oracle 300B OpenAI deal: already underwater (stock down 315B in mkt value)
+  - cloudflare worst outage since 2019, tuesday, 11/18
+  - nvidia profit jumps 65%, now at 31B, temporarily eases wall street nervousness
+  - NYC landlord defaults on 170M loans, forclosures on 35 properties in Manhattan?
+  - apple new better Wifi chip N1
+  - boston dynamics niche - US and canadian police
+  - tim cook to be replaced next year, appl searching
+- culture
+  - heat homes with bitcoin mining?
+  - harvard has 500M+ in crypto
+  - AI podcasts are a thing, 175K ai-gen podcasts on AAPL/spoitfy
+    - Inception Point AI
+  - george clooney for congress?
+  - andrew tate lost 800K in crypto - "one of worst traders"
+  - "cali sober" - use weed to help you drink less
+    - scientists currently experimenting
+- health
+  - measles making a comeback - was defined as Eliminated status by CDC
+    - 2 massive US outbreaks
+- tech
+  - the quantum coputer problem: qubits susceptible to slipping out of quantum states, lose info
+  - kubecon atlanta: cloud native computing poised to explode
+    - cloud-native building apps that take adv of cloud envs using k8s
+  - new tuberculosis antibiotic
+  - linus on vibe coding - good for getting started, bad for maintenence
+
+- 11/12
+- politics
+  - alcatraz island: prometheus statue
+  - germany court: OpenAI used song lyrics illegally (copyright)
+  - china new specialist visa: allow to move in without job lined up
+    - K visa
+  - china co2 emissions flat, even falling
+  - saudi future city Neom - not doing well
+- culture
+  - zendaya and sweeny feud over politics
+  - 64% podcast hosts male, 77% are white
+- biz
+  - sam altman startup Tools for Humanity
+    - iris-scanning Orb device
+    - based on worldcoin
+  - appl iphone pocket - a knitted bag costing 230 USD
+  - goog photos to be powered by nano banana
+  - digital twin startup Uare.ai - "individual ais" digital counterpart of a person
+    - memories, stories, expertise, voice
+    - raises 10.3 M
+
+- 11/10
+- politics
+  - newsom for tx?
+  - gaddafi's grandson Hannibal released by syrians
+  - supreme court case about gay marriage: keep it
+  - EU proposing changes that would weaken privacy laws wrt GDPR
+  - EU may ban huawei from mobile networks
+  - africa gets drug-regulation agency AMA (african medicines agency)
+- culture
+  - sydney sweeny boxing movie bombs
+  - vibe coding - word of year
+- biz
+  - ikea big smart home push
+    - Matter-over-Thread
+  - gta 6 delayed again - until 11/2026
+  - corporate profits surge, layoffs rise
+    - "jobless boom"
+  - vanguard - an underwater RV
+  - msft goog aapl nvidia meta tesla broadcom collective worth 23T
+    - msft goog amzn meta 360B on data center spending
+  - nvidia based in santa clara cali
+  - palantir CEO alex karp arming ICE
+  - AI race: openai 800M users/week
+  - goog gemini - 650M
+  - copilot 150M
+  - nvidia connect AI gpus to quantum processors
+  - iphone air weak sales, next release delayed purposely
+  - HR industry growing due to
+    - me too
+    - pandemic remote work
+    - diversity initiative
+    - harrassment claims
+  - FB dating a suprise hit feature
+  - lego first ever star trek set
+- tech
+  - james watson (watson and crick) dead 97
+  - crispr solves high colesterol?
+    - crispr acts like genetic scissor - snip a targeted gene to turn it on or off
+  - hidden aspect of AI buildout: subsea cable investment
+    - set to double by 2027
+    - meta project waterworth, 50KM cable connecting 5 continents
+    - amzn owned Fastnet - maryland to ireland
+
+- 11/7
+- politics
+  - FAA major cuts
+    - thousands of flights in danger
+  - "government backstop" financial aid for a company
+    - will not be provided for OpenAI
+  - pelosi to retire
+  - angelina jolie visits kerson ukr (frontline city)
+  - 500K polish volunteers to reinforce ukr
+- culture
+  - americans more stressed than ever, 75%
+  - turkey prices up 75%
+  - cowboys player dies at 24 Marshawn Kneeland
+    - apparent suicide, gun
+  - antonio brown attempted murder charge
+  - michael jackson biopic from bohemian rhapsody guy
+- biz
+  - SAS (us software firm) exists china after 25 yrs
+  - biz history:
+    - unparalleed american manufacturing boom postwar 1940s thru 1970s
+  - new white collar gig econ, train AI to take over
+    - companies: Mercor, scale AI, surge AI, Turing
+    - goal improve accuarcy of AI systems in pro settings
+  - goog creates military ai outpost on "crab island" christmas island
+    - australia, indian ocean
+  - amzn ai tool translates entire books
+  - MSFT superAI team under Suleyman "serves humanity"
+    - mustafa suleyman - british, CBE
+      - commander of the order of the british empire
+        - british honor
+  - zuck has a pet chicken, bicken ben
+    - school named after it
+  - job cuts 22 year high
+  - musk 1T payday
+    - tesla shareholder deal
+    - potential prize
+  - palantir ceo: alex karp
+  - big short guy is betting against AI
+
+- 11/6
+- politics
+  - mamdani plans free buses?
+    - mamdani hot wife, rama duwaji, syrian
+  - america air travel not doing well
+  - mexican president gets groped in mexico city
+    - man was intoxicated
+    - claudia pardo
+  - france terrorism: "allahu akbar" shouted while driver ploughs into crowd
+    - allahu akbar" - "god is the greatest"
+  - putin preps full scale nuke tests
+- culture
+  - "anti-social media" - AI chatbot as substitute for socializing
+  - louvre surveillance password: "louvre"
+    - bungled heist, 102M of crown jewels
+- biz
+  - jensen huang thinks china will win AI race with USA
+  - shein (SG company) builds child-like sex dolls
+  - 72% game devs: steam is PC gaming monopoly
+  - IBM job cuts
+  - DRAM costs surge 171.8% over last year
+    - climbing faster than gold
+- tech
+  - astrophysics: universe expansion actually slowing?
+
+- 11/5
+- politics
+  - mamdani wins new york election
+    - born uganda emigrated to nyc at age 7
+    - indian gujarati muslim
+    - NJ, VA elect women, maga angry
+  - dick cheney dead
+  - china creates uranium from thorium
+    - thorium more abundant than uranium
+- biz
+  - big short trader makes bet against the boom
+- tech
+  - TPU - tensor processing unit
+
+- 11/4
+- politics
+  - trump right eye swollen
+    - disapproval 63%
+  - UA flight struck by mystery object
+    - space debris or weather balloon from silicon valley test project
+- health
+  - melatonin use linked with heart issues
+- culture
+  - analog wellness movement
+    - downgrade smart home to analog dumb home
+  - daylight savings still happening, still unpopular
+  - obesity down in US
+- biz
+  - alphabet 100B revenue in quarter, first time ever
+    - goog cloud surge
+  - AMZN on massive layoffs: about agility, not AI
+  - FDA approves faster personalized gene editing therapy
+  - youtuber shims a lock, lock company sues him, followers flooded company with harrassment
+  - spaceX/Pentagon 2B satellite deal
+  - solar panel price drop, global boom (except US)
+  - samsung chip manufacturing factory 50K nvidia GPUs
+  - sam altman pressed about 1T spending, defends
+  - rockstar games fires dozens, accused of union-busting
+  - openAI and amazon 38B deal for cloud computing
+  - AI industry running on FOMO
+    - AMZN, GOOG, MSFT, META 400B investment
+    - openai 115B thru 2029
+    - openAI wants 1T IPO in 2026,2027
+    - openai losing money even on 200/month subscription tier
+      - cost of running queries
+  - fraudulent drake streams on spotify, sued
+  - cocacola AI ads getting negative feedback
+  - google Gemma (AI model) accuses falsely accuses female senator of rape
+  - 3 companies, Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using content to train AI
+  - palantir hiring philosophy: target high school grads, college is a waste
+  - amzn deployed rivian electric delivery vans in canada
+  - AI browsers
+    - OpenAI atlas, Perplexity Comet
+  - openAI aardvark - detect and patch bugs in code
+- tech
+  - "keep android open" movement - against sideloading restrictions
+  - 1Password warning: AI use breaking corporate security
+    - sensitive info fed into LLM
+  - captchas have disappeared from web in 2025?
+    - replaced by invisible tracking systems
+  - linux to webassembly, runs in browser
+  - ubuntu bug in rust code breaks auto update
+    - ubuntu to use rust for dozens of core linux utils
+  - github agent HQ lets users run coding agents from multiple vendors
+  - AI browsers - actually just give AI companies data?
+  - new roof coating reduce surface temperatures up to 6C on hot days
+  - most used lang on Github is now TS - overtakes python and js

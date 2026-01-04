@@ -1,0 +1,162 @@
+[Back](./index.md)
+
+- 5/22
+- biz
+  - bitcoin alltime high
+  - dow -816
+  - with evs, next phase of reducing emissions has to do with tire particles from braking
+  - openai acquires jony ive startup 6.5B deal
+    - create ai devices
+  - goog chrome to bake gemini AI into it
+  - honda scale back on ev, focus on hybrids
+  - goog ai mode to be released to us users
+  - tech job market already shrinking
+- politics
+  - israel plans strike on iran
+  - elon hated
+- tech
+  - chinese tiangong station discovers new bacteria
+    - lives in microgravity
+
+- 5/20
+- politics
+  - trump policies affect target
+  - the don gets sued by small biz owners
+  - dollar is down, mortgage rates at 7%
+  - diddy to be pardoned by trump?
+  - sweden socialist paradise: full of billionaires
+  - germany stop opposing nuke power
+  - denmark finally going nuclear for energy
+  - twn shuts down last nuke reactor
+  - china's co2 emissions on decline first time
+  - china launch 1 of 2800 satellites to be used for AI space computing
+    - laser inter-satellite communication
+  - student catches professor using chatgpt, wants refund
+    - used it to create course materials
+  - trump to appl: avoid manufacture in india
+- biz
+  - next Siri on par with cgpt?
+  - qualcomm - chips designed to integrate with nvidia
+  - msft "Edit" - a command line txt editor
+  - WSSL subsystem for linux open sourced
+  - 1/2 sales in china EV, 20% global
+  - ubisoft stock down 18%
+  - walmart automated ai shopping
+  - amzn: uk needs more nuke energy to power AI
+  - openai: codex: AI coding agent in chatgpt
+  - 20M bounty to catch data theives from coinbase
+  - 40% of msft hq layoffs in software
+- culture
+  - cannes: alpha: aids thriller
+- health
+  - sleeping 8 hrs makes heart health worse?
+  - covid brainfog linked to inflammation
+  - FDA clears alzheimers blood test
+  - new covid spike in hk, sg
+- tech
+  - CERN to study antimatter
+  - cgpt beating people in debates
+  - AGI far away
+  - rust still 5% slower than C
+    - bounty of 20K usd to make it as fast
+  - lightweight js runtime for serverless?
+    - nodejs uses garbage collection: slow
+    - LLRT from amzn experimental manual mem management
+    - quckjs even lower level
+  - rust creator graydon hoarde - former mozilla emp
+  - dark matter from fast particles slowed down and getting heavy
+
+- 5/15
+- politics
+  - trump buddies with syrian president
+- biz
+  - execs pouring money into AI, but not paying off yet
+  - apple iphone down 50% in china due to local brands competition
+    - huawei and vivo up to 92% of market
+  - uber fixed-route shuttles in major us cities
+  - pandemic hiring frenzy leads to overpaid workers now
+  - marks and spencer is UK's, customer personal info hacked
+  - inventwood: wood stronger than steel
+    - invented in 2018 by uni professor liangbing hu
+    - treat with chemicals to modify structure, compress it
+  - gm new battery chemistry: 400-mile range
+  - goog ai search on homepage
+  - intel shell lubricant for cooling ai data centers
+  - msft 3% workforce cut
+  - apple: sci fi - control phones with neural signals (brain implants)
+- culture
+  - the toupee is back in
+  - tom cruise almost died making mission impossible
+- tech
+  - goog deepmind creates advanced ai that can invent algorithm
+  - robot solves 4x4 rubix cube, breaks record
+    - just a bachelor's degree project
+  - carmack: software optmization could improve economy
+
+- 5/13
+- politics
+  - newark airport - 3rd system outage in 2 wks
+  - flights disrupted across america
+  - west virginia most obese state
+  - tx pushing to ban non-citizens from buying land
+    - racism worries
+  - us and china agree to temporarily reduce tariffs
+    - negotiations will continue
+    - 30 from 145 (us import from china)
+    - 10 from 125 (cn import from us)
+  - lithium deposit found in oregon, valued at 1.5T
+- culture
+  - diddy: trafficker or swinger?
+  - psychopaths more attractive?
+  - kevin spacey back?
+  - madonna bioseries on ntflx
+  - 20 years of reddit
+  - banana is world's most popular fruit
+  - everyone using ai to cheat thru college
+- biz
+  - goog working on software LC ai agent
+  - nvidia ups prices 10-15%
+  - Chegg (ed-tech) lays off 22%
+    - ai tools cited
+  - appl thinking about increasing iphone price
+  - openai in negotiations with msft, hopes to IPO
+  - goog pay 1.4B to tx to settle claims it scraped user data
+  - panasonic cut 10K jobs
+  - jensen: you won't lose your job to AI but to someone who uses it
+  - space x to sell starlink in india
+  - ali zerosearch: teach ai to search without search engines
+- tech
+  - asking ai for short answers may increase hallucinations
+  - cursor malware steals credentials
+  - ai tool: windsurf for coding projects
+  - deep ocean floor barely explored by scientists
+  - prompt engineering going extinct - ai prompting becoming standard skill instead of dedicated position
+
+- 5/8
+- politics
+  - pakistan vs india
+    - nuke wars worry
+  - kansas city dangerous
+    - new mexico most dangerous state
+  - DEA ends body camera program
+  - trump to shut down energy-saving energy star program
+  - trump tariff on foreign made films?
+- culture
+  - golden globes now has "best podcast"
+  - new "incel trend" in london: body slamming women
+  - college unemployment 5.8
+- biz
+  - google shares drop due to traffic drop
+    - accusation made by apple
+    - goog refutes
+  - goog invests in 3 nuke power sites
+  - amzn hi-tech drones that could replace workers have "human touch"
+  - uber: waymo outperforming human drivers in austin (99%)
+  - CEO departures up
+  - half life 3 coming this winter?
+  - hyundai using atlas robots in plants
+  - waymo AZ plant end of 2026?
+  - msft shuts down skype
+- tech
+  - more genes found linked to short-sleepers (3 hrs)
+  - sudo-rs - rust implementation of sudo, to be used by ubuntu 25.10

@@ -1,0 +1,212 @@
+[Back](./index.md)
+
+- 4/29
+- politics
+  - trump deportations: slower than biden
+  - spain, portugal phones, airports, trains light blackout
+    - cause a mystery
+  - musk approval 33%, trump 39%
+  - china trying to control french chinese diaspora
+- biz
+  - tesla in bad shape
+  - duolingo replace contract workers with ai
+  - chatgpt adds shopping features
+    - personalized product recs
+  - huawei new ai chip to compete with nvidia
+  - WSJ: tech workers miserable, fearing layoffs, working longer hours
+  - zipper tech: auto-zippers - zip with push of botton, underarmour one-handed magzip
+- culture
+  - nike "never gain" outrage
+    - holocaust
+- tech
+  - albino killer whale spotted
+  - SPROUT - vine-like robot that rescues survivors from disaster zones
+  - alzhiemers gene discovered
+
+- 4/24
+- politics
+  - usa stance on ukr/ru - russia keep seized land
+  - 100 days of trump, 40% approval
+  - china tariffs to be slashed?
+  - job cuts at FDA, milk qualty testing suspended
+- biz
+ - youtube 20 years
+   - hosted 20T videos!
+ - GOOG - return to work or your fired - 3 days a week
+ - AMZN starlink competitor having issues ramping up production
+   - project kuiper - has a gov deadline
+ - gemini at 350M monthly
+ - intel slash 20% of workforce
+ - anthropic: fully ai employees are a year away
+ - logitech prices up 25% - tariff related
+ - msft terminated 2000 underperformers without severance
+- culture
+  - 80 year old skateboarder in spain
+  - kenyan woman first female to break 4 minute mile
+- health
+  - microplastics clog arteries lead to stroke?
+- tech
+  - new cyberattack vector: slopsquatting
+    - when chatgpt recommends a package in hallucination and taking that fake package (like phishing)
+
+- 4/21
+- politics
+ - FBI chief: Kash Patel
+   - likes the spotlight, goes to sporting events
+ - UAE to use AI to write laws
+ - trump halts 5B NY offshore wind project
+ - "bot students" - fake students that siphon financial aid from colleges
+ - china bans advertising terms: "smart" and "autonomous" driving terms
+   - due to Xiaomi SU7 sedan fatal accident
+- culture
+  - beckham 50 years old
+  - coachella very pro palestine
+  - katy perry: hated
+- biz
+  - airbus hydropower plane not doing well
+  - bans could lead to nvidia's china AI chip market to be taken over by huawei
+  - ntflx price hike leads to 13% increase of revenue (10.5B)
+  - toothpaste often contaminated with heavy metals (arsenic, lead, mercury, cadnium)
+  - zoom downtime due to godaddy registry error
+  - MSFT bitnet - 1-bit ai model with 2B params - runs efficinetly on CPUs
+  - india it services giants slow down
+  - openai eats windsurf (coding assistant)
+  - openai Codex CLI: coding tool for terminals
+    - o3, o4-mini - new ai models "think with images" during reasoning process
+  - separate goog country domains obsolete
+  - figma files for IPO, adobe deal not happening
+    - adobe was going to buy for 20B
+    - also trademarked term "dev mode"
+  - openai build social network
+  - china robotaxis get "black boxes" from government
+- tech
+  - bees disappearing again (NA)
+  - saltwater and iron oxide to make iron
+    - could reduce carbon emissions greatly (all cars combined)
+  - ai to benefit cancer/aging research
+  - valkey: open source redis
+  - 15% cropland polluted with toxic metals
+  - china develops flash memory 10K x faster
+  - openai newest models hallucination rates rising
+  - climate change may lead to high arsenic in rice
+    - carcinogenic toxin
+  - chat gpt good at geo-guessing (guessing location of pictures)
+  - msft outlook - known issue: resource hog
+  - biggest piece of lab meat gorwn: chicken nugget sized
+  - Andean Medjedovic - 18 year old math whiz steals cryptocurrency, on run, defends self with "code is law"
+  - cts cause 100K new cancer cases each year
+    - ionizing radiation
+
+- 4/15
+- politics
+  - cn stops rare earth exports 稀土元素
+    - us industry hurt
+    - xi got the better cards?
+  - hungary bans gay events
+  - trust in dollar down
+  - DOJ shuts down crypto fraud unit
+  - germany ubi experiment doesn't encourage unemployment
+    - 1200 euro per month
+  - france mobile phone ban in middle schools
+  - china us import tariffs now 125%
+- culture
+  - sf mayor: vibe shift is real
+  - "perfect day":
+    - 6 h family
+    - 2 h friends
+    - 1.5 h socializing
+    - 2 h exercise
+    - 1 h eating/drinking
+    - 6 h work
+    - 1 h tv
+    - 15 min commute
+  - Ulyssia:  luxury superyacht - longer than titanic
+    - target audience, billionaires
+    - "apartments" at 10m
+    - 7 restaurants, gym, spa, salon, bar, nightclub, tennis courts, dentist, medical
+    - euro tourism to US plunges
+- health
+  - yawning actually dangerous?
+    - sign of sleep deficit
+  - covid speed brain decline?
+- biz
+  - intel selling stake in altera (programmable chip) to fund other things
+  - fb marketplace is its dominant feature now
+    - so it's just craigslist now
+  - data center energy usage to double by 2030
+  - meta movie mate: use phone app in theatres while watching
+- tech
+  - bay area crosswalks hacked: deepfake-style messages from tech billionaires played
+  - openai: gpt-4.1 is coding-focused, obsoletes 4.5
+  - nvidia ai supercomputers in us
+  - electric racecar drives upside down (designed to create downforce)
+  - certbot gets 6 day certs
+
+- 4/10
+- politics
+  - trump approval at 41%
+  - china calls on world to unite against trump tyranny
+  - trump delays some tariffs
+  - dow up again
+    - insider trading?
+  - us may attack iran
+  - zelensky: chinese soldiers on RU frontlines?
+    - 2 were detained
+  - birth rates worldwide down
+  - china tariff on us goods: 84%
+- culture
+  - mushrooms brain food?
+- biz
+  - wordpress ai sitebuilder
+
+- 4/9
+- politics
+  - stocks continue plunge
+  - china mad at jd vance for saying "peasant economy"
+  - clean energy at 40% globally
+  - UK: murder prediction tool in works
+  - china biotech moving fast
+  - USA ai lead shrinking
+  - china reciprocates tariffs (34%)
+- culture
+  - manhattan steinway tower - skinniest in world
+  - dubai airport named best for food
+    - atl best in usa
+- biz
+  - wrt AI, enterprises choosing DIY over vendors
+  - MSFT cancels ohio data center plans
+  - meta cheated on AI benchmarks
+  - bluesky - alternative for X
+  - tinder ai bots to help with flirtingskills
+  - zach yadegari
+    - Cal AI - take photo of your food, app logs calories for you
+- tech
+  - fusion 4x power of fission
+  - midjourney new version
+
+- 4/2
+- politics
+  - wisconsin votes liberal to its supreme court
+    - first electoral loss for trump
+  - over 24-hour rant from a senator
+    - cory booker, NJ
+  - german soldiers hit foreign soil: first since wwii
+    - east lithuania
+  - one us carrier in mid east, will add one
+  - cn drills near twn
+  - socal sales tax 11.25
+  - china sees opportunity in trump's cultural revolution
+  - us debt 36T, bitcoin should be the world's reserve currency
+- culture
+  - AMZN will cast youngest ever james bond
+- biz
+  - youtube value at 550B?
+  - xiaomi EV first fatal autopilot crash
+  - open ai plans open model in upcoming months
+  - micron increases price of memory due to demand
+- tech
+  - MCP: usb for AI
+    - model context protocol
+    - connect ai model to external data sources
+  - certificate authority/browser forum - requirements for TLS
+    - new rules for HTTPS coming
