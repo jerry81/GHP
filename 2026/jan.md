@@ -2,6 +2,9 @@
 
 - 1/4
 - politics
+  - RU anti-satellite tech to target starlink?
+  - env: greenhouse gas emissions rose in 2025
+  - japan pop to drop 20M to 100M by 2050
   - maduro captured
   - caracas bombed
   - tap oil, sell to other countries
@@ -16,11 +19,25 @@
   - NY: statewide phone ban for students
     - can't read analog clocks
   - china engis prohibited from work at pentagon
+  - foreign workers avoiding US
+    - visa policies, border control
+  - india now 4th economy in world, passes japan
+    - germany 3, china 2, usa 1
+  - china law: chipmakers must use 50% domestic
 - culture
+  - job hunters using dating apps to find jobs
+  - cheap solar transforming africa
   - public domain:  betty boop, "i got rhythm", nancy drew works
   - fire in bar in CH: kills 40
   - The most recent Survey of Public Participation in the Arts found that less than half of Americans read a single book in 2022
 - biz
+  - Forward-deployed engineers, a role pioneered by Palantir, customize AI tools on-site for clients
+  - goog pixel 10 is eSim only
+  - nvidia 5B stake in intel
+  - openai offers 555K salary for "head of preparedness"
+    - mitigate extreme risks
+  - bosten biotech industry not doing well, phds jobless
+  - meta buys manus (ai agent)
   - no iphone 18 this year
   - nvidia invests 1B in nokia
     - ai in telecomms
@@ -37,6 +54,13 @@
   - UK company sends microwave sized factory to space - reaches 1000C -  creates semiconductors
     - "When they are being manufactured in a weightless environment, those atoms line up absolutely perfectly."
   - warren buffet retires from BH - 55 yrs later
+  - nicotine patches handed out at tech startups as productivity boost
+  - colossal bioscience - tech startup wants to revive the direwolf
+    - tx based, valued over 10B
 - tech
   - 30 years of ip6
   - cern downtime for a big upgrade
+  - neuromorphic robot skin
+- health
+  - poor sleep quality accelerate brain aging
+  - too much screentime before age 2 -> negative consequences
