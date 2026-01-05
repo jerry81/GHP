@@ -1,7 +1,18 @@
 [Back](./index.md)
 
+- 1/5
+- politics
+  - new venezuela interim leader: delcy Rodriguez
+  - china: invasion could be taiwan template
+  - nyc mayor mamdani push millionaire tax
+  - usa to challenge china's rare earth element monopoly
+- biz
+  - msft wants windows to become AI platform
+  - startup furiosa NPUs - AI chips
+
 - 1/4
 - politics
+  - japan restart fukushima
   - RU anti-satellite tech to target starlink?
   - env: greenhouse gas emissions rose in 2025
   - japan pop to drop 20M to 100M by 2050
