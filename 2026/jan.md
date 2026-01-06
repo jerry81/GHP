@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 1/6
+- politics
+  - columnbian president taunts trump
+    - gustavo petro
+    - ready to go to war
+    - “Come get me," Petro said. "I’m waiting for you here. Don't threaten me, I'll wait for you right here if you want to."
+  - mexico warns about us behavior "destabilizing"
+  - delcy rodriguez could be antisemitic
+  - senator mark kelly gets punished with retirement pay cut after seditious video
+- culture
+  - people of "dubious character" more likely to enter public service
+    - study from UHK - chinese grad students who plagarized heavily more likely to pursue careers in civil service and climb ranks faster
+      - customs and tax officials most egregious
+- biz
+  - samsung ceo predicts: memory costs lead to smartphone cost change
+  - stocks new high?!
+  - lego smart brick: create sound and light effects
+    - has mini chip, led light array, sensors, speaker, internal battery
+  - MSFT turning edge into copilot app
+  - oof - stack overflow from 200K monthly questions to almost 0
+- tech
+  - crispr as solution to flu?
+    - crispr uses enzyme to cut dna
+    - 2 parts: small peice of RNA to find exact section of DNA, proteein (Cas9) to cut DNA
+
 - 1/5
 - politics
   - new venezuela interim leader: delcy Rodriguez
