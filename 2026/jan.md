@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+- 1/7
+- politics
+  - ICE out of control, kills a 37 year old woman
+  - billionaire tax in cali
+    - larry page escapes to miami
+    - jensen fine with it
+  - "here comes ai backlash"
+  - trump eyes taking over greenland
+  - s korean prez - baldness is a national problem]  - healthcare should cover balding treatments
+  - utah allows ai to renew medical perscriptionsuni
+- culture
+  - high schools don't think students can read full novels anymore
+- biz
+  - hyundai shows Atlas at CES
+  - razer AI headphones - equipped with cameras
+  - nvidia autonomous car project with mercedes
+    - new ai chip later this year
+  - anthropic ceo: daniela amodei - just 39 yrs old
+    - former open ai - one of 6 founders
+    - anthropic 5 yrs old
+  - DRAM prices way up due to AI chip frenzy
+  - chatgpt launches ChatGPT health - wants users to connect their med records
+- tech
+  - power banks now have many features
+    - bluetooth, wifi hotspot
+  - - the problem of avaiation emissions - cut flights, or remove preimum seats and ensure full flights
+
 - 1/6
 - politics
   - columnbian president taunts trump
