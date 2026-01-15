@@ -15,7 +15,17 @@
   - coal power in CN and india falls for first time in 1970
   - iran shuts down starlink
   - taiwan arrest warrant for oneplus CEO (chinese) for recruiting twn talent
+  - 10% credit card interest cap proposed by trump
+    - currently between 19.65 and 21.5
+    - banks mad
 - biz
+  - cloudflare fined 14M euros by italy for not filtering private sites from 1.1.1.1 DNS server
+  - meta deals with 3 nuclear companies for 6GW of power
+  - amazon massive superstore planned near chicago
+  - jensen criticises AI doomerism
+  - ixi finnish startup: autofocusing glasses
+  - ubisoft closes halifax canada studio after workers voted to unionize
+  - aapl teamup goog on siri
   - "Are you dead" chinese app - auto contact if no response
   - GRU space: 250K inflatable hotel rooms on moon
   - anthropic invests in python software foundation
@@ -28,11 +38,15 @@
     - no xray no MRI - instead use sensors, cameras
   - openAI buys cerebras for over 10B
     - supply 750MW of compute
+  - intel invest heavily into 14A (1.4nm)
 - culture
   - matt mcconaughey trademarks himself, fighting AI
   - trending: americans want to retire overseas... in panama?
   - scott adams dead, 68
 - tech
+  - ai models are starting to learn by asking themselves question
+  - cn tech breakthru: CO2 power generator - convert co2 to electricity
+    - "Some amazing walls of text for something so conceptually simple: use CO2 to spin turbines instead of water. It is claimed CO2 does this with substantially higher efficiency. For certain, the turbines are much smaller for the same power, and CO2 doesn't corrode everything it comes in contact with."
   - china geoengineering deserts with blue-green algae
   - EU recommendation: store enough cash to survive week without electricity/internet
   - new form of water both solid and liquid
