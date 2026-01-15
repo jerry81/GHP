@@ -18,7 +18,10 @@
   - 10% credit card interest cap proposed by trump
     - currently between 19.65 and 21.5
     - banks mad
+  - germany forests dying - co2 absorption down
 - biz
+  - gmail: "ai inbox" summarizes emails
+  - elon sues openai for going for-profit
   - cloudflare fined 14M euros by italy for not filtering private sites from 1.1.1.1 DNS server
   - meta deals with 3 nuclear companies for 6GW of power
   - amazon massive superstore planned near chicago
@@ -40,10 +43,14 @@
     - supply 750MW of compute
   - intel invest heavily into 14A (1.4nm)
 - culture
+  - pizza was 2nd most common restaurant type, now trails coffee and mexican
   - matt mcconaughey trademarks himself, fighting AI
   - trending: americans want to retire overseas... in panama?
   - scott adams dead, 68
 - tech
+  - Tailwind CSS - 40% traffic drop -> lets go 75% of engineers
+  - risk of AI for menial tasks: less breaks more intense works allocated to workers
+    - boring work relaxes brain
   - ai models are starting to learn by asking themselves question
   - cn tech breakthru: CO2 power generator - convert co2 to electricity
     - "Some amazing walls of text for something so conceptually simple: use CO2 to spin turbines instead of water. It is claimed CO2 does this with substantially higher efficiency. For certain, the turbines are much smaller for the same power, and CO2 doesn't corrode everything it comes in contact with."
