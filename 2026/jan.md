@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+- 1/15
+- politics
+  - verizon goes down (reason unknown)
+  - iran death threat to trump
+  - usa military intervention in iran coming
+  - 3 destroyers sent to middle east
+  - qatar forces evacuate
+  - ICE terrorizes another woman
+  - exodus of immigrants hurting us economy
+  - china has record trade surplus - exports flooding world markets
+    - tariffs not working?
+  - US approves nvidia sale of AI chips to CN
+  - coal power in CN and india falls for first time in 1970
+- biz
+  - dell planning "biggest company transformation in history"
+  - spotify's daniel ek new startup - full-body scans
+    - Neko health
+    - no xray no MRI - instead use sensors, cameras
+  - openAI buys cerebras for over 10B
+    - supply 750MW of compute
+- culture
+  - matt mcconaughey trademarks himself, fighting AI
+  - trending: americans want to retire overseas... in panama?
+  - scott adams dead, 68
+- tech
+  - new form of water both solid and liquid
+
 - 1/7
 - politics
   - ICE out of control, kills a 37 year old woman
