@@ -13,7 +13,15 @@
     - tariffs not working?
   - US approves nvidia sale of AI chips to CN
   - coal power in CN and india falls for first time in 1970
+  - iran shuts down starlink
+  - taiwan arrest warrant for oneplus CEO (chinese) for recruiting twn talent
 - biz
+  - "Are you dead" chinese app - auto contact if no response
+  - GRU space: 250K inflatable hotel rooms on moon
+  - anthropic invests in python software foundation
+  - appl: new software bundle: apple creator studio - 12.99 per month
+  - tech layoffs in 2025: 244K
+  - meta scaling down metaverse, focus on AI
   - dell planning "biggest company transformation in history"
   - spotify's daniel ek new startup - full-body scans
     - Neko health
@@ -25,7 +33,11 @@
   - trending: americans want to retire overseas... in panama?
   - scott adams dead, 68
 - tech
+  - china geoengineering deserts with blue-green algae
+  - EU recommendation: store enough cash to survive week without electricity/internet
   - new form of water both solid and liquid
+  - ev roadside repairs easier than petrol/diesel
+  - linus now vibe coding
 
 - 1/7
 - politics
