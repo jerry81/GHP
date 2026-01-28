@@ -2,6 +2,8 @@
 
 - 1/26
 - politics
+  - 10K us flights cancelled due to winter storm
+  - downing street: UK PM location
   - border patrol shoots someone in AZ
     - commander: greg bovino - trump blames him
     - ICE killed Renee Good in MN
@@ -17,13 +19,29 @@
     - aggressive behavior by RU, CN, US cited
     - UKR Mid East, AI
     - Climate change
+  - Department of Transportation to use Gemini to write regulations
+  - UK hit extra hard by AI
 - culture
+  - tv invented 100 years ago
   - kanye issues apology, now officially called "ye"
     - antisemitic rants
     - sold swatstika t-shirts thru yeezy
     - "death con 3" on jewish people comment causes adidas to sever ties
   - holocaust rememberance day is a thing
 - biz
+  - anger gamer feedback towards AI gen content
+  - goog gemini: auto finds best meeting time for all attendies
+  - cali tech ceo Gordon Goodarzi accused of murder
+  - MSFT AI chip performance better than AMZN and goog
+  - how anthropic built claude:
+    1.  buy books
+      a.  500K - 2M books
+      b.  spent 10M+ USD
+    2.  slice spines
+    3.  scan pages
+    4.  recycle remains
+  - samsung galaxy Z Trifold 2900 usd
+    - first trifold in USA
   - Pinterest 15% job cuts to redirect to AI
   - OpenAI VP Keven Weil: "LLM not ready to make novel discoveries"
   - AMZN shuts down brick and mortar AMZN Go and AMZN Fresh stores
@@ -43,6 +61,16 @@
   - citigroup: mandates AI training for 175K employees: "reinvent themselves"
   - mozilla build AI alliance to take on OpenAI, Anthropic
   - IG, FB, whatsapp to try premium subs
+- tech
+  - new data center cooling tech: space x - heat pumps used in rockets
+    - heat pump moves heat:
+      - evaporator
+      - compressor
+      - condensor
+      - expansion
+  - gasoline out of thin air: electricity + air convert co2, trap water vapor, electrolysis makes water -> hydrogen and oxygen
+    - hydrogenation of co2 into methanol
+  - report: AI in schools highest risk: impeding children's cognitive growth, impede problem solving
 
 - 1/15
 - politics
