@@ -2,6 +2,9 @@
 
 - 1/26
 - politics
+  - 16 and under banned from social media
+  - machine in zhejiang Uni generates gravity 2000x stronger than earth
+  - EU offers 1500-6000 euros for buying EVs, including Chinese made
   - chinese scientist, he jiankui - 3 yrs prison for creating gene-edited babies
   - half of world's largest 100 cities in high "water stress"
     - in danger of public water supply running out
@@ -30,7 +33,15 @@
   - UK hit extra hard by AI
   - china electricficaiton "miracle" - cheapened solar, paved way for india to even more rapidly electrify
   - japan restart fukashima
+  - cn birthrate lowest since 1949 - 5.6 per 1000
+    - 13% VAT on contraceptives
+  - CN consumes 10.4T kW-H of electricity, double USA
+    - per person 7300, usa 13000
 - culture
+  - wikipedia only 25 years old
+  - matt damon: storytelling in movies adapting to short attention span
+    - plot point reiterated 3-4 times
+  - american monoculture ending: 3 tv networks, 7 movie studios, record labels determined all enterntainment
   - comicon ban ai art
     - due to artist pushback
   - weightloss drugs secretly save airlines 580M in flight fuel
@@ -51,6 +62,11 @@
     - active - playing cards, reading
     - passive - watching tv
 - biz
+  - Nvidia overtakes appl as TSMC's top customer
+  - code.org: use AI in interview and "you're dead to us"
+  - ads coming to chatgpt
+  - spacex launches nasa telescope to help JWST
+  - openai claim revenue crossed 20B in 2025
   - Andy Jassy: AMZN - Tariffs have started affecting prices
   - nadella: energy costs decide AI race
   - Alex Karp, Palantir CEO: AI will make large-scale immigration obsolete
@@ -111,6 +127,10 @@
   - report: AI in schools highest risk: impeding children's cognitive growth, impede problem solving
   - AI in research, more quantity, less quality
   - plugin for claude code: humanizer : stop writing like AI model
+  - MIT chooses 2026 breakthru techs:
+    - sodium ion batteries, will effect EVs
+    - commercial space station
+  - hilarious: us officials show off self driving robobus, it was hit by tesla
 
 - 1/15
 - politics
