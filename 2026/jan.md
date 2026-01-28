@@ -1,5 +1,49 @@
 [Back](./index.md)
 
+- 1/26
+- politics
+  - border patrol shoots someone in AZ
+    - commander: greg bovino - trump blames him
+    - ICE killed Renee Good in MN
+  - ICE  protests videos blocked on tiktok
+  - meta blocks links to ICE "agent list"
+  - trump relents says will "de-escalate"
+  - house of rep: ilhan omar attacked in MN - sprayed with something
+    - sprayed something
+  - consumer confidence hits low
+  - putin's troops that desert: get tortured by getting tied upside down to tree naked
+  - doomsday clock - 85sec to midnight, closest its ever been
+    - created during cold war in 1947
+    - aggressive behavior by RU, CN, US cited
+    - UKR Mid East, AI
+    - Climate change
+- culture
+  - kanye issues apology, now officially called "ye"
+    - antisemitic rants
+    - sold swatstika t-shirts thru yeezy
+    - "death con 3" on jewish people comment causes adidas to sever ties
+  - holocaust rememberance day is a thing
+- biz
+  - Pinterest 15% job cuts to redirect to AI
+  - OpenAI VP Keven Weil: "LLM not ready to make novel discoveries"
+  - AMZN shuts down brick and mortar AMZN Go and AMZN Fresh stores
+  - appl first IOS update since 2023 - iOS 12
+  - soundcloud data breach
+  - openAI prism: free scientific research app for scientific writing
+    - LaTeX - markup language
+      - math formulas, equations, symbols, tech doc
+- i.e.
+```
+\int_0^\infty e^{-x^2} dx
+```
+- renders into
+```
+∫0∞​e−x2dx
+```
+  - citigroup: mandates AI training for 175K employees: "reinvent themselves"
+  - mozilla build AI alliance to take on OpenAI, Anthropic
+  - IG, FB, whatsapp to try premium subs
+
 - 1/15
 - politics
   - verizon goes down (reason unknown)
