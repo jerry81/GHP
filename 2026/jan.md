@@ -2,6 +2,13 @@
 
 - 1/26
 - politics
+  - chinese scientist, he jiankui - 3 yrs prison for creating gene-edited babies
+  - half of world's largest 100 cities in high "water stress"
+    - in danger of public water supply running out
+    - beijing, ny, LA, rio, delhi, bankok, london, jakarta
+  - skorea first country to formally establish safety requirements for AI
+  - USA formally exited WHO, cali immediately joins response network
+    - gavin defies trump
   - 10K us flights cancelled due to winter storm
   - downing street: UK PM location
   - border patrol shoots someone in AZ
@@ -21,14 +28,45 @@
     - Climate change
   - Department of Transportation to use Gemini to write regulations
   - UK hit extra hard by AI
+  - china electricficaiton "miracle" - cheapened solar, paved way for india to even more rapidly electrify
+  - japan restart fukashima
 - culture
+  - comicon ban ai art
+    - due to artist pushback
+  - weightloss drugs secretly save airlines 580M in flight fuel
   - tv invented 100 years ago
   - kanye issues apology, now officially called "ye"
     - antisemitic rants
     - sold swatstika t-shirts thru yeezy
     - "death con 3" on jewish people comment causes adidas to sever ties
   - holocaust rememberance day is a thing
+  - graduate job drought: 20% below pre-pandemic, 10 year low for job switching, grad hiring down 8% on year
+    - 15% reduced hiring because of AI
+  - solo 401Ks as more americans work for themselves
+  - chinese automotive overcapacity
+    - world opening markets to chinese vehicles
+  - UN: water bankruptcy era has arrived
+- health
+  - active vs passive sitty
+    - active - playing cards, reading
+    - passive - watching tv
 - biz
+  - Andy Jassy: AMZN - Tariffs have started affecting prices
+  - nadella: energy costs decide AI race
+  - Alex Karp, Palantir CEO: AI will make large-scale immigration obsolete
+    - philosophy PhD
+  - AI splurge has yet to give payoff yet, say most CEOs
+  - youtube acknowledges ai slop problem, will curb low quality content
+  - appl pin: capture info about surroundings
+  - GOOG free SAT practice tests powered by Gemini
+  - waymo launches in miami - 6th usa expansion, leads in USA
+  - intel supply constrained, not demand constrained
+  - tiktok to form new american entity amidst ban threat
+  - bending spoons (italian software) acquires vimeo, fires everyone
+  - toto (toilet maker) has a little-known chipmaking materials division
+    - stock surges 11%
+  - tesla full auto reduces accident rate, car insurance drops rate 50%
+  - MSFT 365 9hrs downtime
   - anger gamer feedback towards AI gen content
   - goog gemini: auto finds best meeting time for all attendies
   - cali tech ceo Gordon Goodarzi accused of murder
@@ -71,6 +109,8 @@
   - gasoline out of thin air: electricity + air convert co2, trap water vapor, electrolysis makes water -> hydrogen and oxygen
     - hydrogenation of co2 into methanol
   - report: AI in schools highest risk: impeding children's cognitive growth, impede problem solving
+  - AI in research, more quantity, less quality
+  - plugin for claude code: humanizer : stop writing like AI model
 
 - 1/15
 - politics
