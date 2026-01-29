@@ -1,8 +1,41 @@
 [Back](./index.md)
 
+- 1/29
+- politics
+  - philly DA vows to go after "nazi" ICE
+  - US v Iran, us building military in persian gulf
+    - iran currency sharp fall in value amidst protests
+      - 5925 protestors reportedly killed
+      - internet shutdown 3 wks ago
+      - trump requires iran no nukes
+      - force larger than maduro force
+      - led by USS abrahan lincoln, currently in indian ocean
+      - US has air defence at Qatar
+      - naval port at bahrain
+      - fighter jets at jordan
+  - nikki minaj trump's #1 fan?
+  - EV overtakes petrol in EU for first time
+  - france, following AUS lead wants to ban Soc med for 15unders
+  - US cyber defense uploaded sensitive files into chatgpt public
+- culture
+  - nuke anxiety is back from the 1980s
+  - december officially the worst month for movies and music
+- biz
+  - UPS 30K layoffs
+  - AMZN cuts 16K
+  - tim cook draws employee ire after partying with melania
+  - goog AI agent browses on user's behalf
+  - AMZN ends palm id for retail, amzn one
+    - continues closing brick and mortar
+- health
+  - cancer protects vs alzheimers
+- tech
+  - asteroid has 4% chance of hitting moon
+
+
 - 1/26
 - politics
-  - 16 and under banned from social media
+  - 16 and under banned from social media (AUS)
   - machine in zhejiang Uni generates gravity 2000x stronger than earth
   - EU offers 1500-6000 euros for buying EVs, including Chinese made
   - chinese scientist, he jiankui - 3 yrs prison for creating gene-edited babies
