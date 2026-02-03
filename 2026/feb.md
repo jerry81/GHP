@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+- 2/3
+- politics
+  - epstein
+    - clintons agree to testify on epstein
+    - trump mentioned in 5,300 docs
+    - epstein bankrolled by kgb
+  - dozens of eqrthquakes in bay area
+- culture
+  - michael jackson biopic trailer out
+- biz
+  - 5 days in office least popular way to work - bosses mandating anyway
+  - high speed internet infra building needs blue collars
+  - normal layoffs or AI?  "ai washing" of normal layoffs
+- tech
+  - homosexuality as survival mechanism?
+    - happens more in harsh environments
+    - bonding mechanism
+
 - 2/2
 - politics
   - epstein leak
