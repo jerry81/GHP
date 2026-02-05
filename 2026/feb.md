@@ -13,7 +13,13 @@
 - biz
   - crypto loses 1.7T in value
   - tech stocks down due to AI fears
+    - "existential threat"
   - seattle: cigarrettes 17USD a pack
+  - anthropic to keep Claude ad-free - conversation is a "place to think"
+  - X-box powered by AMD
+  - openai mkt share falls from 69.1 to 45.3, gemini grew from 14 to 25
+  - grok from 1.6 to 15.2
+  - wallmart mkt cap surpasses 1T
 
 - 2/3
 - politics
