@@ -20,6 +20,14 @@
   - openai mkt share falls from 69.1 to 45.3, gemini grew from 14 to 25
   - grok from 1.6 to 15.2
   - wallmart mkt cap surpasses 1T
+  - amidst US visa restrictions, goog looks to expand to india
+  - consequences of Ai boom wrt open source - documentation traffic down 40%, revenue down 80%
+    - monetized through doc visits, bug reports, community interaction
+  - switch best selling Nintendo console of all time
+  - spacex acquires xAI 1.25T stockonly deal
+    - spacex cfo bret johnsen
+    - musk: cheapest way to do AI computation in 2-3 yrs - in space
+  - msft to remove copilot integrations for built-in apps due to user backlash
 
 - 2/3
 - politics
