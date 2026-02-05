@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 2/5
+- politics
+  - esptein autopsy - low t and stds
+  - prince andrew loses title
+    - UK decided to hire peter mendlson as ambassador to US, despite eptstein friendship
+      - 15 years ago
+      - kier starmer under fire for appointment
+      - bribes on record
+  - wash post (owned by bezos) sweeping layoffs
+  - iran nuke talks about to fail
+- biz
+  - crypto loses 1.7T in value
+  - tech stocks down due to AI fears
+  - seattle: cigarrettes 17USD a pack
+
 - 2/3
 - politics
   - epstein
