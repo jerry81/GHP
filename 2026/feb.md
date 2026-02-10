@@ -6,14 +6,38 @@
   - netanyahu DC visit
   - kier starmer in trouble
   - doctor shortage incoming
-  - despite solar, china still building coal,
+  - despite solar, china still building coal
+  - hidden cameras in chinese hotels livestreaming to telegram
+    - huge problem in S Korea
+  - deepfake fraud happening on industrial scale
 - biz
+  - bmw subscription heated seats a Go
+  - valve - steam machine (hardware) delayed - price affected by RAM prices
+  - wordpress powers more than 40% of websites online
+  - AI.com sells for 70M highest ever for domain name
+  - heroku retired/shut down by salesforce
+  - tax cuts cut amzn's bill down 87%, from 9B to 1.2B
+    - thanks republicans
+  - mem prices doubled since last Q
+  - waymos having trouble stopping for school buses
+  - AI not paying off for hollywood
+  - 4% public commits on github done by claude code
+    - predicted to climb past 20% by end of 2026
+    - reads codebase, plans multi-step tasks and executes autonomously
+    - anthropic quarterly revenue overtakes openAI
+    - Accenture to train 30K professionals on claude
+  - bitcoin drops 30% - 76K - to 60K, back to 69K, all time high 123K
+    - crash cause unknown
+    - despite trump being crypto friendly
+    - despite flat currency under stress
+    - gold has been go-to safe-haven
   - ads in chatgpt
   - china 72 hr work weeks back due to AI gold rush (996)
   - new Raspberry Pi 2 mem chips
   - spacex priorities: self-growing lunar city > mars
   - AMZN delivery drone crashes in TX, apt building
   - anthropic claude opus 4.6 finds 500 high-severity vunerabilities in open source projects
+  - musk prediction: SpaceX will launch more AI compute power than all other earth companies combined
 - culture
   - zuck buys miami mansion - 200M
 - tech
