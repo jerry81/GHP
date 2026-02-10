@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 2/10
+- politics
+  - doj hides 3M epstein docs
+  - netanyahu DC visit
+  - kier starmer in trouble
+  - doctor shortage incoming
+  - despite solar, china still building coal,
+- biz
+  - ads in chatgpt
+  - china 72 hr work weeks back due to AI gold rush (996)
+  - new Raspberry Pi 2 mem chips
+  - spacex priorities: self-growing lunar city > mars
+  - AMZN delivery drone crashes in TX, apt building
+  - anthropic claude opus 4.6 finds 500 high-severity vunerabilities in open source projects
+- culture
+  - zuck buys miami mansion - 200M
+- tech
+  - first sodium-io battery for EV - good at low temperatures
+    - CATL (cn battery maker)
+  - AI used in operating rooms - botched surgeries
+  - 16 AI agents build C compiler from 0
+  - health: just 4 mins intense exercise a day enough?
+
 - 2/5
 - politics
   - esptein autopsy - low t and stds
