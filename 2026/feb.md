@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+- 2/11
+- politics
+  - epstein files -
+    - million mentions of trump
+  - michigan to ontario bridge to be opened, trump trying to block
+  - america qatar base patriot missles being prepared
+  - howard lutnick - commerce secretary - admits visiting epstein island with family
+  - iceland prepping for colder climate due to warm current disappearing
+  - US first population decline may have come
+- culture
+  - britney sells music catalog for 200M
+  - ilia malinin - american figure skater doing bakcflips
+  - canada school shooting, 10 dead, 25 injured
+    - woman shooter
+- biz
+  - 70K USD for NYC private schools
+  - bytedance seedance 2 can produce accurate voice from only photo
+  - skorea crypto exchange goof - 620,000 won intended, bitcoin given instead, worth 40B
+- tech
+  - health: 2-3 cups of coffee a day reduce dementia risk
+  - unfit people more likely to have angry outbursts
+
 - 2/10
 - politics
   - doj hides 3M epstein docs
