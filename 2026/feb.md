@@ -1,5 +1,56 @@
 [Back](./index.md)
 
+- 2/24
+- politics
+  - mexico, puerto vallarta - mexicans hunting down americans
+    - 73 dead
+  - xi upper hand in trade war?
+  - dems: "fuck ice act"
+  - northeast USA blizzard - 33 inches of snow in RI
+  - US helping Gaza establish stablecoin
+  - supremes reject trump's global tariffs
+  - ny to legalize robotaxis outside of nyc
+  - trump prepared speech on aliens
+  - andrew yang: AI will displace M's of white collars within 18 months
+    - "the fuckening"
+- biz
+  - goog lyria (music making) coming to gemini
+  - meta 65M election push to push ai agenda
+  - uber invests 100M EV charging for robotaxis
+  - 2026 hottest app - are you dead?
+  - openai partners with BCG, accenture, mckinsey, capgemini to sell enterprise edition
+  - claude code claims it can  handle cobol modernization, ibm shares drop 13%
+    - ibm mainframes run cobol code for ATM transactions
+  - chinese companies accused by anthropic - stealing data
+    - deepseek, moonshot, minimax
+    - distillation: prompt claude 16M times
+  - paypal stock slumping
+  - altman argument: humans use lots of energy too
+  - goldman sachs and morgan stanley analysis: AI contribute to growth = 0
+  - raspberry pi stock up - because they may use openclaw AI agents
+  - claude code got much better in november
+    - claude code security - drops cybersec stops
+    - claude sonnet 4.6 - improved coding skills
+  - metaverse pivot: VR to mobile
+  - more openAI criticism:
+    - no "moat", no tech edge, no lock-in, no plan
+      - moat - protect company from competitors copying or stealing customers
+      - 护城河
+  - meta employees calling themselves "ai builders"
+  - goog gemini 3.1 pro for "complex problem solving"
+  - msft experiment - etch data into glass
+  - aapl - ai-powered glasses, pendant, airpods
+- tech
+  - health: DMT for major depression
+  - reading PDF still a big challenge for AI
+  - TAT-8 first ever undersea fiber-optic cable - 1988
+    - getting removed and recycled
+  - ai caused surge in shell scripting usage: bash up
+    - performs better with strongly typed languages
+    - make architectural decisions explicit
+    - test ai-gen code harder, not less
+  - us particle accelerators turn nuke waste to electricity, reduce half-life
+
 - 2/11
 - politics
   - epstein files -
