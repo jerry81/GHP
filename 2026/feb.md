@@ -1,5 +1,38 @@
 [Back](./index.md)
 
+- 2/26
+- politics
+  - cubans kill 4 soldiers
+  - trump disapproval 63%
+  - gates admits affairs with RU women, apologizes for epstein ties
+  - hawking with girls in bikinis in photos
+  - ex norway PM rushed to hospital due to suicide attempt
+    - named in files
+  - maga vs netflix - want to stop wb merger
+  - ali khamenei, suprememe leader of iran
+    - hiding in bunker
+  - britain electricity use to double due to data centers
+  - peter hegseth (defense secretary) pressures Anthropic CEO Dario Amodei to give military unfettered access to AI model
+  - CA leading in battery storage installations, but TX to pass
+- biz
+  - tech companies and AI, not just encouraging but enforcing
+  - flock - license plate reading surveilance cameras
+    - being destroyed by angry americans
+  - dvds and blu-ray making a resurgence
+  - uber - dubai air taxi service previewed
+    - uber air
+  - anthropic drops flagship safety pledge
+    - "never train aI system unless it could guarantee beforehand that its safety measures were adequate"
+  - HP: memory contribution to PC costs now sit at 35% (double)
+  - 2025 - us had battery boom
+  - meta ai security researcher: openclaw agent ran amok in inbox
+    - deleted messages rampantly
+    - ignored stop prompts
+  - msft execs: ai will eat entry level coding jobs
+  - tech wants to pay farmers for data center land but farmers rejecting
+    - multi-million
+
+
 - 2/24
 - politics
   - mexico, puerto vallarta - mexicans hunting down americans
