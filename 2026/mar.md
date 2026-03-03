@@ -1,266 +1,56 @@
 [back](./index.md)
 
-- 3/31
+# 3/3
 - politics
-  - trump 'angry and pissed' at putin
-  - musk fox interviews
-  - myanmar deadly quake, 1600 dead
-  - CN already testing ai powered humanoid robots in factories
-  - passenger lost cell phone causes plane to turn around
-    - overheating fears
-  - DOGE to rewrite SSA codebase (social security)
-    - 60M lines of cobol -> java or something
-  - toxic polyflouroalkyl substances in drinking water in us
-  - trump made disruptions to science - 75% scientists contemplate leaving USA
-- biz
-  - nvidia gtx 5090 coming
-  - tencent and ubisoft game partnership
-  - softbank pledge 1T in AI effort in USA?
-  - stocks to have worse days ahead
-  - MSFT about to turn 50
-  - samsung ai fridge: display foods on screen with internal sensors
-  - aptera: solar EV - first 300 Mi trip on highway
-  - reddit stock down 50%, but up 200% since ipo in 3/2024
-  - businesses that are transforming (obsolete) - media, image/making
-    - pro photographers replaced by 20 year old kids who do jobs
-  - musk: xAI company acquires X in all-stock transaction
-    - xAI: 80B
-    - X 33B
-  - trump pardons nikola EV startup - trevor milton
-  - ibm jobs heading to india
-  - openai gpus are melting, limits image gen requests
+  - iran us war - iran not surrendering
+    - friendly fire shoots down 3 us fighters?
+    - 6 dead
+    - no army yet
+    - claude ai used to select targets
+    - dubai blasts
+    - netanyahu son not fighting, chilling in miami
+      - high kidnapping risk
+    - japan to ban in-flight power banks
+    - 90M iranians without internet
+  - trump order: stop using anthropic AI
+    - anthropic wanted to limit pentagon usage of its models
+    - sam altman sides with anthropic
+  - china official intimidation operation: intimidates dissidents abroad by impersonating us immigration officials
+    - openai exposes thru chatgpt monitoring
 - culture
-  - arnold haro, crypto gambler shoots self on screen, turns into meme coin
+  - zuck buys miami mansion for 170M
+  - new star wars movies coming soon
+  - philisophical problem: what's the point of school if ai can do all your homework
+- biz
+  - goog nano banana 2 faster generation
+  - block xyz - jack dorsey's financial services
+    - cuts nearly half staff
+  - openai raises 110B in latest private funding round
+    - more than doubles 40B raised last year
+    - AMZN 50, softbank 30, nvidia 30
+  - msft: modern world needs fewer computer programmers(coders) and more software developers (holistic high-level)
+  - smartphone mkt down 13% in 2026 due to memory shortages
+  - goog plan to quantum-proof https
+    - 40x bigger than classic crypto
+  - startup proposes to reflect sunlight to earth at night with satellites
+  - duolingo users dont like increased ads, stock plummets
+    - but still growing
+  - 100% us tariff on chinese EV
+  - AI killing SaaS
+  - hbo max paramount merge
+    - single streaming service
+  - charter may buy cox (largest isp in usa)
+  - iphone 17e
+    - a19 chip
+    - magsafe - wireless charging
+  - claude passes chatgpt as #1 on apple top apps
+  - perplexity "computer" - ai agent assigns work to other ai agents
 - tech
-  - current ios and macos sequioa riddled with bugs
-  - text messaging has a protocol: XMPP - xtensible messaging and presence protocol
-  - power from earth's rotation?
-    - angular kinetic energy
-  - Gen AI therapy bot for depression
-    - therabot from dourtmouth college
-    - mental health care gap
-  - martian dust harmful to health?
-  - anthropic: breakthru in CLT: cross-layer transcoder - map processing info internally
-
-- 3/27
-- politics
-  - Pete Hegseth - defense secretary
-    - leaked plans of imminent military strike against Houthi (yemen) miltants
-    - calls for his resignation - sensitive military info
-    - was he drunk?
-  - journalist: incompetent and evil administration
-  - autocracies outnumber democracies globally
-  - usa and iran poised for war
-  - facial recog cams go up in london
-  - phx, already gets 100-degree day
-  - brazil current pres
-    - luiz inacio Lula da Silva
-  - china "engineer dividend" - large increase of engis: 5.2M to 17.7M
-    - 40% HS grads go to uni, 10% in 2000
-  - china deep-sea cable cutting device
-- biz
-  - mistral: AI will affect GDP of every country by double digits
-    - authur mensch
-  - gates: in 10 years, humans not needed for most things
-    - only 3 remaining jobs
-      - coders
-      - energy experts
-      - biologists
-  - jp morgan trying to use quantum to generate "truly random" numbers
-  - fidelity stablecoin
-    - stablecoin: crypto with relatively stable price - pegged to commodity or currency
-  - dell staff dropped 25K in 2 yrs
-  - msft shrinking data center ops
-  - job switching not worthwhile right now
-  - bottleneck in medicine: lack of human bodies for testing
-    - grow "bodyoids" from stem cells, cannot feel pain
-  - amd ceo lisa su
-    - Radeon RX 9000 most successful gpu ever
-  - blizzard wow servers DDos attacked, rolls back hardcore deaths
-  - Ali's joe tsai - Data center Bubble
-  - napster still around, sold 207M
-  - SAP now EU largest company
-  - samsung ceo han jong-hee dead, 63
-  - 2 in 5 tech workers quit over inflexible workspace policies and WFH
-  - 23andMe bankruptcy - dna of 15M to be sold?
-- culture
-  - mel gibson passion of christ sequel
-  - metal braces make comeback
-  - 4M genz unemployed
-    - 1990 - 2000
-  - biz school in again
-- tech
-  - AI crawlers dominate traffic
-    - forcing anti DDoS to act up
-  - altman: AI -> less SW engineers
-  - AI history: alexnet in 2012 was a jump in image recog, now opensource
-  - medical challenge: precise way to measure pain - sweat, pupil dilation, blood endometriosis pain - interstital fluid
-  - linux kernel 6.14
-
-- 3/24
-- politics
-  - don 2.0 not great for business?
-  - don fighting with courts to expand power
-  - texas food bank cuts - now relying on donors
-  - bernie still going
-  - SF mayor dealing with crime and homelessness
-  - hungary wants to ban pride events
-  - china limit EV and battery exports in response to US Tariff
-  - AP cybersecurity course now launched
-  - france rejects gov backdoor for cellphones
-  - friday should be new saturday!
-- culture
-  - snow white doesn't open well
-- biz
-  - paragon - israeli spyware software for cellphone
-    - aus, can, cyprus, den, israel, sg interested
-  - ai researchers: tech industry pouring Bs into dead end
-  - programming jobs down 27.5% 2 years
-  - meta working on AI generated comment suggestions
-  - huang: quantum will be here in 15 years
-  - appl trying to save siri, shakes up exec ranks
-  - openai o1-pro most expensive model yet - 150 per million tokens (750k words)
-  - NVIDIA Gr00T N1 - open-source pre-trained, yet customizable model for humanoid robots
-  - GM work with Nvidia boost self-driving projects
-  - zuck: meta llama 1B downloads
-  - biggest alphabet acquisition: wiz (security startup) 32B
-  - Y combinator CEO: vibe coding lets 10 engis do work of team of 50 to 100
-  - byd super-charging ev tech
-  - huawei must pivot to linux/harmony as windows license expires
-  - harvard free tuition fams income less than 200K
-  - alphabet startup Taara: laser transmition of data - 20Gb over 20 KM using light beams
-- tech
-  - black hole found in our galaxy
-  - bacteria reengineered to produce plastics
-  -= "deep-brain" stimulation to treat parkinsons
-  - heat age you as fast as smoking
-
-- 3/17
-- pollitics
-  - mississippi tornadoes kill 32
-  - country of cuba power outage
-  - wind and solar overtakes coal in US
-  - trump really hates nasa, eliminates chief sci position
-- biz
-  - "made in russia" the new craze in china
-  - Cali startup sells injectable cannabis
-  - intel stock jumped 18.8%
-    - still down 53% on the year
-    - TSMC may join up to operate intel factories
-  - zillow with option for fully remote work, has been a success
-    - seattle based
-    - real estate, apt, mortgages company
-  - oracle in talks to run tiktok
-  - space x mission to mars launch nxt year
-  - msft porting TS to go
-  - anthropic ceo trolling?  give AI "quit job" option
-  - new intel ceo lip-bu tan 陈立武
-  - irobot may shut down in 12 months
-  - Hugging face guy: AI isn't creating new knowledge
-- culture
-  - 4:30 is the new 5:00 (workday more efficient)
-  - professor: "i used to teach students.  now i catch cgpt cheats"
-- tech
-  - codon, the python compiler
-  - ocean levels 30 yr high
-  - cursor AI stopped generating code, instead offered career advice
-    - "vibe coding" ai tools gen code without understsanding how it works
-  - man survives with titanium heart, 100 days
-  - goog open source ai model Gemma 3: comparable to DeepSeek
-    - gemini robotics from deepmind
-  - tech challenge: extract data from PDF: since pdf is a picture, requires OCR
-
-- 3/10
-- politics
-  - molitovs and gunfire at tesla lots due to anger at musk
-  - measels cases in 12 states, cases up
-  - syria violence: Assad toppled by islamist group HTS: Havat Tahrir al-Sham
-    - 745 civs killed
-
-- 3/6
-- biz
-  - only 77K jobs created in february
-  - AMZN prime tries AI dubbing
-  - GOOG search adds "AI mode"
-  - openAI to charge 20K a month for phd level ai agents
-  - macbook air with m4 to be just 999 USD
-  - cortical labs: bio-AI - merge brain cells and silicon hardware
-- culture
-  - elon uses ketamine
-- politics
-  - tesla sales down in germany due to musk meddling
-- health
-  - aspirin anti cancer?
-
-- 3/5
-- politics
-  - stocks down
-  - measels spreads to 9 states
-  - doge staffers get 6 fig salaries
-  - USA stop cyberops against russia
-  - britain: energy shortages, affordability crises
-    - anti-growth restrictive policies
-  - cn: nuke fusion power by 2050
-- culture
-  - "cali sober" - no booze, but drugs
-- health
-  - swearing linked to increased strength/pain tolerance
-  - try too hard to be happy = miserable
-- biz
-  - mba grads struggling to land jobs
-  - TCL passes LG as 2nd largest TV market
-    - 1 samsung
-  - aapl ipad air with m3
-  - tsmc 100B investment us chip facilities
-  - call centers to use AI to 'whiten' indian accents
-- tech
-  - driverless car sets new speed record: 197.7 mph
-  - fork of c, TrapC try to fix mem safety issues
-
-
-- 3/3
-- culture
-  - oscars
-    - anora gets best picture
-      - about a stripclub
-    - adrian brody the brutalist best actor
-    - mikey madison best actress
-    - best animated film: flow(beats pixar IO2) - made with blender
-      - blender is FOSS
-  - kanye craziness: swastika shirt, nazi salutes
-  - musicians release silent album to protest ai gen music
-- health
-  - texas measels cases
-- politics
-  - geothermal the next big green energy source?
-  - eu nightmare: trump takes us out of the war
-  - south carolina burns
-    - while trump golfs
-  - usa withdraw from nato: musk supports
-  - utah may ban flouride in water
-  - japan 4 day workweek to shed "oldest population" title
-- tech
-  - Ice as batteries: efficient cooling
-  - petawatt elecdtron beam aka laser
-    - new possibilities - split atoms
-  - anti-aging pill for dogs?
-    - from startup Loyal
-  - china developing mars drone that can roll and fly
-  - chinese robot first to front-flip
-  - gemini code assist now free
-- biz
-  - tesla launch an uber competitor?
-  - autodesk cuts 1350 jobs, invest in ai
-  - salesforce ceo: marc benioff - freeze hiring this year
-  - openAI integrate sora's video generator into CGPT
-    - sora also OAI
-  - intel 28B ohio chip factory delayed, to 2030
-  - sergey brin: every weekday come to office, 60/week optimal
-    - leading Gemini
-  - msft shutdown skype, shift to teams
-  - chatgpt 4.5: 200/month subscription
-  - amzn quantum computing chip: Ocelot
-  - jensen: AI must do 100x more computing to do reasoning
-  - satya: "ai value will come with a breakthrough app"
-  - amzn alexa revamped with genai
-  - deepseek wants to push its R1 to R2 release
+  - human brain cells growing on chip play doom
+  - goog data center has "world's largest battery"
+    - iron-air battery: make iron rust and reverse rusting to release energy
+  - china electric supercar 217mph
+    - sofa cockpit
+    - ai
+  - AI recommendations in war game sims: nuke strike
+  - ocean heating causing staggering loss of marine life
