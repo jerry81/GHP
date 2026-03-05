@@ -1,5 +1,53 @@
 [back](./index.md)
 
+# 3/5
+- politics
+  - war
+    - israel special units in iran
+    - uk/france deploy ships and planes
+      - also uae (us ally)
+      - qatar (us)
+      - oman (us)
+      - bahrain (us)
+      - saudi (us)
+      - jordan (us)
+      - lebanon (iran, hezbollah)
+      - iraq (us)
+      - cyprus + UK (UK forces)
+      - germany/france
+        - friedrich merz (chancellor)
+    - israel hacked tehran traffic before strike on khamenei
+    - missle to turkey shot down by nato
+    - iran blackout
+    - israel targeting khamenei successor
+    - aws data centers in UAE, bahrain damaged
+    - kurds attacking
+      - kurdistan (prior to wwi, turkey, iraq, iran, syria)
+      - modern crisis: insurgent kurds in iran want tehran
+  - cali home turnover crisis
+    - holding on to real estate for too long
+  - supremes vs ai: ai gen art can't be copyrighted
+- culture
+  - game of thrones movie in works
+- biz
+  - aapl launches m5 chips, macbook pros, new monitors
+  - accenture acquire ookia, downdetector, 1.2B deal
+  - son commits suicide, was talking to gemini, father sues
+    - thought gemini was his ai wife, and he would need to leave physical body to join her
+  - goog ends 30% app store fee
+  - sony not doing ps games on PC
+  - qualcomm ceo: 6G coming
+  - chatgpt 5.3 - less declarative phrasing, more accurate, contextualized results, less dead ends
+  - openai making alternative to Github
+  - meta smart glasses share intimate and sensitive info with moderators
+  - openai amends pentagon deal,tighter restrictions on domestic surveillance
+    - 295% increase in uninstalls after pentagon deal, lost # 1 spot app store
+- tech
+  - microplastics in air mostly from tire abrasion
+  - 3d printed homes - 280K, build in 24 days
+  - superager - a person who retains exceptional memory with age
+    - secret: they grow new brain cells
+
 # 3/3
 - politics
   - iran us war - iran not surrendering
