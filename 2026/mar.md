@@ -13,6 +13,7 @@
   - epstein autopsy showed 3 fractures in neck looked more like strangulation
   - nevada houses too expensive
   - swiss law: swiss vote to right to use cash
+  - indonesia ban social media, children under 16
 - culture
   - rupert murdoch 95 y/o
   - pet wellness booming, 1000USD for dog grooming?
@@ -27,10 +28,22 @@
   - bluesky (twitter alt) ceo steps down
   - anthropic, labled national security threat, counter-sues pentagon
   - AUR: automated architecture: portable micro-factories using robotic arms to create housing parts
+  - steam on linux numbers dropped in feb
+  - openai 70M grant to automate manufacturing
+  - jack dorsey, block, layoff half workforce, blames AI, accused of "AI-washing"
+  - AI ceos worried gov will nationalize AI
+  - spielberg documentary: dinosaurs
+  - openai head of robotics resigns
+    - says pentagon deal rushed without guardrails defined
+  - seagate releasees 44TB hard drives
+  - "Kaishi" - prediction market, not paying out bets on khaenei's death, gets sued
 - tech
+  - astronomy: 99% dark matter galaxy discovered
   - havana syndrome microwave weapon
   - ai new usecase: identify anon social media accounts
-
+  - robotic surgery patient 1500 Mi away
+  - 2/3 users run outdated node.js
+  - japan stem-cell treatments for parkinsons, heart falure, world's first
 
 # 3/6
 -politics
