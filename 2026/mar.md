@@ -1,5 +1,54 @@
 [back](./index.md)
 
+# 3/7
+- politics
+  - G7 meet to release oil reserves to usa
+  - war
+    - khamenei son new supreme leader
+    - trump thinking about ending war after call with putin
+    - tehran: sleeper cells
+    - us tomohawk missle struck girls school
+  - us admiral predicted 2027 taiwan strike - us spent billions of dollars in prep
+  - louisiana earthquakes
+  - epstein autopsy showed 3 fractures in neck looked more like strangulation
+  - nevada houses too expensive
+  - swiss law: swiss vote to right to use cash
+- culture
+  - rupert murdoch 95 y/o
+  - pet wellness booming, 1000USD for dog grooming?
+  - rihanna attempted murder
+  - yoko: john may have been gay
+- biz
+  - qualcomm new arduino: AI-focused computer
+  - uber: women-only option
+  - samsung to bring "vibe coding" to galaxy phones - adjust apps on fly
+  - EA lays off staff working on battlefield
+    - despite bf6 record sales
+  - bluesky (twitter alt) ceo steps down
+  - anthropic, labled national security threat, counter-sues pentagon
+  - AUR: automated architecture: portable micro-factories using robotic arms to create housing parts
+- tech
+  - havana syndrome microwave weapon
+  - ai new usecase: identify anon social media accounts
+
+
+# 3/6
+-politics
+  - war
+    - boots on ground in iran, iran says ready for any ground attack
+    - kurds ready to strike
+    - newsom rips irsrael - apartheid state
+  - homeland security secretary kristi noem fired
+  - pentagon deems anthropic supply chian risk
+    - gov vs anthropic
+- culture
+  - britney DUI
+- biz
+  - memory crunch - mac studio 512G option disappears
+  - united bans sounds without headphones
+  - msft project helix - next gen xbox
+
+
 # 3/5
 - politics
   - war
