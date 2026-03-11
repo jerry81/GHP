@@ -1,6 +1,34 @@
 [back](./index.md)
 
-# 3/7
+# 3/11
+- politics
+  - gas prices up
+  - war
+    - 150 us troops wounded and counting
+    - rogan: "people feel betrayed"
+  - epstein
+    - zorro ranch searched by NM investigators
+  - fremont happiest city, detroit/memphis last place
+- culture
+  - rihanna shooter a woman, charged with attempted murder
+    - 3 kids, a$ap rocky
+- biz
+  - reflect orbital startup
+    - space mirrors - sunlight at night
+      - solar power after sunset
+  - number of billionaires rises
+  - intel chip computes with encrypted data
+  - AT&T to invest 250B in AI infra
+  - Meta buys Moltbook - social network for AI agents
+  - SUSE valued at 6B
+    - open source Linux
+- tech
+  - AI chips upgraded more quickly than data centers build speed
+  - 2nd warmest winter in usa history
+  - "AI inference" - cost of running models
+
+
+# 3/10
 - politics
   - G7 meet to release oil reserves to usa
   - war
