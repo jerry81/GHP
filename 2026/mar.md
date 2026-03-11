@@ -6,13 +6,18 @@
   - war
     - 150 us troops wounded and counting
     - rogan: "people feel betrayed"
+    - iran war large-scale test for ai assisted warfare
   - epstein
     - zorro ranch searched by NM investigators
   - fremont happiest city, detroit/memphis last place
+  - tariff refunds held up due to computer problems
+  - ISS lifespan extended from 2030 to 2032, NASA tasked with making private space stations
 - culture
   - rihanna shooter a woman, charged with attempted murder
     - 3 kids, a$ap rocky
 - biz
+  - firefox redesign coming
+  - appl block us users from dl bytedance apps
   - reflect orbital startup
     - space mirrors - sunlight at night
       - solar power after sunset
@@ -22,7 +27,10 @@
   - Meta buys Moltbook - social network for AI agents
   - SUSE valued at 6B
     - open source Linux
+  - Aptera builds first solar car
 - tech
+  - planetary heating due to humans faster than ever
+  - china: quantum computing os
   - AI chips upgraded more quickly than data centers build speed
   - 2nd warmest winter in usa history
   - "AI inference" - cost of running models
