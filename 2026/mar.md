@@ -1,5 +1,21 @@
 [back](./index.md)
 
+# 3/12
+- politics
+  - china to restrict openclaw use at state agencies
+  - war
+    - iran missles aimed at jerusalem
+    - oman struck by drones
+  - to protest president, withold income tax
+  - phoenix 100 degrees
+- culture
+  - only half of americans went to movie theatre last year
+- biz
+  - meta former AI scientist, yann lecun - new startup - AI that understands physical world
+    - AMI, advanced machine intelligence
+  - nvidia plans openclaw competitor, nemoclaw
+  - after outages, AMZN makes employees sign off on AI assisted changes
+
 # 3/11
 - politics
   - gas prices up
