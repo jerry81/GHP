@@ -2,6 +2,7 @@
 
 # 3/19
 - politics
+  - chatgpt approved for official use in senate
   - US debt 39T
   - UK to invest B's to build nuke fusion industry
   - war: ru sends oil to cuba
@@ -14,7 +15,27 @@
       - call to stop fighting
   - UK to require labels on AI-gen content
   - rural ohio may want to ban data centers
+  - canada mulling nationalized public AI
+  - EU regrets reducing nuke energy sector
 - biz
+  - Asia hit by strait of hormuz closure
+    - japan korea source 90/70% of oil from region
+    - forced 4 day work weeks
+  - atlassian CEO lays off 1600 jobs, cites AI shift
+  - claude now can respond with charts, diagrams, visualschat
+    - visualizations clickable
+  - perplexity "Personal Computer" - ai agents accessing local files, automate tasks
+    - kill switch
+    - activity logs
+  - adobe CEO to step down, 18 yrs tenure
+  - appl macbook neo beats every x86 PC cpu in single core performance
+  - app store fee for china just 25%, compared to 30%
+    - appease regulators
+  - 30% global helium supply gone with qatar facility shutdown
+    - HE needed for chip fab
+  - warning: don't get used to cheap AI, still in subsidized phase
+  - IG ends E2E encryption for DMs
+  - meta sweeping layoffs planned amidst AI cost increase
   - uber cofounder travis kalanick: new startup - "gainfully employed robots" in food, mining, transport industries
     - ousted from uber in 2017
   - EV sales up in Eu, NA down
@@ -46,6 +67,15 @@
     - pointers
     - bulldogs
   - tech
+    - "balcony solar panels" - plug-in - hung out window or setup in backyard
+      - displace grid energy
+    - article: silicon valley programmers "now barely programming"
+      ```A coder is now more like an architect than a construction worker... Several programmers told me they felt a bit like Steve Jobs, who famously had his staffers churn out prototypes so he could handle lots of them and settle on what felt right. The work of a developer is now more judging than creating...```
+      - 10% productivity boost
+      - goog 100K software devs
+      - startups, 100% written by AI
+      - ai avoiders are the minority
+      - conclusion: future of programmers still unclear
     - sodium-ion battery tested for grid-scale storage in wisconsin
     - "vibe coding" term coined by andrej karpathy
     - split spacebar new keyboard tech?
