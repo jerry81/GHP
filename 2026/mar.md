@@ -1,5 +1,61 @@
 [back](./index.md)
 
+# 3/19
+- politics
+  - US debt 39T
+  - UK to invest B's to build nuke fusion industry
+  - war: ru sends oil to cuba
+    - qatar refinery attacked
+    - china quietly helping tehran survive
+      - longstanding ally
+      - buying oil, selling rocket parts
+      - limited public support
+      - condemned killing leadership
+      - call to stop fighting
+  - UK to require labels on AI-gen content
+  - rural ohio may want to ban data centers
+- biz
+  - uber cofounder travis kalanick: new startup - "gainfully employed robots" in food, mining, transport industries
+    - ousted from uber in 2017
+  - EV sales up in Eu, NA down
+  - meta 27B AI infra deal with Nebius
+    - boost AI computing capacity
+  - nvidia bets on openclaw but adds nemoclaw, a security layer
+  - nvidia expects 1T sold chips by 2028
+  - samsung galaxy z trifold discuntinued, 2899USD
+  - AI created "bloomberg terminal replacement"
+    - financers not happy
+  - goog: vibe design
+    - Stitch - AI-native design platform
+  - 0 job creation in private sector
+  - never before in history, no growth in labor force
+  - "SaaS apocalypse" - open source opportunity?
+    - salesforce, atlassian, hubspot stocks all down
+    - commercial saas inevitably to become open source
+- culture
+  - spring break, arrests up
+  - most popular dog breeds:
+    - frenchies
+    - lab retriever
+    - golden
+    - german sheps
+    - daschund
+    - poodle
+    - beagle
+    - rott
+    - pointers
+    - bulldogs
+  - tech
+    - sodium-ion battery tested for grid-scale storage in wisconsin
+    - "vibe coding" term coined by andrej karpathy
+    - split spacebar new keyboard tech?
+    - DLSS 5 - deep-learning super-sampling - gaming tech to glow up images and frame rates
+      - gamers react with disgust
+    - potatoes can grow on moon
+    - turing award - goes to inventors of quantum cryptography
+    - cigg butts used by birds to ward off pests in nests
+    - robot goes berserk in restaurant after smashing tableware, dragged off by staff
+
 # 3/12
 - politics
   - china to restrict openclaw use at state agencies
