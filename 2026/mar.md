@@ -1,5 +1,71 @@
 [back](./index.md)
 
+# 3/24
+- politics
+  - big accident at laguardia airport, plane hits fire truck
+  - war
+    - uss gerald ford leaves mid east
+  - white house adds christopher columbus statue
+  - trump has campaign against offshore wind farms
+    - pays french company 1B to stop offshore wind farms
+- culture
+  - bill cosby loses lawsuit
+  - celine dion comeback in paris
+- biz
+  - jensen acknowledges DLSS 5 slop issue
+  - mcd's testing humanoid robots
+  - intoxilock - brethalyzer appliance company
+    - hacked, drivers stuck
+  - wing (drone delivery) expands to bay area
+  - US consumers show interest in cheap chinese EV
+  - zuck building personal CEO agent
+  - onlyfans owner dead, 43, Leonid Radvinsky, cancer
+  - uber fighting waymo and tesla for robotaxi future
+
+# 3/23
+- politics
+  - war
+    - iran to hit middle east water facs
+    - trump threat - if you don't open strait of hormuz within 48 hrs, will attack power plants
+    - iran hitting israel with missles
+  - trump approval 34%
+  - SF man threatens to kill 3 passengers in self driving car, "for giving money to robot"
+  - meteor over houston, 6 lb fragment crashes into home
+  - Millions mobile internet outages in moscow
+  - trump administration makes a framework to control AI, but limits state power
+  - cuba, with china's help undergoing solar boom
+  - fbi buys location data to track us citizens, director confirmed
+- biz
+  - ceo of super micro charged with smuggling 2.5B worth of nvidia gpus to china
+    - arrested in california
+    - stock already down 30%
+  - open ai next product: desktop superapp
+    - combine Atlas (web browser) and Codex
+  - openAI buys Astral - developer tooling
+  - open ai 50B amzn cloud deal, msft might want to sue
+  - aapl blocks vibe coding apps from pushing updates
+  - musk - 20B terfab chip plant in tx
+  - tesla upcoming electric big rig truck
+    - truckers like it
+  - AMZN acquire Rivr - swiss robotics - 4 legged robots on wheels - for delivery
+  - half of consumers prefer non-genAI content
+  - bezos new project - wants 100B to buy manufacturing companies and transform them with AI
+  - amzn wants smartphone comeback, fire failed in 2014
+  - openclaw connecdts hardware and software tools and learns from data produced
+    - less human intervention than chatbot
+    - can be trained
+  - sideloading on android - new process takes 24 hours
+    - 24 hr countdown
+- culture
+  - oregon school bans cell phones - results in engaged students and joyful teachers
+  - wfh and drive slowly to save energy (during iran)
+  - chuck norris RIP 86
+- tech
+  - firefox free built-in VPN
+  - gene editing leads to juicier steaks
+  - magic AI fitness mirror watches you and gives automated feedback
+  - 2027 - bot traffic will pass human traffic, says cloudflare
+
 # 3/19
 - politics
   - chatgpt approved for official use in senate
