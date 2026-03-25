@@ -1,5 +1,28 @@
 [back](./index.md)
 
+# 3/25
+- politics
+  - war
+    - how iran could win war
+      - just survive: no revolution, replace leaders
+      - strait of hormuz control: halts passage of 20% of world's sea traded oil
+        - greatest disruption in history
+  - beijing: USA only has 2 months of rare earths left
+  - louisiana most stressed state, south dakota least
+  - changchun, jilin - a band of dogs escape a meat factory, go viral, led by corgi
+  - heat wave coming to America
+  - china maps ocean floor in prep for submarine warfare
+  - HK law: police can demand passwords
+  - hacking group targets iran-based machines
+  - FCC bans foreign-made routers
+- biz
+  - open ai sora discontinued
+  - ARM new data center chip, AGI - for Agentic AI workloads, meta first customer
+  - claude can now use computer to finish tasks, feature under testing
+  - epic (fortnite) cuts 1000 jobs - fornite usage down
+    - Tim Sweeny CEO
+  - canonical (of ubuntu fame) joins rust foundation
+
 # 3/24
 - politics
   - big accident at laguardia airport, plane hits fire truck
