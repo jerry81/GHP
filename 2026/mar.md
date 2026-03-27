@@ -1,5 +1,35 @@
 [back](./index.md)
 
+# 3/27
+- politics
+  - china mass produce hypersonic missles, just 99K usd
+  - trump wealth passes 6.5 B, signature on dollar bills
+  - Air travel delays break records
+  - war
+    - bad for economy
+    - iran to strike hotels
+    - IDF - israel defense forces - "could collapse"
+- biz
+  - meta and youtube get sued for addiction for negligence, found guilty
+  - fat tax for southwest airlines
+  - openai cancels sex chatbot
+  - appl: discontinues Mac Pro
+  - wikipedia bans genai
+  - manus, AI startup acquired by meta 2B, founders originally in china, moved to SG, under chinese investigation
+  - UPS fuel surcharge
+- culture
+  - stephen colbert to direct next lord of rings
+  - paramount+ new show - the madison doing well
+  - clavicular described as "pernicious" in headline
+  - the AI doc - required viewing
+- tech
+  - CERN, antimatter transported via truck
+  - whale birth filmed
+    - other whales (from other families) help
+      - raise baby to surface
+  - goog gemini - install smaller distilled models on user device
+  - astro: massive black holes slow growth
+
 # 3/25
 - politics
   - war
