@@ -1,5 +1,29 @@
 [back](./index.md)
 
+# 3/30
+- politics
+  - war
+    - 50K US troops in mid east
+  - RU tanker nears cuba, defines oil blockade
+  - AfD party - alternative for germany - wants us soldiers out
+  - amid ICE crackdowns, many flee to canada
+  - 1000s treated with magic mushrooms in 25
+- culture
+  - project hail mary has lots of science it in
+- biz
+  - openai worried as money getting "burnt"
+  - bitcoin at 69K, 45% down
+  - maximo robots installing solar panels at AES - energy company
+  - after sora (openAI) ends, disney breaks ties with open AI
+  - ps5 price increases again
+  - opanAI ads make 100M in 6 wks
+- tech
+  - AI to find lost pets
+  - world's smallest qr code as small as bacteria
+    - goal, long term storage
+  - jupiter lightning as powerful as nukes
+  - quantum computer adv over classical: modeling quantum systems and magnetism
+
 # 3/27
 - politics
   - china mass produce hypersonic missles, just 99K usd
