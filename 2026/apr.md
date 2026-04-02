@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+-4/2
+- politics
+  - chinese govt bonds investment haven
+  - astronauts back to moon (first in 50 yrs)
+  - war
+    - american journalist kidnapped in iraq
+    - trump proposes ceasefire, iran denies
+  - sweden: back to books, drops screens
+  - RU great VPN crackdown
+- biz
+  - anthropic: followup on leaked source - takedown requests for 8000+ copies
+  - robotaxi outages in wuhan china leave passengers stranded on highways
+  - startup: creagte replacement bodies for organ harvest, life-extension
+- tech
+  - AI can clone open source projects in just minutes, create propietary versions that are legal and functional
+  - public health ready to replace radiologists with AI
+
 - 4/1
 - politics
   - oil up 60%
