@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 4/3
+- politics
+  - pam bondi, USAG fired, handling of epstein files to blame?
+  - china expands nuke arsenal
+  - war
+    - iran attacks oracle data center, dubai, amazon cloud in bahrain
+    - us bombs civilian facility
+    - ground invasion imminent
+    - strait of hormuz multi-national meeting coming
+    - isis: calls for churches and synagogues to be set on fire
+  - renewables at 50% globally
+- biz
+  - openai buys TBPN - tech podcast
+  - amzn adds 3.5% fuel surcharge
+  - IBM and ARM team up to run arm workloads
+  - goog releases gemma 4 open AI models, apache license
+  - spacex apply to go public, ipo worth 1.75T
+- tech
+  - raspberry pi 4 3GB
+
+
 -4/2
 - politics
   - chinese govt bonds investment haven
