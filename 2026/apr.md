@@ -1,5 +1,48 @@
 [Back](./index.md)
 
+- 4/7
+- politics
+  - cali's economy best in usa, and passes japan
+  - war
+    - trump: "madman theory" - act irrationally and erratically so enemy has to guess
+      - nixon used it to bad results in vietnam
+      - threatens bombing power plants + bridges if iran doesn't open hormuz
+    - america extorts iranian nuke scientists to join
+    - saudis winner of war: charging record prices for oil
+    - china to benefit
+      - EVs, solar panels
+  - FBI opens pre-crime center
+  - 2024 poll: 31% americans in upper middle class, up from 10% in 1979
+    - family of 3, 133 - 400K
+- culture
+  - AI dolls companionship to elderly
+  - genz having sex with chatbots
+  - hollywood condo penthouse asking price: 39.5M
+  - theatres showing "the AI Doc"
+- biz
+  - april fools joke: AMD buy intel
+  - anthropic charges claude subscribers to use openclaw
+  - AAPL device level age verification rolls out in SG and SK
+  - openAI solutions to AI disruption
+    - robot tax
+    - public wealth fund
+    - 4 day workweek
+  - rollable lg phone teardown shows why it failed
+    - too expensive, fragile
+  - peter thiel invests in new NZ startup: halter
+    - solar collars for cows
+  - MSFT ToS: copilot for "entertainment purposes only"
+- tech
+  - first time since 1972 humans leave earth's orbit in Artemis II
+  - chrome 148 lazy loads video and audio
+  - genetically engineered plant produces 5 different psychadelics at once
+    - psilocin/psilocybin
+    - DMT
+    - bufotenin
+    - toad DMT
+  - ubuntu 26.04 now requires 6GB RAM, more than win 11
+
+
 - 4/3
 - politics
   - pam bondi, USAG fired, handling of epstein files to blame?
