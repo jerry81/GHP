@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 4/8
+- war
+  - iran reopens hormuz
+    - oil down again
+  - trump unhinged - "whole civilization will die"
+  - calls to oust him
+  - china aids iran's missle program
+- politics
+  - 100USD grand canyon fee - federal rule
+  - china intense military activity, twn invasion imminent?
+  - ICE shooting, cali
+- biz
+  - anthropic claude mythos
+    - discovers critical vunerabilities
+  - macbook neo success
+    - chip crunch
+  - chrome vertical tabs coming - tabs on side of browser
+  - anthropic 30B revenue, grabs 3.5 gW TPU compute starting 2027
+- tech
+  - china new engine hydrogen-fueled
+
 - 4/7
 - politics
   - cali's economy best in usa, and passes japan
