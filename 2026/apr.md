@@ -1,5 +1,30 @@
 [Back](./index.md)
 
+- 4/9
+- politics
+  - israel bombs beirut 100 times in 10 minutes
+  - war
+    - cia used "ghost murmur" to find and rescue american airman
+      - long range quantum magnetometry - finds EM fingerprint of human heartbeat
+        - paired with AI
+    - iran hackers disrupt us oil, gas, water sites
+    - saudi pipelin hit by drones
+    - iran wants btc for ships passing hormuz during ceasefire
+  - recently fired kristi noem's jet used for melania's personal use
+    - homeland security secretary
+- biz
+  - anthropic develops ai "too dangerous to release", claude mythos
+    - "weapons we can't even envision"
+  - america, 22USD smoothies
+  - appl foldable iphone september
+  - meta new aI model: "muse spark"
+    - alexandr wang - chief ai officer at meta
+- culture
+  - MJ movie doesn't even touch on child abuse accusations
+- tech
+  - cancer eating bacteria engineered
+  - satoshi unmasked - Adam Back - briton
+
 - 4/8
 - war
   - iran reopens hormuz
