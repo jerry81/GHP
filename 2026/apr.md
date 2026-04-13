@@ -1,5 +1,57 @@
 [Back](./index.md)
 
+- 4/13
+- politics
+  - war
+    - usa blockade hormuz
+    - turkey threatens israel
+    - china enter war?
+      - china sending missles, selling supplies
+    - vance negotiations fail
+    - trump limping, health worries
+    - "mutually automated destruction" - escalating global AI arms race
+  - molotov thrown at sam altman's house
+  - french gov switches to linux from windows
+  - US fertility at all time low
+- biz
+  - job market: skilled older workers finding work in "ai training field"
+    - label and evaluate data used for training - "data annotation"
+    - companies: Mercor, GlobalLogic, TEKsystems, micro1, algherr
+  - waymo - help cities fix potholes
+  - openAI following claude mythos footsetps, will limit new model release
+    - cybersec fears
+  - AMZN may sell it's own Trainium AI chips to outside customers, slap in face to Nvidia
+  - AI replacing car salesmen
+  - google e2e encryption for mobile devices
+  - msft removing copilot branding from apps
+    - "copilot menu" -> "writing tools" in notepad
+  - costs up, coffee, homes
+  - qualcomm snapdragon x2 run windows on arm
+  - startup - transform human cognition with perfect/infinite memory
+    - former harvard med school professor, neuroscientist Spandan Madan and Kreiman
+    - company name: Engramme - future: remember everything
+  - "DNA encryption" an emergent tech
+    - biotech protect engineered cells from being stolen
+  - binance founder - changpeng zhao - 49 yr old billionaire
+    - writes memoir
+    - pardoned in prison by trump
+  - SSD prices going up due to AI- 173 in 2024 now 649USD - WD Black SN850X 2TB SSD
+    - external sandisk 200% price hike
+    - 4TB samsung 990 pro 320 -> 1000USD
+  - air traffic controller positions vacant, FAA turns to gamers to fill
+- culture
+  - super mario galaxy and project hail mary revive box office - best in 7 yrs
+  - new yorker magazine asks "can sam altman be trusted?"
+- tech
+  - vulnpocalypes - ai finding security flaws
+  - robot birds deployed by park to attract real birds
+  - rust at peak popularity?
+    - hasn't broke top 10, currently 16
+  - oxygen made from moon dust
+  - 2 wk social media detox erases 10 yrs of age-related decline
+  - zoo: chimps in uganda in vicious civil war
+  - handy tool: little snitch for linux - exposes what software is connected to internet
+
 - 4/9
 - politics
   - israel bombs beirut 100 times in 10 minutes
