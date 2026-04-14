@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+- 4/14
+- politics
+  - is white house on drugs?
+  - trump mocks jesus
+    - picture on twitter, deleted
+    - heavy maga backlash
+  - musk legal issues
+    - xAI vs sam altman
+    - twitter fraud
+    - bias vs world's richest man
+- culture
+  - clavicular goes on 60 minutes, asked if he's incel, walks out
+  - fernando mendoza # 1 football prospect, qb
+  - altman firebomber not caught yet
+    - home targeted a 2nd time
+    - russian hill
+    - drive by shooting
+- biz
+  - meta - AI version of zuck interacts with staff
+    - meta: facial recog glasses will arm sexual predators
+  - appl vs meta on AI glasses
+  - programmers -> to become ai babysitters
+  - claude seeks christians help to develop claude spiritually
+- tech
+  - AI chatbots misdiagnose in over 80% of med cases
+  - linux 7 released
+
+
 - 4/13
 - politics
   - war
