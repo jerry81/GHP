@@ -1,5 +1,29 @@
 [Back](./index.md)
 
+- 4/15
+- politics
+  - war
+    - saudi wants trump to scale back war
+    - china defies us blockade
+    - aus running out of oil
+  - xi says world order crumbling
+  - trump feuds with meloni - after comments on pope leo
+    - rips her for not caring about iran nukes
+  - pres facing increasingly defiant world
+- culture
+  - euphoria back, but lukewarm reception
+- biz
+  - wall street booming - due to war?
+  - MSFT - major increase for surfaces
+  - goog vs advertisers - billions of dollars
+    - goog accused of being monopoly
+- tech
+  - AI prompts -> repeatable skills
+    - "skill" - like a module, or a learned ability
+    - when and how to do it, output customization
+    - skill impl with prompt template
+  - venus-resistant computer chip - 700 C
+
 - 4/14
 - politics
   - is white house on drugs?
