@@ -1,5 +1,26 @@
 [Back](./index.md)
 
+- 4/16
+- politics
+  - war
+    - iran creates another meme throwing "jesus trump" into hell
+    - israel lebanon ceasefire coming?
+  - chinese using satellites to locate US bases
+- culture
+  - madonna new album coming?
+- biz
+  - stocks back to record highs
+  - boston dynamics dog gets stronger, can reason, read gauges, find spills
+    - spot the robot dog
+  - ford ceo on chinese imports: "us jobs too important"
+  - snapchat cutting 1000, blames ai
+  - shoe retailer Allbirds pivots to AI, stock grows 700%
+  - rivian illinois factory run on recycled batteries
+  - amzn buys globalstar 10.8B, moves to expand satellite internet svc
+- tech
+  - drug extends dog lifespans by a year+
+  - norway man cured of HIV with brother's stem cells
+
 - 4/15
 - politics
   - war
