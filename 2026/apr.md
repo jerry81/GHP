@@ -1,5 +1,251 @@
 [Back](./index.md)
 
+- 4/29
+- politics
+  -  trump face on new passports!
+  - comey charged for second time
+    - 8647 - 86 -> get rid of, 47 -> 47th president trump
+  - UAE to leave OPEC - org of the petroleum exporting countries
+    - due to hormuz crisis
+    - reduces Saudi Arabia's control over prices
+- culture
+  - colbert to retire
+  - devil wears prada 2
+  - 2/3 babies watching screens
+- biz
+  - emirates - private bathrooms on planes
+  - goog pentagon agreement - agree on deal for any "lawful" use of AI
+  - musk vs altman in court!  - betrayal about shared vision on dev of AI
+- tech
+  - coffee tech - electrical currents can measure how much coffee has dissolved in, improving consistency
+  - appl vision pro used in world-first cataract surgery
+
+- 4/28
+- politics
+  - 999 days countdown until trump presidency ends
+  - assassination attempt false flag
+  - attempted assassination -> life sentence
+  - history: gerald ford 2 assassination attempts in one month
+  - prince charles visits white house
+  - ICE may change name to NICE
+  - Germany Friedrich Merz: Iran humiliating USA
+    - leader of Germany's CDU (Christian Democratic Union), left frontline politics for years, then returned and rose to chancellor
+  - starving RU troops eating each other
+  - CA may pass billionaire tax
+  - military spending worldwide at all time high
+- biz
+  - man wins marathon wearing adidas sub 2 hr - adidas shares rise
+  - meta tried to buy Manus for 2B - blocked by china
+    - Chinese AI agent startup known for autonomous task-running assistant demos
+- github copilot moves to usage-based billing starting june 1
+  - MSFT stop sharing revenue with OpenAI
+  - america has 70% more bookstores than 2020
+  - 2 climate tech startups raise 1B+ in IPOs
+- tech
+  - cellular rejuvenation -> reverse aging
+  - 1/3 websites created since 2022 are AI generated
+  - notepad++ mac port as native app
+- culture
+  - movie tickets now $50
+
+- 4/27
+- politics
+  - attempt made on trump's life
+    - some say it was staged
+    - shooter cole thomas anderson
+    - cali schoolteacher - faces 20 years
+  - trump fired all 24 members of america's national science board
+  - privacy advocate warns us gov expanding ai-powered mass surveillance via data brokers
+  - slashdot comment sentiment on both stories mostly negative / civil-liberties focused
+- biz
+  - musk says x money banking tool is near launch for super-app push
+  - framework says ubuntu version of laptop 13 pro is outselling windows variant
+  - apple transition chatter grows around john ternus and new ai hardware roadmap
+    - bezel-less iphone
+      - bezel is non-screen area
+        - iphone 20
+    - ai airpods
+    - smart glasses
+    - pendant
+    - smart display
+    - tabletop robot
+    - sec camera
+  - volvo polestar 4 has no rear view mirror
+  - intel stocks up 24 percent
+    - 14A chip deal with tesla
+- tech
+  - FDA approve gene therapy for deafness
+  - ai's human intelligence cannibalization
+    - ai/human hybrid performs better than ai-only or human-only
+  - google threat intel sees prompt-injection attacks increasing against web-browsing ai agents
+  - nasa lunar gateway modules hit corrosion issue tied to supplier manufacturing process
+- culture
+  - pokemon go regional disqualification over "table shake" still dividing community
+  - teachers report using shorter activities + meditation to handle shrinking attention spans
+
+- 4/26
+- politics
+  - drudge-linked coverage: iran war peace talks cancelled
+  - drudge-linked report claims damage to us bases may be worse than public messaging
+  - white house pushed out newly hired ai standards official after 4 days
+  - norway plans social media ban for under 16 and pushes bill to parliament
+- biz
+  - intel stock surged 24% in one day, biggest jump since 1987
+  - goog plans to invest up to 40B more in anthropic
+  - samsung mobile unit may post first annual loss
+  - maine vetoed statewide data-center moratorium but moved to limit incentives
+- tech
+  - linux dropped legacy isdn/old network drivers (major codebase cleanup)
+  - wsl9x project brings linux kernel support to windows 95/98/me era systems
+  - bitwarden cli compromise tied to broader supply-chain campaign
+  - researchers simulating delusional-user chats found big safety differences across llms
+- culture
+  - bmw's color-changing body concept moves closer to practical deployment
+  - fda approved first gene therapy for a rare inherited deafness condition
+
+- 4/25
+- politics
+  - netanyahu has cancer
+  - kash patel, partyboy
+  - norway bans social media for under 16
+- culture
+  - prince used to beat gf
+  - church attendance up for first time in while
+  - world cup morocco, dogs massacred in preparation
+- biz
+  - claude expanding to consumer apps
+  - feb mass shooter used chatgpt, altman apologizes for not flagging
+  - musk posting about race turns off fans
+  - bmw - color changing car?
+  - samsung struggles - may lose money on smartphones for first time
+  - goog invest 40B in anthropic
+
+
+- 4/24
+- politics
+  - war
+    - iran putting mines in strait
+  - trump approval down to 33
+  - eric trump backed startup lands 24M pentagon deal
+- biz
+  - meta to lay off 10%
+  - GPT 5.5 - better at coding
+  - MSFT voluntary employee buyouts
+  - Tesla becomes first big intel customer for 14A chips
+- culture
+  - devil wears prada 2 - mocks bezos
+- tech
+  - rectal cancers up among millenials
+  - planned gas data centers will have huge emissions
+  - magnetic phone chips -> speed boost
+
+- 4/23
+- politics
+  - oil prices back up again
+  - iran gunboats fill hormuz
+  - us military wants 54B for drones
+- culture
+  - new trend digital detox with 1 month off phone
+  - mj movie slammed by critics
+  - monaco "dirty money" problem
+- biz
+  - tim cook regrets: apple maps
+    - appl watch his proudest work
+  - anthropic mythos setting off "global alarms"
+  - gates foundation lays off 20%, to review epstein ties
+    - philanthropic group
+  - goog to sell two new AI chips for "agentic era"
+  - CATL (chinese company) revealse 621Mi (1000km) EV battery with 7 minute charging
+    - world's leading EV battery manufacturer
+    - 宁德时代新能源科技 - 附件宁德市
+  - spacex/cursor 60B deal - spacex may acquire
+- tech
+  - ping pong robot beats top level humans
+  - AI able to create OSS functionality clones while avoiding copyright violations
+  - mars rover discovers new organic compounds
+
+- 4/22
+- politics
+  - trump approval at 32
+  - japan pacifism ends
+  - german kills tourist and wounds some others at teotihuacan pyramids
+    - near mx city
+  - war
+    - amidst ceasefire
+- biz
+  - mozilla uses mythos to fix 271 firefox bugs
+  - meta capturing employee mouse movements, keystrokes for AI training
+  - goog anxious about falling behind in AI race
+  - largest surge in global solar ever
+  - amzn invests 25B making total 100B in anthropic
+    - AWS infra to power claude
+- culture
+  - michael review: bland
+- tech
+  - cancer screening blood tests coming
+  - chem: propranolol - beta blocker - for high bp
+    - also used for performance anxiety
+  - bacon perservative linked to male suicide?
+
+- 4/21
+- politics
+  - us begins refunding 166B in tariffs
+  - england bans phones in school
+- biz
+  - john ternus new appl ceo, replace tim cook
+    - sr vp hardware engineering
+- tech
+  - nasal spray for brain aging?
+
+- 4/20
+- politics
+  - israeli soldier smashes jesus statue
+  - war
+    - feud over hormuz continues
+  - louisiana school mass shooting 8 killed
+    - father, suspect, killed, kids aged 18 months to 12 years
+  - alex jones: turn flag upside down
+  - penny dead, nickel next, mint will not press any more
+- biz
+  - bezos catching musk in space race
+  - iran war good for EV biz
+  - disney own "infinity vision" imax made for doomsday
+- tech
+  - best and worst gut exercises
+    - glucose breakdown -> lactate -> butyrate -> gut bacteria
+    - long distance bad for gut
+    - swimming/walking/cycling best
+  - humanoid robot wins marathon
+  - nobel physicist: humanity won't survive another 50 yrs
+  - mRNA vax for pancreatic cancer
+
+- 4/19
+- politics
+  - kash patel on chopping block
+  - us to create high-tech manufacturing zone in philipines
+  - EU running out of jet fuel
+  - UK pushing renewables, encourage energy use in summer
+- biz
+  - openai codex direct rival to claude code
+  - apple macbook neo - budget line
+  - open-ai gpt-rosamund - biology geared llm
+  - ai companies want to buy your slack chats and emails
+  - us gov wants claude mythos to brace for cybersec
+  - amzn delivery drones dropping packages from too high up (10 feet)
+  - anthropic opus 4.7 less risky than mythos
+- culture
+  - madonna makes surprise appearance at sabrina carpenter performance
+  - Chemsex is the practice of turbocharging sexual encounters with potent drugs
+    - causing health problems for europe
+    - 3MMC - bath salts, synthetic cathionodes - stimulatants
+    - GABA (liquid ecstacy)
+    - cocaine
+  - fewer cs majors now, more in data science and engineering
+  - new movie uses ai-generated val kilmer
+- tech
+  - msft FAT limit increased from 32GB to 2TB
+  - fructose signals liver to store fat
+  - goog report: ip6 usage up to 50%
 - 4/16
 - politics
   - war
