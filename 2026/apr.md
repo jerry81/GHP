@@ -1,5 +1,38 @@
 [Back](./index.md)
 
+- 4/30
+- politics
+  - gas prices at hnew high
+  - oil $200 a barell
+  - eu airports shutdown possible?
+  - war
+    - trump prepare extended blockade of hormuz
+  - cali continues building high-speed rail (SF and LA, but first bakersfield)
+    - price tag rises to 231B
+    - not running until 2033
+- biz
+  - github outages lead hashicorp's mitchell hashimoto to move his project elsewhere
+  - united flight strikes drone 3000 ft above san diego
+  - goog profits up 81%
+    - cloud usage up due to AI boom
+  - canonical (of ubuntu fame) plans to add AI features
+    - users worried will become win 11 AI-heavy bloat
+    - AI speech-to-text/test-to-speech
+    - troubleshooting and automation
+  - Joby demos Air taxi in NYC
+    - 10 minutes from jfk to manhattan
+  - appl pauses work on vision pro
+  - musk in court: openai created as nonprofit to counter google
+- culture
+  - devil wears prada 2 - mixed to negative reviews
+  - should schools get rid of homework?
+    - argument against - math needs practice and best done at home
+    - argument for: homework not effective
+- tech/health
+  - 47 is peak-happiness age?
+  - chatbots aid biologists in making biological weapons
+  - japan airport - robot baggage handlers
+
 - 4/29
 - politics
   -  trump face on new passports!
