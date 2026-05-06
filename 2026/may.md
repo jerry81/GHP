@@ -4,14 +4,22 @@
   - war
     - iran says "they are just getting started"
     - more missles and drones
+      - drone strikes on amzn data centers
     - attacks during USA "ceasefire"
     - 7USD gas in CA
     - life on hormuz ships: 10 sailors dead due to closure, starving, sitting ducks, vunerable
   - LA politics - another mandami?
   - unhinged musk at openAI trial
+    - musk concludes testimony
   - CA rattlesnake bite epidemic
   - white house may vet AI models before release
+  - belgium to nationalize nuke power
+  - convicted former harvard charles liber - lied to us about ties to china, now leading china's state-funded i-BRAIN lab in Shenzhen
+    - brain-computer interface work
+  - swiss want to cap population at 10M
 - biz
+  - tesla semi (truck)
+    - semi- semi trailer truck - no front wheels
   - deepmind workers vote to unionize
     - topic: Military AI deals
   - appl payouts for iphone owners
@@ -25,7 +33,20 @@
   - openAI president Greg Brockman: stake in company is 30B
   - anthropic another billion dollar deal: this time with wall street
   - gamestop: buy eBay 56B
+  - nuke energy AI startup Fermi couldn't find clients
+  - startup Rainmaker
+    - drones can cloud-seed to bring rain
+  - AI hasn't paid for itself yet
+  - spotify adds "verified" badges for humans
 - tech
+  - gpt-5.5 matches overhyped mythos in cybersec tests
+  - AI Gaff - agent wipes db in 9 seconds, pocketOS
+    - car rental companies
+    - data since restored
+  - next gen rocket engine - lithium-plasma - 25x power of electric thrusters
+  - Retinal scan for diabetes
+    - medtech startup Remidio
+  - 60yo math problem solved by asking AI
   - 27 planets discovered that orbit dual star systems
   - "pod slop" taking over audio industry
   - don ho, creator of notepad++ disavaows mac version
@@ -33,7 +54,9 @@
     - 16% parents help kids bypass
   - mainframe cheaper than vmware?
   - severe linux sec-bug - "copyfail"
+    - enables root access
   - vscode update - "co-author" coplot automatically added
+  - AI does better diagnosing patients than ER doctors in test
 - culture
   - matt damon batles cyclops in nolan's "the odyssey"
   - academy awards - bans AI actors and writers from winning awards
