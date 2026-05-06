@@ -1,4 +1,43 @@
 [Back](./index.md)
+- 5/6
+- politics
+  - war
+    - iran says "they are just getting started"
+    - more missles and drones
+    - attacks during USA "ceasefire"
+    - 7USD gas in CA
+    - life on hormuz ships: 10 sailors dead due to closure, starving, sitting ducks, vunerable
+  - LA politics - another mandami?
+  - unhinged musk at openAI trial
+  - CA rattlesnake bite epidemic
+  - white house may vet AI models before release
+- biz
+  - deepmind workers vote to unionize
+    - topic: Military AI deals
+  - appl payouts for iphone owners
+    - compensation for not delivering siri
+  - coinbase lays off 700
+    - "ai-native" restructuring
+  - wall street rally fueled by few stocks
+    - tech
+    - real estate
+    - comms (alphabet)
+  - openAI president Greg Brockman: stake in company is 30B
+  - anthropic another billion dollar deal: this time with wall street
+  - gamestop: buy eBay 56B
+- tech
+  - 27 planets discovered that orbit dual star systems
+  - "pod slop" taking over audio industry
+  - don ho, creator of notepad++ disavaows mac version
+  - kids using fake mustaches to pass age verification
+    - 16% parents help kids bypass
+  - mainframe cheaper than vmware?
+  - severe linux sec-bug - "copyfail"
+  - vscode update - "co-author" coplot automatically added
+- culture
+  - matt damon batles cyclops in nolan's "the odyssey"
+  - academy awards - bans AI actors and writers from winning awards
+
 - 5/4
 - politics
   - rudy giuliani sick
