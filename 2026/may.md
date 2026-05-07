@@ -1,4 +1,20 @@
 [Back](./index.md)
+- 5/7
+- culture
+  - ted turner dead
+  - female looksmaxxing is a thing now
+- politics
+  - trump puts mark on palm beach airport
+  - kash pattel comes out with bourbon brand
+  - war
+    - us underreporting on iran attacks
+- tech
+  - sec: msft edge stores pswrds plaintext in RAM
+- biz
+  - morgan stanley debuts crypto trading - undercuts competitors
+  - new Si Valley bet: 200M AI Data centers floating in ocean
+    - wave-powered
+
 - 5/6
 - politics
   - war
