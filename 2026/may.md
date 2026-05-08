@@ -1,4 +1,22 @@
 [Back](./index.md)
+- 5/8
+- politics
+  - race to stop hanta virus, starting on cruise
+    - rat droppings, 3 dead so far
+  - war
+    - chinese oil tanker hit in hormuz
+  - musk vs altman - 3 witnesses testify against altman
+    - mira murati - former CTO openAI - says he had "chaotic management style"
+  - ceos want tariff refunds amidst lagging profits
+- culture
+  - france world cup favorites
+- biz
+  - motherboard sales down 25%
+  - anthropic raises claude code limits - credits space x data center deal
+- tech
+  - md5 (hashing algorithm) crackable within an hour
+  - shrooms change brain neuroscience
+
 - 5/7
 - culture
   - ted turner dead
