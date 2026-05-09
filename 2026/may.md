@@ -1,4 +1,28 @@
 [Back](./index.md)
+
+- 5/9
+- politics
+  - vance anti-AI phone call
+  - war
+    - president bored of the war he started
+  - fehmanbart tunnel project, connects germany to denmark
+    - first of 89 segments done. each segment 217m
+- biz
+  - protein powder shortage
+    - whey in demand
+  - fidelity firing 1000, but hiring 5000
+  - micron 245TB SSD - world's highest capacity
+  - cloudflare cut 20% jobs - agentic AI-first operating model.
+- health
+  - hantavirus spreads to 6 us states
+- culture
+  - world cup tickets cost more than superbowl
+- tech
+  - mexico city sinking, fast
+  - first there was copyFail, now there is DirtyFrag
+  - vibecoded app data exposure epidemic, 1000s of apps
+  - hard drives and storage price now going up - making archiving the internet more difficult
+
 - 5/8
 - politics
   - race to stop hanta virus, starting on cruise
