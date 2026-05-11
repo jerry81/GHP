@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+- 5/11
+- culture
+  - bobby cox of the braves dead at 84
+- politics
+  - war
+    - RU has lost over 350K soldiers
+    - due to strait of hormuz blockade, data cables being made to ship data out of mid east running parallel to iraq oil pipelines
+  - EU gov considers restricting use of US cloud platforms (sens gov info)
+  - trump org working on "trump phone" - delayed
+    - 499USD android phone, gold-colored
+- biz
+  - polymarket - online prediction market platform - people bet on outcomes of future events using cryptocurrency
+    - study: most users lose money, top 1% claim 76.5% of gains
+  - honda - simulated clutch for electric motorcycles
+  - AMZN allows programmers to use Codex and Claude
+    - formerly pushing Kiro (in-house code-gen)
+  - Rocket Lab stock up 34% due to growing demand
+    - commercial space products, impending spaceX ipo
+  - IT unemployment up to 3.8 from 3.6
+  - Meta embracing AI has made employees miserables - NYT
+    - also started tracking employee computer use (to feed to AI)
+    - cut jobs 10%
+    - "Your callousness to the concerns of your own employees is concerning."
+    - "It's incredibly demoralizing,"
+  - AMD, Intel, Micron surging while nvidia lags
+    - nvidia just up 15% compared to micron 37%, intel, amd 25%, coming (fiber optics) - 18%
+  - cisco - "DNA Test for AI Models" - trace origins of AI models
+- tech
+  - horticulture: plant seeds wake from dormancy upon detecting rain strike vibrations
+  - south korea adopts a humanoid robot buddhist monk
+  - tech used in fiber optic cables detecting earthquakes can eavesdrop on conversations
+
 - 5/9
 - politics
   - vance anti-AI phone call
