@@ -1,5 +1,25 @@
 [Back](./index.md)
 
+- 5/12
+- politics
+  - xi readies to host trump
+  - china waiting for USA to flame out
+  - musk and cook will join trump on his trip
+  - kier starmer in trouble
+  - many think trump assassination attempts false flag
+  - germany finally rearms
+  - spain wants EU army
+  - putin stockpiles drones
+- biz
+  - cURL creator: anthropic mythos was marketing stunt
+  - usa house prices set to drop
+  - ford EV sales drop 31% in april
+- culture
+  - ufc white house venue fight - 1M tickets
+  - onlyfans creators upset about euphoria's sweeny character
+- tech
+  - something to think about - AI models trained on text that portrays AI as evil and interested in self-preservation - led to anthropic engis being blackmailed by Claude during tests
+
 - 5/11
 - culture
   - bobby cox of the braves dead at 84
