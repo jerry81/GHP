@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+- 5/13
+- politics
+  - skorea - "citizen dividend" for AI-driven profits
+  - trump: "i don't think about usa's financial situation"
+  - SA covert attacks on iran
+  - war
+    - putin claims "most powerful missle in world" - new ICBM: Satan II
+    - UKR, USA big drone defense deal coming
+  - phx temps up to 110F
+  - sweden undergoing capitalist makeover
+  - EU cracks down on Tiktok, IG's "addictive" design
+  - FCC has banned foreign-made routers - until 2029
+- biz
+  - "Digg" the "reddit clone" is now an AI news aggregator
+  - satya also testifies at musk vs altman
+    - in 3rd week of trial
+    - ilya also
+  - ebay rejects Gamestop's 56B takeover offer
+  - Infrastructure - the company behind Canvas (learning platform) was hacked
+  - AMZN employees "tokenmaxxing"
+    - "MeshClaw" - in-house ai agent orchestrator
+    - tokenmaxxing is the practice of inflating token usage numbers to show mgmt they are using the tools
+  - MSFT plans 1B AI Data center in Kenya
+- culture
+  - man suicides by jet engine at Denver Airport
+  - people engaged in arts age slower
+  - bad weather good for mental health?
+  - "ballmaxxing" testicles - inflated to size of grapefruits
+- tech
+  - georgia residents complain of low water pressure - cause traced to a Data Center which drained 30M gallons
+  - brain-controlled hearing device can amplify the speaker that listener is focusing on and suppress others
+
 - 5/12
 - politics
   - xi readies to host trump
