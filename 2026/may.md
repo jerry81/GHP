@@ -1,5 +1,32 @@
 [Back](./index.md)
 
+- 5/14
+- politics
+  - amidst iran war china reportedly gains edge on US
+    - china selling weapons to iran
+    - assisting countries with energy needs
+    - us munitions drain
+    - observe how US fights wars
+  - trump flew to bj on tuesday
+  - 5 alarm threat to trump presidency
+    - inflation up 3.8%
+    - paychecks shrinking
+    - debt mounting (credit card)
+    - consumer confidence down
+    - main street struggling
+  - altman testimony: Elon wanted control of OpenAI
+- culture
+  - beyonce's hard drives stolen - theif gets 5 years sentence
+- health
+  - 30 second chair test predicts early death
+    - box squat
+- tech
+  - japan using robot wolves to scare off bears
+  - software devs: AI rotting brains
+- biz
+  - linkedin 5% lay off
+  - meta workers protest mouse-tracking tech at US offices
+
 - 5/13
 - politics
   - skorea - "citizen dividend" for AI-driven profits
