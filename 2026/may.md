@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 5/17
+- politics
+  - explosion at jerusalem
+  - china to host putin after trump
+  - far right vs pro palestine protests in london
+  - cuba runs out of oil
+- health
+  - ebola outbreak
+- culture
+  - search for new james bond
+- tech
+  - data centers draining energy from homes
+- biz
+  - appl openai 2 year cooperation drama - openai feels not getting anything out of it
+
 - 5/14
 - politics
   - amidst iran war china reportedly gains edge on US
