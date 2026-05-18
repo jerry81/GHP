@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+- 5/18
+- politics
+  - energy crisis, gas prices up 56%
+  - americans leaving usa in record numbers
+  - trumps' inner circle of hotties
+    - kristi noem
+    - pam bondi
+    - margo martin
+  - US edu: math/reading scores down for 13 years straight
+    - social media blamed
+  - new bill - permanently block chinese EVs from US
+  - openai trial: musk criticizes altman "selective amnesia" and lying
+- culture
+  - eric schmidt gives graduation speech about AI, gets booed
+    - U of Arizona
+  - princeton to administer supervised exams due to AI (cheating)
+- biz
+  - cisco cut 4000 jobs (AI-driven restructure)
+  - anthropic 200M partnership with gates foundation
+  - bad week for MSFT - msft exchange vunerability exploited
+  - xAI launches grok build - first coding agent
+  - gmail reduces free storage from 15G to 5G
+  - openai wants cgpt to access your bank accounts
+    - plaid w/ chatgpt pro
+  - honda EV bet fails, will now focus hybrids
+  - H200 (nvidia second most powerful AI chip) cleared to be sold to chinese firms
+- tech
+  - R PL cracks top 10 on tiobe most popular
+  - japan demand for robot wolves to scare bears outpaces supply
+  - wood heating -> lead pollution in air
+  - claude helps BTC holder recover his password by analyzing local files
+
 - 5/17
 - politics
   - explosion at jerusalem
