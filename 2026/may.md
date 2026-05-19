@@ -1,5 +1,13 @@
 [Back](./index.md)
 
+- 5/19
+- politics
+  - trump slush fund bankrolled by taxpayer money
+  - insider trading
+  - buying oil, defense, gold
+- tech
+  - shock vagus nerve health treatment
+
 - 5/18
 - politics
   - energy crisis, gas prices up 56%
