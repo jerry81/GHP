@@ -5,6 +5,16 @@
   - trump slush fund bankrolled by taxpayer money
   - insider trading
   - buying oil, defense, gold
+  - san diego mosque shooting
+  - elon loses his lawsuit
+  - US to use AI to catch insider trading
+  - war
+    - iran threatening fees for subsea internet cables in strait of hormuz
+- culture
+  - documentary about john lennon's final interview
+- biz
+  - meta starts cutting 8000 jobs
+  - masters degrees no longer a job guarantee anymore
 - tech
   - shock vagus nerve health treatment
 
