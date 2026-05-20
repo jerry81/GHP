@@ -1,5 +1,31 @@
 [Back](./index.md)
 
+- 5/20
+- politics
+  - IRS audit on trump family blocked by DOJ
+    - trump "most corrupt president in US history"
+  - war
+    - US seizes iran-linked oil tanker in indian ocean
+  - culture
+    - netflix kevin hart roast
+    - carmel indiana wins "best place to live, 2026"
+    - "vaginal wellness boom"
+      - vulva balm
+      - pain-free underwear
+      - microbiome and UTI test
+  - biz
+    - prior to layoffs, meta reassigns 7K workers focus on AI
+      - 8000 layoffs planned
+    - MSFT first ever linux distro: Azure Linux 4.0
+    - MSFT surface pro 12, surface laptop 8 - with intel chips
+    - standard Chartered (lender based in UK) - cut 7000 jobs
+    - OpenAI co-founder Andrej Karpathy joins Anthropic
+    - NextEra Dominion 67B megamerger is about data centers
+    - goog changes search box, first time 25 yrs
+      - new design incorporates AI
+  - tech
+    - ebola spreading quickly
+
 - 5/19
 - politics
   - trump slush fund bankrolled by taxpayer money
