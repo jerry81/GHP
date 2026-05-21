@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+- 5/21
+- politics
+  - war
+    - 42 USA airccraft shot down by Iran
+  - don makes deal with irs
+  - MN bans prediction markets
+- biz
+  - goog AI studio - build android apps in minutes
+  - spacex ipo coming - record-breaking scale
+  - intuit company lay off over 3K employees
+- tech
+  - RHEL 10.2 - new AI command line assistance
+  - JWST discovers galaxy just 800M years after big bang (oldest)
+    - no heavy elements
+- culture
+  - aaron rodgers about to retire
+
 - 5/20
 - politics
   - IRS audit on trump family blocked by DOJ
