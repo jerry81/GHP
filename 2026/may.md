@@ -1,5 +1,48 @@
 [Back](./index.md)
 
+- 5/26
+- politics
+  - war
+    - more negotiotiations to end war happening in Qatar
+    - USA running out of emergency fuel reserve
+  - trump health issues
+    - falls asleep during speeches on memorial day
+  - anti-putin underground movement in RU
+  - tokyo mall chemical attack
+- culture
+  - cannes film cost 500K to make, 400K were AI compute costs
+  - digital girlfriend epidemic
+  - puerto vallarta serial killer - 3 women dead
+- biz
+  - colossal biosciences: grows chickens in 3d-printed artificial eggshells
+    - wants to ressurect extinct species
+  - waymo atl driving into floods, service paused
+  - in US, 2B awarded to quantumn companies
+  - meat prices causing tx bbq joints to shut down
+  - ferrari 640K jony ive-designed electric vehicle
+  - 3 big ipos coming - spacex, openai, anthropic
+  - spacex launches another 29 satellites
+  - Tesla Cybercab - most efficient EV ever
+    - scissor doors, yellowish, two-door
+  - tech ceos call for UBI
+    - Dario Amodei (anthropic)
+    - Sam Altman suggests "collective ownership" of AI
+    - Musk - universal HIGH income
+  - spacex reveals finances: 18.7B revenue in 2025
+    -
+- tech
+  - wind and solar power generation surpasses gas globally in Apr
+  - wozniak - "you have 'AI' - Actual intelligence"
+
+- 5/25
+- culture
+  - karen hao book - AI tech bros building empire, control future
+  - steroid olympics at vegas
+- politics
+  - evolution of war: more female troops
+- biz
+  - maextro s800 - china's rolls royce - huawei
+
 - 5/21
 - politics
   - war
