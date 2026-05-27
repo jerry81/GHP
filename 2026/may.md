@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+- 5/27
+- politics
+  - president's slush fund at 1.8B
+  - trump's golden phone gets bad reviews
+  - EU gets super early heatwaves
+    - deaths happen
+  - iceland join EU?
+  - after months long internet blackout, iran gets internet again
+  - spain block polymarket + kalshi
+  - cali to pass age-verification law on OS - but linux exempted
+- culture
+  - white house lawn to host ufc event
+  - Charlotte fastest growing city - close to 1M population says "we're full"
+  - pope leo warns of ai risks
+    - calls for gov regulation
+    - protection and retraining for workers
+    - education for critical thinking
+    - safeguard to ensure humans in charge of weapons
+    - above all - retain social role for all humans
+- health
+  - new study - too much sleep leads to accellerated aging in organs
+- biz
+  - first ever ride-share union formed by uber and lyft drivers
+  - nasa and bezos partner for moon base "size of large city"
+    - musk "snubbed"
+  - after ferrari unveils jony ive EV, shares fall?
+    - ferrari based in maranello
+  - claude mythos detects 23K vunlnerabilities across 1000 OSS projects
+- tech
+  - china launches synthetic human embryos to space station
+  - scientist warning - population crash (50%) in 2064
+    - climate, pandemic, war, resource shortage
+
+
 - 5/26
 - politics
   - war
