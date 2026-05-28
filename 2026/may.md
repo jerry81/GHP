@@ -1,4 +1,16 @@
 [Back](./index.md)
+- 5/28
+- politics
+  - oregon may ban hunting and fishing
+  - war
+    - iran thinks they won the war
+    - peace deal in talks, oil prices drop
+- biz
+  - jensen thinks taiwan will be epicenter of AI revolution, spends 150B in taiwan
+    - nvidia taiwan headquarters
+  - meta testing AI subscription services
+  - CEOs prone to "ai psychosis" - too far removed from "last mile of work"
+  - American airlines gets Starlink for in-flight wifi
 
 - 5/27
 - politics
