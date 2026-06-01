@@ -1,4 +1,15 @@
 [Back](./index.md)
+- 5/31
+- tech
+  - ai cracks 80 y o problem
+  - glp-1 drugs (ozempic) causing brain changes (for the better)
+- biz
+  - rockstar north workers form union
+  - more ai backlash - users switch to duckduckgo after google announces ai search
+  - dell surges 32%
+    - revenue from AI servers
+  - wix cut 20%
+
 - 5/28
 - politics
   - oregon may ban hunting and fishing
