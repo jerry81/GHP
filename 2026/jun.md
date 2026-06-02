@@ -1,3 +1,30 @@
+# 6/2
+- politics
+  - war
+    - iran threatens more strikes on israel
+    - oil up again
+    - ceasefire out
+- biz
+  - nvidia new arm-based AI superchip
+    - N1X
+  - anthropic wants ipo before openai
+    - invites EU to try mythos
+  - whey protein running out - health food companies putting in everything
+    - also honey shortage
+  - goog wants to help curb mosquitoes
+  - remote work actually a bigger disruptor than ai for job-seeking college grads
+  - sam altman/openai hit with another lawsuit - FL vs altman - profit over safety
+- culture
+  - clint eastwood retires at 96
+  - mile long cruise ship holds 80K passengers, "floating megacity"
+    - nuke powered, 50K permanent residents, 10K cruisers and day visitors, 20K crew
+    - hotel, sports stadium, water mark, 2 museums, symphony hall
+    - 1-12 education, will circumnavigate globe every 2 yrs
+    - "freedom ship"
+- tech
+  - new desalination process turns seawater into fresh water plus salts like lithium
+  - undersea cable protecting drones deployed to protect against chinese and russian sabotage
+
 # 6/1
 - politics
   - maga rally on jul 4
