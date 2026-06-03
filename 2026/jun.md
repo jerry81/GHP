@@ -1,3 +1,23 @@
+# 6/3
+- politics
+  - gold overtakes us bonds as world's favorite investment
+  - tourism to america also down
+  - trump executive order: give gov early access to AI models
+  - war
+    - israel stifled by drones
+  - america had an ocean monitoring system: trump is dismantling it
+- culture
+  - scorsese embraces AI
+  - zendaya and sweeney feuding
+  - mt everest a mess
+- biz
+  - MSFT solara - os for devices that run AI agents
+  - msft scout - agent built on openclaw
+  - new pricing model for copilot: usage based - extreme sticker shock
+    - took less than day to use up full month usage quota
+  - goog wants to release 32M mosquitoes in CA and FL
+
+
 # 6/2
 - politics
   - war
