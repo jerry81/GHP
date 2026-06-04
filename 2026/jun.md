@@ -1,3 +1,23 @@
+# 6/4
+- biz
+  - spacex ipo: 135USD, 1.77T
+  - EU plans to wean off US tech
+  - macbook neo very popular
+  - Goog new ai model: gemma4 12B - can run on laptop
+  - meta workers, victims of workplace tracking can opt out for up to 30 minutes
+  - MSFT new quant chip 1000 x better than previous
+    - majorana 2
+- politics
+  - war
+    - ukr may win war due to help from robots
+    - house votes to end war, painful loss for the don
+      - oil reserves at a decades long low
+    - UN warns of iran nuke risk
+  - lisbon rennaissance - influx of artists, retirees, viitors
+- culture
+  - 12Trillion creative economy at risk from AI
+
+
 # 6/3
 - politics
   - gold overtakes us bonds as world's favorite investment
