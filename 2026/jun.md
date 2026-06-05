@@ -1,3 +1,25 @@
+# 6/5
+- politics
+  -  ufc event at whitehouse lawn, on the don's birthday
+  - richard gere speaks against trump
+  - war
+    - hezbollah using fiber-optic drones
+      - 3 israeli soldiers killed
+      - controlled thru fiber cables to avoid jamming (tethered)
+- culture
+  - debate: is OJ healthy?
+  - tarantino criticises modern movies
+- biz
+  - anthropic urges slowing development, flags "self-improvement" risk
+    - allow societal structures to catch up
+    - criticism: plateuing and using narrative of pause to explain why it's not progressing in revoluationary way
+      - no mechanism to self-improve yet
+  - samsung decides to invest in tx, not NJ, costing 1000 nj jobs
+  - appl: age verification in TX
+- tech
+  - NASA's X-59 supersonic jet set to fly
+  - new problem - manipulation of training data by spamming reddit
+
 # 6/4
 - biz
   - spacex ipo: 135USD, 1.77T
