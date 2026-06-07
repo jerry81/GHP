@@ -1,3 +1,10 @@
+# 6/6
+- politics
+  - israel "crosses line" - spying on US
+  - israelis shoot dead palestinian baby at west bank
+- culture
+  - UC berkley - Ai causing drop in grades
+
 # 6/5
 - politics
   -  ufc event at whitehouse lawn, on the don's birthday
