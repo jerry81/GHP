@@ -5,8 +5,13 @@
     - beirut bombed
   - sanders, trump, and altman: public should have equity in AI
 - biz
+  - btc down to 60K, nasdaq down 4% on friday
+  - goog pay spacex 900M for compute
   - china - world's first brain chip - beats out neuralink
   - meta sunglasses safeguard: recording light - black market to disable it (drill it out)
+- health
+  - lung cancer the number one killer
+    - can be tested by looking for specific proteins in blood
 
 # 6/6
 - politics
