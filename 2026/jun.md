@@ -1,3 +1,13 @@
+# 6/8
+- politics
+  - war
+    - 100 day iran war anniversary
+    - beirut bombed
+  - sanders, trump, and altman: public should have equity in AI
+- biz
+  - china - world's first brain chip - beats out neuralink
+  - meta sunglasses safeguard: recording light - black market to disable it (drill it out)
+
 # 6/6
 - politics
   - israel "crosses line" - spying on US
