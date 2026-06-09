@@ -1,3 +1,20 @@
+# 6/9
+- culture
+  - trump shows up at knicks finale, gets booed
+  - denver emptiest downtown
+- politics
+  - merica 250 year anniversary
+- biz
+  - openai files ipo valued at 852B
+  - meta removes face recog from smart glasses
+  - aapl siri AI: next-gen AI
+  - bending spoons(italian)files for nasdaq ipo
+  - bezos backed flourish: neuro AI startup
+    - study brain architecture
+  - prada provides nasa with liquid cooling garment for astronauts
+- tech
+  - ruby core maintainer: hiroshi shibata
+
 # 6/8
 - politics
   - war
