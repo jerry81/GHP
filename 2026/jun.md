@@ -1,3 +1,23 @@
+# 6/10
+- culture
+  - another ufc event in DC: this time lincoln memorial
+  - bad review hits disclosure day
+  - interest in world cup down - 75% hotel rooms cancelled
+- politics
+  - netherlands bans child influencers
+  - trump coins sold for 12K
+  - more ties between trump and epstein revealed - by epstein assistant
+  - USA flags BYD, baidu, ali, as aiding cn military
+  - war
+    - RU satellites can jam GPS
+    - usa helicopter downed by iran, us strikes back
+    - ukr surge in weapons suprises putin
+    - vlad threatens nuke armageddon
+- biz
+  - anthropic claude fable: "safe" version of mythos
+- tech
+  - ocean levels rise doubles
+
 # 6/9
 - culture
   - trump shows up at knicks finale, gets booed
