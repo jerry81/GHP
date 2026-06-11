@@ -1,3 +1,26 @@
+# 6/11
+- politics
+  - epstein claims trump has thing for "nipple abuse"
+    - from book by maggie haberman, "regime change"
+  - war
+    - vance estimates war may go on another year
+    - usa hits iran water facilities
+  - just 11% europeans think USA is ally
+  - seattle bans new data centers for a year
+- biz
+  - inflation up 4.2
+  - dow down 953, bubble burst?
+  - visa payments integrated into cgpt
+  - byd installing 5 minute chargers across EU
+  - biggest ever patch from MSFT fixes 200 flaws
+- culture
+  - nba finals best ratings since MJ era
+- tech
+  - solar passes coal in USA first time ever
+  - msft defender zero-day
+  - asahi linux - run linux nativelhy on arm macs
+
+
 # 6/10
 - culture
   - another ufc event in DC: this time lincoln memorial
