@@ -1,3 +1,23 @@
+# 6/12
+- biz
+  - musk is a trillionaire?
+  - bezos new venture: build artificial general engineer
+  - coinbase launches platform for AI Agent trading
+  - open ai in fierce competition with Anthropic, mulls cutting  prices
+  - Activision CEO laments XBox expenditure
+  - war: fully autonomous drones kill their first soldier, UKR drone
+- culture
+  - knicks "greatest comeback ever"
+  - world cup gets violent
+    - 80 yo man dies in mexico
+  - opening ceremony shakira
+- politics
+  - "8647" in white house lawn
+  - china healthcare - luring foreigners with promise of cheap and cutting edge treatments
+    - CAR-T for cancer
+- health
+  - vit c important for brain health
+
 # 6/11
 - politics
   - epstein claims trump has thing for "nipple abuse"
