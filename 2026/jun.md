@@ -1,3 +1,14 @@
+# 6/14
+- culture
+  - knicks win chip
+  - christian pulisic: captain america - usa wins first game vs paraguay
+  - exorcist warns disclosure day could be cursed
+- biz
+  - GM updates EVs with sodium-ion batteries
+  - paramount acquire WB, 111B
+  - aapl: touchscreen macbook coming
+  - spacex ipo pushes musk into world's first trillionaire territory
+
 # 6/12
 - biz
   - musk is a trillionaire?
