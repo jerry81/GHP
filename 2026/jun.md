@@ -10,6 +10,8 @@
     - wang delivered muse spark model
     - metaverse lost 80B since 2020
   - btc down half over past 11 months 120k to 60k
+- tech
+  - UK police uses AI to fake evidence
 
 # 6/14
 - culture
