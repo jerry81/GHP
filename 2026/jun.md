@@ -1,3 +1,16 @@
+# 6/15
+- politics
+  - trump 80
+  - 80 years since wwii - germany and japan rearm
+  - germany continues to slide far right
+- culture
+  - spielberg beleives Aliens did visit
+- biz
+  - meta brought alexandr wang and scaleAI to fix AI efforts, spent 14B
+    - wang delivered muse spark model
+    - metaverse lost 80B since 2020
+  - btc down half over past 11 months 120k to 60k
+
 # 6/14
 - culture
   - knicks win chip
