@@ -1,3 +1,21 @@
+# 6/16
+- politics
+  - war
+    - trump plan to give iran 300B settlement
+  - carville predicts trump resignation
+- culture
+  - Goog CEO avoids talking AI in stanford commencement speech
+  - college students losing ability to read
+- biz
+  - stocks hit record highs, prompted by us-iran peace agreement
+  - fox buying roku for 22B
+  - IT workers struggling to find work, "picky" companies demand AI skills
+  - AI: workers spend as much time babysitting it as producing
+- health
+  - yet another study: sugar-free diet ruins gut health?
+- tech
+  - humanoid to climb everest
+
 # 6/15
 - politics
   - trump 80
