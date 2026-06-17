@@ -1,3 +1,20 @@
+# 6/17
+- politics
+  - war
+    - iran thinks they win the war
+    - iran will control hormuz
+    - trump forced into deal by inflation
+    - grok ai was used to fire 2K missles in war
+  - meloni quits smoking
+  - FR requires quantum-safe encryption on products for certification
+- biz
+  - spacex passes msft in market cap
+    - beats out amazon for 5th most valuable company
+    - to acquire cursor for 60B
+  - mobileye (robotaxi) comes out with its own robotaxi service
+  - snap AI glasses coming for 2195 USD
+  - anthropic fable and mythos banned by us gov (expot control)
+
 # 6/16
 - politics
   - war
