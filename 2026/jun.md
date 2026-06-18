@@ -1,3 +1,32 @@
+# 6/18
+- politics
+  - july 4th preparations
+    - lincoln memorial pool cleanup - green, full of algae
+  - war
+    - iran orders israel out of lebanon
+    - netanyahu prepared for flak of post war backlash
+  - far-right gaining traction in latin america as crime surges
+- culture
+  - live sports experiencing surge
+    - nba finals, world cup
+  - casual sex/ONS trending down
+- biz
+  - bezos: AI will lead to labor shortages not replacement of humans
+    - humans have endless things to do
+  - world glut of oil
+  - bezos regrets investing in washpost
+  - msft tries to patch "rogueplanet" zero-day
+  - smartphone mkt to shrink 15% due to memory crisis
+  - openai losses increase 8X in 2025, spending hits 34B
+- health
+  - sitting too little also bad for health?!
+- tech
+  - AI plus brain-computer interface allows ALS patient to work full time
+    - Amyotrophic Lateral Schlerosis - nerve damage disease
+      - mostly unknown causes
+      - considered fatal
+      - no cure only treatment to slow progress
+
 # 6/17
 - politics
   - war
