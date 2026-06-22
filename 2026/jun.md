@@ -1,3 +1,19 @@
+# 6/22
+- politics
+  - EUR heatwave
+  - UK starmer to resign
+  - americans turn against AI in "incredible numbers"
+  - little rock america's fattest town
+  - new pac (political action committee)
+    - the guardrails committee - will ensure companies keep ai safe
+- biz
+  - tiktok 3x more slop than youtube
+  - 3d printing synergy with battery tech
+  - tesla may move into data center hardware
+  - canonical working on speech commanded ubuntu
+  - 2brains inc startup: solve hallucinations
+  - waymo cabs drive into construction zone
+
 # 6/18
 - politics
   - july 4th preparations
