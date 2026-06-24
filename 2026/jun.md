@@ -1,3 +1,18 @@
+# 6/24
+- politics
+  - 12 year old euthanized in netherlands - incites controversy
+- biz
+  - factory job cuts
+  - lily big obesity drug
+  - meta cheaper version of smart glasses (no ray ban involvement)
+  - oracle 21K job cuts - embrace AI
+  - GM robotic EV factory after laying off 1.3K
+  - upcoming steam maching launch 6/29, starting price 1049USD
+  - ubisoft (french company) - cofounder claude guillemot dies in plane crash
+- tech
+  - china fastest supercomputer - 2 ExaFlps
+  - 2000 goog pixel phones' motherboards repurposed as private cloud
+
 # 6/22
 - politics
   - EUR heatwave
