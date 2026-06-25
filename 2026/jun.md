@@ -1,3 +1,25 @@
+# 6/25
+- politics
+  - double earthquake action in venezuela, 7.5
+  - japan 6.9 eq
+  - 5.6 in norcal
+    - san andreas fault waking up?
+  - 24% say iran war was not worth it
+  - mamdani wins a position
+  - usa 250 yrs old
+  - 86% distrust AI
+- culture
+  - taylor swift wedding at msg
+  - bill gates 3 affairs
+  - EU hottest day ever
+- biz
+  - AI stock selloff happened 6/24
+    - nasdaq 2.2% down
+    - dow up 6% for year, nasdaq up 10% for year
+  - factory workers train ai by filming themselves
+  - stripe, anthropic + openAI teaming up to stop URI (common cold and flu)
+  - Slate Auto: Electric Truck 24,950 USD
+
 # 6/24
 - politics
   - 12 year old euthanized in netherlands - incites controversy
