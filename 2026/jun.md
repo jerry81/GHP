@@ -1,3 +1,13 @@
+# 6/26
+- poltiics
+  - lara trump: daughter in law (eric trump husband)
+- biz
+  - trump asks openai to slow down release of GPT-5.6
+  - AAPL raise price on macs, ipads
+  - anthropic wants ali to be punished for trying to clone claude
+  - ford rehires 350 fired employees after AI fails
+  - micron making it big off memory crunch
+
 # 6/25
 - politics
   - double earthquake action in venezuela, 7.5
