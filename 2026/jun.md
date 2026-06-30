@@ -1,3 +1,34 @@
+# 6/30
+- politics
+  - explosion in monaco, ukr residents, 3 dead
+    - bombers escape into france
+  - s korea military: train every member as drone operator
+  - renewables in USA hit 30% of electricity generation
+- culture
+  - is there a batman in mexico?
+    - "ratero" - thief, vigilante
+  - chargers against nba players over rigging games
+  - "historic heat blast" to hit usa
+  - students using AI-powered smart glasses to cheat on tests
+  - supergirl critcisms: poor CG, Script
+- biz
+  - gov OKs release of mythos
+  - ibm - claims to fit 100B transistors on chip - world's first sub-nm chip tech
+    - set to scale quantum computing
+  - dev token costs to exceed salaries in 2 yrs
+  - hot job: "loop engineering" - the new prompt engineering
+    - "I don't write the prompt anymore. Claude writes the prompt, and now I'm talking to that new Claude that is kind of coordinating."
+  - BTC drops to 59K
+- tech
+  - brain stimulation (non invasive) ends opioid and cigarette addictions
+
+
+# 6/29
+- politics
+  - trump breaks ceasefire
+  - iran IRGC - islamic revolutionary guard corps - says it needs nukes to protect itself
+  - meloni may need to ally with far right to stay in power (reelection)
+
 # 6/26
 - poltiics
   - lara trump: daughter in law (eric trump husband)
