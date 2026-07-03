@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+# 7/3
+- politics
+  - july 4: americans don't know what they're celebrating
+  - heatwave DC
+  - don spending 1B to makeover DC
+- biz
+  - labor force lowest since 1976
+  - stocks record high
+  - palantir ceo meltdown during live interview (Alex Karp)
+  - Meta: charges subscription for smart glasses features
+  - openai to give 5% stake to US gov
+  - spaceX - AI device prototype "handset like"
+- culture
+  - taylord swift travis kelce married
+  - new american pasttime: canned cannabis
+- health
+  - sitting 30 minutes at a time linked to cancer
+- tech
+  - musk prediction: space will be cheapest place to run AI
+
 # 7/2
 - politics
   - saudis not happy with usa as result of iran war
