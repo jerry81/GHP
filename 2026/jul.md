@@ -1,5 +1,17 @@
 [Back](../index.md)
 
+# 7/4
+- politics
+  - dearborn michigan shooting - 2 dead
+  - michelle bolsonaro actually hot
+  - ali bans claude code - "security risks"
+    - ali homegrown "qoder"
+  - us life expectancy to reach record high
+- biz
+  - amzn ready to launch own satellite constellation (leo)
+- tech
+  - china launches companion robots
+
 # 7/3
 - politics
   - july 4: americans don't know what they're celebrating
