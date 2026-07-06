@@ -1,5 +1,23 @@
 [Back](../index.md)
 
+# 7/6
+- culture
+  - World cup
+    - usa belgium today
+      - red card lifted for usa star player
+    - germans knocked out by paraguay
+    - england beat mx
+  - rising anti-seminitism causing jews to hide identities
+- politics
+  - CN-RU naval drills
+- biz
+  - bending spoons IPO
+  - study: companies that invest in AI hire more people
+  - msft/amzn - both investing in AI implementation consulting business
+    - FDE - forward deployed engineers
+- tech
+  - typescript 7.0 is go-based
+
 # 7/4
 - politics
   - dearborn michigan shooting - 2 dead
