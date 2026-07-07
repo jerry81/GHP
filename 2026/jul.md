@@ -1,5 +1,24 @@
 [Back](../index.md)
 
+# 7/7
+- politics
+  - trump mad about usa exit from world cup
+    - USA 1 bel 4
+- health
+  - chronic stress signs: twitching eyes, metallic taste in mouth, persistent fatigue
+- culture
+  - odyssey reviews seem good
+  - heat wave killing millions of chickens
+  - new pHDs trending down
+  - americans spending less time socializing
+- biz
+  - altman, amodei back down on stance of AI takeover of jobs made a year ago
+  - skorea has a AI player: SK Hynix: outperforming Samsung and Micron
+  - Anthropic quickly removed a tracker secretly monitoring Claude Code users in China after a security researcher exposed the hidden code and condemned the spyware-like tracking as a "serious breach of user trust."
+  - MSFT Xbox layoffs
+  - sweden fines goog 2B for anti-competitive
+
+
 # 7/6
 - culture
   - World cup
