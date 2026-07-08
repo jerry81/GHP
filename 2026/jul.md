@@ -1,5 +1,21 @@
 [Back](../index.md)
 
+# 7/8
+- politics
+  - Us cyber agency using mythos to audit gov code
+- biz
+  - oracle stock down 40% for year
+  - meta allowing anyone to use IG photos in AI images
+  - id software firing half
+  - world most profitable company
+    1.  samsung
+    2.  nvidia
+  - deepsick developing own AI chip
+- culture
+  - messi helps arg beat egypt
+- tech
+  - learning language slows brain aging?
+
 # 7/7
 - politics
   - trump mad about usa exit from world cup
