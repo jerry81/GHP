@@ -1,5 +1,29 @@
 [Back](../index.md)
 
+# 7/9
+- politics
+  - speculation that trump is on ambien
+    - yelling at nato leaders
+    - mistakes zelensky for putin
+  - war
+    - usa keeps bombing iran
+    - ukr hits 21 russian ships in 3 days
+- biz
+  - windows only has 56% global desktop OS mkt
+    - osx 11.89 and macos 4.48
+  - aapl 30B deal to design broadcom chips
+  - meta glasses: turns off camera if you tamper with privacy light indicator
+  - Ed Zitron CEO of PR firm EZPR
+    - criticising AI, wants to see OpenAI and Anthropic IPOs blocked
+  - claude project mimicing human concoiusness
+    - J-space
+    - satisfies five key cognitive properties of human conscious access -- verbal report, directed modulation, internal reasoning, flexible generalization, and selectivity
+- culture
+  - hot new fad: 4000USD anti-inflammation retreat
+    - hotels with specially designed menus
+    - lymphatic drainage
+  - connor murphy story hits front page
+
 # 7/8
 - politics
   - Us cyber agency using mythos to audit gov code
