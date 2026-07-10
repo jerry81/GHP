@@ -1,5 +1,21 @@
 [Back](../index.md)
 
+# 7/10
+- culture
+  - most unfortunate names
+    - karen
+    - chad
+    - donald
+- biz
+  - home prices all time high
+  - china supercar: Denza Z - rival to porsch 911
+  - openai releases chatgpt-5.6 (government green light), announces chatgpt work
+    - also new voice models for live conversations
+- tech
+  - usage of chinese AI models growing in US Companies
+    - cheaper
+  - huamnoid robots controlled by surgeon tested on live pigs
+
 # 7/9
 - politics
   - speculation that trump is on ambien
