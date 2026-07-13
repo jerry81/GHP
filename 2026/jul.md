@@ -1,5 +1,17 @@
 [Back](../index.md)
 
+# 7/13
+- culture
+  - connor macgregor comeback fight, injured in seconds
+- biz
+  - america facing biggest labor shortage ever
+  - grok 4.5, chatgpt 5.6 sol, musk, altman flame wars on X
+  - SK hynix - 2027 will be worst memory year ever
+  - msft emissions up 25% due to AI data centers
+  - id software under MSFT
+- politics
+  - cubans suffer blackout
+
 # 7/10
 - culture
   - most unfortunate names
