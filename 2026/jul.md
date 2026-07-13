@@ -3,12 +3,26 @@
 # 7/13
 - culture
   - connor macgregor comeback fight, injured in seconds
+  - brown U professor suspects most of class used AI to cheat
 - biz
+  - openAI retires "atlas" browser - year after launch
+```
+ its browsing features will be shifted into a redesigned ChatGPT desktop app that also combines Codex, a built-in browser, and "ChatGPT Work"
+```
+  - openAI AGI ceo, Fidji Simo, steps down - medical issues
+  - disney+ to offer free tier, compete with youtube
+  - appl sue openai - stealing company secrets
   - america facing biggest labor shortage ever
   - grok 4.5, chatgpt 5.6 sol, musk, altman flame wars on X
   - SK hynix - 2027 will be worst memory year ever
   - msft emissions up 25% due to AI data centers
   - id software under MSFT
+  - duckduckgo blocks youtube ads
+  - factory offers flexible work, fills positions faster
+  - chinese companies "distilling" us AI models?
+```
+Anthropic's tracking code was designed in part to catch Chinese firms "distilling" its AI models, a technique that involves pressing a large, expensive AI system to serve as a tutor to a smaller, cheaper one. Asking the larger system huge numbers of questions
+```
 - politics
   - cubans suffer blackout
 
