@@ -1,5 +1,25 @@
 [Back](../index.md)
 
+# 7/14
+- politics
+  - lindsey graham, senator death being investigated, fbi
+  - lawmakers fighting against infinite scroll ui feature
+  - EU social media limits for teens
+- culture
+  - 55% americans stop posting on Social media
+  - boston drivers 189% more likely to have accident than average
+  - tom cruise dresses up as old oil baron in new film, "digger"
+- biz
+  - paramount-warner bros merger being blocked now by states including cali
+  - 200 economists: we must act now on AI economic impact
+    - faster timeframe than Industrial Revolution, larger transformation
+  - oil back above 80 again
+  - spaceX, broke AI bubble?
+  - spacex price drops back to ipo levels
+  - more companies using CN AI models to cut costs
+- health
+  - health benefits of eating spicy:  gut/heart/lifespan?
+
 # 7/13
 - culture
   - connor macgregor comeback fight, injured in seconds
