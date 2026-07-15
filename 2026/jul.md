@@ -1,5 +1,30 @@
 [Back](../index.md)
 
+# 7/15
+- politics
+  - ICE stops car stops after killings
+  - americans support seizing wealth from AI industry
+  - redistribution vs predistribution of wealth
+    - re: let markets generate outcomes, then use taxes, transfers, pub services to equalize
+    - pre: establish rules first
+  - sen. chuck schumer (D-NY) rips a fart during senate floor speech
+- biz
+  - openAI working on its first device: moveable screenless speaker - ai companion
+  - meta now sued for letting AI decide layoffs
+  - ibm stock crashes 25%
+    - after grave warning about AI and that revenue would be missing expectations
+    - CEO Arvind Krishna
+  - turbulence on flights up, delta sued by passengers (25 injured)
+    - reason: climate change
+  - oneplus shuts down US/EU operations
+- tech
+  - Indian scientists:  most detailed 3d atlas of human brainstem
+  - heat dome: weather phenomenon - high pressure air traps hot air under it
+    - one is hitting East coast
+- culture
+  - world cup semis - spain beats france
+    - argentina vs england
+
 # 7/14
 - politics
   - lindsey graham, senator death being investigated, fbi
