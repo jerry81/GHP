@@ -1,5 +1,22 @@
 [Back](../index.md)
 
+- 7/16
+- politics
+  - new law in china restricts "emotional dependency" on AI companions
+  - military testing Testosterone feuled soldiers
+- biz
+  - large stock sales threating bull market
+  - odyssey 98 on RT
+  - american EV industry "crushed"
+  - openAI keypad for ai agents
+  - stripe offers 53B for paypal
+  - msft patches new record 570 sec flaws
+  - new design for goog images - pinterest-like
+- culture
+  - argentina vs spain finals
+  - museums and movies boost brain health, slow aging
+
+
 # 7/15
 - politics
   - ICE stops car stops after killings
