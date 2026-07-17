@@ -1,5 +1,27 @@
 [Back](../index.md)
 
+- 7/17
+- politics
+  - SKorea will launch Universal Basic AI chatbot
+  - trump most corrupt in history?
+  - survey: CN more popular than USA to majority of world
+- culture
+  - nicotine: make you smarter?  "powerful nootropic"
+- biz
+  - 1Password: claude integration - share passwords with claude without exposing pswd
+    - " Instead, users approve each request, and 1Password injects the credentials directly into the target website"
+  - TSMC invests 100B in AZ
+  - HP sued for monopolizing toner/cartidges market
+  - amazon push to automate warehouses meets human resistance
+  - NTFLX stock drops
+  - SpaceX selloff
+  - short sellers doing well
+  - violence towards AI companies
+    - man tries to sneak into Anthropic
+  - zitron (PR exec) doubles down: "OpenAI will crash industry"
+- tech
+  - brain tech allows paralyzed man to regain hand function
+
 - 7/16
 - politics
   - new law in china restricts "emotional dependency" on AI companions
