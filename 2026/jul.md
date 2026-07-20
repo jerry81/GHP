@@ -1,5 +1,32 @@
 [Back](../index.md)
 
+- 7/20
+- culture
+  - spain takes world cup, 1-0
+    - team awarded 50M
+  - odyssey 254M opening weekend
+  - UFC hosts humanoid robot fight, one gets decapitated
+- politics
+  - UK new PM: Andy Burnham
+  - war
+    - american death toll hits 17
+    - oil prices up again
+  - germany terror threat: high
+  - reason for cn cracking down on ai companions: not enough babies being born
+  - usha vance (jd's wife) birth
+    - second wife
+    - indian
+- biz
+  - meta lease compute to Anthropic: 10B deal
+  - moonshot new model in top tier of global models
+    - Kimi K3
+  - union fights MSFT at game studios
+  - grok build to be opensourced this week
+  - robotaxi issue: passengers falling asleep
+  - traders short selling spacex
+- health
+  - artificial sweetners bad for your gut
+
 - 7/17
 - politics
   - SKorea will launch Universal Basic AI chatbot
