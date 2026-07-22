@@ -1,5 +1,29 @@
 [Back](../index.md)
 
+- 7/22
+- politics
+  - pentagon out of money
+  - war
+    - usa thinking about hitting iran nuke sites, iran issues warning
+    - iran attacking water/power infra
+    - red sea blockade
+      - red sea is east of egypt, west of S.A.
+      - persian gulf is east of SA (strait of hormuz)
+   - us passport status has declined over 20 years
+- culture
+  - miami cost of living passes NYC
+  - EU 120F first time ever
+- biz
+  - mass ESPN layoffs
+  - tesla robotaxi launches in orlando and tampa
+  - claude pays out 1.5B over pirated books used to train
+  - kimi halts new subs for K3 as they are swamped
+- tech
+  - AI companies buying old books - free of AI slop
+  - ubuntu pro store
+  - 5 cups coffee a day reduce heart risk?
+  - room temperature quantum material - thin gold film on glass
+
 - 7/20
 - culture
   - spain takes world cup, 1-0
