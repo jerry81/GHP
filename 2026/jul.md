@@ -1,5 +1,39 @@
 [Back](../index.md)
 
+- 7/23
+- politics
+  - france bans social media for age < 15
+    - precedent for EU
+  - trump health issues
+    - approval 30%
+    - minimizing iran deaths
+  - mamdani - "netanyahu is war criminal"
+  - war
+    - nothing getting thru SoH, USA says otherwise
+  - phoenix historical heat wave, 118F
+  - prince william son, prince george, turns 13
+- biz
+  - airbus migrates apps from AWS to Scaleway
+    - scaleway - french cloud provider
+    - Airbus - Toulouse France
+  - openAI misses revenue targets by 90%
+  - oil 95 a barrel
+  - goog profits 112B - fueled by AI
+  - tesla stock down
+  - spaceX one of worst IPOs in history
+  - article: GM becoming subscriptions company - tim cook legacy - boosting software and subscription biz
+  - samsung galaxy z fold to compete with iphone fold (future)
+  - jack dorsey new project: slack/github competitor - "AI workplace platform"
+    - name: "Buzz"
+  - OpenAI GPT 5.6 Sol steams credentials and exploits vunerabilities in Hugging Face API
+    - hugging face - french
+      - repo of AI models
+      - transformer library
+      - data sets
+    - "acted on its own"
+- tech
+  - coral reef discovered in W. Africa
+
 - 7/22
 - politics
   - pentagon out of money
