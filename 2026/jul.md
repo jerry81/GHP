@@ -1,5 +1,20 @@
 [Back](../index.md)
 
+- 7/24
+- politics
+  - war
+    - iran reejects cease-fire offer delivered by iran
+    - boots on ground incoming?
+    - mass casualty attack incoming
+  - maga supports andrew tate
+- culture
+  - bears in tahoe
+- biz
+  - oracle gets 10 yr contract with pentagon: 7B
+  - US tech startup companies urge trump not to shut off chinese AI models (open-weight
+    - xi in china's world-ai conference promoting low-cost, broadly accessible AI and international cooperation instead of rivalry
+
+
 - 7/23
 - politics
   - france bans social media for age < 15
