@@ -1,5 +1,23 @@
 [Back](../index.md)
 
+- 7/27
+- politics
+  - germany speech control: controlling speech against politicians
+  - germany pride parade terrorist attack - truck rams crowd
+  - france spain wildfires
+  - war
+    - USA running out of interceptor missiles
+- tech
+  - eye implant restores sight to blind
+  - drying lakes -> exposed sediment -> CO2 emissions
+    - aral sea - near khazakstan/uzbekistan border
+- biz
+  - EU fines google, Trump threatens tariffs
+  - huawei DRAM fab?
+  - opus 5 (anthropic) rivals fable for half price
+- culture
+  - odyssey leaks on X
+
 - 7/24
 - politics
   - war
