@@ -1,5 +1,32 @@
 [Back](../index.md)
 
+- 7/28
+- biz
+  - nvidia/openai 250B data center talks (nvidia provide)
+  - appl waiting AI bubble to burst - has not invested as heavily on data centers, according to ed zitron
+  - nvidia and tech cgiants launch AI safety initiative
+  - spacex lost 600B in mkt value
+    - but musk wants another IPO
+  - youtube premium to include peacock premium by default
+  - kevin baillie, netflix exec, 1.1M salary, fired after taking ketamine at company retreat
+  - codeberg (project hosting) bans LLM-gen code projects and crypto
+  - chatgpt blocks direct requests to copy author's styles
+- politics
+  - war
+    - iran urging assassination of melania
+      - barron also targeted
+    - 600 us deaths so far reported by pentagon
+    - UKR hits iranian supply line to RU (2 wars converge)
+  - gas stockpiles down
+  - epstein friends dying
+  - paris terrorist attack - cuts 3 women
+  - cuba cut off from fuel, but still surviving
+  - CN mass produce DUV chip tools (lithography)
+    - deep ultraviolet lithography - 193nm wavelength
+- culture
+  - new "white collar exit strat" - content creators - 25K followers -> 25K brand deals
+
+
 - 7/27
 - politics
   - germany speech control: controlling speech against politicians
