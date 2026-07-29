@@ -1,5 +1,44 @@
 [Back](../index.md)
 
+- 7/29
+-  politics
+  - war
+    - wars colliding: iran and ukr
+      - trump meets zelenskyy
+      - iran-RU full scale invasion of UKR
+      - saturday - UKR launched attack on iranian commercial vessel, caspian sea, iran vows revenge
+        - caspian sea - RU/turkey, Turkmenistan/kazakhstan to east, iran to south
+      - iran using kamikaze drones
+  - cyberattack on MN water systems
+  - headlines mention trump waning influence over world
+  - alex jones still wants him impeached
+  - newsom had affair 20 years ago
+- biz
+  - fossil fuel companies profiting off war
+  - analysts concerned about Meta
+  - companies looking for cheaper AI, tokenmaxxing out
+    - tokenmaxxing - intentionally using as many tokens as possible to get better results from LLMs
+      - other definition: getting maximum value per token
+      - seeing costs rise without spike in productivity
+      - moonshot kimi and zhipu glm have been popular alternatives
+- culture
+  - tate brothers in jail, lawyer fears for their murder
+- tech
+  - mythos finds flaws in AES and post-quantum HAWK
+    - AES - advanced encryption standard - symmetric, same key for en and de-crypt
+      - plaintext + secret key -> ciphertext
+      - ciphertext + secret key -> plaintext
+      - comes in 128 bit 192 bit and 256 bit key versions
+      - 256 considered extremely secure
+    - HAWK - post-quantum secure symmetric encryption scheme
+      - hamming almost weightless key
+      - designed to be secure against quantum computer attacks
+      - solves issues like RSA -> factor large numbers, ECC -> elliptic curve discrete logarithms
+        - quantum computer running Shor's algorithm could break those
+    - mass extinction diasters on earth happen every 27 million years
+      - volcanos
+      - ocean crises
+
 - 7/28
 - biz
   - nvidia/openai 250B data center talks (nvidia provide)
