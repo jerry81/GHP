@@ -1,5 +1,27 @@
 [Back](../index.md)
 
+- 7/30
+- politics
+  - war
+    - china supplying missles to iran
+    - pentagon weapons depleted
+  - fires in france and spain
+  - FCC bans chinese made robots
+    - tradeoff - keeping domestic companies from procuring cheaper robots, but encouraging dometic robots
+- culture
+  - leto hit with sex harrassment
+  - tom holland - biggest movie star in world?
+- biz
+  - dow down 1152
+  - backlash vs Anthropic in Si Valley?  - anti-competitive
+    - dario amodei - ceo, daniella amodei - co-founder, president, sister
+      - both come from openAI
+  - goog alphafold team dispersed
+  - in year long vending machine business simulation experiment, ai models get nasty
+  - door dash drone delivery business
+- tech
+  - ALS blood test
+
 - 7/29
 -  politics
   - war
