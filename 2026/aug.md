@@ -14,9 +14,24 @@
   - spiderman biggest opening of all time
   - poll: new mexico most sexually adventurous state based on google searches
 - biz
+  - appl stock down 10%
   - flock: surveilance camera business
   - IT teams spend 11 hrs a week on cloud connectivity issues
     - due to AI workloads
+  - situational awareness: hedge fund based on AI speculation - drops 67% due to latest stock crash
+  - kalshi gets sued by NY: illegal gambling
+    - name comes from Arabic - means "all things"
+  - msft stock 450B jump
+    - 17% increase
+    - 43% growth in Azure revenue
+  - goog gemini robotics 2
+  - comcast gets sued: humiliation motiviation tactics: pie smashing into faces for low sales
+    - lowest performing salesperson tied to chair each month
+  - ai companies recruiting electricians and carpenters to build data centers
 - tech
+  - quantas plane flies for 24 hours - record breaking
+  - GCC new policy: reject significant AI-generated code
   - drone camoflauge: "motion blur" - spin in place makes it "seem to disappear"
   - study challenges idea that more protein always better
+  - linux desktop market shares over 10%
+  - MCP open source standard for how AI systems interact with extern tools and data srcs
