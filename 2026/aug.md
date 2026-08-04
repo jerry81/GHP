@@ -1,5 +1,26 @@
 [back](./index.md)
 
+8/4
+- politics
+  - war
+    - boy who cried wolf - USA pattern of ceasefire and then attacking again
+  - cuba electric grid collapses
+  - s korea highest ever temp
+- biz
+  - reddit stock falls 20%
+    - ceo steve huffman
+  - stocks up again - record high
+    - 3 days in row of s&p and nasdaq gains
+  - marijuana surpasses cigarettes in USA
+  - consumers ditch chromebooks, switch to macbooks
+  - satya nadella own AI project - non microsoft
+  - AI starting to destory call center industry
+- culture
+  - celine dion concert - struggles
+  - spiderman biggest opening of all time
+- health
+  - fructose hurts your brain, liver, and waistline
+
 8/3
 - politics
   - war
