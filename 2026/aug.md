@@ -1,5 +1,27 @@
 [back](./index.md)
 
+8/5
+- politics
+  - war
+    - usa has already depleted most of its missles
+  - eu heat and drought
+  - TX stops supplying data center from power grid
+    - epicenter of AI development
+- biz
+  - spacex drops again
+  - mkts up still
+  - dalio compares ai bubble to great depression
+    - ray dalio - famous investor, wrote "principle"
+  - Bending Spoons - italian AI company went public last month 18B valuation
+    - first acquisition Airtable: spreadsheet and db startup
+  - MSFT: introduces token budgets for employees, makes gpt-5.6 (cheaper) the default
+  - trump media: 100K/month subscription service gives access to truth social posts milliseconds before public
+    - insider trading accusations
+- culture
+  - yet another melania trump netflix series
+  - self-checkout marijuana
+  - chipotle food poisining outbreak
+
 8/4
 - politics
   - war
