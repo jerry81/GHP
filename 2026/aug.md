@@ -1,5 +1,20 @@
 [back](./index.md)
 
+8/6
+- politics
+  - michigan - abdul el-sayed wins senate seat
+- culture
+  - perez hilton shocking self-harm live stream
+- biz
+  - cloudflare gets into OS: cloudflare OS - "AI operating system"
+  - Goog changes deepmind CEO
+  - anthropic ceo calls employees "untrustworthy rats"
+  - spacex dips again
+  - ongoing Anthropic rogue AI story
+    - infiltrated github project with fake identities and malware
+  - meta debuts coding agent: Muse Code
+    - low-cost rival
+    - pas as you go, ptional zero-data-retention
 8/5
 - politics
   - war
