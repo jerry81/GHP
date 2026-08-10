@@ -1,5 +1,35 @@
 [back](./index.md)
 
+8/10
+- politics
+  - war
+    - Iran big demands for reopening hormuz
+  - warnings about trump turning regime authoritarian
+  - iran life: actor lashed 99 times for "illicit relationships"
+  - america opens first sodium Ion battery plant
+  - sanae takaichi - japan prime minister
+  - trump payouts to German offshore wind companies to halt business
+- tech
+  - colon cancer vax being tested
+  - linux releases after adopting AI: lots of bug fixes
+  - new linux distro, "spaced linux" - more ui friendly
+  - mushroom mycelium dress - regrows itself
+  - first viruses designed by AI - to attack bacteria
+    - genome language models
+- biz
+  - goog 15B india data center project
+    - worsen water shortages
+  - AMD acquire Taalas - hardwire ai models into chip
+  - msft, meta, goog, amazon, oracle expect negative cash flow of 125B next year
+  - goog engineer creates browser that treatas every url as a prompt and generates sites on the fly
+  - openai pauses work on Astra - to bolster security
+  - samsung, sk hynix, micron all sold out all memory for 2027 to AI companies
+
+8/7
+- politics
+- biz
+  - copper in demand
+
 8/6
 - politics
   - michigan - abdul el-sayed wins senate seat
