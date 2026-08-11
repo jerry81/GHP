@@ -1,5 +1,23 @@
 [back](./index.md)
 
+8/11
+- politics
+  - oil prices up again
+  - colombia quake 7.4 mag
+  - british navy drones found sending data to china
+  - taiwan simulated defense against chinese invasion in Taichung area: throttled mobile access in area
+- biz
+  - hedge funds in bad shape - worst since 2008
+  - corgi - 24/7 cafe in london, free wifi
+  - nvidia gets 500B funding from Wall street for AI infra
+  - meta muse glimmer - slimmed down open weight runs on single GPU
+  - paramount WB deal went through
+  - more privacy backlash against meta smart glasses
+- tech
+  - underground fires at landfills
+    - oxygen seeps down
+    - rapid decomposition of trash leading to heat generation
+
 8/10
 - politics
   - war
