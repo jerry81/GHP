@@ -1,5 +1,24 @@
 [back](./index.md)
 
+8/12
+- politics
+  - more diversity in power - francesca hong shooting for wisconsin governor
+    - 1988, korean
+  - trump criticized for using media to shield him on flight out of turkey
+  - space race: chinese rocket explodes after takeoff
+  - LA offering cash to not drive for 5 weeks (600USD)
+  - france bans telemarketing calls
+- biz
+  - tesla-spacex merger would give musk 1T payday
+  - goog gemini hits 1B users in record time
+  - roboguard (security guards) - not living up to hype
+- tech
+  - a driver broke sound barrier on way to land speed record
+  - hottest US month ever
+  - linux use surged to 22% on a single day
+  - correlation: taxi drivers avoid dying by alzheimers
+    - spatial navigation?
+
 8/11
 - politics
   - oil prices up again
