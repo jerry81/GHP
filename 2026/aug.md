@@ -1,5 +1,27 @@
 [back](./index.md)
 
+8/13
+- politics
+  - karoline leavitt leaves trump administration
+    - "hot lips"
+    - press secretary
+    - youngest ever, 28
+  - mamdani getting good reviews in NYC so far
+  - trump AF1 saga:
+    - switched planes after NATO summit
+    - picked blonde aide, Natalie Harp to accompany him
+    - snuck off Air force one to decoy jet
+    - hid in a catering truck
+    - throws secret server under bus: "it was their idea"
+  - saudi textbooks embracing jews
+- culture
+  - josh kushner buys lakers
+  - sergey brin fighting cali wealth tax, spends more than 100M
+- biz
+  - millions of men ditching workforce
+- tech
+  - 3 minutes of strenuous activity reduces cancers
+
 8/12
 - politics
   - more diversity in power - francesca hong shooting for wisconsin governor
