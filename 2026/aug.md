@@ -1,5 +1,29 @@
 [back](./index.md)
 
+8/14
+- politics
+  - drudge headline: "chatbots running congress, little oversight"
+  - trump amassed wealth in "most openly corrupt" presidency
+  - life on USS abraham lincoln?
+    - rotten meat, no milk, jumping overboard w/ coverup
+- culture
+  - 10 mins of drawing can reset nervous system
+- tech
+  - organisms inside psychopaths driving bad behavior?
+  - Ai expert Fei-Fei Li - biggest risk of AI in school is losing desire to learn
+- biz
+  - msft scaling back china presence - closed 15 offices in past 5 yrs
+    - us export controls
+    - beijing domestic boosting
+    - former china head: Alain Crozier
+  - goog gemini 3.7 Flash 50% price cut for agentic coding
+  - msft also planning copilot and 365 copilot into "superapp"
+  - anthropic value at time of IPO speculated at 2T
+  - next frontier of data for training: neural activity data
+  - goog to rival air tag with pixel tag product
+  - goog releases pixel 11 lineup, includes fold
+  - Video gamers get jobs as air traffic controllers
+
 8/13
 - politics
   - karoline leavitt leaves trump administration
