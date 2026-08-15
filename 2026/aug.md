@@ -1,5 +1,11 @@
 [back](./index.md)
 
+8/15
+- biz
+  - openAI talent exodus may spoil IPO party
+  - NVIDIA scale back 250B data center guarantee
+  - zitron: when they stop spending, they crash the market
+
 8/14
 - politics
   - drudge headline: "chatbots running congress, little oversight"
