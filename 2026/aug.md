@@ -1,10 +1,44 @@
 [back](./index.md)
 
+8/17
+- politics
+  - war
+    - moscow under seige - ukraine onslaught
+    - nato fighter jet shoots russian drone in EU
+  - maga merchandise not selling
+  - ben netanyahu advocates killing 30-40 gazans each night
+  - usa pulls out last aircraft carrier in Asia
+  - dems: capitalism not working, turn to socialism
+  - space race on again
+    - "china demonstrating rapid advances in space tech" - senator ted cruz
+    - china plan permanent moon base by 2040
+- culture
+  - eu heatwave killed 25K, dried rivers, shut nuke plant
+  - drink more coffee -> higher testosterone?
+  - air france - paris lounge sauna turned into sex den by passengers
+    - company closes it
+- biz
+  - AI failing to deliver the 4-day work week promised
+  - larry ellison drops from #2 to #8 world's richest in 2 months
+    - oracle down 54%
+    - too much financial risk in taking AI infra projects for openAI?
+  - anthropic puts watermarks on text that was generated or processed by claude
+  - disneyland to add starwars/fortnite collab, avatar attraction, and new tommorrowland
+- tech
+  - linux kernel 7.2 released officially
+  - fusion containers may be built with copper
+
 8/15
 - biz
   - openAI talent exodus may spoil IPO party
   - NVIDIA scale back 250B data center guarantee
   - zitron: when they stop spending, they crash the market
+  - meta glasses - facial recog identify people, make highlight reels of dinner parties
+- culture
+  - lambo new most powerful car
+    - revuelto SV
+  - spouses who exercise together fight less
+
 
 8/14
 - politics
