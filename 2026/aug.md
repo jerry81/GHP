@@ -1,5 +1,18 @@
 [back](./index.md)
 
+- 8/18
+- politics
+  - eric swalwell - admits to perscription drug fueld sex romp with suspected spy, Fang Fang
+  - war
+    - ru shipping exposive weapons to Iran
+- biz
+  - openai announces massive data center with 105B Nvidia supplying chips and power
+  - anthropic ceo dario Amodei - "AI backlash is a crisis of trust"
+- culture
+  - hayden panettiere dead, 36
+  - needle culture
+    - peptides, glps, botox
+
 8/17
 - politics
   - war
