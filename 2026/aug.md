@@ -1,5 +1,22 @@
 [back](./index.md)
 
+- 8/19
+- politics
+  - miami hottest day in history
+  - masked man in philly terrorizing residents
+  - JP testing hypersonic missles in australia
+  - foreign holdings of US treasuries falls in June - headed by JP, UK, CN
+  - syria holding nuke weapon precursors
+  - RU citizens withdrawing from banks - afraid of govt seizing assets for war
+  - solar and batteries keeping EU's grid stable
+- biz
+  - cursor launches github alternative 'origin'
+  - robotic coffee shop operates 24/7 and makes 200 cups/hr
+  - META huge addiction trial
+  - memory prices up 500% in 12 months
+- culture
+  - tom holland spiderman payday: 100M
+
 - 8/18
 - politics
   - eric swalwell - admits to perscription drug fueld sex romp with suspected spy, Fang Fang
