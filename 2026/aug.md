@@ -1,5 +1,40 @@
 [back](./index.md)
 
+- 8/20
+- politics
+  - us debt tops 40,000,000,000,000 - 40 trillion
+    - rises 90K per second
+    - still borrowing
+  - trump assistant becomes talk of washington
+    - natalie harp - carries news articles for him to read
+      - rogetting to eat and sleep
+      - she was aide who was allowed to ride with him in decoy plane
+      - once seen by melania at mar-a-lago
+  - primary win in FL for left
+  - war
+    - UKR elite drones found near moscow
+  - china builds man-made island ideally placed for taiwan invasion
+    - dadeng island?  north of kinmen island (taiwan)
+    - nope, antelope reef
+      - ling yang jiao
+        - southwest of taiwan, south of hainan, east vietnam
+- biz
+  - AMZN drones set to deliver to 500 US cities + towns
+  - linkedin accidentally becoming romance site despite no-romance rule
+  - moderna stock up 177% - cancer vax
+    - mRNA, prevent melanoma from returning
+    - also Merck collab
+  - CN robotics Unitree stock soars in IPO
+    - Yushu tech
+    - robot dogs 2700USD price tag, (BD 70K)
+  - stripe acquire AI startup openrouter 7.5B - AI model marketplace
+- culture
+  - personal bankruptcy filings up
+- tech
+  - distance record set for quantum entaglement experiment - 420KM
+  - ai talk - studnets losing ability to think
+  - babies with sugar rationing grow into adults with less cancer risk
+
 - 8/19
 - politics
   - miami hottest day in history
