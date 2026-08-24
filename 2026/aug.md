@@ -1,5 +1,21 @@
 [back](./index.md)
 
+- 8/24
+- biz
+  - anthropic latest model failing to attract users sign of bubble?
+  - bitcoin rallying - stock market anti-indicator?
+- politics
+  - trump 1000 stock trades in june
+  - german politician julian ferrat wants to turn Mannheim into a swingers' paradise
+  - the don getting fat
+  - canada now trade warring with USA
+  - war
+    - iran hackers shut down UK power plant
+- culture
+  - mark ruffalo anti-semitic comments?
+- tech
+  - 1/3 web pages now written with AI
+
 - 8/20
 - politics
   - us debt tops 40,000,000,000,000 - 40 trillion
