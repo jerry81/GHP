@@ -4,17 +4,34 @@
 - biz
   - anthropic latest model failing to attract users sign of bubble?
   - bitcoin rallying - stock market anti-indicator?
+  - openAI introduces chatgpt for teens
+  - stanford economist: AI job apocalypse unlikely
+  - factors besides AI affecting jobs for recent grads: remote work
+  - NYC dethrones SF as tech talent hub
+  - linkedin has "seems like AI slop" button
+  - appl cuts: siri, games, vision pro
+  - micron 10B AI memory research lab in Boise
+  - bilibili to go global - launching international english app
 - politics
+  - JP requires AI companies to disclose training data
+  - china chang'e 7 to go to moon's south pole
   - trump 1000 stock trades in june
   - german politician julian ferrat wants to turn Mannheim into a swingers' paradise
   - the don getting fat
   - canada now trade warring with USA
   - war
     - iran hackers shut down UK power plant
+    - RU attacks have destroyed 10M ukr books
 - culture
   - mark ruffalo anti-semitic comments?
+  - AI in education: homework scores up, exam scores down
 - tech
   - 1/3 web pages now written with AI
+  - quantum computing: helios system in cambridge takes huge step forward
+  - pHd project: c to rust auto translate
+  - debian committee vote: allow AI-assisted contributions
+  - battery fires at recycling centers
+  - china and EU - both scrapping windows for linux
 
 - 8/20
 - politics
