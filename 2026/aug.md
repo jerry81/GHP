@@ -1,5 +1,28 @@
 [back](./index.md)
 
+- 8/25
+- politics
+  - canada usa trade war: canada threatens cutting electricity supply
+  - war
+    - iran threatens to kill Barron Trump - 10M USD bounty
+      - follows hit on melania
+  - texas turning blue?
+  - trump wants 100K USD fee for H1Bs
+    - currently 2-5K
+  - Chang'e 7 mission delayed to 2027
+  - FDA approves Alzheimer's blood test
+- biz
+  - amzn hardware prices up 60%, mem shortage blamed
+  - Situational Awareness (AI hedge fund) collapsed, SEC investigating
+    - SEC - securities and exchange commission
+  - nvidia senior manager investigated for smuggling AI hardware to china
+- culture
+  - saudis build theme park in paris - will rival disney
+  - dr dre uses AI to produce songs
+- tech
+  - humanoid robots already run faster than usain bolt
+  - quantum: gluons particles made of pure force
+
 - 8/24
 - biz
   - anthropic latest model failing to attract users sign of bubble?
