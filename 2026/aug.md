@@ -1,5 +1,29 @@
 [back](./index.md)
 
+- 8/26
+- politics
+  - ww iii already started?
+  - trade war, china exchanging threats with USA over sanctions
+  - war
+    - usa continues to try to squeeze tehran economy
+    - review: ali khamenei assassinated, successor: motjaba, dead already?
+  - measles deaths in PA
+  - NZ bans under-16 social media and AI companions
+- culture
+  - dolly parton dead age 80
+  - ridley scott new scifi thriller, The Dog Stars mixed reviews
+    - jacob elordi
+  - sascha baron cohen new film coming
+  - 8 shot incl. children in montana
+- biz
+  - FDA approves wearable that monitors gluclose and ketone levels
+  - perplexity + nvidia fully local AI agent with 0 token costs
+  - AI hitting entry-level jobs the hardest
+  - waymo expands to germany
+  - appl new mac mini m6 and m5 pro chips
+- tech
+  - oceans hit highest temperature on record
+
 - 8/25
 - politics
   - canada usa trade war: canada threatens cutting electricity supply
