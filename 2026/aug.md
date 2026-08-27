@@ -1,5 +1,25 @@
 [back](./index.md)
 
+- 8/27
+- politics
+  - USA/CA trade war saga: toilet paper prices rise
+    - canadians embracing resistance against USA
+  - world (and usa) slowly becoming defiant towards the don
+  - nepal flash floods kill 160
+  - china fear: AI replace human intimacy
+  - war
+    - germany: explosive drone found at airport - suspected to be Russian
+- biz
+  - spaceX targets 100B spaceport in Louisiana
+  - Meta pays 17B to settle child safety suit
+    - social media addiction
+  - openAI release official report on Hugging face breach
+  - Moonshot (kimi) in talks with msft, amzn, goog over k3 revenue sharing deals
+  - AMZN to acquire DuckLabs (DuckDB)
+    - S3 may become place to analyze data instead of just store it
+- culture
+  - WNBA viewership up
+
 - 8/26
 - politics
   - ww iii already started?
