@@ -1,5 +1,24 @@
 [back](./index.md)
 
+- 8/28
+- politics
+  - war
+    - usa running out of patriot missles
+    - fears of putin using nukes
+  - trump trading oil stocks during war
+  - canadians boycott vacationing in USA
+  - nepal floods, 400 dead
+- culture
+  - tate brothers still in jail
+  - 700K hybrid audi
+- biz
+  - openai testing "persistent mode" for codex - keep working until put to sleep
+    - proactively creating follow-up tasks for itself across sessions
+  - nvidia acquire hugging face, 13B
+- tech
+  - breast cancer linked to flight attendants being closer to cosmic radiation
+  - bill gates write 6000 word essay on AI
+
 - 8/27
 - politics
   - USA/CA trade war saga: toilet paper prices rise
