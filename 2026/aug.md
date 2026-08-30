@@ -1,5 +1,16 @@
 [back](./index.md)
 
+- 8/30
+- politics
+  - milo yiannopoulos deported
+- culture
+  - most americans "out of energy" by 2:48 PM
+  - cape cod shark infested
+  - tom cruise to teamup with anne hathaway for new movie: days of thunder
+- biz
+  - lyft was acquired by waymo - former employees now doing menial tasks for waymo overlords
+  - bmw comments on disappearing real buttons on cars: blame the young people
+
 - 8/28
 - politics
   - war
