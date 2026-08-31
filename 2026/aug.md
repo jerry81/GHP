@@ -4,6 +4,7 @@
 - culture
   - grand canyon flood - 15 missing
 - politics
+  - anti-AI data center movement - a chinese psy-op?
   - america renames lake ontario "lake america"
   - war
     - us strikes iran again, first time in a month
@@ -15,6 +16,8 @@
   - chess.com to launch multiple classic game sites including poker thanks to AI prototyping
 - tech
   - scientists convert plastic into cookies using yeast
+  - linux kernel - 2000 CVE per release
+    - common vunerability and exploit
 
 - 8/30
 - politics
