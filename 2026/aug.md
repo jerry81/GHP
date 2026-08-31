@@ -1,5 +1,21 @@
 [back](./index.md)
 
+- 8/31
+- culture
+  - grand canyon flood - 15 missing
+- politics
+  - america renames lake ontario "lake america"
+  - war
+    - us strikes iran again, first time in a month
+      - tehran retaliates
+    - RU planning 300K troop strike on kyiv
+- biz
+  - sex doll market booming
+  - uber drivers: waymo robotaxis driving down pay
+  - chess.com to launch multiple classic game sites including poker thanks to AI prototyping
+- tech
+  - scientists convert plastic into cookies using yeast
+
 - 8/30
 - politics
   - milo yiannopoulos deported
