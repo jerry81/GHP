@@ -1,5 +1,31 @@
 [Back](../index.md)
 
+9/4
+- politics
+  - bernie proposes banning super AI in aftermath of rogue hackings
+  - jd vance loses a lot of weight
+  - trump claims he doesn't wear a wig
+    - used to mock hillary wig
+  - dc to build 250-foot tall arch
+  - war
+    - poor conditions for uss lincoln soldiers continue
+- culture
+  - a survivor contestant lost his leg on the show, sues for 100M
+  - christian missionaries at burning man
+  - world first: old adults now outnumber young children worldwide
+- biz
+  - new nvidia tool PAIR: pair Idle computers over network to help with Data center loads
+  - openAI - GPT6 astra debuts
+    - "welcome to AGI era"
+    - uses new reasoning technique: recurrent depth
+    - safety experts worried now reasoning harder to track (it has become non-sequential)
+  - 4 big ai models, cgpt, claude, grok, and gemini all suffer significant downtime together
+    - rare occurance
+  - euthanasia startup in NYC, quietus
+  - peter thiel move to argentina
+    - apocalpse prep, or pragmatic?
+  - self driving car suddenly stops driving in highway, kills man
+
 9/3
 - politics
   - 89 % americans think govt is corrupt
