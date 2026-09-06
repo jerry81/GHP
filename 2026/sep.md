@@ -1,5 +1,13 @@
 [Back](../index.md)
 
+9/6
+- politics
+  - mayor of miami may turn city into "vice city" to promote gta6
+  - worldwide, more seniors (65+) than children (0-19)
+- biz
+  - flock cameras continually getting removed in US
+- tech
+  - pig kidney keeps man alive for 9 months
 9/4
 - politics
   - bernie proposes banning super AI in aftermath of rogue hackings
