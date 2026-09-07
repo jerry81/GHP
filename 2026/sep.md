@@ -1,5 +1,14 @@
 [Back](../index.md)
 
+9/7
+- politics
+  - far right win in germany
+- culture
+  - 5 dead miami airport runway accident
+  - most tuna infected with parasites
+- biz
+  - btc based "liquid network" hacked for 300+M USD
+
 9/6
 - politics
   - mayor of miami may turn city into "vice city" to promote gta6
