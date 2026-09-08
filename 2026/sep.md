@@ -1,5 +1,22 @@
 [Back](../index.md)
 
+9/8
+- politics
+  - maga midterm convention at dallas
+  - oil 100USD a barrel again
+  - china a destination for latest cancer treatments
+- culture
+  - Bears in backyards of LA
+  - documentary about elizabeth holmes
+  - can't beat them, join em - teachers starting to incorporate AI into lessons instead of fighting it
+- biz
+  - US actually added 160K jobs in august
+    - unemployment rate just 4.1, lower than 90% of months over past 100 years
+  - brave claimes to use less resources than chrome, edge, FF, load pages faster
+- tech
+  - smart fart underwear analyzes how often you fart
+  - goog maps exeperiment tried "spreading traffic" by sending users on different routes (including longer distances)
+
 9/7
 - politics
   - far right win in germany
