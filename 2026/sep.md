@@ -1,5 +1,34 @@
 [Back](../index.md)
 
+9/9
+- culture
+  - jimmy kimmel show to end in 27
+  - sam altman biopic "creepy"
+  - mma fighter may fight a chimp?
+  - 60 years of star trek
+  - liz holems documentary: "you can see everything"
+- politics
+  - war
+    - tehran warning: evacuate mid east
+  - trump bans exports to canada for dairy, alcohol, and motorcycles
+  - chinese bonds look more attractive now
+  - UK accuses israel of "ethnic cleansing"
+  - 9/11 released toxic air: cancer deaths match amount killed in attacks
+- biz
+  - meta debuts Muse: personal AI agent
+    - free tier
+    - 20/month
+    - 100/month
+  - stock market on another run
+  - appl foldable iphone 2000USD +
+  - new appl mission: make company surprising again
+- health
+  - write to-do list before bed to sleep better
+- tech
+  - deepmind predicts 9B human dna mutations' effects
+    - human genome - 3B DNA bases
+    - 3 substitutions (mutations) for each, therefore 3*3B = 9B mutations
+
 9/8
 - politics
   - maga midterm convention at dallas
