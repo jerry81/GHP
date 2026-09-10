@@ -1,5 +1,17 @@
 [Back](../index.md)
 
+9/10
+-  politics
+  - oil at $100
+- culture
+  - new exercise debate: 3 mins vs 90 mins
+  - new study: australia best place to survive global apocalyptic event
+- biz
+  - goog invest 15B in AI infra in Finland
+  - anthropic researcher: AI has > 10% schance to kill all humans
+  - iphone 18 pro - variable-aperture camera
+  - iphone duo - first apple foldable phone
+
 9/9
 - culture
   - jimmy kimmel show to end in 27
