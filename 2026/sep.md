@@ -1,5 +1,24 @@
 [Back](../index.md)
 
+9/12
+- politics
+  - 2026 midterms - dems set to take house and maybe senate
+    - every two years
+  - houthis (yemen) closely aligned to iran
+- culture
+  - hideo kojima next game: physint - dropped by ps
+- biz
+  - altman considers slowing down AI dev
+  - nvidia to invest heavily in anthropic IPO
+  - tesla fatal hit and run - keeps driving for blocks after accident
+  - scientists trying to use claude to build bio weapons
+- health
+  - fatal rabies cases spike
+  - resting laptop on self for 8 hrs a day will give you toasted skin syndrome
+- tech
+  - red light therapy reduce brain inflammation?
+  - aug hottest month worldwide ever
+
 9/10
 -  politics
   - oil at $100
