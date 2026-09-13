@@ -1,5 +1,16 @@
 [Back](../index.md)
 
+9/13
+- politics
+  - war
+    - US finds out iranian strike that killed Us troops linked to chinese satellite images
+- biz
+  - now amodei calls for global AI slowdown
+- health
+  - new study: walking faster effective as increasing step count
+- tech
+  - mercury shrinking
+
 9/12
 - politics
   - 2026 midterms - dems set to take house and maybe senate
