@@ -1,5 +1,14 @@
 [Back](../index.md)
 
+9/14
+- politics
+  - war
+    - saudi pipeline shuts down, deepens energy crisis
+    - iran billboards display dead american soldiers
+  - cali gig drivers unionize
+- biz
+  - altman delays IPO: safety concerns
+
 9/13
 - politics
   - war
