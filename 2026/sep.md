@@ -1,5 +1,26 @@
 [Back](../index.md)
 
+9/15
+- politics
+  - newsom thinking about running, but will not run if harris runs agian
+  - CA has improved power outages due to 17K MW of battery storage
+- biz
+  - valve steam new VR headset
+    - frame
+  - AI-run store in SF not doing well
+    - vending machine
+    - experiment from Andon Labs
+      - give AI agent, Luna corporate credit card, internet, and mission to open physical store
+      - after 5 months, store has no customers and nothing useful to sell
+      - luna powered by claude
+  - MSFT/Blizzard union contract ratified by 1900 blizzard developers
+    - ratify - to formally approve
+- culture
+  - new crypto "microstate" - 800K applications for citizenship
+    - liberland
+    - danube river (serbia and croatia border)
+    - founded by czech libertarian Vit Jedlicka
+
 9/14
 - politics
   - war
