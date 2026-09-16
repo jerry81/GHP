@@ -1,5 +1,22 @@
 [Back](../index.md)
 
+9/16
+- biz
+  - stocks down in sept so far
+- politics
+  - housing market stagnant.   7% mortgages
+- culture
+  - students do farmwork and chores at a school, and pay 40K a semester
+  - hollywood fearing AI future, China film industry embracing
+- tech
+  - robot soldiers "terrifying"
+  - coreutils migrated from rust into ubuntu
+- health
+  - mosquitos worldwide spreading dengue fever
+  - 4th measles death in PA
+
+
+
 9/15
 - politics
   - newsom thinking about running, but will not run if harris runs agian
