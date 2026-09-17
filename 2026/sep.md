@@ -1,5 +1,37 @@
 [Back](../index.md)
 
+9/17
+- politics
+  - xi health worries?  cancels on modi meeting
+  - fed raises interest rate
+  - chinese satellites capable of dogfighting
+  - war
+    - RU planning assassinations in USA and EU
+  - parts of SoCal coast crumble into sea
+    - danger - nuke waste on beach near San Clemente
+- biz
+  - ai bubble about to blow?
+  - paper describes anthropic as a cult
+  - adafruit - NY based, electronics
+    - development boards for hobbyists
+    - microcontroller boards - Circuit Playground
+    - Circuit Python - derivative of MicroPython - make microcontroller programming easier
+      - instead of traditional embedded C/C++, develop in python
+    - competitor to arduino, but not raspberry pi
+  - while anthropic calls for slowing AI development, Nvidia calls for speeding it up
+    - Michael burry: "LLM is not AGI, so nothing meaningful left to slow down.  Masking growth already slowing down as IPOs get pushed back"
+- culture
+  - spiderman top box office of all time
+  - ben shapiro death threat
+  - Ink - movie about rupert murdoch
+    - guy pearce to play RM
+  - scandal in buddhism - monks drug smuggling, penis pumps, porn, sex in temples, sex tapes
+    - thailand
+  - travis kelce victim of ponzi scheme, millions
+- health
+  - eye scan to detect irregular heartbeat
+  - reading books regularly - slows aging and cognitive decline
+
 9/16
 - biz
   - stocks down in sept so far
