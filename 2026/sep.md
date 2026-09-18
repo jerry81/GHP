@@ -1,5 +1,28 @@
 [Back](../index.md)
 
+9/18
+- politics
+  - china stockpiled oil
+  - dems almost a lock for house
+    - 50+ chance to take senate
+  - war
+    - automated drones can recognize difference in vehicles but not UKR vs RU
+    - us discloses that it has deployed weapons in space
+- biz
+  - openAI discloses six more cases of AI misbehaving
+  - amzn permanantly lost customer data due to iran strikes on data centers
+  - meta forced to release camera free version of meta glasses
+  - Anthropic researcher Jacob Coxon resigns - sets off public alarms over ai safety
+    - another, Bilal Chughtai, goog deepmind also steps forward and resigns
+    - zuck: up to each company to ensure safety
+  - neuralink takes a step forward
+    - convert imagined speech to text
+- culture
+  - universal takes the musk documentary
+  - fiji HIV crisis
+- tech
+  - nyc deploys ai toilets with 10 minute time limits
+
 9/17
 - politics
   - xi health worries?  cancels on modi meeting
