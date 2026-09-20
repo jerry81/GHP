@@ -1,5 +1,19 @@
 [Back](../index.md)
 
+9/20
+- politics
+  - lauren boebert - hot House rep (CO, R) - accused of sex w 3 staffers including 200K hush payment
+  - america military using AI for intel - got fake repot saying chinese ship in Mid east transporting nukes - almost started war with china
+- biz
+  - Flock offers buyouts to employees as alternative to layoffs
+  - report on AI breaches
+    - gemini breaches 3 outside systems
+    - claude breaches openAI
+  - more AI insiders step forward with warnings
+    - Jacob Coxon - Anthropic engi
+    - Aidan Clark - OpenAI VP
+  - MSFT: makes Rust "tier one" language - sits with TS, C++, C# as best supported languages for internal dev
+
 9/18
 - politics
   - china stockpiled oil
