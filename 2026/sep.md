@@ -1,5 +1,18 @@
 [Back](../index.md)
 
+9/21
+- politics
+  - on moscow election day, drones attack, moscow in flames
+  - betinna trump - don jr wife "ruthless"
+  - obama criticises trump for not pushing regulations around AI
+  - DC to build arch complex - to be used by military
+  - kansas wavering away from red
+  - Thomas jefferson hair test proves he fathered children with slave
+  - xi DC visit
+  - trump wants to form "AI force" - he already invented space force
+- tech
+  - stem cell tech - brain actually 2 organs
+
 9/20
 - politics
   - lauren boebert - hot House rep (CO, R) - accused of sex w 3 staffers including 200K hush payment
