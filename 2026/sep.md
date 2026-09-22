@@ -1,5 +1,21 @@
 [Back](../index.md)
 
+9/22
+- politics
+  - trump approval 29% - election incoming
+    - midterm 11/3
+    - 2028 - next presidential eleciton
+    - diesel shortages
+    - n korean hackers pose as IT recruiters, infect 30K devices worldwide
+  - war
+    - yemen houthis pushing for territory in Saudi Arabia
+    - after UKR 1000 drone assault on moscow, RU launches huge assault
+  - biz
+    - amzn delivery drones running amok in TX suburbs
+    - paramount wins settlement for WB takeover
+    - 15 authors have filed suit against AI companies, publishers about 10
+
+
 9/21
 - politics
   - on moscow election day, drones attack, moscow in flames
