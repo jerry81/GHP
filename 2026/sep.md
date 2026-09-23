@@ -1,5 +1,30 @@
 [Back](../index.md)
 
+9/23
+- politics
+  - oil - 150/barrel
+  - xi seeks to extend truce w/ trump
+    - goal: shore up fragile econ at home
+  - trump made 1100+ stock trades in jul, 25M sales of MSFT, AMZN
+  - 15 worst rated airports in world:
+    - chicago ohare
+    - newark
+    - DFW
+  - trump denounces attempts to control AI
+    - wants it renamed "super intelligence"
+  - war
+    - a us strike killed 123 children
+      - palantir AI contributed
+- biz
+  - beef prices causing wendys to close 300 stores
+- culture
+  - clavicular charged with rape
+    - 17 year old
+    - Massachusetts
+    - braden peters
+    - accuser: Alorah Ziva aka Aloksandra Vasilevna Mendoza
+  - 1/5 gen z reports they have never had a partner
+
 9/22
 - politics
   - trump approval 29% - election incoming
