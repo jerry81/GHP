@@ -1,5 +1,21 @@
 [Back](../index.md)
 
+9/24
+- politics
+  - xi in DC - red carpet rolled out
+  - econ in trouble - less blue chips than ever
+  - cn expanding nuke wapons - 7 secret sites
+  - 150K tons of radioactive waste were stored on floor of ATL ocean
+    - recent investigation finds barrels have corroded, and contents spilling
+- biz
+  - mcd - may bet on chicken due to soaring beef prices
+  - btc surges to 86K, 8 mo high
+    - america announced tokenized stoks
+- culture
+  - clavicular infertile?
+  - tom cruise and inarratu(the revenant) team up for "digger"
+    - tom as a fat old man
+
 9/23
 - politics
   - oil - 150/barrel
