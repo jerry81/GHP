@@ -1,5 +1,31 @@
 [Back](../index.md)
 
+9/28
+- politics
+  - nor'easter in USA East coast
+    - name comes from strong winds blowing from north east
+    - regional - eastern canada and USA
+  - USA cancer reates dropping, except Iowa
+  - chinese mothers travelling to tiny island to give birth to american babies - saipan island
+  - AI buildout - 3.63 of GDP per year - larger than US canal, rail, electric, highway, and telecom
+  - china and us agree to start talks about AI
+- culture
+  - celcius - trendy energy drink
+- biz
+  - appl faces legal action vs iphone/watch haptics tech
+  - waymo: reduced injuries in accidents by 82%
+  - openai pauses model training to build more safeguards
+  - raspberry pi stock jumps 30%
+    - high demand
+    - better inventory of RAM
+  - open ai fires ai trainers for "using AI to train AI"
+    - contractors
+- tech
+  - solar cell tech: tin-based trap heat 1000 times longer
+  - new weakness found in RSA - "signature forgery"
+  - Goog claims "live avatar" capability - speech agent for gemini 3.8
+    - lip syncing, expressions
+
 9/24
 - politics
   - xi in DC - red carpet rolled out
