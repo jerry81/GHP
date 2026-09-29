@@ -1,5 +1,27 @@
 [Back](../index.md)
 
+9/29
+- politics
+  - diesel prices up
+  - bond sell-off
+    - bond rout last week
+  - war
+    - N Korea to deploy 10K troops to russia
+      - 8K
+- culture
+  - sydney sweeny converting to jewish?
+- biz
+  - AMZN wants drone deliveries in Aus, Asia
+  - data centers now paying off nearby households
+    - 10K checks
+  - openAI scraps new model release due to safety issues
+  - amd acquires a feifei li company, World Labs
+    - FFL - AI pioneer
+    - 8.2B all-stock deal
+    - AMD ceo - lisa su
+- tech
+  - dna edited bananas never go brown
+
 9/28
 - politics
   - nor'easter in USA East coast
