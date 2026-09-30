@@ -1,5 +1,16 @@
 [Back](../index.md)
 
+9/30
+- politics
+  - jack smith - trump prosecutor - determined to hold trump accountable
+  - state of florida vs openai
+- tech
+  - new firefox design
+  - msft says linux containers run natively on win 11
+- biz
+  - report: McD using AI to "dynamically price" burgers
+  - new openAI product: dots - always-on agent
+
 9/29
 - politics
   - diesel prices up
