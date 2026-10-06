@@ -2,6 +2,7 @@
 
 - 10/6
 - politics
+  - 20% of swiss glaciers lost in 5 years
   - russia pneumonic outbreak
   - usa, pa measels
   - epstein wistleblower (lutnick) found dead
@@ -9,7 +10,14 @@
   - tax break for rural data centers
   - norway to temporarily ban smart glasses
   - sf car crime down... thanks to "flock" cameras?
+  - professor and researcher at dartmouth accused of using AI
 - biz
+  - FTC investigating AI bigwigs
+  - micron CEO Sanjay Mehrotra
+    - generating record profits
+  - Goog testing AI data center in space
+  - EU "homegrows" teams alternative, gov officials not happy with result
+    - Element Pro
   - musk breaks 1T again
   - open AI "rogue bots" may have been linked to recent wikipedia outage
 - culture
@@ -17,8 +25,15 @@
   - lebron making money on polymarket
   - nba to experiment with "smart basketballs"
 - tech
+  - kelvin wave - massive band of warm water threating usa west coast - swells tides
+  - 1 in 8 cancers due to infection
+  - northstar: minimalistic browser made by slashdot user
   - python add rust to cpython
     - cpython - standard, most widely used impl of python
+  - ps5 emulation coming to pc?
+  - RSS - Really Simple Syndication - a way to receive updates from websites without visiting them directly
+    - reddit is terminating its rss feed ending its public api
+      - too much abuse from automation and scraping
 
 - 10/4
 - politics
