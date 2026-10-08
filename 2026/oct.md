@@ -1,5 +1,28 @@
 [Back](./index.md)
 
+- 10/8
+- politics
+  - penny has already gone extinct, nickel next?
+  - los angeles exodus - fresno destination
+  - WHO investigating plague victim in RU
+  - claudia sheinbaum - president of mexico
+    - aka cladia pardo - german/yiddish - ashkenazi jews who migrated to mexico
+    - losing patience with usa
+  - usa bond market mess: warning to the world?
+- culture
+  - mia goth files for divorce from shia lebouf
+- biz
+  - goog and unity teamup: Playground
+    - create video games from AI prompts
+  - msft + nvidia - surface laptop - 2599USD
+  - xbox gets exclusive gta6 streaming rights
+  - mistral releases "le chonk" - says it rivals china top models
+- tech
+  - skorea national banks hacked - AI to blame?
+  - daylight savings harming sleep and mental health (canadian analysis)
+  - EU chatgpt experimenting with text watermarking
+    - embedding invisible characters to identify AI as source
+
 - 10/6
 - politics
   - 20% of swiss glaciers lost in 5 years
