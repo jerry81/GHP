@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+- 10/9
+- politics
+  - nidal malik hasan (fort hood shooter) execution via firing squad will be livestreamed
+    - nov 5, 2009, army base in tx
+      - 13 killed, 30 injured
+      - another incident in 2014
+  - kimberly guilfoyle - former fox news host, engaged to don jr
+  - war
+    - houthi(yemen) strike on saudis, pakistan joins in to help saudis
+  - MSFT, adobe, cognizant, hcl, capgemini banned from green card program (like h1b)
+- culture
+  - gay and bi teens rate dropping
+- tech
+  - Vienna and Beijing both have built first ever thorium nuclear clocks
+
 - 10/8
 - politics
   - penny has already gone extinct, nickel next?
