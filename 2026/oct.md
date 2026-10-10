@@ -1,5 +1,15 @@
 [Back](./index.md)
 
+10/10
+- politics
+  - hurricaine hits florida
+  - usa makes a diesel deal, with RU!
+  - LOLcow: Hitler Mussolini Simeón Flores wins peruvian election
+- biz
+  - flock job cuts
+- tech
+  - 1.1.1.1 is cloudflare dns
+
 - 10/9
 - politics
   - nidal malik hasan (fort hood shooter) execution via firing squad will be livestreamed
