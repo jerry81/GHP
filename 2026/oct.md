@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+10/12
+- politics
+  - war
+    - day 226 of war, saudis shaken up
+    - riyadh - capital/largest city of SA
+      - missle strikes by houthis
+  - Los Angeles taken over by mosquitoes
+- culture
+  - man jumps into tiger enclosure in UK to take a picture with it - dies
+  - the social recogning bombs, 5.5M opening
+  - spider noir cancelled
+    - AMZN owned
+    - Cage refuses AI waiver
+- biz
+  - meta engis working on CRAM (compressed ram)
+    - almost as fast as DRAM
+    - much faster than ZRAM, ZSwap
+  - tesla cybertruck. flop so far, only 13% of goal reached
+  - ps5 and xbox sales down over 25%
+  - investors critical of anthropic IPO - 2T valuation 440x 2025 revenue
+  - gas car sales now below 50% of total
+- tech
+  - AI abuse: RU and Iran used AI models to launder geopolitical conflict-related messaging - "false front" propaganda campaigns
+    - fake leaked documents and audio
+  - lets encrypt cuts ssl cert lifetimes to 64 days starting 2027 - from 90
+  - ubuntu victim of ddos attack
+  - declining soil quality leads to UK veggies being 20-50% less nutritious than 60 years ago
+
 10/10
 - politics
   - hurricaine hits florida
