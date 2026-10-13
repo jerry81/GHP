@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+10/13
+- culture
+  - rj mitte dead 34
+  - diddy attacked in prison
+    - 50 month sentence
+    - 吹牛老爹
+- biz
+  - zuck says meta has "reached AI frontier" with release of Muse Wonder
+- politics
+  - war
+    - RU and UKR attacking each others' data centers
+    - saudi prince on the run
+    - anthropic admits made houthi rockets more efficient
+- tech
+  - Coding agents generate more code, but not more software
+    - longer code review processes cited
+  - linus says he likes using AI
+
 10/12
 - politics
   - war
