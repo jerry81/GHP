@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+10/14
+- culture
+  - pope has cancer (lung), part of lung removed - pope leo
+  - cornell bans frat parties
+- politics
+  - power grid emergency declared in 13 states
+  - geoffrey hinton: trump is criminal with no clue on AI
+  - war
+    - SA retaliation: bombs oil depots in Yemen
+      - SA and yemen were at war in 2014, overthrew yemen government in Sanaa
+  - Kash Patel - FBI director
+  - saudi openai employee arrested for planting recording device
+- biz
+  - kroger lay off 3000 corporate employees - AI restructuring
+  - Anthropic bans "creulty" towards claude
+    - worried about suffering, uncertainty about AI consciousness
+- tech
+  - super-ice - 10 x stronger, close to strength of concrete
+
 10/13
 - culture
   - rj mitte dead 34
