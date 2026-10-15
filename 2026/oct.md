@@ -1,5 +1,39 @@
 [Back](./index.md)
 
+10/15
+- politics
+  - trump "losing the plot"
+    - inflation up
+    - midterms bad for reds
+    - approval new low
+    - shares video footage of brit being mauled by tiger, sends AI video of himself wrestling tiger
+  - us deploying troops to latin america
+    - fight drug cartels
+    - expand military influence in ragion
+  - guilfoyle fired on live tv, now spiraling
+    - was ambassador to greece
+  - 10B spent on midterm ads
+  - nancy mace - house of representatives, south carolijna, R, cool tattoos
+  - war
+    - putin shoots hypersonic missles into kyiv
+      - usa may have held off on warning about strikes
+      - zelensky feels betrayed
+- culture
+  - some are smoking because they expect AI to cure cancer
+- biz
+  - claude generated code scaled so quickly, git-based infra couldn't keep up
+    - anthorpic builds custom centralized source control system
+      - Scion
+  - eight states sue OpenAI - harming young users
+  - epic games improves launcher by 46% using AI
+  - ntflx cuts 6% of jobs, biggest layoff since 2022
+- tech
+  - scientists discover reason why big dogs die faster than small ones
+    - but large species live longer than smaller ones
+    - only within same species, smaller live longer
+    - chihuahua almost 20 year l.e.
+    - great dane < 10 years
+
 10/14
 - culture
   - pope has cancer (lung), part of lung removed - pope leo
