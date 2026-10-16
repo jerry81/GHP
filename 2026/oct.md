@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+10/16
+- politics
+  - bloodbath at oregon elementary schol
+    - 5 dead
+    - 16 year old shooter
+    - good samaritan kills shooter
+  - robot sexually assaults girl in cologne, touches butt and makes thrusting movements
+- biz
+  - bubble?  data center deals slowing
+  - tesla unveils new roadster - does a midair flip
+    - 0-60 in .81 seconds
+    - 250K price tag
+  - uber self driving robotaxis in manchester
+
+
 10/15
 - politics
   - trump "losing the plot"
