@@ -1,5 +1,23 @@
 [Back](./index.md)
 
+10/18
+- politics
+  - philadelphia woman blocks delivery robot to protest job displacement, gets arrested
+  - riots in france
+  - cost of living protests in milan and lisbon
+  - katie zacharia - steps in and down as press secretary
+  - war
+    - hormuz ship attacks rising
+- culture
+  - musk documentary filmaker concludes he is sociopathic
+- tech
+  - new dopanmine sites trending
+    - smoking simulator
+    - eating/shopping
+  - linux maintainers no longer have to declare llm use on changes
+- biz
+  - AI has "shut down" entire video game reverse engineering industry
+
 10/16
 - politics
   - bloodbath at oregon elementary schol
