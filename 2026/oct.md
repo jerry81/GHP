@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+10/19
+- politics
+  - cali outlaws human vs robot matches
+- culture
+  - "you can see everything" - liz holmes docu - rave reviews
+    - 80 reviews, 100% rotten tomatoes score
+- biz
+  - 10T AI boom starting to crack?
+    - delayed data center projects
+    - high interet rates and souring bond market
+    - investors reevaluating risks
+    - open ai delayed IPO
+- tech
+  - more websites blocking ai agents
+    - amazn, schwab, jp morgan chase, delta airlines
+  - PL popularity: R, Julia, Rust up, Go down
+
 10/18
 - politics
   - philadelphia woman blocks delivery robot to protest job displacement, gets arrested
