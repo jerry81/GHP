@@ -1,5 +1,17 @@
 [Back](./index.md)
 
+10/20
+- politics
+  - trump threat: if reds lose congress, usa "will burn"
+  - don holding out on giving UKR weapons
+- biz
+  - netflix "hitting wall"
+  - elon musk vow: a spacex share for every kid in america
+- health
+  - nuts for blood pressure
+- culture
+  - you can see everything 2000+ sold out shows
+
 10/19
 - politics
   - cali outlaws human vs robot matches
