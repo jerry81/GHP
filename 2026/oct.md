@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+10/21
+- politics
+ - france installs curfew, calming riots
+ - US bans deepseek from govt use
+ - tp link (shenzhen) forced to manufacture in mississippi after router import ban
+ - war
+   - ukr first ever drone evacuation of wounded soldier (claim)
+- biz
+  - tesla x spacex discussing merger
+  - goog support default: AI chatbots
+  - anthropic cloud deal talks with Nscale
+    - 45B
+- health
+  - ADHD linked with higher death risk
+- culture
+  - now nascar drivers diagnosted with CTE
+  - professor suggests "abolishing business school for failing society"
+    - profit-driven dealmaking at expense of public life
+    - reward dealmaking, simplification, and optimization for financial metrics
+    - workers and communities become afterthoughts
+    - transfer of wealth from workers towards shareholders
+
 10/20
 - politics
   - trump threat: if reds lose congress, usa "will burn"
