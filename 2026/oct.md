@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+10/22
+- politics
+  - trump show
+    - trump including references to his "hot male bodyguards" in his speeches - audience approval
+  - thiel doubling back over iran war: "we shouldn't have done it"
+- biz
+  - zuck leave cali over wealth tax
+  - ebay to cut 9%
+  - open ai on all 3 major us cloud platforms
+    - goog cloud, azure, amazon
+    - msft exclusive deal ended
+- culture
+  - tate "sick" in prison
+- tech
+  - php announced two critical vunerabilities, gov websites go dark
+
 10/21
 - politics
  - france installs curfew, calming riots
