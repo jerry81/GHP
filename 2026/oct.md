@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+10/24
+- politics
+  - war
+    - UKR drone striking yandex data centers
+  - jordan church shooting - 7 dead, 40 injured
+    - act of terrorism
+- biz
+  - goog employees quit due to developing AI for the military
+  - claude duet to compete with meta muse and openAI dots
+  - moderna shares plunge after cancer vax info leaked
+  - self driving tesla hits and kills pedestrian on highway
+  - spacex wants to launch starlink mobile - 4th mobile service in USA - will work with 80K cell sites across country
+- tech
+  - PHP used by millions of websites, vunerabilities never exploited in the three years they have existed
+  - GUI on clothing
+  - MIT research; ai agents left on a desert island with no clear goals will start to play
+
 10/22
 - politics
   - trump show
