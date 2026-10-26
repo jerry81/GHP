@@ -1,5 +1,20 @@
 [Back](./index.md)
 
+10/26
+- politics
+  - brazilian electino: lula wins
+  - israel election upcoming
+  - usa defense builds "tech sabotage committee"
+- culture
+  - professor determines there is "no point" to grading homework due to AI usage
+- biz
+  - economist: AI delivers 0 financial payoff
+  - openAI to do model training without Internet access
+  - warhound - startup focusing on genetically modified military dogs
+- tech
+  - poll: 15% say AI writes most of their code in survey
+  - crows evaluate visual info twice as fast as humans
+
 10/24
 - politics
   - war
