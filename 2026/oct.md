@@ -1,5 +1,37 @@
 [Back](./index.md)
 
+10/29
+- politics
+  - flavio bolsonaro, freshly defeated, flees to miami  - "self imposed exile"
+  - FOX ratings down
+  - ICE actual agenda - anti-left?
+  - mid-terms - abdul el-sayed running for senator, MI
+    - trump spewing racism, "national security risk"
+    - wants end to aid to israel
+- health
+  - psychadelics nasal spray eases depression for weeks
+    - DMT aka mebufotenin, aka 5-MeO-DMT
+- biz
+  - coding interview "dead" says anthorpic engineer
+    - because AI outperforms candidates on challenges they contain
+  - AMZN AI: amazon puts camera into Echo studio - allowing alexa to see
+  - AMZN finding "tokenmaxxing" lacks productivity gains
+    - heavy AI usage doesn't automatically equal better work
+  - aapl first touchscreen macbook pro
+  - Appl chips up to M6
+  - China AI bubble "already burst"
+    - STAR50 index of AI and semiconductor (china) down 40% in 4 months
+      - high valuations, tax bills, threat of foreign bans
+  - IG adding long form videos, widescreen - compete with youtube
+  - hackers spoofing GPS to redirect cargo trucks to steal data center equipment
+  - MSFT mass buyouts for 1/4 of workforce (80K workers)
+    - "voluntary retirement program"
+  - anthropic IPO filed (ANT) - 2T valuation, nasdaq
+- tech
+  - US designate Helium as critical material - role in semiconductors and energy generation
+    - US largest producer, qatar and RU also top helium producers
+
+
 10/26
 - politics
   - brazilian electino: lula wins
