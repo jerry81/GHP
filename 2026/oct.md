@@ -1,5 +1,19 @@
 [Back](./index.md)
 
+10/30
+-  politics
+  - 74% chance dems take senate
+  - netanyahu risking losing power
+- biz
+  - Alice Huang - chinese spy may funneled nvidia chips to china - and had close relationship with jensen!
+  - billions stolen from binance
+  - btc investors rattled
+  - tech stocks fall - earnings not matching spending
+    - goog down half a trillion (12.6%)
+      - reason?  ai mode search generates less revenue than trad search
+    - amazon tanks
+    - intel plunges 22%
+
 10/29
 - politics
   - flavio bolsonaro, freshly defeated, flees to miami  - "self imposed exile"
