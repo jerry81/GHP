@@ -1,5 +1,33 @@
 [Back](./index.md)
 
+11/5
+- politics
+  - china plans lunar landing within 3 yrs
+  - LA projected new mayor: Nithya Raman - to replace incumbent karen Bass
+    - born kerala india
+  - hegseth (defense secretary) may be on chopping block
+  - cyberattacks now hitting blood banks in france
+  - due to drone strikes, now has demand to make underground data centers
+- biz
+  - appl coming products
+    - homeview ultra - smart home hub/home robot
+  - BYD more EV sales last month than entire USA
+  - SUSE (linux) cut 10% workforce due to AI
+  - tape storage industry demand from AI
+    - fujifilm
+  - workers lose a day a week correcting mistakes made by AI?
+  - open ai claim: its search is catching up to goog
+  - netflix new feature: AI Discover
+  - waymo and uber end partnership for robotaxis
+  - amd about to outsell intel for first time in history
+  - canva to cut 22% of global workforce
+    - 1200 jobs
+  - firefox new mini windows
+  - binance hackers used fake job interviews, ai tool to steal 6.3B in crypto
+    - wallet department devops downloaded tampered homebrew
+- tech
+  - astra (gpt6) directly edits qwen (smaller model) weights directly, improving math scores
+
 - 11/3
 - politics
   - dems ready to take house and senate
