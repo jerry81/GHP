@@ -1,5 +1,8 @@
 [Back](./index.md)
 
+11/11
+-
+
 11/10
 - politics
   - hegseth impeachment saga
