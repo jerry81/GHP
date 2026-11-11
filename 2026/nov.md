@@ -7,12 +7,24 @@
   - hegseth impeachment blocked
   - trump was told about nvidia spying
     - he denied it
+  - schumer accuses trump of defending trump ignoring national security
   - war
     - iran official: no talks underway with USA yet
   - dems already investigating corpo america's big names
 - culture
   - ohio mom gives birth to 17th child
 - biz
+  - inflation causes bonds to drop
+    - dollar gain traction
+  - oil rebound
+  - FTSE financial times stock exchange - london
+  - CAC - france se
+  - DAX - deutsche aktienindex
+  - STXE - pan-European index (managed by german company)
+  - bse sensex - bombay stock exchange
+  - hang seng - hong kong SE
+  - more nvidia dirt - pla-linked cn uni bought nvidia h200 chips despite us blacklist
+    - senator calls for him to resign
   - boston dynamics: atlas gets wheels
   - uber - parking reservation service
     - uber parking
