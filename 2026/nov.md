@@ -1,5 +1,51 @@
 [Back](./index.md)
 
+11/10
+- politics
+  - hegseth impeachment saga
+  - millions bet on prediction market
+  - lauren boebert (CO) loses seat
+  - trump xi and putin to meet at APEC in china
+    - asian pacific economic cooperatoin summit
+    - 亚太经济合作组织
+  - trump demands israel compensate US for fighting iran
+  - the refridgerator hack (france) was iran?
+    - france accusing
+- biz
+  - claude code feature, "don't ask again" - exposes passwords and keys in 1122 public repos in github
+  - goog to compete with Nvidia with 2 speciailized AI chips
+    - TPU 8tx, 81Max
+  - huawei makes 100% chinese pc
+    - cpu - kirin from huawei
+    - os - harmonyOS
+    - pc called the qingyun HM650
+    - GPU - Huawei's own Maleoon 910
+  - new fable and mythos 5.2 models released
+  - nvidia to probe huang
+    - trump ally
+    - trump supportive, having FBI look into it
+  - panic at appl?
+  - UK trending electric vehicles
+  - crowdstrike "AI Kill switch" product
+- culture
+  - russel gets 10 years for rape
+  - pattinson as bond?
+  - chappelle under fire for saying
+    - "ever since charlie kirk death, i feel better"
+- tech
+  - vibrating mattress clear alzheimer's protein from brain
+  - usa - 3rd major offshore windfarm
+  - mandating AI use in workplace - bakfiring?
+    - reqiring workers to use specific number of tokens
+    - cause employees to feel devalued and disengaged
+  - data centers powered by giant gas plants - increasing carbon pollution
+  - python CVE triple
+  - fda warning about GLP-1 drugs - sudden blindness risk
+  - asahi linux: reason you can run linux on apple silicon
+    - switches from MIT to GPL license
+      - GPL requires further usage is free
+      - MIT is anything goes
+
 11/5
 - politics
   - china plans lunar landing within 3 yrs
