@@ -1,7 +1,35 @@
 [Back](./index.md)
 
 11/11
--
+- politics
+  - new york: first state AI testing program
+    - for safety and security - also responsible AI
+  - hegseth impeachment blocked
+  - trump was told about nvidia spying
+    - he denied it
+  - war
+    - iran official: no talks underway with USA yet
+  - dems already investigating corpo america's big names
+- culture
+  - ohio mom gives birth to 17th child
+- biz
+  - boston dynamics: atlas gets wheels
+  - uber - parking reservation service
+    - uber parking
+  - reddit new project
+    - user convesrations -> ai-powered product reviews
+    - reddit reviews - shopping feature
+  - blender 5.3 with nvidia DLSS
+  - anthropic launches workplace features to compete with office and goog
+    - claude meetings
+    - claude whiteboards
+    - claude sheets
+  - toyota interested.  i"tiny trucks"
+  - google fi - goog mobile phone service - mobile virtual network operator
+    - runs atop tmobile and us cellular
+    - smartly switches between networks to get best signal in location
+- tech
+  - flying cars launch in cn next summer?
 
 11/10
 - politics
