@@ -24,3 +24,4 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
 - "nvidia loves a violent bounce"
 - whipsaw" - rapid price movements in both directions, causing traders to get caught on the wrong side
   - nvidia often goes into whipsaw after violent bounce
+- most stops happen regular hours only
