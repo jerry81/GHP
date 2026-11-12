@@ -25,3 +25,7 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
 - whipsaw" - rapid price movements in both directions, causing traders to get caught on the wrong side
   - nvidia often goes into whipsaw after violent bounce
 - most stops happen regular hours only
+- 164-170 zone always going to be tested
+- 156 low
+- 11/13 predictions - could be 150-153 on a bad wick
+- sideways first is a good growth outlook
