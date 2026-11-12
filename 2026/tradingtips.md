@@ -18,3 +18,9 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
 - on dips and cheap markets - sell put options, buy call options, buy shares
 - example sell 2 year put contract in bear market
   - sell a put = buy stock at a strike price - get paid up front for the promise
+
+# on jensen scandals
+- one analyst said dip "zone" was going to be tested regardless of scandals
+- "nvidia loves a violent bounce"
+- whipsaw" - rapid price movements in both directions, causing traders to get caught on the wrong side
+  - nvidia often goes into whipsaw after violent bounce

@@ -1,5 +1,35 @@
 [Back](./index.md)
 
+11/12
+- politics
+  - alice huang now in beijing
+  - howard lutnick stalled china chip curbs
+    - lutnick - secretary of commerce
+  - trump and bibi heated call?
+  - eric trumpe backed robot startup dealing with israel military
+  - dems pledge to expose corruption
+    - white house destroying documents?
+  - TX commands data centers cut power before blackouts
+  - only 1/3 germans satisfied with democracy
+  - schools in europe receive bomb alerts in schools (hoaxes) (UK, Ireland, italy)
+  - NY state socialist policy - tmobile end data caps for low-income plans
+  - john kerry sees china as a model for green energy that us must follow
+  - war
+    - ukr strikes on RU cause permanent data loss for yandex
+- biz
+  - gta6 preloading - dl is 210gigs
+  - logitech gives workers day off to play gta 6
+    - 7000 employees
+  - SG airlines - cabins with lobster and "largest bed"
+  - UA bans AI agents from booking flights
+    - privacy and security reasons
+  - nvidia shareholders file suit about being lied to about spy affair
+- culture
+  - 4 months ago, couple climbed the empire state building antenna
+    - ntflx documentary "skywalkers"
+    - facing felony charges though
+    - in NYC on a talent visa, want to stay
+
 11/11
 - politics
   - new york: first state AI testing program
