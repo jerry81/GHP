@@ -1,5 +1,43 @@
 [Back](./index.md)
 
+11/17
+- politics
+  - war
+    - reported: iran plots dirty bomb on DC
+      - radiological weapon
+    - previously iran made attack on MN water systems
+  - trump has up to 97.5 M in nvidia
+  - 4000 flights cancelled, FAA denies impact of new ai system
+- biz
+  - spacex 74B investment into data center construction in TX, AZ
+  - AMZN expands drone deliveries but gets noise complaints
+  - AMZN plan to index world's shopping data
+  - BTC down 24% in 46 days - rising inflation
+  - nvidia case developments
+    - jensen misled company leaders including general counsel about nature of relationship
+    - megaspeed bypassed america controls on exporting chips to china
+    - twn wants to criminalize unauthorized exports of ai chips to china
+  - gates hipocrisy alert - 29B stake in landfill operator
+  - gta release: celebrated by 20% of american workforce (vacation)
+    - youtube prepping partnered streams with rockstar
+    - city of miami - showing fictional brands from game on billboards
+  - AMZN taking rights to 007 franchise
+  - UA outage
+  - more openai lawsuits
+  - 400 data centers consume as much electricity as state of michigan
+  - MSFT downtime - leads to chlorine poisining in german theme park
+  - appl smart ai glasses - 2027 launch
+  - spacex catches starship on first try
+    - but fails the double starship catch
+  - huawei new home battery challenges tesla powerwall
+  - usa has recovered and seized 1.2B in crypto that was stolen from binance
+- culture
+  - brand claims innocence in prison
+    - rules are prisoners banned from making statements causing distress to victims
+- tech
+  - TIOBE index - rust out, go in
+  - USA no longer considered to have eliminated measles
+
 11/12
 - politics
   - alice huang now in beijing
