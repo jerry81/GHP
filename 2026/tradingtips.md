@@ -29,3 +29,70 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
 - 156 low
 - 11/13 predictions - could be 150-153 on a bad wick
 - sideways first is a good growth outlook
+
+# 11/7 dips
+- micron expect 630 supoort floor
+
+- todo: understand reading forward and backwards p/e
+- "massive discount"
+- "repricing of ai trade"
+- todo: understand "draw down"
+- operating cash flow 50b to 24b
+
+- spread sheet: intrinsic value of nvidia 178
+- low estimate for nvda - 145
+- nvdia
+  - buy
+
+- aapl - one of strongest of the mag 7
+  - sell
+
+- msft
+  - azure largest income driver, ahead of google cloud, behind amzn
+  - only big ai spender with positive free cash flow
+  - projected low 452, high 705
+    - hold
+
+- googl/goog - googl has voting rights, irrelevant to us
+  - cloud way up
+  - hold
+  - low 272
+  - high 392
+
+- amzn, 261
+  - aws - 46b revenue
+  - spending hard on AI
+  - large stake in ANT
+  - intrinsic 311
+  - low 256 high 377
+  - buy
+
+- tesla - 281
+- down 3.23 YTD
+- challenging waymo
+- 150 low 258 high
+- strong sell
+
+- meta - 631
+  - all time high 780
+  - revenue comes from ads
+    - 63B
+  - spending over revenue for over 12 months
+  - discount to usual level
+  - low 668
+  - high - 986
+  - 813 inttrinsic
+  - strong buy
+
+
+# watching a bear tastylive
+- thinks stx can't drop anymore, high of 1200, down to 400/500, currently 500
+- thinks nvidia can drop by 90% b/c it is leveraged on circular deals
+- wall street guys always bullish
+  - storng hold or hold
+  - excuse currently "cheap"
+- thinks s&p is not cheap right now
+- likes MU as a bear
+- predicts a nasdaq fall
+- expects "vicious" rally
+- thinks valuations all too high though in the long run
