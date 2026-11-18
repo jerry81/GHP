@@ -96,3 +96,35 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
 - predicts a nasdaq fall
 - expects "vicious" rally
 - thinks valuations all too high though in the long run
+
+# 11/18
+- add to watch (down 35% from year highs)
+  - INTC intel
+  - MRVL marvell
+  - ORCL
+  - DELL
+  - NOW - servicenow
+  - INTU - intuit
+  - DDOG - datadog
+  - HPE
+  - FICO - fico?  (todo lookup)
+  - SMCI - supermicro
+  - AMAT - applied materials
+  - LRCX - lam research
+  - GLW - corning
+  - F - ford
+  - BSX - boston scientific
+
+- jeremy lefebvre buys
+  - says "usually look for a 20-25% fall", s&p down 15%
+  - nvidia trading "cheap"
+  - nvidia going through "earnings bubble"
+    - nvidia revenue "as good as it gets" and will start to decline
+    - vs p&g - no earnings bubble, purchasing of their products constant and expected to continue (daily use household products)
+  - on HOOD
+    - phenomenon - people with margin is up 127%
+    - retail investors getting destroyed right now, heavy on options/leverage/leveraged stocks
+    - when mkt down, activity on HOOD goes down
+    - if s&p down 15-25%, expect HOOD to go down to 40-50
+    - "currently deccelerating"
+    - still profitable
