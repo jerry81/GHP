@@ -119,7 +119,7 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - F - ford
   - BSX - boston scientific
   - WM - waste management
-  - - mastercard
+  - MA - mastercard
 
 - jeremy lefebvre buys
   - RH - 50 shares 116
@@ -209,3 +209,18 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
       - reduce from tsm
       - remove amd
       - reduce avgo
+
+- dividend data
+  - dividend focused account
+  - 14k yearly dividend income from 330,247
+  - bought nvda at 202, continue added during drop
+  - hesm - hess midstream - chevron divesting
+    - 30.78
+    - 11.17% down ytd
+    - adding more
+  - sold exxon XOM when it was cheap (30)
+    - now 167 with low dividend yields
+  - sold MO (altria) at 72 (nicotine, parent of philip morris)
+    - pays almost all profits as dividends
+    - 3-4% dividend yield too low
+  -
