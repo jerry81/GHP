@@ -118,6 +118,8 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - GLW - corning
   - F - ford
   - BSX - boston scientific
+  - WM - waste management
+  - - mastercard
 
 - jeremy lefebvre buys
   - RH - 50 shares 116
@@ -159,3 +161,51 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
     - net margin - net income / revenue
       - how much of every dollar of sales makes it to bottom line as profit
       - nvda often net margin of 40
+
+- meet kevin
+  - anthropic and nvda tied together
+  - 2.5T trillion backlog on chips, but chips bearish right now
+  - rental rates up
+    - hopper agreements +60
+    - blackwell up more
+
+  - goldman sachs: hedge funds selling the chip stocks
+    - too much leverage
+    - kevin: buy the dip on qualtiy basket
+
+  - political clock
+    - after midterms - nervousness
+    - nxt 2 years
+      - trump still has veto power
+    - 2028 election
+
+  - nvidia working on jetson, groot, issac (robotics)
+    - three layers of same strategy - robotics/physical AI stack
+    - jetson hardware
+    - isaac - software/dev layer
+    - groot - model layer (LLM)
+
+  - dividend talks
+    - gives mu at 730 a buy rating
+    - ntflx - 62 buy
+    - dis - 118 hold buy at 100
+    - mastercard - 659 - slight buy
+    - asml - 1400
+      - hold
+    - WM (waste management) - 244 - hold
+    - TSM - 373 - buy
+    - PG - 173 - sell, 156 > buy
+    - BRK.B - 592.85
+      - usually up when tech is down
+      - sell
+    - Booking BKNG - 157.53
+      - strong buy
+    - appaloosa stances
+      - added 275k stocks to micron, 15k to asml, 75k to nvda, 3.6M to spcx
+      - 1m to orcl
+      - 136k to crwv
+      - 2.5m to pg&e
+
+      - reduce from tsm
+      - remove amd
+      - reduce avgo

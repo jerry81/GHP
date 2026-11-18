@@ -1,5 +1,24 @@
 [Back](./index.md)
 
+11/18
+- politics
+  - marine le pen (far right leader)
+    - suggests lowering retirement age to 60
+- biz
+  - nvidia saga: stopped reporting sg sales after changing sg to hq location
+    - 2nd biggest geographic area by revenue
+  - bear: AI advances coincide with sharp rise in cyber incidents
+    - "everything getting hacked"
+  - appl bear: outages
+  - waymo removes driverless taxis from highways
+  - optimizely (cdn) hacked, malware
+  - openAI bear: cali sues over ai model "loss of control"
+- culture
+  - kanye attempting comeback, starting with apologies
+- tech
+  - ai models identifying civilians as military targets in tests
+  - 123455 world's most popular password for 7 of 8 most recent years
+
 11/17
 - politics
   - war
