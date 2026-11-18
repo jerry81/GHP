@@ -33,10 +33,12 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
 # 11/7 dips
 - micron expect 630 supoort floor
 
-- todo: understand reading forward and backwards p/e
+- understand reading forward and backwards p/e
 - "massive discount"
 - "repricing of ai trade"
-- todo: understand "draw down"
+- understand "draw down"
+  - measures decline from peak
+  - percent drop from highest value a position has reached down to lowest point - always anchored to reference high point
 - operating cash flow 50b to 24b
 
 - spread sheet: intrinsic value of nvidia 178
@@ -107,7 +109,9 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - INTU - intuit
   - DDOG - datadog
   - HPE
-  - FICO - fico?  (todo lookup)
+  - FICO - fico
+    - company behind credit scores
+    - fair issac corp
   - SMCI - supermicro
   - AMAT - applied materials
   - LRCX - lam research
@@ -116,6 +120,11 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - BSX - boston scientific
 
 - jeremy lefebvre buys
+  - RH - 50 shares 116
+  - SOFI - 1000 shares 14.3
+  - NFLX - 500 shares 59.615
+
+- jeremy lefebvre analysis
   - says "usually look for a 20-25% fall", s&p down 15%
   - nvidia trading "cheap"
   - nvidia going through "earnings bubble"
@@ -128,3 +137,25 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
     - if s&p down 15-25%, expect HOOD to go down to 40-50
     - "currently deccelerating"
     - still profitable
+  - NVDA
+    - people buying calls, buying long
+    - what if bad developments with investigations - crash another 50%
+    - low p/e so "fine"
+    - earnings bubble
+    - circular financing
+      - not sustainable
+  - MU
+    - forward p/e 3.9
+      - current share price divided by analysts' estimate of earnings per share over next 12 momths
+        - estimate, not actual, so forecast risk is there
+
+  - Tom Lee - identifies bad news as blue tsunami and nvidia scandal only
+    - "margin selling" and derisking
+      - margin selling is aka short selling - uses margin account to bet stock will fall
+
+  - considered big hit coming in short term to amzn goog msft meta for their huge spending
+
+  - AMD "net margins" 17%
+    - net margin - net income / revenue
+      - how much of every dollar of sales makes it to bottom line as profit
+      - nvda often net margin of 40
