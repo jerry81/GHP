@@ -1,5 +1,22 @@
 [Back](./index.md)
 
+11/19
+- politics
+  - musk claims he is "not maga"
+  - cn seeks nvidia chips for ai weapons (alleged)
+- biz
+  - satya - AGI-pilled - economy level changes - must prepare
+  - costco benefiting from "apocalypse panic"
+  - anthropic IPO incoming
+  - goog buys spirit airlines data from Spirit airlines (defunct) for 10M
+  - hacker found guilty of leaking gta 6 footage in 2022
+- culture
+  - cambridge dictionary word of the year: "human"
+  - bond girl will be trans?
+  - 1 in 5 workers taking pto to play GTA6
+- health
+  - unhappy marriage increase dementia risk
+
 11/18
 - politics
   - marine le pen (far right leader)

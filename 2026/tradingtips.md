@@ -267,3 +267,25 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
     - biggest risk jensen creates a competitor
       - could leverage his contacts and knowledge to start a competing AI chip company, plus brain drain
 
+- jeremy lefebvre analysis
+  - cheesecake (CAKE) up always
+  - many things currently going down
+    - expected
+    - btc down 23% (month)
+    - silver 21% down
+    - gold 10% down - shocking
+    - GSCI (commodities) down 11.68 % - good for inflation
+    - copper futures (COPPER1!) down 13.96% - recession flag?
+    - oil down 21% month
+  - when things go down you fall into 3 groups
+    - lazy - not listening to conf calls, not researching, not analyzing portfolio, keep eye on it all the time
+    - too much risk - heavy in one or two stocks, heavy in industry, margin, leveraged etfs
+    - clueless - value companies, income statements, hedge portfolio properly
+  - "always money to made in market"
+    - sometimes everything crashes
+      - still can make money from put options
+      - short selling
+      - discounted buying
+  - people down on nvidia, mu, sndk
+    - tax harvesting - selling losing positions to offset gains and reduce taxable income
+    - careful burying losing stocks, they could pop back up unexpectedly
