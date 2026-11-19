@@ -289,7 +289,7 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - people down on nvidia, mu, sndk
     - tax harvesting - selling losing positions to offset gains and reduce taxable income
     - careful burying losing stocks, they could pop back up unexpectedly
-  - stay away from margin
+H  - stay away from margin
     - past year - people went crazy with margin
     - margined into semiconductors
     - margin calls coming in now
@@ -337,3 +337,41 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - SOXX looking bearish, enters position
   - DIA (dow jones) aka Diamonds - down
   - q's up - next level of support down
+  - has 36 short positions
+  - trimmed because still uncertain
+  - "gold acting like biotech startup"
+  - thinks xle will be finding support soon
+
+- everything money plus
+  - amzn up 4%
+  - nvidia down - questioning realness of revenue
+  - healthcare down
+    - UHC - regulation coming after insurance
+    - healthcare very tied to regulation and policy changes
+
+  - TGT good earnings
+  - TJX tj maxx also good earnings
+
+- new bear - stealth wealth investing
+  - market crashing - how to make money
+  - should i sell b/c it will go down?
+    - trying to time the market
+  - you win when you have a plan and execute
+  - you lose when you emotionally react to stock price movements
+  - are you scared of the market falling further
+    - be excited when the market falls, and falls further
+    - focus on the cheaper prices
+  - bought high?
+    - whenever it crashes you have a chance to correct that mistake
+  - what if it is a recession
+    - everyyear there are recessions - almost always wrong
+    - 2009 - fortunes made on buys during 2009
+    - 2022 - tiny recession
+      - bought during recession - fortunes made
+    - can't predict how far it goes down, but prefer this market - opportunities arose
+    - even today have good prices to setup for future
+
+- stas talks stocks
+  - interest rates decision in december 8-9 critical
+    - .5 increase or .25 twice to counteract inflation
+
