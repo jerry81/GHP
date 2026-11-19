@@ -223,4 +223,47 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - sold MO (altria) at 72 (nicotine, parent of philip morris)
     - pays almost all profits as dividends
     - 3-4% dividend yield too low
-  -
+
+# 11/19
+- tastylive - gamma is moving the market
+
+- dividenddata - nvidia stock cheapest in 10 yrs
+  - no sign earnings slowing down
+  - first ever 100B revenue quarter
+  - strong gross margins 74%
+  - "free cash flow", 148B - most in market - todo
+    - comparison 138B appl
+    - lead to share buybacks todo
+    - "good time to buyback"
+    - not a dividend stock but just made increase in dividends
+      - new dividend is low payout ratio .64%
+      - but highest ever
+    - return to invest capital 62.9% "insanely high"
+    - all about data centers now - 92% of revenue
+    - customers AI clouds, hyperscaler clouds
+      - goog, msft, amzn, meta, oracle, spcx,
+    - neoclouds
+      - crwv
+    - dell
+      - also has a data center business
+    - competition - all havev chip programs
+      - amzn - maya
+      - openai - jalopeno
+      - anthropic
+      - msft
+      - goog (most developed one (TPUs)
+
+    - another concern, jensen's contacts around world (TSM)
+    - "tons of ai bears in stock market"
+      - set their own P/E ratio
+    - 52.11 PE ratio - "ridiculous discount right now"
+
+    - there could be "multiple compressions" - TODO
+    - right now "max fear"
+
+    - memory is their fastest growing cost
+    - "financial health is fantastic"
+
+    - biggest risk jensen creates a competitor
+      - could leverage his contacts and knowledge to start a competing AI chip company, plus brain drain
+
