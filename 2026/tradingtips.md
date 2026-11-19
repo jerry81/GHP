@@ -289,3 +289,51 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - people down on nvidia, mu, sndk
     - tax harvesting - selling losing positions to offset gains and reduce taxable income
     - careful burying losing stocks, they could pop back up unexpectedly
+  - stay away from margin
+    - past year - people went crazy with margin
+    - margined into semiconductors
+    - margin calls coming in now
+  - avoid call options
+    - stocks not coming back until everyone gives up on call options
+  - avoid leverage plays
+    - DRAM is leverage play?
+  - consider bear cases
+    - worst case scenario
+    - disaster recovery
+    - contingency plans
+  - SaaS stocks discussion
+    - sold all servicenow stock
+      - wanted to move it out to have cash
+      - doesn't like ceo "talking big game"
+      - hasn't seen numbers
+      - profitability tanking
+    - still has Salesforce
+    - money suck for anthropic
+      - anthropic will be the "ultimate saas play"
+    - sold CAKE 1222 shares
+      - went up a lot, so it's "stealing returns from future"
+        - expects stock to drawdown again
+      - bigger opportunities elsewhere
+      - needed to "start take profits"
+  - bought 1000 CELH
+  - bought 2523 sofi
+    - believes will become financial giant
+  - bought 200 wynn
+    - property in mid east coming
+    - hype incoming later
+      - to peak in 2027
+  - bought 75 axp
+  - bought 550 ntflx
+
+- tim knight
+  - results should have pushed things to high in "bull market"
+  - have not seen that so still bear?
+  - starts with SPY (spider)
+  - was wrong in thinking NVDA could rally to 170
+    - saying when things unravels "ugly truth reveals"
+    - says people there hate his children
+    - bear+bull markets "feed on themselves"
+  - bear markets cleansing effect - frauds get exposed, people get angry, lawsuits come out, regulation coming in
+  - SOXX looking bearish, enters position
+  - DIA (dow jones) aka Diamonds - down
+  - q's up - next level of support down
