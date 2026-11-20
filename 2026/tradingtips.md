@@ -375,3 +375,145 @@ H  - stay away from margin
   - interest rates decision in december 8-9 critical
     - .5 increase or .25 twice to counteract inflation
 
+- 11/20
+  - jeremy lefebvre
+    - his portfolio daily losers
+      - amd
+      - cake
+      - hnst
+      - meta
+      - celh
+      - amzn
+    - john ford on cnbc "ai trade died today"
+    - he counters, ai trade has been dead
+    - ai cycle is not dead, will continue
+    - fav movie margin call
+
+    - beware end of year tax harvester selloffs for stocks 30% or more down
+    - VIX spike to 20s - buy signal
+    - during bear times, one type of trader disassociates
+    - during bull cycles people get complacent ignore forward pe
+    - people pay attention to fpe when bear
+    - true bottom when "people don't care anymore"
+      - people stopped talking about pe ratios
+    - "Today hits different for retail Mom & pop investors finally see this market is rigged to transfer their wealth to insiders. Retirees & portfolios got wiped out while a few Anthropic insiders & employees became filthy rich. Expect a massive shift in sentiment. $ANT"
+    - sentiment shifts as you go down in the market
+      - many don't make it through
+      - people leave out of disgust
+    - 2018 and now correlation
+      - nsdq 23% down
+      - now 15%
+      - meta down 30
+      - amzn 33
+      - amd - 34
+      - aapl - 35
+      - flx - 36
+      - nvda - 55
+      - mu - 45
+
+    - so if it mirrors it will get worse
+    - if same play out
+      - bounce next week
+      - slammed in dec
+    - "something bad happening" in dec
+    - in cases of huge gains on the year
+      - 1.5M gaines
+      - tax 300k - 650k depending on factors like lt or st
+    - tax loss harvesting thus is an end of year thing
+    - nvda will be victim of tax loss harvefsting
+      - along with mu
+      - avgo
+      - intc
+      - marvell
+      - oracle
+      - goog
+      - arm
+      - qcom
+      - amat
+      - liam research
+      - ddogg
+      - intuit
+      - sndk
+      - wdc
+      - ntflx - load up in december after tax harvest
+      - spcx
+
+    - bulls will always win in end
+      - "they" - the bears
+
+    - buys
+      - 550 to 480s for amd
+      - he hates hunterbrook media
+        - illegally selling chips to china
+      - today - new SG law advanced ai chip restrictions to SG
+      - one article crahes amd 13% in 30 minutes
+      - reads cases that bebunk the article
+      - he's not concerned about short report
+        - thinks amd is  1-2k stock longterm
+      - fundamentals have changed positively
+        - compete with nvdia
+        - thinks jensen exit not priced in yet
+    - he said he would come in and buy 650K if market continues to slide
+    - BUYS!
+      - salesforce crm - 143
+      - hnst - 4.46
+      - RH - 110
+      - CELH - 30.85
+      - SOFI - 13.67
+      - NFLX - 58.305
+  - next six weeks, probably still bear
+    - tax loss harvesting
+    - fear continuing
+  - meta 2022 - under 100
+  - ntflx - still up from 2022 lows
+
+  - dividend talks - sell nows!
+    - walmart - strong sell
+    - aapl - 37 fpe
+      - rarely undervalued
+      - strong sell
+      - likes 227 price to consider buy
+    - COST - similar to aapl
+      - likes 935 price to consider buy
+      - sell
+    - pg
+      - hold
+    - ko - coca cola
+      - strong sell
+    - starbucks SBUX
+      - sell
+      - recently recovered
+    - MO - altria
+      - hold
+    - V - visa
+      - weak buy
+    - jnj - j&j
+      - rally lately
+      - strong sell
+    - ABBV - Abb Vie
+      - hold
+      - healthcare
+    - waste management - WM
+      - hold
+    - FDX - fedex
+      - sell
+    - UNP - union pacific
+      - sell
+      - railroad company
+    - CAT!
+      - buy
+      - 32% discount
+      - may rise to 832
+
+  ## til
+
+  - vix - sometimes also called fear index
+    - measures expected volatility on s&p 500 options over the next 30 days
+```
+10–15: very calm market. Often seen during long bull runs.
+15–20: normal / baseline. The long-run average is roughly 19.
+20–30: elevated. Market is nervous but not panicked.
+30–40: stressed. Earnings-season blow-ups, rate scares, geopolitical shocks.
+40+: panic. 2008 peaked at ~89; March 2020 (COVID) peaked around 82; August 2015 (China devaluation) hit ~53; August 2024 (yen carry unwind) spiked above 65 intraday. 40+ is rare and short-lived.
+```
+  - just a high correlation between high vix and mid to longer term gains i.e. 1,3,6, 12 months
