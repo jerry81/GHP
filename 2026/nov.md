@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+11/20
+- politics
+  - marco rubio possible republican candidate for 2028
+  - unusually high jobless claims
+  - war
+    - us more threats towards iran, escalation
+- biz
+  - palo alto networks signs 4.5B deal buying Ai startup applied compute
+  - nvda looks to rene haas (ARM) in search for ceo
+  - amzn fights nyc proposed bill to increase delivery prices
+    - force amzn to employ the delivery workers directly
+  - dow below 50k
+  - trillion dollar ant debut
+    - 111.50 opening
+  - cali AG: issues subpeona to nvidia in investigations
+  - cyberattacks - jpmorgan, chase, mastercard
+- culture
+  - chuck schumer, 75 health concerns? hunched walk
+- health
+  - housework considered exercise
+  - ice baths reduce muscle gain?
+
 11/19
 - politics
   - musk claims he is "not maga"
