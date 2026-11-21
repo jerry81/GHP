@@ -1,5 +1,27 @@
 [Back](./index.md)
 
+11/21
+- politics
+  - mamdami tears achilles playing soccer
+  - quakes along san adreas fault
+  - cyber director fired in DC after outages
+- biz
+  - intuit sells mailchimp at a large loss (1/3 value)
+    - bending spoons buyer
+  - tech rout intensifies
+  - nsdq down for year
+  - "stock doom loop"
+  - 4T wipeout at wallstreet - "in correction"
+  - housing prices down
+  - gta first day sales 3.79B
+  - anthropic shares tank
+  - tp link still banned from selling routers in usa
+- culture
+  - anti-ai sentiment - "we don't want to die"
+- tech
+  - pancreatic cancer pill - close to cure for cancer?
+
+
 11/20
 - politics
   - marco rubio possible republican candidate for 2028

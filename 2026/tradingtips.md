@@ -552,7 +552,18 @@ H  - stay away from margin
       - suprised by gold crashing together so far, but doesn't expect long term to mirror short term - believes more in gold than nvidia earnings
       - if staying in stocks - safe, conservative companies - dividend stocks
     - making money in fear-based market?
-      -
+  - dan niles - what changed?
+    - midterms
+    - 40 out of 41 ballot initiatives to halt data center production passed
+    - data center slowdown law
+
+  - tastylive - fade volatility like a pro
+    - fade means bet against current trend
+    - fade the rally - sell while rising
+    - fade the sell-off - buy while falling
+    - butterfly - specific to options, large in middle strike, small on high and low strikes
+    - going into holidays, volatility may drop
+    - nsa comms still down
 
   ## til
 
