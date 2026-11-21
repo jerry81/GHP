@@ -516,6 +516,44 @@ H  - stay away from margin
    - unsure about next week
    - when VIX is high, no idea what the market will do
 
+  - random headlines
+    - "08 again?"
+
+  - unrivaled investing - why market crashed
+    - moving into consumer staples
+    - tech 6% down
+    - why?
+      - jensen
+      - circular financing
+      - blue wave
+      - anti data center protests
+      - bonds and loans yield double digits
+      - deceleration in gdp growth from ai
+      - uncertainty of roi on data centers
+      - risk-off from ai as a whole
+      - snowball - worse monetary policy - rate hike dec
+      - jan another rate hike
+      - bridgewater (ray dalio hedge) - 1/3 chance of cyber attack
+    - but focus on principles
+      - obvious growth
+      - mgmt alignment
+      - fair valuation
+    - bought mercado libre
+
+  - market beat - "the ai bubble just cracked"
+    - "4B of off book loans" - sounds like subprime mortgages
+    - guest thinks currently similar to dot com bubble and subprime mortgage crisis
+    - development causing the bubble - companies moved from circularly funded (priced in already) to financed by debt
+      - forward earnings supported by debt
+    - don't always trust the analysts
+    - where do you turn?
+      - keep liquid cash ready
+      - diversify - inverse relationships when market crashes
+      - suprised by gold crashing together so far, but doesn't expect long term to mirror short term - believes more in gold than nvidia earnings
+      - if staying in stocks - safe, conservative companies - dividend stocks
+    - making money in fear-based market?
+      -
+
   ## til
 
   - vix - sometimes also called fear index
@@ -531,3 +569,5 @@ H  - stay away from margin
 
 - put call ratio can be viewed at cboe.com
 - view vix at cboe.com/vix
+
+- about crashes, half of biggest market crashes in history happen on a monday
