@@ -505,6 +505,15 @@ H  - stay away from margin
       - 32% discount
       - may rise to 832
 
+  # 11/21
+  - trading beats
+    - talking about 2018 financial crisis
+    - put/call ratio - 0.75 - very high, high was .95 - crazy panic, avg. .6
+    - also look at volatility index
+    - vix up over 20, market will lose a lot
+    - doens't think it will mirror "financial crisis"
+
+
   ## til
 
   - vix - sometimes also called fear index
@@ -517,3 +526,6 @@ H  - stay away from margin
 40+: panic. 2008 peaked at ~89; March 2020 (COVID) peaked around 82; August 2015 (China devaluation) hit ~53; August 2024 (yen carry unwind) spiked above 65 intraday. 40+ is rare and short-lived.
 ```
   - just a high correlation between high vix and mid to longer term gains i.e. 1,3,6, 12 months
+
+- put call ratio can be viewed at cboe.com
+- view vix at cboe.com/vix
