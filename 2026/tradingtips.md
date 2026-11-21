@@ -512,7 +512,9 @@ H  - stay away from margin
     - also look at volatility index
     - vix up over 20, market will lose a lot
     - doens't think it will mirror "financial crisis"
-
+   - wait for capitulation
+   - unsure about next week
+   - when VIX is high, no idea what the market will do
 
   ## til
 
