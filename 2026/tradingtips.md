@@ -580,7 +580,124 @@ H  - stay away from margin
     - "lower ballinger band" - TODO
   - invested in mag7 - amzn, goog
 
+- tim bear knight
+  - "not bullish chart" - lower lows, lower highs
+  - not expecting "blast high so quickly"
+  - fresh shorting opportunities
+  - "bear market rally" vs april huge rally
+    - he says it's a hard market to trade
+  - he is okay with 17 VIX vs 30s and 40s VIX
+    - uncomfortable shorting when vix is 30/40
+  - all about "gaps" - TODO
+    - re: nvidia "not a steve jobs situation" - jensen is not steve jobs
+
+- dividend talks - today using rankings for buy rating
+  - simply wallstreet plug
+  - pepsi - ranked C
+    - 4% dividend yield
+    - decent for income
+  - NFLX - 56.73
+    - down half from year high
+    - cash flow increased
+    - grade A
+  - CAT - 510.45
+    - 5 yr up 152%
+    - 30 day - -27.50%
+    - todo: reverse DCF?
+    - Grade B
+  - MELI
+    - year down 29%
+    - 5 year +3%
+    - grade B
+  - UNH - 339.85
+    - 5 year -22.33
+    - high debt warning
+    - defensive play
+    - depends on medical costs vs premiums
+    - Grade B
+  - ABT - abbott - healthcare 103
+    - down 5 y
+    - Grade C
+  - DASH - 161.35
+    - down on year, and 5 yr
+    - grade A
+  - AXP - 301.7
+    - 5 year up 77
+    - Dividends go up as share price falls
+    - Grade A
+  - SPGI - S&P global - the company behind the index
+    - grade B
+  - MA - 625.59
+    - expensive
+    - makes money off of transaction fees
+    - needs people spending and travelling
+    - rank: A
+  - BKNG - 144.91
+    - at 52 week low
+    - buy backs imminent
+    - rank A
+  - uber - 63.47
+    - 52 wk low
+    - rank highest
+
+- daniel pronk
+  - buy amzn
+    - shows jassy interview
+      - beleives in nvidia
+    - beginning of up front investment cycle
+    - disclosure, largest position in his portfolio, 15%
+  - buy meta
+    - happy with price (600+)
+    - interested in muse
+    - stories about how muse has been helping him with taxes, where his accountant couldn't help
+    - bought tires for his car in a pinch
+    - muse taking off, but will be margin drag for a while
+    - meta gaining ad dollars vs amzn and google
+      - about to overtake goog
+  - buy mercado
+    - been averaging down for 2 years from 1800
+    - brazillian real falling
+    - exponential growth
+    - best revenue growth chart he's ever seen
+    - 40B revenue
+    - "other" countries revenue up
+    - 11/16 biggest sales day in history
+    - digitizing mexican economy
+    - same price as back in 11/2020
+      - but has grown immensely since that time
+
+  - market signal
+    - bearish perdiction from jim handy - within 2 quarters margins may drop to 0
+    - one of sharpest single day reversal in history
+    - biggest gain in 23 years for nvidia
+    - entire ai infra stack grew today
+    - goldman sachs - slashed target prices for samsung and sk hynix  by 40%
+      - but still "buy" recommendation from GS
+      - not bearish call, but repricing
+      - memory prices expected to come down, but demand still high
+      - concerned about memory price drop in 2028
+      - fab capacity increasing
+      - china also competing
+    - capital rushed back from institutions and individuals
+    - "jensen is nvidia"
+    - chariman walked back on previous statement "we are not reinstating"
+      - too much pressure from shareholders
+      - and employees
+    - colette returning to cfo seat
+    - good sign for memory sector to have him back
+
+    - suggestion
+      - don't chase green candles
+      - repsect friday's floor
+      - let gaps settle
+      - size memory carefully relative to "memory cycles"
+    - events
+      - micron buyback window opens  12/9
+      - jenson 12/1 congressional hearing
+
   ## til
+
+  - buffet bought millions of axp while it was falling, but missed the bottom by 30%
 
   - vix - sometimes also called fear index
     - measures expected volatility on s&p 500 options over the next 30 days
