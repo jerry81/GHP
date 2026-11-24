@@ -1,5 +1,62 @@
 [Back](./index.md)
 
+11/24
+- biz
+  - at&t replacing copper landlines with fiber optic
+  - toyota, nissan, honda agree to standardize parts - lower costs
+  - sf floods seeing waymo cards stalled
+  - aptera solar EV first ale
+  - jensen back
+    - stock soars 31%
+    - don "made a deal"
+    - accounting probe dropped
+    - greeted at work with explosive applause
+    - "will be a better ceo"
+    - nyt report: Alice huang in touch with chinese spy agency during affair
+    - SEC investigating accounting practice (saturday, since dropped)
+    - BTC dropped to 56K
+  - CN looking for NVDIA chips for AI weapons
+  - musk sued - sex deepfakes
+    - india not embracing starlink?
+  - goog nest to be retired next year
+  - claude ship - review, fix and approve code
+  - crowdstrike buys zscaler 44B deal
+  - YC startup: gets 500K for ai guided missle - pitch: "bring down cost per kill"
+    - history: YC incubated doordash, airbnb, stripe, reddit
+  - anthropic still predicts superintelligent AI, but still "safety concious"
+  - grapheneOS vs goog lawsuit brewing - kneecapping android partners by using pixel exclusives
+  - sunday: "have investors lost faith in AI boom"
+    - lasted a year
+    - unraveled last week
+    - mian ingredient: faith
+```
+Ed Zitron and others have been explaining this for over a year: AI isn't profitable, and the $1 Trillion in infrastructure isn't paying off. Nvidia is a s--t show of circular financing that propped up dozens of hyperscalers and the big two AI companies.
+
+The only reason Anthropic went public was to dump their unprofitable company on retail investors and give VCs their bag before the music stops.
+
+So yeah, the bubble is bursting and one too soon.
+```
+- politics
+  - businesses now allowed to round cash transctions to nearest nickel (post-penny world)
+  - US shipping ports face "1000s" of cyberattacks every day
+  - germany warning: RU will put nuke in space
+  - abdul el sayed to push for universal healthcare
+  - dem debates to come in june
+  - Benz self-driving edge over tesla in EU
+  - holiday traveler congestion
+  - SF flood risk
+  - us intelligence chief jay clayton: expect more tech outages - "systems undergoing upgrades"
+- culture
+  - sf superbowl run - purdy mvp
+  - microdose psychadelics improve decision making?
+  - singer gets 74 lashes for singing without hijab
+  - spielberg western debut
+  - artificial - docu - "prophecy of cult chatgpt"
+- tech
+  - Quantum computing - first payoff may be energy solutions
+    - keeping grid up
+    - finding better materials for solar and hydrogen production
+
 11/21
 - politics
   - mamdami tears achilles playing soccer

@@ -565,6 +565,21 @@ H  - stay away from margin
     - going into holidays, volatility may drop
     - nsa comms still down
 
+## 11/24
+- options with ryan
+  - VXN cash guide - TODO vix vs vxn?
+  - >35 - cash all in 0-5%
+  - 30-35 - 5-10% cash
+  - 25-30 - 10-20
+  - 19-25 20-30
+  - 15-19 30-40
+  - 15 - 40-50
+
+  - added new stock - wheaton precious metals
+    - "streaming company" - TODO
+    - "lower ballinger band" - TODO
+  - invested in mag7 - amzn, goog
+
   ## til
 
   - vix - sometimes also called fear index
