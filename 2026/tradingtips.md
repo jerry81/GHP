@@ -695,6 +695,103 @@ H  - stay away from margin
       - micron buyback window opens  12/9
       - jenson 12/1 congressional hearing
 
+  ## 11/25
+  - goldman starch
+    - gold down, dollar down
+    - short sellers allowed to short ANT
+    - gold high 5500, 33% down now
+    - usually, when gold drops, or 10 year yeilds down, gold goes up, but not this time
+      - todo: 10 year yield
+    - before buying gold, wants to see retest holding at 350
+      - next box down 3100 - 3500
+    - gold fell while miners held up
+      - miners (gdx) - TODO
+    - junior miners - riskier and move more
+
+    - ANT
+      - inverse ETFs came out
+        - TODO: can the inverse etf affect the stock price?
+      - buyers came in at 75
+        - closed 6+ off low
+      - weekly close under 75 means spacex path keeps going
+
+    - stock market/qqq
+      - 7% limit up before open on jensen news
+      - qqq under 200 day moving average (683)
+      - if >690 on weekly close
+        - bounce back to recovery
+      - < 634
+        - just a bounce
+      - thin volume with holidays = bigger moves
+      - todo: GANN box
+
+  - jeremy lefebvre
+    - soxl, muu, snxx, crwv, iren, sndk, mu, nbis, mrvl, amd, be, nvda, spcx all down for him
+    - 89k down out of a 4.5M account
+    - crm (salesforce), nke, el, hnst, nflx, pltr, axp, elf up for him
+    - backed off semiconductor after the huge first half of year rally
+      - those who bought summer are down big
+    - he started in a crash 08, got worse in 09 before it got better
+    - day before thxgiving historically good
+      - if red, then bad omen
+      - especially after down day
+      - wall streeters gone this week, back next mon or tues
+    - this year correlating with 2022
+      - 2022 - 3 bad weeks december
+      - tax loss harvesting
+      - more reasons december sucks
+        - earnings reports already out
+        - not much news coming out of businesses
+        - best news (jensen) behind us
+      - nvidia fell 55% in 2022
+      - aapl got hammered
+
+    - he has 500K liquidity
+
+     - buy at bargain
+       - amd
+         - 375 would be great price
+         - he is already very much in AMD
+         - bought at 109, 91, 94
+       - RH
+         - under 100 good buy
+         - bankruptcy risk if recession
+      - celh
+        - 28 great price, 30 good
+      - sofi
+        - under 15 great price
+      - ntflx
+        - under 60 great price
+        - heavily owned by wall street
+        - tax loss harvesting candidate
+        - may see 49-55
+      - axp
+        - under 300 great price
+        - under 330 buy
+
+      - flaw in fpe and bpe
+        - fpe - may change
+        - bpe - past not reflective of future
+        - perception beats pe ratios in short term
+
+     - tom lee
+       - on the last few weeks
+       - perception is 90% of the market
+         - risks
+           - fed policy error
+           - december hike 100% happening
+           - conviction of AI trade unraveling
+           - tech has diverged from fundamentals
+
+     - on finding the bottom
+       - not at bottom yet
+       - too much optimism
+       - too much "buy the dip"
+       - when wall streeters negative - good time to buy
+       - need more pain
+       - cnbc still too optimistic
+
+
   ## til
 
   - buffet bought millions of axp while it was falling, but missed the bottom by 30%
