@@ -844,6 +844,18 @@ H  - stay away from margin
       - investing seperate from buying
 
   - stocked up
+    - SPY - lower off of trend line
+    - 2 wks below trend line - bad sign
+    - fed focused on lowering infltion
+    - half day friday
+    - closed thxgiving
+    - 3.5 T tesla/spacex in the works
+    - starlink in vehicles
+
+    - predictions
+    - ttwo - to upside
+    - POWW - higher risk/high reward - firearms
+
 
   ## til
 
