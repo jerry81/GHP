@@ -1,5 +1,34 @@
 [Back](./index.md)
 
+11/25
+- politics
+  - dems investigating companies w/ ties to don jr
+  - trump memecoin $trump gala
+  - o'hare thanksgiving flight chaos
+  - war
+    - israel defense minister: iran developing chemical weapons
+  - US blacklists megaspeed
+- biz
+  - nvidia back down
+    - jensen in therapy
+    - congress still probing
+    - trump rescuing ceo will "blow up in his face"
+  - anthropic below ipo
+  - "white house bubble trouble"
+  - India not embracing starlink
+    - musk accused modi of having ties with oligarch mukesh ambani
+    - chairman reliance industries
+      - owns jio - plans to enter space race - low earth orbit satellites
+    - offended gov
+  - Check point (israeli) servers hacked
+  - msft declares "code red"
+    - response to 24 hour outage on 11/12-13
+    - overhaul engineering and crisis response practices
+  - kagi - goog mail and search alternative
+    - orion browser
+- culture
+  - pope francis diary: encounter with devil
+
 11/24
 - biz
   - at&t replacing copper landlines with fiber optic
