@@ -231,9 +231,9 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
   - no sign earnings slowing down
   - first ever 100B revenue quarter
   - strong gross margins 74%
-  - "free cash flow", 148B - most in market - todo
+  - "free cash flow", 148B - most in market
     - comparison 138B appl
-    - lead to share buybacks todo
+    - lead to share buybacks
     - "good time to buyback"
     - not a dividend stock but just made increase in dividends
       - new dividend is low payout ratio .64%
@@ -258,7 +258,7 @@ After-hours (4:00 PM – 8:00 PM ET) → 5:00 AM – 9:00 AM China time, next da
       - set their own P/E ratio
     - 52.11 PE ratio - "ridiculous discount right now"
 
-    - there could be "multiple compressions" - TODO
+    - there could be "multiple compressions"
     - right now "max fear"
 
     - memory is their fastest growing cost
@@ -567,7 +567,9 @@ H  - stay away from margin
 
 ## 11/24
 - options with ryan
-  - VXN cash guide - TODO vix vs vxn?
+  - VXN cash guide - vix vs vxn?
+    - VXN - cboe nasdaq 100 volatiility index
+    - VIX - cboe volatility index (S&P 500)
   - >35 - cash all in 0-5%
   - 30-35 - 5-10% cash
   - 25-30 - 10-20
@@ -576,8 +578,10 @@ H  - stay away from margin
   - 15 - 40-50
 
   - added new stock - wheaton precious metals
-    - "streaming company" - TODO
-    - "lower ballinger band" - TODO
+    - "streaming company" - (in mining) doesn't do mining - financing company for mining industry
+      - pays mining companies - gets a share of the mined metals
+    - "lower ballinger band" - lower of 3 lines - 3 standard deviations below 20 period moving avg
+      - statistically lower proce
   - invested in mag7 - amzn, goog
 
 - tim bear knight
@@ -588,7 +592,8 @@ H  - stay away from margin
     - he says it's a hard market to trade
   - he is okay with 17 VIX vs 30s and 40s VIX
     - uncomfortable shorting when vix is 30/40
-  - all about "gaps" - TODO
+  - all about "gaps" - space on price chart where no trading occured between two levels, opening and closing price difference - gap up or gap down
+    - gaps tend to fill
     - re: nvidia "not a steve jobs situation" - jensen is not steve jobs
 
 - dividend talks - today using rankings for buy rating
@@ -603,7 +608,7 @@ H  - stay away from margin
   - CAT - 510.45
     - 5 yr up 152%
     - 30 day - -27.50%
-    - todo: reverse DCF?
+    - reverse DCF?
     - Grade B
   - MELI
     - year down 29%
@@ -701,16 +706,28 @@ H  - stay away from margin
     - short sellers allowed to short ANT
     - gold high 5500, 33% down now
     - usually, when gold drops, or 10 year yeilds down, gold goes up, but not this time
-      - todo: 10 year yield
+      - 10 year treasury yield - debt security issued by us gov
+        - t-bill - 4 wks to 52 wk
+        - t-note - 2,3,5,7,10 yrs
+        - t-bonds - 20-30 yr
     - before buying gold, wants to see retest holding at 350
       - next box down 3100 - 3500
     - gold fell while miners held up
-      - miners (gdx) - TODO
+      - miners (gdx) - gold mining ETF, tracks performance of major gold mining companies
     - junior miners - riskier and move more
 
     - ANT
       - inverse ETFs came out
-        - TODO: can the inverse etf affect the stock price?
+        - can the inverse etf affect the stock price?
+          - yes by more supply hitting the order book
+          - IETF doesn't actually short but holds swaps and futures contracts with large counterparties
+            - etf pays fee, counterparty pays based on inverse return
+          - why short sell over IETF
+            - no volatility decay
+            - IETF rebalances daily
+          - single stock LETFs started in 2022
+            - 2x tesla 1.5 NVDA inverse, etc
+          - basically moves real time with stock
       - buyers came in at 75
         - closed 6+ off low
       - weekly close under 75 means spacex path keeps going
@@ -723,7 +740,11 @@ H  - stay away from margin
       - < 634
         - just a bounce
       - thin volume with holidays = bigger moves
-      - todo: GANN box
+      - GANN box
+        - william gann - 1900s trader and market theorist
+        - rect drawn on price chart between low and high
+        - 45 degree line 1/1 price/time is the main trendline
+        - watch fibonnaci lines like 50, 62.5, 38.2
 
   - jeremy lefebvre
     - soxl, muu, snxx, crwv, iren, sndk, mu, nbis, mrvl, amd, be, nvda, spcx all down for him
@@ -792,8 +813,6 @@ H  - stay away from margin
        - cnbc still too optimistic
 
   - dividend talks
-    - shares outstanding - TODO
-      - todo: intrinsic vs market value
     - nvda added 952B market value in one day - largest in history
     - the way jensen came back left bad taste
     - ives: jensen wroth 1T to nvda
@@ -876,3 +895,39 @@ H  - stay away from margin
 - view vix at cboe.com/vix
 
 - about crashes, half of biggest market crashes in history happen on a monday
+
+- market value - price of stock
+- market cap - total market value of whole company's equity - share price * shares outstanding
+- intrinsic value - estimate of actual worth based on fundamentals
+  - intrinsic - market -> margin of safety
+  - just an estimate
+- shares outstanding - shares issued by company
+- free cash flow fcf - cash biz generates in period after paying operating and investments
+- buyback - company buys its own stock
+  - then retires or holds shares
+    - retire - can cancel share permanently
+  - shares outstanding decreases, value per share increases
+  - constraints
+    - one broker per day
+    - time of day limit - not first or last 10 mins of trading
+    - price limit, upper - prevent pushing price up
+    - vol limit 25%
+  - incentives for company
+    - return cash to shareholders (tax efficient)
+    - capital allocation - no better use for cash
+    - thinks shares undervalued
+
+- compression - volatility compression - stock trading range narrows
+  - often precedes expansion
+  - implies indecision
+  - setup for breakouts
+
+  - also multiple compression - stock valuation multiple shrink
+    - e.g. p/e 20.  earning stay put $5, stock falls from 100 to 75 -> p/e 15
+    - can happen due to higher interest rates
+      - reduced growth expectations
+      - re-rating
+
+- reverse DCF
+  - discounted cash flow - assumption about future cash flows and discount rates
+  - reverse dcf - start with current mkt price and work backwards
