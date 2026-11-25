@@ -791,6 +791,59 @@ H  - stay away from margin
        - need more pain
        - cnbc still too optimistic
 
+  - dividend talks
+    - shares outstanding - TODO
+      - todo: intrinsic vs market value
+    - nvda added 952B market value in one day - largest in history
+    - the way jensen came back left bad taste
+    - ives: jensen wroth 1T to nvda
+    - nvda board chair: harvey jones
+    - vera rubin fastest product ramp in history - 20B revenue so far
+    - most of revenue from data centers
+    - historical high bars setup for letdown
+    - expenses: operations(9.2), r&d (7.5B), tax(13.7) sales 1.7, net profit 65B
+    - jpmorgan cut meta target in 2027
+      - morgan stanley also
+    - cramer: should nvda be at 215?
+      - no - he tagets 199 +21%
+    - with jensen back he adds $65 to his target
+
+  - marketbeat
+    - hedge funds and traders love the volatility
+    - fundamental traders - try to ignore the day-to-day
+    - earnings growing - undeniable
+    - time to be buying overall
+    - nasdaq in its history had ten 10% corrections
+    - jensen overblown
+    - anthropic came out larger than expected
+      - must spend extra money on infra
+      - PBC - public benefit corporation - could move money from shareholders to charity at any time
+      - expert: would not touch anthropic
+    - 2 buys
+      - FIX - cooling, air conditioning
+        - comfort systems
+        - low on 52 week
+        - down from 2000+ in june
+      - MTZ - electrical
+        - mastec
+        - down for the year
+    - "unemotional trader is a great one"
+      - patience
+      - focus on fundamentals
+      - corrections will come
+    - market no longer trading on fundamentals?
+      - 50% is industry - industry crashes together
+    - 1 sell
+      - QUBT - quantumn computing inc
+      - circular financing
+      - chooses bad auditors
+        - not deloitte, not pwc
+
+    - case for ai "circular financing"
+      - clients have been investing in suppliers for a long time
+      - investing seperate from buying
+
+  - stocked up
 
   ## til
 
