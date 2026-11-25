@@ -7,8 +7,14 @@
   - o'hare thanksgiving flight chaos
   - war
     - israel defense minister: iran developing chemical weapons
+    - UKR hits RU ship in gulf of finland
   - US blacklists megaspeed
+  - shanghai leader Chen jining investigated for corruption
+  - china launch shenzhou-24 - first pakistani to space, destination tiangong
 - biz
+  - huawei 2018 case concludes - guilty on 10 of 12 counts
+    - huawei to appeal
+    - bank fraud, wire fraud, sanction violation, conspiring to steal trade secrets
   - nvidia back down
     - jensen in therapy
     - congress still probing
