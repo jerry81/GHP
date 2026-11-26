@@ -931,3 +931,6 @@ H  - stay away from margin
 - reverse DCF
   - discounted cash flow - assumption about future cash flows and discount rates
   - reverse dcf - start with current mkt price and work backwards
+
+- "hedges die, shorts get stopped, spooz are ripped, upside is chased"
+  - spooz - s&p 500 futures contract
