@@ -1,5 +1,47 @@
 [Back](./index.md)
 
+11/26
+- politics
+  - carli bruni (sarkozy) faces trial
+    - witness tampering over husband's corruption case
+  - life in gaza - vibrant?
+    - body building contests, new restaurants
+  - army testing toxic materials in iowa
+    - locals not happy
+  - ibuprofen contaiminated - recalls
+  - climate change watch - another record broken - 2C above preindustrial levels six consecutive days
+  - alleged chinese agents trying to dupe americans with fake linkedin posts
+    - china denies
+- biz
+  - waymo recall: 11 incidents of robotaxis entering closed freeway lanes
+  - amzn drone crashes into garage  after delivering shampoo - FAA probes
+  - goog plans 24/7 AI TV channel where you are main character
+  - openai case
+    - saudi national - accused of putting listening bug in openAI conference room
+      - 1M bail
+  - anthropic and openai employees both fear models too unsafe to ever release
+  - ai crash?
+    - debt worries
+    - worse than dot-com
+    - inflation up
+    - parallels between enron and nvidia seen
+    - startup with relations to don jr could get 15B loan from pentagon
+  - anthropic's founders cashing out?
+    - dario and sister sold 280M each
+    - 7 founders in total sold 1.96B
+    - legally allowed to sell up to 29%
+  - 1password leaks names and emails, passwords still safe
+  - jensen claims nvda "doesn't need succession plan"
+- culture
+  - new supermodel on the block, karlie kloss
+    - 34, american, 6'2" (188cm), dated josh kushner
+  - pyramids of giza explosion - 30 dead
+    - petrol tanker
+  - holly wood more antisemitic?
+    - mark ruffalo antisemitic remarks
+      - criticised israel when speaking against chuck schumer
+    - bowen yang
+      - "zio" - antisemitic slur coined by david duke (kkk grand wizard)
 11/25
 - politics
   - dems investigating companies w/ ties to don jr
