@@ -1,5 +1,21 @@
 [Back](./index.md)
 
+11/27
+- biz
+  - more nvidia dirt
+    - cenly chen/jay puri
+      - former exec
+  - spacex gets approval to deploy 1M satellites
+  - carl ichann loses 93% of fortune
+    - 24B to 1.5B - 5 yr period
+  - cloudflare downtime due to black friday traffic
+  - banks dumping AI debt
+- politics
+- culture
+  - s korean stock market show anchor cries on live tv after drop
+  - monkeys taking over taj mahal
+  - depardeiu rape trial
+
 11/26
 - politics
   - carli bruni (sarkozy) faces trial
