@@ -5,16 +5,22 @@
   - more nvidia dirt
     - cenly chen/jay puri
       - former exec
+    - s&p possibly to reduce rating from AA to A, "board comprimised"
+  - ANT honeypotting agents to misbehave in security test - mythos and fable fail
   - spacex gets approval to deploy 1M satellites
   - carl ichann loses 93% of fortune
     - 24B to 1.5B - 5 yr period
   - cloudflare downtime due to black friday traffic
   - banks dumping AI debt
 - politics
+  - NYC bans ai toys for 5 years
+    - give time to research effects
 - culture
   - s korean stock market show anchor cries on live tv after drop
   - monkeys taking over taj mahal
   - depardeiu rape trial
+- tech
+  - first gravitational message sent through a brick wall
 
 11/26
 - politics
