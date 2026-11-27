@@ -912,6 +912,29 @@ H  - stay away from margin
   - mu
     - buy
 
+## 11/27
+- marketbeat - 3 cheap stocks
+  - not absolute price, just p/e ratio
+  - 20x PE is average in S&P 500
+  - "pay a premium" for a stock means buying it at a higher P/E than average
+  - SFD - smithfield foods - hot dogs
+    - 6.5% dividend
+    - down for year 15%
+    - packages food (making 1B) - making money
+    - pork business - losing money right now
+      - commodity market dependent
+    - dividend should be safe through cycles
+  - MCK - mcCormick
+    - less volatile stock
+    - down 30% this year
+    - dividend aristocrat
+      - keeps increasing dividend
+  - SENEA - seneca foods
+    - p/e 10 (cheap)
+    - no dividend
+    - 60% up on year but not at target yet
+
+
   ## til
 
   - buffet bought millions of axp while it was falling, but missed the bottom by 30%
@@ -970,3 +993,10 @@ H  - stay away from margin
 
 - "hedges die, shorts get stopped, spooz are ripped, upside is chased"
   - spooz - s&p 500 futures contract
+
+- coreweave has bonds
+  - corporate bond - debt security issued by a corporation to raise capital, pays interest to bondholders
+  - retail cant buy bonds, only institutional investors
+  - coreweave revenue will come 3-5 years later after huge capital spending
+  - total debt: $12-15B heading into 2026
+  - below BBB is "junk bond"
