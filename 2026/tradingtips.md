@@ -875,6 +875,42 @@ H  - stay away from margin
     - ttwo - to upside
     - POWW - higher risk/high reward - firearms
 
+## 11/26
+
+- bears on tastylive
+  - gov helping stock market
+  - will help more
+  - soverign wealth fund will be dipping into social security
+  - bears like the bounce (day before thanksgiving)
+    - as opposed to closing on low
+  - alice not a spy news turned market today
+
+- dividend talks
+  - anthropic analysis
+    - risk - LLM has no moats
+      - price war coming
+    - currently unprofitable
+    - hold
+  - alphabet - 264
+    - could growing quickly
+    - buy
+  - nvidia strong buy
+  - broadcom
+    - strong buy
+  - tsm
+    - buy
+  - amd
+    - hold
+  - amat
+    - hold
+  - klac - inspection
+    - hold
+  - asml
+    - buy
+  - lrcx
+    - strong buy
+  - mu
+    - buy
 
   ## til
 
